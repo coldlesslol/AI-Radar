@@ -1,0 +1,127 @@
+{
+  "key": "github_trending",
+  "title": "GitHub Trending AI",
+  "freq": "daily",
+  "updated": "2026-07-01T00:46:08+08:00",
+  "url": "https://github.com/trending?since=daily",
+  "total_trending": 18,
+  "items": [
+    {
+      "full_name": "usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 27870,
+      "stars_today": 395,
+      "url": "https://github.com/usestrix/strix",
+      "rank": 1
+    },
+    {
+      "full_name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 120434,
+      "stars_today": 1793,
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "rank": 2
+    },
+    {
+      "full_name": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "language": "TypeScript",
+      "stars": 8289,
+      "stars_today": 459,
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "rank": 3
+    },
+    {
+      "full_name": "browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 12427,
+      "stars_today": 722,
+      "url": "https://github.com/browser-use/video-use",
+      "rank": 4
+    },
+    {
+      "full_name": "xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars": 7397,
+      "stars_today": 966,
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "rank": 5
+    },
+    {
+      "full_name": "google/agents-cli",
+      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+      "language": "Python",
+      "stars": 3984,
+      "stars_today": 433,
+      "url": "https://github.com/google/agents-cli",
+      "rank": 6
+    },
+    {
+      "full_name": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": 45808,
+      "stars_today": 336,
+      "url": "https://github.com/roboflow/supervision",
+      "rank": 7
+    },
+    {
+      "full_name": "ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars": 8847,
+      "stars_today": 485,
+      "url": "https://github.com/ogulcancelik/herdr",
+      "rank": 8
+    },
+    {
+      "full_name": "microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars": 49086,
+      "stars_today": 180,
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "rank": 9
+    },
+    {
+      "full_name": "facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 1583,
+      "stars_today": 399,
+      "url": "https://github.com/facebook/astryx",
+      "rank": 10
+    },
+    {
+      "full_name": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 15635,
+      "stars_today": 719,
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "rank": 11
+    },
+    {
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 242268,
+      "stars_today": 884,
+      "url": "https://github.com/obra/superpowers",
+      "rank": 12
+    },
+    {
+      "full_name": "Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars": 8756,
+      "stars_today": 210,
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "rank": 13
+    }
+  ]
+}

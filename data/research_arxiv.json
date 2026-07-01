@@ -1,0 +1,187 @@
+{
+  "source": "arXiv AI",
+  "layer": "research",
+  "updated": "2026-07-01T01:10:26+08:00",
+  "items": [
+    {
+      "title": "Recursive Self-Evolving Agents via Held-Out Selection",
+      "url": "https://arxiv.org/abs/2606.28374",
+      "summary": "arXiv:2606.28374v1 Announce Type: new Abstract: LLM agents are increasingly improved without weight updates by evolving a natural-language artifact, such as reflections, workflows, playbooks, cheatshe",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "Data and Evaluation Closed-Loop for Model Capability Enhancement",
+      "url": "https://arxiv.org/abs/2606.28471",
+      "summary": "arXiv:2606.28471v1 Announce Type: new Abstract: Model capability is the central variable in LLM pre-training, yet is never observed directly: data shapes it prospectively, while evaluation reveals it ",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
+      "url": "https://arxiv.org/abs/2606.28514",
+      "summary": "arXiv:2606.28514v1 Announce Type: new Abstract: Multimodal models are increasingly deployed to solve tasks collaboratively with humans or other artificial agents. Existing benchmarks show that these m",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
+      "url": "https://arxiv.org/abs/2606.28556",
+      "summary": "arXiv:2606.28556v1 Announce Type: new Abstract: Recent advances in large language models and vision-language models have enabled reasoning over multimodal data, offering opportunities for clinical app",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
+      "url": "https://arxiv.org/abs/2606.28589",
+      "summary": "arXiv:2606.28589v1 Announce Type: new Abstract: Current approaches to enhance Large Language Model (LLM) reasoning, such as Chain-of-Thought and \"Wait\" prompts, primarily encourage models to think mor",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "Aristotelian Virtue Profiling of LLMs through Ethical Dilemmas",
+      "url": "https://arxiv.org/abs/2606.28683",
+      "summary": "arXiv:2606.28683v1 Announce Type: new Abstract: Large Language Models (LLMs) often face ethical tradeoffs in which several responses may be defensible but express different priorities, such as fairnes",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "An AI agent for treatment reasoning over a biomedical tool universe",
+      "url": "https://arxiv.org/abs/2606.28692",
+      "summary": "arXiv:2606.28692v1 Announce Type: new Abstract: Treatment reasoning underpins every therapeutic decision, integrating disease context, comorbidities, medications, contraindications, and evolving biome",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "COMPASS: Grounding Composition-Intent Guidance in Unified Multimodal Models",
+      "url": "https://arxiv.org/abs/2606.28696",
+      "summary": "arXiv:2606.28696v1 Announce Type: new Abstract: Composition is a high-level visual intent that governs where subjects are placed and how a scene is organized, yet current unified multimodal models rem",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "BV-Blend: Uncertainty-Weighted Historical Baselines for Stable Critic-Free RL with Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2606.28707",
+      "summary": "arXiv:2606.28707v1 Announce Type: new Abstract: Critic-free reinforcement learning with verifiable rewards (RLVR), exemplified by Group Relative Policy Optimization (GRPO), avoids training a value fun",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "The Two Genie Game: Adoption and Welfare in Audit-Grounded AI Governance",
+      "url": "https://arxiv.org/abs/2606.28710",
+      "summary": "arXiv:2606.28710v1 Announce Type: new Abstract: We ask under what conditions an agent with a harm-minimizing policy can displace an approval-seeking (RLHF) agent in a competitive market, and when that",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "TrajRS: Towards Certified Robustness in Pedestrian Trajectory Prediction",
+      "url": "https://arxiv.org/abs/2606.28716",
+      "summary": "arXiv:2606.28716v1 Announce Type: new Abstract: The robustness of trajectory prediction models is crucial for developing safe autonomous driving systems. Adversarial attacks on trajectory prediction c",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "ComMem: Complementary Memory Systems for Test-Time Adaptation of Vision-Language Models",
+      "url": "https://arxiv.org/abs/2606.28719",
+      "summary": "arXiv:2606.28719v1 Announce Type: new Abstract: Test-time adaptation (TTA) of vision-language models (VLMs) is essential for their robust deployment in dynamic, real-world environments. However, exist",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?",
+      "url": "https://arxiv.org/abs/2606.28733",
+      "summary": "arXiv:2606.28733v1 Announce Type: new Abstract: LLM agents are expected to act over multiple turns, using search, browsing interfaces, and terminal tools to complete user goals. Yet not every goal is ",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "Agent Safety Is Action Alignment",
+      "url": "https://arxiv.org/abs/2606.28739",
+      "summary": "arXiv:2606.28739v1 Announce Type: new Abstract: Large language models increasingly act as agents: they call tools, move money, delete records, and send messages on a user's behalf. To keep them safe, ",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "Self-Supervised Theorem Discovery in a Formal Axiomatic System",
+      "url": "https://arxiv.org/abs/2606.28747",
+      "summary": "arXiv:2606.28747v1 Announce Type: new Abstract: Recent artificial intelligence (AI) systems have shown remarkable progress in mathematical reasoning. Many existing approaches, including large language",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "Mechanistic Personality Analysis of LLMs Steering Personality via Latent Feature Interventions",
+      "url": "https://arxiv.org/abs/2606.28770",
+      "summary": "arXiv:2606.28770v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated the ability to simulate human-like OCEAN personality traits in generated text. Previous efforts have focu",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "HyphaeDB: A Living Knowledge Topology for Agent-First Memory",
+      "url": "https://arxiv.org/abs/2606.28781",
+      "summary": "arXiv:2606.28781v1 Announce Type: new Abstract: Every existing vector database and agent memory framework treats memory as passive storage that agents query explicitly. No system propagates knowledge ",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "Primary ICD Category Prediction using LLM-based Probing",
+      "url": "https://arxiv.org/abs/2606.28798",
+      "summary": "arXiv:2606.28798v1 Announce Type: new Abstract: Objective: ICD codes are central to reimbursement, research, and population health surveillance, yet automated coding systems often struggle to integrat",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "MedEvoEval: Evaluating Continual Evolution of Doctor Agents through Simulated Clinical Episodes",
+      "url": "https://arxiv.org/abs/2606.28900",
+      "summary": "arXiv:2606.28900v1 Announce Type: new Abstract: Doctor agents are moving beyond single-turn answer generation toward evolving clinical decision systems. Within an outpatient episode, they acquire evid",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    },
+    {
+      "title": "Expert Evaluation of Clinical AI Tools on Real Point-of-Care Clinical Queries",
+      "url": "https://arxiv.org/abs/2606.28960",
+      "summary": "arXiv:2606.28960v1 Announce Type: new Abstract: Physicians now pose millions of clinical questions to AI tools each week, yet these tools are evaluated largely on hypothetical or exam-style questions,",
+      "source": "arXiv AI",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-06-30T04:00:00+00:00"
+    }
+  ]
+}

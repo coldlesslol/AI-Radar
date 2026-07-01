@@ -1,0 +1,7 @@
+# 密钥/代理配置——绝不入 git
+.env
+
+# venv 与缓存
+.venv/
+__pycache__/
+*.pyc

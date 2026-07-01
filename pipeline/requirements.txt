@@ -1,0 +1,11 @@
+# TechRadar 数据管道依赖
+# 策略：不锁死小版本，让 pip 自动挑适配 Python 3.14 的最新兼容版（方案①）
+feedparser        # RSS/Atom 解析（Techmeme / 量子位 / HN / arXiv）
+requests          # HTTP 请求
+yfinance          # 股票数据（价格 + 历史）
+beautifulsoup4    # HTML 解析（无 API 的站点抓取）
+lxml              # bs4/feedparser 的底层解析引擎（更快）
+python-dateutil   # 时间解析/格式化
+tenacity          # 失败自动重试（指数退避）
+python-dotenv     # 读 .env 里的密钥/代理配置
+anthropic         # Claude API（pull_score.py 打分+摘要）

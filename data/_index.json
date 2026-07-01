@@ -1,0 +1,58 @@
+{
+  "updated": "2026-07-01T01:25:52+08:00",
+  "files": {
+    "rankings_openrouter": "rankings_openrouter.json",
+    "news_techmeme": "news_techmeme.json",
+    "news_qbitai": "news_qbitai.json",
+    "community_hn": "community_hn.json",
+    "stocks": "stocks.json",
+    "digest": "digest.json",
+    "huggingface_trending": "huggingface_trending.json",
+    "github_trending": "github_trending.json",
+    "news_jiqizhixin": "news_jiqizhixin.json",
+    "news_36kr": "news_36kr.json",
+    "news_leiphone": "news_leiphone.json",
+    "news_venturebeat": "news_venturebeat.json",
+    "news_verge_ai": "news_verge_ai.json",
+    "community_reddit": "community_reddit.json",
+    "news_tldr_ai": "news_tldr_ai.json",
+    "news_import_ai": "news_import_ai.json",
+    "news_latent": "news_latent.json",
+    "news_semianalysis": "news_semianalysis.json",
+    "news_producthunt": "news_producthunt.json",
+    "research_arxiv": "research_arxiv.json"
+  },
+  "stats": {
+    "total_items": 491,
+    "last_run_status": "ok",
+    "errors": [
+      {
+        "file": "rankings_openrouter",
+        "error": "'window'",
+        "at": "2026-06-30T22:33:20+08:00"
+      }
+    ],
+    "per_file": {
+      "rankings_openrouter": 15,
+      "news_techmeme": 15,
+      "news_qbitai": 10,
+      "community_hn": 20,
+      "stocks": 12,
+      "digest": 214,
+      "huggingface_trending": 15,
+      "github_trending": 13,
+      "news_jiqizhixin": 0,
+      "news_36kr": 30,
+      "news_leiphone": 20,
+      "news_venturebeat": 7,
+      "news_verge_ai": 10,
+      "community_reddit": 20,
+      "news_tldr_ai": 20,
+      "news_import_ai": 10,
+      "news_latent": 10,
+      "news_semianalysis": 10,
+      "news_producthunt": 20,
+      "research_arxiv": 20
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "key": "openrouter",
+  "title": "OpenRouter 模型使用榜（按 token 用量）",
+  "freq": "daily",
+  "updated": "2026-06-29",
+  "url": "https://openrouter.ai/rankings",
+  "items": [
+    {
+      "rank": 1,
+      "name": "Deepseek: Deepseek V4 Flash",
+      "value": "4720.9B"
+    },
+    {
+      "rank": 2,
+      "name": "Xiaomi: Mimo V2.5",
+      "value": "4380.2B"
+    },
+    {
+      "rank": 3,
+      "name": "Minimax: Minimax M3",
+      "value": "3678.7B"
+    },
+    {
+      "rank": 4,
+      "name": "Openrouter: Owl Alpha",
+      "value": "3547.5B"
+    },
+    {
+      "rank": 5,
+      "name": "Tencent: Hy3 Preview",
+      "value": "3459.8B"
+    },
+    {
+      "rank": 6,
+      "name": "Anthropic: Claude 4.7 Opus",
+      "value": "2232.3B"
+    },
+    {
+      "rank": 7,
+      "name": "Z-ai: Glm 5.2",
+      "value": "2204.3B"
+    },
+    {
+      "rank": 8,
+      "name": "Deepseek: Deepseek V4 Pro",
+      "value": "2077.9B"
+    },
+    {
+      "rank": 9,
+      "name": "Anthropic: Claude 4.8 Opus",
+      "value": "1917.4B"
+    },
+    {
+      "rank": 10,
+      "name": "Anthropic: Claude 4.6 Sonnet",
+      "value": "1543.2B"
+    },
+    {
+      "rank": 11,
+      "name": "Stepfun: Step 3.7 Flash",
+      "value": "1523.6B"
+    },
+    {
+      "rank": 12,
+      "name": "Openai: Gpt 5.5",
+      "value": "1096.1B"
+    },
+    {
+      "rank": 13,
+      "name": "Google: Gemini 3 Flash Preview",
+      "value": "915.0B"
+    },
+    {
+      "rank": 14,
+      "name": "Nvidia: Nemotron 3 Ultra 550b A55b",
+      "value": "818.0B"
+    },
+    {
+      "rank": 15,
+      "name": "Poolside: Laguna M.1",
+      "value": "687.1B"
+    }
+  ]
+}
