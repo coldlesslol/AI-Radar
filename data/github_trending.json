@@ -2,126 +2,144 @@
   "key": "github_trending",
   "title": "GitHub Trending AI",
   "freq": "daily",
-  "updated": "2026-07-01T00:46:08+08:00",
+  "updated": "2026-07-02T10:16:20+08:00",
   "url": "https://github.com/trending?since=daily",
-  "total_trending": 18,
+  "total_trending": 20,
   "items": [
-    {
-      "full_name": "usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars": 27870,
-      "stars_today": 395,
-      "url": "https://github.com/usestrix/strix",
-      "rank": 1
-    },
     {
       "full_name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars": 120434,
-      "stars_today": 1793,
+      "stars": 123591,
+      "stars_today": 2114,
       "url": "https://github.com/msitarzewski/agency-agents",
+      "rank": 1
+    },
+    {
+      "full_name": "usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 29816,
+      "stars_today": 1211,
+      "url": "https://github.com/usestrix/strix",
       "rank": 2
-    },
-    {
-      "full_name": "diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "language": "TypeScript",
-      "stars": 8289,
-      "stars_today": 459,
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "rank": 3
-    },
-    {
-      "full_name": "browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "language": "Python",
-      "stars": 12427,
-      "stars_today": 722,
-      "url": "https://github.com/browser-use/video-use",
-      "rank": 4
-    },
-    {
-      "full_name": "xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "stars": 7397,
-      "stars_today": 966,
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "rank": 5
-    },
-    {
-      "full_name": "google/agents-cli",
-      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
-      "language": "Python",
-      "stars": 3984,
-      "stars_today": 433,
-      "url": "https://github.com/google/agents-cli",
-      "rank": 6
-    },
-    {
-      "full_name": "roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "language": "Python",
-      "stars": 45808,
-      "stars_today": 336,
-      "url": "https://github.com/roboflow/supervision",
-      "rank": 7
-    },
-    {
-      "full_name": "ogulcancelik/herdr",
-      "description": "agent multiplexer that lives in your terminal.",
-      "language": "Rust",
-      "stars": 8847,
-      "stars_today": 485,
-      "url": "https://github.com/ogulcancelik/herdr",
-      "rank": 8
-    },
-    {
-      "full_name": "microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "language": "Jupyter Notebook",
-      "stars": 49086,
-      "stars_today": 180,
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "rank": 9
-    },
-    {
-      "full_name": "facebook/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "stars": 1583,
-      "stars_today": 399,
-      "url": "https://github.com/facebook/astryx",
-      "rank": 10
     },
     {
       "full_name": "HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars": 15635,
-      "stars_today": 719,
+      "stars": 16600,
+      "stars_today": 694,
       "url": "https://github.com/HKUDS/Vibe-Trading",
+      "rank": 3
+    },
+    {
+      "full_name": "facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 2705,
+      "stars_today": 708,
+      "url": "https://github.com/facebook/astryx",
+      "rank": 4
+    },
+    {
+      "full_name": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "language": "TypeScript",
+      "stars": 9584,
+      "stars_today": 1010,
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "rank": 5
+    },
+    {
+      "full_name": "allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "language": "Python",
+      "stars": 18298,
+      "stars_today": 334,
+      "url": "https://github.com/allenai/olmocr",
+      "rank": 6
+    },
+    {
+      "full_name": "logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "language": "TypeScript",
+      "stars": 13290,
+      "stars_today": 113,
+      "url": "https://github.com/logto-io/logto",
+      "rank": 7
+    },
+    {
+      "full_name": "togatoga/karukan",
+      "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+      "language": "Rust",
+      "stars": 590,
+      "stars_today": 42,
+      "url": "https://github.com/togatoga/karukan",
+      "rank": 8
+    },
+    {
+      "full_name": "Unclecheng-li/VulnClaw",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "language": "Python",
+      "stars": 1592,
+      "stars_today": 132,
+      "url": "https://github.com/Unclecheng-li/VulnClaw",
+      "rank": 9
+    },
+    {
+      "full_name": "microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars": 50507,
+      "stars_today": 1096,
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "rank": 10
+    },
+    {
+      "full_name": "ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars": 9641,
+      "stars_today": 609,
+      "url": "https://github.com/ogulcancelik/herdr",
       "rank": 11
     },
     {
-      "full_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
+      "full_name": "0xNyk/council-of-high-intelligence",
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
       "language": "Shell",
-      "stars": 242268,
-      "stars_today": 884,
-      "url": "https://github.com/obra/superpowers",
+      "stars": 2661,
+      "stars_today": 161,
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
       "rank": 12
     },
     {
-      "full_name": "Robbyant/lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "language": "Python",
-      "stars": 8756,
-      "stars_today": 210,
-      "url": "https://github.com/Robbyant/lingbot-map",
+      "full_name": "altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+      "language": "Swift",
+      "stars": 5524,
+      "stars_today": 572,
+      "url": "https://github.com/altic-dev/FluidVoice",
       "rank": 13
+    },
+    {
+      "full_name": "TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars": 6818,
+      "stars_today": 79,
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "rank": 14
+    },
+    {
+      "full_name": "browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 13252,
+      "stars_today": 693,
+      "url": "https://github.com/browser-use/video-use",
+      "rank": 15
     }
   ]
 }

@@ -1,14 +1,86 @@
 {
   "source": "Latent Space",
   "layer": "newsletter",
-  "updated": "2026-07-01T01:10:05+08:00",
+  "updated": "2026-07-02T10:15:52+08:00",
   "items": [
+    {
+      "title": "Autoresearch: The feedback loop behind self-improving agents",
+      "url": "https://www.latent.space/p/autoresearch-introspection",
+      "summary": "Introspection co-founder Roland Gavrilescu explains autoresearch, agent &#8220;recipes,&#8221; self-improving loops, and why humans remain central to the software factory.",
+      "source": "Latent Space",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-01T23:52:30+00:00"
+    },
+    {
+      "title": "How Cursor deploys AI inside the enterprise",
+      "url": "https://www.latent.space/p/cursor-forward-deployed-engineers",
+      "summary": "Cursor's Pauline Brunet explains how her team of Forward Deployed Engineers help organizations implement agents &#8212; essentially setting up software factories.",
+      "source": "Latent Space",
+      "time": "7h",
+      "tags": [],
+      "published_at": "2026-07-01T19:03:44+00:00"
+    },
+    {
+      "title": "🔬 The Coolest Diffusion Research Isn't in LLMs — Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
+      "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
+      "summary": "Why the Llama lead left Meta for drug discovery, PEARL's zero-shot OpenBind win, and what becomes possible when co-folding finally crosses the accuracy threshold.",
+      "source": "Latent Space",
+      "time": "11h",
+      "tags": [],
+      "published_at": "2026-07-01T14:42:39+00:00"
+    },
+    {
+      "title": "Warp CEO Zach Lloyd on why software factories are the next phase of coding",
+      "url": "https://www.latent.space/p/software-factories",
+      "summary": "Warp's founder thinks every major software project will soon run on an automated factory. He discusses why and how engineers should prepare for this shift.",
+      "source": "Latent Space",
+      "time": "11h",
+      "tags": [],
+      "published_at": "2026-07-01T14:28:23+00:00"
+    },
+    {
+      "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
+      "summary": "On Tuesday at the AI Engineer World's Fair, there was a lot of talk about loops, agent engineering, and the emergence of software factories. Also a hot topic: open models.",
+      "source": "Latent Space",
+      "time": "21h",
+      "tags": [],
+      "published_at": "2026-07-01T04:46:21+00:00"
+    },
+    {
+      "title": "[AINews] Sonnet 5 today, and Fable 5 tomorrow",
+      "url": "https://www.latent.space/p/ainews-sonnet-5-today-and-fable-5",
+      "summary": "Everything is open again!",
+      "source": "Latent Space",
+      "time": "23h",
+      "tags": [],
+      "published_at": "2026-07-01T03:01:09+00:00"
+    },
+    {
+      "title": "Forward Deployed Engineers and the future of software engineering",
+      "url": "https://www.latent.space/p/forward-deployed-engineers-aiewf",
+      "summary": "Sierra's Natalie Meurer on why product engineers and forward deployed engineers are starting to converge.",
+      "source": "Latent Space",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-01T00:20:18+00:00"
+    },
+    {
+      "title": "Ahmad Osman on why local AI is catching up",
+      "url": "https://www.latent.space/p/ahmad-osman-local-ai",
+      "summary": "After two packed AIEWF workshops, Ahmad Osman makes the case that local AI is catching up fast &#8212; from laptops and phones to enterprise-grade infrastructure.",
+      "source": "Latent Space",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-06-30T23:39:29+00:00"
+    },
     {
       "title": "[AINews] not much happened today",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-07e",
       "summary": "a quiet day before the storm.",
       "source": "Latent Space",
-      "time": "10h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-06-30T06:47:27+00:00"
     },
@@ -17,81 +89,9 @@
       "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
       "summary": "Oddly tiered releases to both OAI and ANT on the same day.",
       "source": "Latent Space",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-06-27T05:23:22+00:00"
-    },
-    {
-      "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
-      "url": "https://www.latent.space/p/ainews-openai-reports-median-internal",
-      "summary": "It's happening.",
-      "source": "Latent Space",
       "time": "4d",
       "tags": [],
-      "published_at": "2026-06-26T01:12:30+00:00"
-    },
-    {
-      "title": "[AINews] It's Meta-Harness Summer",
-      "url": "https://www.latent.space/p/ainews-its-meta-harness-summer",
-      "summary": "Move over, Harness Engineering, it is time for the harness of harnesses!",
-      "source": "Latent Space",
-      "time": "5d",
-      "tags": [],
-      "published_at": "2026-06-25T02:14:08+00:00"
-    },
-    {
-      "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
-      "url": "https://www.latent.space/p/databricks",
-      "summary": "In a rare double-interview, the Databricks technical leaders riff on what it will take for every company to build Agent Clouds",
-      "source": "Latent Space",
-      "time": "5d",
-      "tags": [],
-      "published_at": "2026-06-24T18:53:16+00:00"
-    },
-    {
-      "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
-      "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
-      "summary": "Claude finally gets a Slackbot upgrade",
-      "source": "Latent Space",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-06-24T07:14:26+00:00"
-    },
-    {
-      "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
-      "url": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
-      "summary": "a quiet day lets us reflect on some numbers from Jamin Ball.",
-      "source": "Latent Space",
-      "time": "7d",
-      "tags": [],
-      "published_at": "2026-06-23T06:19:49+00:00"
-    },
-    {
-      "title": "Red-Teaming after Mythos — Zico Kolter & Matt Fredrikson, Gray Swan",
-      "url": "https://www.latent.space/p/gray-swan",
-      "summary": "OpenAI boardmember Zico Kolter and Gray Swan CEO Matt Fredrikson join swyx to explain why AI security is not just &#8220;cybersecurity with AI&#8221;",
-      "source": "Latent Space",
-      "time": "7d",
-      "tags": [],
-      "published_at": "2026-06-22T21:06:55+00:00"
-    },
-    {
-      "title": "[Exclusive] $250 off AI Engineer tix til Monday",
-      "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
-      "summary": "special offer for subscribers - $250 off AI Engineer tix til Monday",
-      "source": "Latent Space",
-      "time": "9d",
-      "tags": [],
-      "published_at": "2026-06-21T15:01:23+00:00"
-    },
-    {
-      "title": "[AINews] not much happened today",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
-      "summary": "a quiet day lets us promo AIE one last time",
-      "source": "Latent Space",
-      "time": "10d",
-      "tags": [],
-      "published_at": "2026-06-20T08:06:05+00:00"
+      "published_at": "2026-06-27T05:23:22+00:00"
     }
   ]
 }

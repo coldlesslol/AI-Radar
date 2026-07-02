@@ -1,50 +1,167 @@
 {
   "source": "Reddit ML",
   "layer": "community",
-  "updated": "2026-07-01T01:09:58+08:00",
+  "updated": "2026-07-02T10:15:42+08:00",
   "items": [
     {
       "title": "[D] Self-Promotion Thread",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tudeio/d_selfpromotion_thread/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "source": "Reddit ML",
-      "time": "28d",
+      "time": "0m",
       "tags": [],
-      "published_at": "2026-06-02T02:15:14+00:00"
+      "published_at": "2026-07-02T02:15:27+00:00"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tsipvv/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uk949b/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
       "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "source": "Reddit ML",
-      "time": "30d",
+      "time": "23h",
       "tags": [],
-      "published_at": "2026-05-31T02:30:27+00:00"
+      "published_at": "2026-07-01T02:30:09+00:00"
+    },
+    {
+      "title": "On July 1, 2026, arXiv will spin out from Cornell University, its home for the past 25 years, to become an independent nonprofit organization. Major funding support from Simons Foundation and Schmidt Sciences. Ditching the red for their website. [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukjtlm/on_july_1_2026_arxiv_will_spin_out_from_cornell/",
+      "summary": "arXiv’s next chapter: Updates on our spin out from Cornell University: https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/ &#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
+      "source": "Reddit ML",
+      "time": "14h",
+      "tags": [],
+      "published_at": "2026-07-01T12:07:43+00:00"
+    },
+    {
+      "title": "Hamiltonian Neural Networks from a Differential Geometry Perspective [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukzdnj/hamiltonian_neural_networks_from_a_differential/",
+      "summary": "This is a write-up on our company blog that I wrote, sharing our perspective into Hamiltonian Neural Networks (Greydanus et al., 2019) from a differential-geometry angle rather than the usual &quot;he",
+      "source": "Reddit ML",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-01T21:55:58+00:00"
+    },
+    {
+      "title": "P Moth-Retrieval: Graph-Free Multi-Hop Retrieval via Query-Time Orchestration (Beating Graph-Based Systems on HotpotQA) [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukotww/p_mothretrieval_graphfree_multihop_retrieval_via/",
+      "summary": "We just open-sourced MOTHRAG, a multi-hop RAG framework that skips the knowledge graph entirely. We kept hitting the same wall building multi-hop RAG: the systems with the best accuracy (GraphRAG, Hip",
+      "source": "Reddit ML",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-01T15:26:53+00:00"
+    },
+    {
+      "title": "New PyMuPDF release, supports Markdown [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukyciw/new_pymupdf_release_supports_markdown_n/",
+      "summary": "https://pymupdf.io/blog/markdown-in-pymupdf-1-28 PyMuPDF 1.28 release, introduces Markdown as a first class document in PyMuPDF. Seems useful for a variety of workflows. You can create PDFs from Markd",
+      "source": "Reddit ML",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-01T21:15:56+00:00"
+    },
+    {
+      "title": "Making Optimization Work When Labels Are Scarce [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ul3ohk/making_optimization_work_when_labels_are_scarce_r/",
+      "summary": "https://www.gnosyslabs.com/case-studies/safety-classifier-sparse-labels Gnosys is an autonomous model engineer: it improves prompts and classifiers when ground truth is too sparse for conventional opt",
+      "source": "Reddit ML",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-02T00:59:15+00:00"
+    },
+    {
+      "title": "ACL ARR May 2026[D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukud96/acl_arr_may_2026d/",
+      "summary": "Hi everyone. Do the ACL arr may 2026 reviews come out of July 2nd or do they come out on July 7 th?? How much does one need to get into Main or Findings? I am a bit new to this. Thanks a lot folks. &#",
+      "source": "Reddit ML",
+      "time": "7h",
+      "tags": [],
+      "published_at": "2026-07-01T18:48:58+00:00"
+    },
+    {
+      "title": "[D] Simple Questions Thread",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uko3x6/d_simple_questions_thread/",
+      "summary": "Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead! Thread will stay alive until next one so keep posting after ",
+      "source": "Reddit ML",
+      "time": "11h",
+      "tags": [],
+      "published_at": "2026-07-01T15:00:27+00:00"
     },
     {
       "title": "A map of the latest 11 million papers split by semantic similarity and time slices [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ujn3u5/a_map_of_the_latest_11_million_papers_split_by/",
-      "summary": "I have building alternative ways explore scientifc literature. The goal was to make the large number of papers published daily easier to keep up with by visualising the macro scopic trend. It is free ",
+      "summary": "I am building alternative ways explore scientifc literature. The goal was to make the large number of papers published daily easier to keep up with by visualising the macro scopic trend. It is free to",
       "source": "Reddit ML",
-      "time": "5h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-06-30T11:55:44+00:00"
     },
     {
-      "title": "Are all LLM research papers nowadays 100+ pages beasts?[D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ujv03i/are_all_llm_research_papers_nowadays_100_pages/",
-      "summary": "Was reading some research papers put out by Anthropic (and some other organizations/researchers) and one thing I've noticed is that these research papers consistently all share the same quality: Often",
+      "title": "ICML qr code visible [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukjh6y/icml_qr_code_visible_d/",
+      "summary": "Hi everyone, The check in QR code is visible at my profile despite that my card isn’t accepting the payment transaction. What does that even mean? Thanks! &#32; submitted by &#32; /u/misplacedlion [li",
       "source": "Reddit ML",
-      "time": "5m",
+      "time": "14h",
       "tags": [],
-      "published_at": "2026-06-30T17:04:35+00:00"
+      "published_at": "2026-07-01T11:52:13+00:00"
+    },
+    {
+      "title": "How to describe a model that has higher accuracy with fewer #param and FLOPs? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukv9x5/how_to_describe_a_model_that_has_higher_accuracy/",
+      "summary": "Hello, My supervisor is nowhere to be found so I am turning to the internet for my naive questions. &#32; submitted by &#32; /u/obliviousphoenix2003 [link] &#32; [comments]",
+      "source": "Reddit ML",
+      "time": "6h",
+      "tags": [],
+      "published_at": "2026-07-01T19:21:38+00:00"
+    },
+    {
+      "title": "A system-level approach to prompt injection: separating instruction and data channels in LLM agents [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukgwk1/a_systemlevel_approach_to_prompt_injection/",
+      "summary": "Prompt injection has emerged as one of the most persistent failure modes in tool-using LLM systems, particularly in agentic workflows where models interact with external data sources. Most mitigation ",
+      "source": "Reddit ML",
+      "time": "16h",
+      "tags": [],
+      "published_at": "2026-07-01T09:34:16+00:00"
+    },
+    {
+      "title": "Anyone looking into the new MARS2 Workshop/Competition @ ECCV 2026? I saw Tec-do posting it. [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uka1r6/anyone_looking_into_the_new_mars2/",
+      "summary": "I recently came across the announcement for the MARS2 Workshop (Multimodal Reasoning Competition) at ECCV 2026. From what I understand, it focuses on multimodal reasoning and test-time reasoning (“slo",
+      "source": "Reddit ML",
+      "time": "23h",
+      "tags": [],
+      "published_at": "2026-07-01T03:15:16+00:00"
+    },
+    {
+      "title": "80TB+ of astronomy for the HDD-poor: crossmatch the Universe from your laptop [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uk7ec6/80tb_of_astronomy_for_the_hddpoor_crossmatch_the/",
+      "summary": "Today is the day you (🫵!) get access to 80TB plus of data from over 30 astronomical surveys in one place. 4GB of RAM is enough even at Gaia Scale. Check out our writeup here: https://huggingface.co/bl",
+      "source": "Reddit ML",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-01T01:07:46+00:00"
+    },
+    {
+      "title": "REAP: Automatic Curation of Coding Agent Benchmarks from Interactive Production Usage [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uk713d/reap_automatic_curation_of_coding_agent/",
+      "summary": "&#32; submitted by &#32; /u/julian88888888 [link] &#32; [comments]",
+      "source": "Reddit ML",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-01T00:50:50+00:00"
+    },
+    {
+      "title": "How to improve a 5-class Diabetic Retinopathy model (APTOS 2019) – Mixed predictions across classes[P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ujztdd/how_to_improve_a_5class_diabetic_retinopathy/",
+      "summary": "Hi everyone, I'm a final-year Computer Engineering student building a Flask-based AI Diabetic Retinopathy Detection system. The web application itself is complete with patient management, authenticati",
+      "source": "Reddit ML",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-06-30T19:58:49+00:00"
     },
     {
       "title": "Update on CVIL: the free CV interview prep checklist after landing my internship... just added Segmentation, OCR, and VLM sections [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ujlmy2/update_on_cvil_the_free_cv_interview_prep/",
       "summary": "Hi everyone, Posted this a while back... a checklist I made while prepping for a CV internship (landed it, hence sharing). It's not a textbook, just a phase-by-phase map of what to actually study for ",
       "source": "Reddit ML",
-      "time": "6h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-06-30T10:40:59+00:00"
     },
@@ -53,7 +170,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uiqhiv/cerebras_openai_deal_capacity_has_effectively/",
       "summary": "I’m pretty annoyed. We’re a small AI startup building a real-time coding agent. Our p95 latency requirements are tight (and self imposed, but thats the product). We need sustained high-throughput infe",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-06-29T12:00:06+00:00"
     },
@@ -62,126 +179,9 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ujj63g/eacl_2027_author_response_and_authorreviewer/",
       "summary": "EACL 2027 just published their CFP which contains an important change to the common ARR process: For this cycle, author response and author-reviewer discussion are two separate stages Looking at the d",
       "source": "Reddit ML",
-      "time": "8h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-06-30T08:16:03+00:00"
-    },
-    {
-      "title": "Google's Agentic Peer-Reviewer Handled ~10K Papers at ICML/STOC — Formal Research Paper Now Out [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uio9rb/googles_agentic_peerreviewer_handled_10k_papers/",
-      "summary": "Google deployed an agentic AI peer-reviewer at two top CS conferences — reviewing ~10,000 papers with 30-minute turnaround — and the new formal research paper shows it catches 34% more mathematical er",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-06-29T10:05:50+00:00"
-    },
-    {
-      "title": "Loss functions in Instance Representation Learning [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uj8nse/loss_functions_in_instance_representation/",
-      "summary": "In Wu et. al, the MLE objective is computationally infeasible due to the high number of images in the dataset. Non-parametric Softmax Negative Log-Likelihood With large n, the denominator in (2) is ha",
-      "source": "Reddit ML",
-      "time": "17h",
-      "tags": [],
-      "published_at": "2026-06-29T23:34:34+00:00"
-    },
-    {
-      "title": "EML Trees are Universal Approximators [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uipl1t/eml_trees_are_universal_approximators_r/",
-      "summary": "Hey! The EML function made the rounds recently on the internet as a “cool trick” that allows for the representation of all elementary functions through composition. As a mathematical curiosity, we pro",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-06-29T11:16:01+00:00"
-    },
-    {
-      "title": "What do you think of Recursive Self Improvement ? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uip4yo/what_do_you_think_of_recursive_self_improvement_d/",
-      "summary": "There was a workshop in ICLR Recursive Self Improvement. Is this something worth pursing for a Phd topic? Webpage : https://recursive-workshop.github.io/ &#32; submitted by &#32; /u/Successful_Bowl256",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-06-29T10:52:36+00:00"
-    },
-    {
-      "title": "I do historical swordfighting and noticed AI struggles to track it. I’m building an open dataset to help fix this. Does my schema make sense? [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uivddx/i_do_historical_swordfighting_and_noticed_ai/",
-      "summary": "Hi everyone, I’m a historical swordfighter (HEMA practitioner), and while I’m not a computer vision engineer or a roboticist, I’ve been reading a lot about the current bottlenecks in embodied AI, spec",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-06-29T15:16:53+00:00"
-    },
-    {
-      "title": "ECCV 2026 Final Decisions after Provisional Acceptance [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uiilvs/eccv_2026_final_decisions_after_provisional/",
-      "summary": "Has anyone actually received final acceptance following their provisional acceptance email from ECCV 2026? I am very confused. Thank you so much. &#32; submitted by &#32; /u/Land_Heavy [link] &#32; [c",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-06-29T04:43:37+00:00"
-    },
-    {
-      "title": "I'm trying to implement CALM paper, and I have some questions. [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uix556/im_trying_to_implement_calm_paper_and_i_have_some/",
-      "summary": "Hello, I'm trying to implement the Pocket TTS by kyutai-labs represented by this paper. Since they have didn't released the training/fine-tuning code. I'm trying to implement it on my own for learning",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-06-29T16:20:14+00:00"
-    },
-    {
-      "title": "Rejected MICCAI paper: workshop -> journal/conference or directly journal/conference [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uj35gh/rejected_miccai_paper_workshop_journalconference/",
-      "summary": "Premise: this work is my first year PhD, and I dropped out for personal reasons. I still want to do research but independently. I have tried to submit my explainability paper to MICCAI. Sadly, for dou",
-      "source": "Reddit ML",
-      "time": "21h",
-      "tags": [],
-      "published_at": "2026-06-29T19:58:44+00:00"
-    },
-    {
-      "title": "I shrank a transformer until every number fitted on the screen and made the weights editable [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uhw7fu/i_shrank_a_transformer_until_every_number_fitted/",
-      "summary": "I've been teaching myself how LLMs actually work, not at the API level, but down to the matrix multiplications. To force myself to really understand the forward pass, I first built a complete transfor",
-      "source": "Reddit ML",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-06-28T12:35:42+00:00"
-    },
-    {
-      "title": "Double-Blind submission in single-blind tracks [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uihdub/doubleblind_submission_in_singleblind_tracks_d/",
-      "summary": "Hi everyone. First-time reviewer for data mining venues here. For the applied tracks in ICDM and KDD, the CFP states submissions should be single-blind, showing the author's name and affiliations. I r",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-06-29T03:40:10+00:00"
-    },
-    {
-      "title": "I made a quiz that tells you which LLM you align with most, based on personality and values research across 15 models [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uin5ad/i_made_a_quiz_that_tells_you_which_llm_you_align/",
-      "summary": "Link: https://ai-values.com/ There is a small 15 question quiz you can take before taking the full big quiz. The results of the big quiz update in realtime as you go so you dont have to actually go th",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-06-29T09:00:12+00:00"
-    },
-    {
-      "title": "MathFormer: Testing whether symbolic math is pattern matching or reasoning [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uhatw8/mathformer_testing_whether_symbolic_math_is/",
-      "summary": "Repo link and results - https://github.com/Abhinand20/MathFormer Task: Given a factorized expression like (7-3*z)*(-5*z-9), predict the expanded form -&gt; 15*z\\*2-8\\*z-63 Key takeaway: A tiny (4M par",
-      "source": "Reddit ML",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-06-27T18:57:56+00:00"
-    },
-    {
-      "title": "Evaluating long-term memory limits in stateless LLM chatbots — feedback needed [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ui27i1/evaluating_longterm_memory_limits_in_stateless/",
-      "summary": "Hi all, I’m working on a research project exploring how stateless LLM-based chatbots handle long conversations and whether important earlier information is still reliably retained over time. My idea i",
-      "source": "Reddit ML",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-06-28T16:48:42+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T01:25:52+08:00",
+  "updated": "2026-07-02T10:22:38+08:00",
   "files": {
     "rankings_openrouter": "rankings_openrouter.json",
     "news_techmeme": "news_techmeme.json",
@@ -23,7 +23,7 @@
     "research_arxiv": "research_arxiv.json"
   },
   "stats": {
-    "total_items": 491,
+    "total_items": 485,
     "last_run_status": "ok",
     "errors": [
       {
@@ -38,9 +38,9 @@
       "news_qbitai": 10,
       "community_hn": 20,
       "stocks": 12,
-      "digest": 214,
+      "digest": 206,
       "huggingface_trending": 15,
-      "github_trending": 13,
+      "github_trending": 15,
       "news_jiqizhixin": 0,
       "news_36kr": 30,
       "news_leiphone": 20,
