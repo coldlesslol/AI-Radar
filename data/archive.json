@@ -1,6 +1,150 @@
 {
-  "updated": "2026-07-02T12:40:20.684915+00:00",
+  "updated": "2026-07-02T14:49:29.017636+00:00",
   "items": [
+    {
+      "title": "Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip (Qianer Liu/The Information)",
+      "summary_cn": "消息称 Anthropic 已启动自研 AI 服务器芯片的早期开发，并就代工事宜与三星进行了初步接触。",
+      "url": "https://www.theinformation.com/articles/anthropic-talks-samsung-manufacture-custom-ai-chip",
+      "sources": [
+        "Techmeme(The Information)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.8,
+      "category": "算力供应链",
+      "published_at": "2026-07-02T13:55:01+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
+      "title": "Global VC funding hit a record $510B in H1 2026, with OpenAI and Anthropic accounting for $217B, or 43% of the total; in Q2, VCs put $205B into 5K+ startups (Gené Teare/Crunchbase News)",
+      "summary_cn": "2026 上半年全球风投融资创纪录达 5100 亿美元，其中 OpenAI 与 Anthropic 合计吸金 2170 亿美元，占比 43%；Q2 有 5000 多家初创获投 2050 亿美元。",
+      "url": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
+      "sources": [
+        "Techmeme(Crunchbase)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.8,
+      "category": "融资并购",
+      "published_at": "2026-07-02T13:40:01+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
+      "title": "谁能想到，系统流「爽文」最先被AI Agent实现了",
+      "summary_cn": "网文'系统流'题材率先被 AI Agent 实现并拍成职场短剧，AI 短剧成为内容产业新落地方向。",
+      "url": "https://36kr.com/p/3878522627518471?f=rss",
+      "sources": [
+        "36kr"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "行业动态",
+      "published_at": "2026-07-02T13:22:24+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
+      "title": "Microsoft establishes an organization with 6,000 staff specializing in engineering, corporate training, and management to support businesses with AI deployments (Todd Bishop/GeekWire)",
+      "summary_cn": "微软组建 6000 人专门团队（涵盖工程、企业培训与管理），帮助企业客户落地部署 AI。",
+      "url": "https://www.geekwire.com/2026/microsoft-announces-2-5b-frontier-company-to-embed-ai-engineers-inside-customers/",
+      "sources": [
+        "Techmeme(GeekWire)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.65,
+      "category": "行业动态",
+      "published_at": "2026-07-02T13:15:01+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
+      "title": "Teaching AI to run with the turbines",
+      "summary_cn": "AI 走出聊天机器人与图像生成，被用于风力涡轮机运行优化等工业能源场景。",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "sources": [
+        "MIT Tech Review"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "行业动态",
+      "published_at": "2026-07-02T12:51:44+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
+      "title": "Germany’s Infineon opens major chip plant as EU seeks tech autonomy",
+      "summary_cn": "德国英飞凌开设大型芯片工厂，助力欧盟寻求技术自主。",
+      "url": "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy",
+      "sources": [
+        "HN"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "算力供应链",
+      "published_at": "2026-07-02T12:46:31+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
+      "title": "AI fake news complaining about how AI fake news is the death of real news",
+      "summary_cn": "出现'AI 假新闻在抱怨 AI 假新闻正在杀死真新闻'的荒诞现象，折射 AI 生成内容对新闻业的冲击。",
+      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+      "sources": [
+        "HN(Nieman Lab)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "行业动态",
+      "published_at": "2026-07-02T12:40:36+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
+      "title": "What do you think about paper fishing? [D]",
+      "summary_cn": "ML 社区日常讨论：'刷论文'现象、2026 年某 ML 教材是否过时、ACL ARR 5 月审稿何时出、如何描述'更少参数/FLOPs 却更高精度'的模型、哈密顿神经网络的微分几何视角等。",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulgunh/what_do_you_think_about_paper_fishing_d/",
+      "sources": [
+        "Reddit ML"
+      ],
+      "source_count": 5,
+      "relevance_score": 0.54,
+      "category": "社区信号",
+      "published_at": "2026-07-02T12:26:55+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "summary_cn": "论文提出单个 Transformer 层即可匹配全参数 RL 训练效果，挑战'一层是否足够'的问题，或对高效训练有启示。",
+      "url": "https://arxiv.org/abs/2607.01232",
+      "sources": [
+        "HN(arXiv)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "published_at": "2026-07-02T12:10:24+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
+      "title": "Portugal Launches Amália, Its First Open-Source AI Model - Technology Org",
+      "summary_cn": "葡萄牙发布首个开源 AI 模型 Amália，加入欧洲 AI 主权化浪潮。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2p4TmtNNEFWWXBSd1E4OUtqbFFqYXY4MVNWMXJxUm5BSGxVZHplYTBrbV9MeGlNT0lYN0NZeHJtYXZXZHd3V0ZxSWdQekFEeXEtLXBXVTJGV3NyRlB6LVFTVll1ZjRLTlBuWkFBSDQwOWNMbkRENmk1MEpUbk51Vm9VdDd2SU1o?oc=5",
+      "sources": [
+        "Technology Org",
+        "KELO-AM"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.63,
+      "category": "模型发布",
+      "published_at": "2026-07-02T12:07:16+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
+      "title": "Sam Altman proposes a \"US-led international forum\" to establish AI standards, provide analysis of capabilities and risks, and make AI available to allies (Sam Altman/Financial Times)",
+      "summary_cn": "Sam Altman 提议建立'美国主导的国际论坛'，制定 AI 标准、评估能力与风险，并向盟友开放 AI 能力。",
+      "url": "https://www.techmeme.com/260702/p21#a260702p21",
+      "sources": [
+        "Techmeme(FT)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "行业动态",
+      "published_at": "2026-07-02T12:00:42+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
     {
       "title": "SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by 2030 (Min-Jeong Lee/Bloomberg)",
       "summary_cn": "软银及其电信子公司成立 SB Neo，向大型企业提供 AI 芯片与云服务，计划到 2030 年在美国提供 10GW 算力。",
@@ -41,6 +185,19 @@
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
+      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+      "summary_cn": "AReaL 2.0 开源，定位面向自演进智能体的强化学习基础设施，让 Agent 越用越强，推动自演进智能体生态发展。",
+      "url": "https://www.qbitai.com/2026/07/442134.html",
+      "sources": [
+        "量子位"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.7,
+      "category": "研究技术",
+      "published_at": "2026-07-02T11:28:36+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
       "title": "36氪 AI 工具测评，正在找第一批「抢跑者」",
       "summary_cn": "36氪 AI 工具测评招募'抢跑者'，关注 AI 工具使用能力的信息差。",
       "url": "https://36kr.com/p/3878412963508486?f=rss",
@@ -52,6 +209,37 @@
       "category": "社区信号",
       "published_at": "2026-07-02T11:27:23+00:00",
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "Claude Sonnet 5 上线一日差评刷屏：打不过千问和 Minimax，性价比全面翻车",
+      "summary_cn": "Anthropic 发布 Claude Sonnet 5（主打规划、执行与完成任务的 Agent 能力），但上线首日中文测评差评刷屏，被指性价比翻车、在部分测试中打不过千问和 MiniMax。",
+      "url": "https://www.leiphone.com/category/yanxishe/GLDTfDIWau83OKGC.html",
+      "sources": [
+        "雷峰网",
+        "Product Hunt",
+        "TLDR AI",
+        "Latent Space"
+      ],
+      "source_count": 4,
+      "relevance_score": 1.0,
+      "category": "模型发布",
+      "published_at": "2026-07-02T11:22:00+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
+      "title": "Z.ai launches ZCode, an \"Agentic Development Environment\" optimized for its new GLM-5.2 model; Z.ai's GLM Coding Plan costs from $16.20 to $144 per month (Michael Nuñez/VentureBeat)",
+      "summary_cn": "Z.ai 发布为 GLM-5.2 优化的 Agentic 开发环境 ZCode，GLM Coding Plan 月费从 16.2 至 144 美元不等，海外开发者反响热烈。",
+      "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+      "sources": [
+        "Techmeme(VentureBeat)",
+        "HN",
+        "TLDR AI"
+      ],
+      "source_count": 3,
+      "relevance_score": 0.96,
+      "category": "产品动态",
+      "published_at": "2026-07-02T11:20:12+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
     },
     {
       "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
@@ -106,6 +294,19 @@
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
+      "title": "全球首份大语言模型安全防范能力测评报告在北京发布",
+      "summary_cn": "7 月 2 日北京发布全球首份大语言模型安全防范能力测评报告，评估模型辨善恶、识别用户意图及在有用性与安全性间保持边界的能力。",
+      "url": "https://www.leiphone.com/category/ai/24ZpHMxxsean7Pmy.html",
+      "sources": [
+        "雷峰网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "行业动态",
+      "published_at": "2026-07-02T10:46:00+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
       "title": "科大讯飞举办智能交互生态发布会，三大平台同步升级",
       "summary_cn": "科大讯飞举办智能交互生态发布会，三大平台同步升级。",
       "url": "https://www.qbitai.com/2026/07/442048.html",
@@ -158,6 +359,19 @@
       "category": "算力供应链",
       "published_at": "2026-07-02T10:41:33+00:00",
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "自变量发布跨模态具身动作分词器 X-Tokenizer，多模态对齐能力提升 13.5%，长程任务性能提升 8.25%",
+      "summary_cn": "自变量机器人发布跨模态具身动作分词器 X-Tokenizer，将 VLA 动作离散化重构为多模态语义接口学习，多模态对齐能力提升 13.5%、长程任务性能提升 8.25%。",
+      "url": "https://www.leiphone.com/category/industrynews/97E4ZK92EoOpU0BY.html",
+      "sources": [
+        "雷峰网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.58,
+      "category": "研究技术",
+      "published_at": "2026-07-02T10:32:00+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
     },
     {
       "title": "论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭",
@@ -277,6 +491,19 @@
       "category": "行业动态",
       "published_at": "2026-07-02T10:10:00+00:00",
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "影智XBOT发布通用餐饮服务机器人矩阵与“一脑多形”具身智能体系",
+      "summary_cn": "影智 XBOT 发布通用餐饮服务机器人矩阵与'一脑多形'具身智能体系，含自研具身操作系统 XOS 3.0 与 AI Agent 产品。",
+      "url": "https://www.leiphone.com/category/industrynews/bn6JrENVQGf1G9tU.html",
+      "sources": [
+        "雷峰网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "产品动态",
+      "published_at": "2026-07-02T10:09:00+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
     },
     {
       "title": "一杯拿铁3毛8，Gemini 3.1联手GPT-5.5干黄咖啡馆！2个月烧光21万 - 新浪网",
@@ -1458,6 +1685,21 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "卷不赢模型，Meta改行「算力包租公」！一夜炸崩美股AI链 - 搜狐网",
+      "summary_cn": "Meta 转向对外出租/变卖算力'当包租公'，一度炸崩美股 AI 产业链（寒武纪等大跌），引发市场对 AI 基建泡沫与算力过剩的讨论，亦有业内人士称'算力过剩'系误读。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0R1WVRxQWQxdXExMXhFRl9xLUlCbEoyQm9yaUxseFlOdFEtSjA5VnM2blNzcXFFT0pHbG95V1dFTjBBRkVONVZ2OVZ0MHliY1dSel9Xc3F3bFBOZVNrb2g2VUFTN0pxWmhHdGp3d01MdklfVFJWR2pOZ2FnNDR2VGw4WWQ1QmFZ?oc=5",
+      "sources": [
+        "新智元",
+        "钛媒体",
+        "36kr"
+      ],
+      "source_count": 3,
+      "relevance_score": 0.91,
+      "category": "算力供应链",
+      "published_at": "2026-07-02T00:13:10+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
       "title": "8点1氪丨宾利低至27万，二手豪华燃油车价格大跳水；Anthropic回应暗藏代码检测中国用户；寒武纪市值一日蒸发700亿",
       "summary_cn": "8点1氪早报综合：OpenAI 推理成本减半、Anthropic 回应针对中国的检测代码、寒武纪市值单日蒸发 700 亿等（多为已单列事件的聚合导览）。",
       "url": "https://36kr.com/p/3877746956611847?f=rss",
@@ -1495,6 +1737,19 @@
       "category": "产品动态",
       "published_at": "2026-07-02T00:00:00+00:00",
       "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
+    },
+    {
+      "title": "Gemini Flash upgrade ⚡️, Meta AI cloud 🌐, ZCode 👨‍💻",
+      "summary_cn": "行业快讯：Gemini Flash 升级、Meta AI 上云、Z.ai ZCode 发布等多项进展集中释放。",
+      "url": "https://tldr.tech/ai/2026-07-02",
+      "sources": [
+        "TLDR AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "产品动态",
+      "published_at": "2026-07-02T00:00:00+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
     },
     {
       "title": "The <Usermedia> HTML Element",
@@ -2308,6 +2563,22 @@
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
+      "title": "月之暗面Kimi半年融资超39亿美元，投前估值升至315亿美元 - 电子工程专辑",
+      "summary_cn": "月之暗面 Kimi 半年累计融资超 39 亿美元，投前估值升至 315 亿美元，ARR 迈入 3 亿美元高速增长期，成为国产大模型头部玩家的融资标杆。",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRYmVEUndEWEpHZ2tSWEpUbWtjV19WWXNxZUlGSjNTYzNXOUJWTktSX3otWUpGdzRsMkZURHY5a3RhNVQxcEI2RHloaXJLWkY1U2hPbUx1Z3Bqc1NE?oc=5",
+      "sources": [
+        "电子工程专辑",
+        "搜狐网",
+        "新浪网",
+        "36kr"
+      ],
+      "source_count": 4,
+      "relevance_score": 1.0,
+      "category": "融资并购",
+      "published_at": "2026-07-01T06:59:38+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
       "title": "大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割",
       "summary_cn": "自变量科技完成大湾区首个200亿估值具身大脑相关融资，两个月连融四轮已交割，四大互联网公司分别领投。",
       "url": "https://www.qbitai.com/2026/07/441140.html",
@@ -2599,6 +2870,19 @@
       "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
     },
     {
+      "title": "Solaris",
+      "summary_cn": "Product Hunt 一批 AI 工具集中上线：Solaris(企业 AI 采纳与培训平台)、Macuse/Macro(macOS AI 助手)、scritty(编码 Agent 共享记忆)、Context.dev(网页抓取增强 API)、PieterPost MCP(连接 Agent 与实体邮件)等，反映 AI Agent/MCP 生态持续扩张。",
+      "url": "https://www.producthunt.com/products/build-club",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 5,
+      "relevance_score": 0.7,
+      "category": "社区信号",
+      "published_at": "2026-06-30T20:58:22+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
       "title": "Gemini Omni Flash",
       "summary_cn": "Gemini Omni Flash 发布：Google 高质量视频生成与对话式编辑能力。",
       "url": "https://www.producthunt.com/products/gemini-omni-flash",
@@ -2768,6 +3052,19 @@
       "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
     },
     {
+      "title": "Needle",
+      "summary_cn": "Needle 上线：在 Slack 与 Teams 中运行的主动式 GTM（市场增长）Agent。",
+      "url": "https://www.producthunt.com/products/needle-3",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "产品动态",
+      "published_at": "2026-06-30T13:17:55+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
       "title": "The Download: AI “coworkers” and stratospheric internet",
       "summary_cn": "The Download 综述 AI「同事」与平流层互联网等话题。",
       "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
@@ -2913,6 +3210,19 @@
       "category": "产品动态",
       "published_at": "2026-06-30T04:36:55+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "AI圈刚开始谈Loop Engineering，两位95后博士已经盯上了人类闭环数据 - qq.com",
+      "summary_cn": "AI 圈刚兴起 'Loop Engineering'（循环工程）讨论，两位 95 后博士已瞄准人类闭环数据，探索数据飞轮新方向。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hOTM2T1lBLXIxaFdfZ29BWmlCUE5wdFBfZHZxZUx3X05BU3NRc2dvVUNFNFZsSVppbHB3M3ZqNFNINGg1Y0k0ZDRidllGX3Ixc1RVbFlB?oc=5",
+      "sources": [
+        "机器之心"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "研究技术",
+      "published_at": "2026-06-30T04:02:00+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
     },
     {
       "title": "Cursor for iOS",
@@ -3410,6 +3720,22 @@
       "category": "行业动态",
       "published_at": "2026-06-26T00:00:00+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "豆包付费靴子落地字 节跳动直面AI算力、定价、商业化博弈 - 证券时报",
+      "summary_cn": "字节跳动豆包推出专业版付费订阅，标志其 AI 商业化落地，直面算力成本、定价与商业模式博弈，被解读为字节'AI 梭哈 To B'战略的第一步。",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nLV8tN245T2xLTTVNVkl5UHpzWERxRmQ5RGJVOW4xSUlDU0NsVExUVTFYR005WjBrdWtWNUZhaDM5RHowUDRVYXdnakRvYi1lYjQ1cUlPR0s3V1Ix?oc=5",
+      "sources": [
+        "证券时报",
+        "36kr",
+        "虎嗅",
+        "DoNews"
+      ],
+      "source_count": 4,
+      "relevance_score": 1.0,
+      "category": "产品动态",
+      "published_at": "2026-06-25T23:45:57+00:00",
+      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
     },
     {
       "title": "ClinePass",

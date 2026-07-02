@@ -1,14 +1,41 @@
 {
   "source": "钛媒体",
   "layer": "news",
-  "updated": "2026-07-02T19:54:28+08:00",
+  "updated": "2026-07-02T22:41:34+08:00",
   "items": [
+    {
+      "title": "百利食品：研发投入不足1%毛利率反超同行，产能闲置仍募资翻倍扩产｜IPO观察",
+      "url": "https://www.tmtpost.com/8049992.html",
+      "summary": "百利食品能成功过会吗？",
+      "source": "钛媒体",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-02T12:17:51+00:00"
+    },
+    {
+      "title": "The Asymmetric Edge: How China’s Small Appliance Challengers Captured Southeast Asia",
+      "url": "https://www.tmtpost.com/8050761.html",
+      "summary": "As the major home-appliance giants push aggressively in Europe and the U.S., going all-in on the premium market, China’s small-appliance brands are launching a “flanking attack” across Southeast Asia.",
+      "source": "钛媒体",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-02T12:17:16+00:00"
+    },
+    {
+      "title": "远大健科：九成收入来自海外、八成靠亚马逊，重营销轻研发，毛利率远超同行｜IPO观察",
+      "url": "https://www.tmtpost.com/8050291.html",
+      "summary": "笔者注意到，报告期内，远大健科存在市场与渠道双重高度集中的隐患，公司超九成营收来自境外，近八成收入集中于北美区域，同时超八成业绩依托亚马逊单一电商平台实现，海外区域集中度、渠道依存度双双处于高位，市场结构极度单一。",
+      "source": "钛媒体",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-02T12:16:05+00:00"
+    },
     {
       "title": "AI大厂，正在互相设防",
       "url": "https://www.tmtpost.com/8050490.html",
       "summary": "最强AI工具也不敢随便用了。",
       "source": "钛媒体",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T10:21:26+00:00"
     },
@@ -17,7 +44,7 @@
       "url": "https://www.tmtpost.com/8050479.html",
       "summary": "男款售价更高。",
       "source": "钛媒体",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T10:21:24+00:00"
     },
@@ -26,7 +53,7 @@
       "url": "https://www.tmtpost.com/8050492.html",
       "summary": "年亏209亿美元，OpenAI又找到一条省钱方法",
       "source": "钛媒体",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T10:21:23+00:00"
     },
@@ -35,7 +62,7 @@
       "url": "https://www.tmtpost.com/8050426.html",
       "summary": "微信小微看似克制，实为微信在AI时代收税与中立两难之间的一场豪赌。",
       "source": "钛媒体",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T10:12:37+00:00"
     },
@@ -44,7 +71,7 @@
       "url": "https://www.tmtpost.com/8050211.html",
       "summary": "从上游到下游的生存指南",
       "source": "钛媒体",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T10:12:32+00:00"
     },
@@ -53,7 +80,7 @@
       "url": "https://www.tmtpost.com/8049392.html",
       "summary": "猪价两天涨了七毛，但真正的变量是三年降了3块钱的成本。",
       "source": "钛媒体",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T10:12:29+00:00"
     },
@@ -62,7 +89,7 @@
       "url": "https://www.tmtpost.com/8050076.html",
       "summary": "奔驰开始学习中国本土车企，近期新设GTM部门，直接向一把手汇报。裁员和收缩之外，奔驰也奔驰在学习中国车企的产品上市流程，尝试把产品定义、定价、排产、渠道转化重新拉通。在中国，奔驰开始补的不只是智能化，还有卖车方法。",
       "source": "钛媒体",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T10:12:26+00:00"
     },
@@ -71,7 +98,7 @@
       "url": "https://www.tmtpost.com/8050086.html",
       "summary": "能不能用AI写书？编辑们也不知道",
       "source": "钛媒体",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T10:12:24+00:00"
     },
@@ -80,7 +107,7 @@
       "url": "https://www.tmtpost.com/8050077.html",
       "summary": "AI算力开始过剩了吗？",
       "source": "钛媒体",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T10:12:21+00:00"
     },
@@ -89,7 +116,7 @@
       "url": "https://www.tmtpost.com/8050013.html",
       "summary": "史无前例，募资规模达245亿元。",
       "source": "钛媒体",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T09:54:56+00:00"
     },
@@ -98,7 +125,7 @@
       "url": "https://www.tmtpost.com/8049851.html",
       "summary": "本文将通过拆解FAU壁垒的底层逻辑与TGV（玻璃通孔）战略的应对，探讨半导体封测在摩尔定律放缓后的价值重构方向。",
       "source": "钛媒体",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T09:54:55+00:00"
     },
@@ -107,36 +134,9 @@
       "url": "https://www.tmtpost.com/8049913.html",
       "summary": "AI会让无知者更加无知，这不是一句恐吓。国家统计局2026年最新数据显示，我国目前初中以下文化水平的总人口为7.9亿人，这绝对不是小部分人的问题，而是大部分，AI公司服务的不仅仅是精英，要考虑到更多低文化水平用户的分辨能力。",
       "source": "钛媒体",
-      "time": "2h",
+      "time": "5h",
       "tags": [],
       "published_at": "2026-07-02T09:26:54+00:00"
-    },
-    {
-      "title": "Algorithmic Arms Race: How AI-Driven Recruiting Met Automated Job Hunting",
-      "url": "https://www.tmtpost.com/8050392.html",
-      "summary": "The continuous friction between overwhelmed recruiters and invisible job applicants has triggered an algorithmic arms race. In 2026, the traditional job-seeking lifecycle is being radically reshaped b",
-      "source": "钛媒体",
-      "time": "3h",
-      "tags": [],
-      "published_at": "2026-07-02T08:44:02+00:00"
-    },
-    {
-      "title": "传统商超，正集体被抛弃",
-      "url": "https://www.tmtpost.com/8049622.html",
-      "summary": "旧消费模式的退潮",
-      "source": "钛媒体",
-      "time": "3h",
-      "tags": [],
-      "published_at": "2026-07-02T08:36:49+00:00"
-    },
-    {
-      "title": "AI来了，组织“瘫”了？",
-      "url": "https://www.tmtpost.com/8049868.html",
-      "summary": "在“AI优先”的组织中，人类员工何去何从？",
-      "source": "钛媒体",
-      "time": "3h",
-      "tags": [],
-      "published_at": "2026-07-02T08:36:47+00:00"
     }
   ]
 }

@@ -1,14 +1,50 @@
 {
   "source": "雷峰网",
   "layer": "news",
-  "updated": "2026-07-02T19:54:27+08:00",
+  "updated": "2026-07-02T22:41:33+08:00",
   "items": [
+    {
+      "title": "Claude Sonnet 5 上线一日差评刷屏：打不过千问和 Minimax，性价比全面翻车",
+      "url": "https://www.leiphone.com/category/yanxishe/GLDTfDIWau83OKGC.html",
+      "summary": "一张中文测评图把Claude Sonnet 5送上风口浪尖。&nbsp; &nbsp; 作者丨高允毅&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs",
+      "source": "雷峰网",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-02T11:22:00+00:00"
+    },
+    {
+      "title": "全球首份大语言模型安全防范能力测评报告在北京发布",
+      "url": "https://www.leiphone.com/category/ai/24ZpHMxxsean7Pmy.html",
+      "summary": "大语言模型正在成为公众获取、理解和使用科技知识的重要工具，但是，它们能辨善恶吗？能否识别用户意图、理解具体语境、控制输出粒度，并在有用性与安全性之间保持稳定边界？7月2日于北京举行的2026全球数字经济大会云智算安全论坛上，《全球大语言模型安全防范能力测评报告（2026）》正式发布，该报告依据一套中国机构自主研发的科学测评方法体系，对全球主要大语言模型进行了一次统一标准的“体检”，作出了回答。（雷",
+      "source": "雷峰网",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-02T10:46:00+00:00"
+    },
+    {
+      "title": "自变量发布跨模态具身动作分词器 X-Tokenizer，多模态对齐能力提升 13.5%，长程任务性能提升 8.25%",
+      "url": "https://www.leiphone.com/category/industrynews/97E4ZK92EoOpU0BY.html",
+      "summary": "自变量机器人发布跨模态具身动作分词器 X-Tokenizer，将 VLA 中的动作离散化从单一的“压缩-重建”问题，重新定义为“多模态推理与动作之间的语义接口学习”问题。动作分词器决定了拆分出的动作 Token 是否具有语义，是否能加速预训练模型的收敛，从而最终影响了 VLA 模型输出连续动作的性能。这是自变量机器人的最新发现。具身智能的 VLA 模型（视觉-语言-动作模型）是将预训练的 VLM ",
+      "source": "雷峰网",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-02T10:32:00+00:00"
+    },
+    {
+      "title": "影智XBOT发布通用餐饮服务机器人矩阵与“一脑多形”具身智能体系",
+      "url": "https://www.leiphone.com/category/industrynews/bn6JrENVQGf1G9tU.html",
+      "summary": "雷峰网获悉，6月30日，影智XBOT“2026 XBOT通用餐饮具身机器人发布会”在北京举行，以产品、平台、商业闭环、生态开放为关键节点，正式发布自研具身操作系统XOS 3.0、AI Agent产品“爱宝店长”，以及三款覆盖咖啡、冰淇淋、全场景服务的通用餐饮具身机器人新品。 三者共同构成“一脑多形”的完整智能体系。XOS 3.0：为“一脑多形”而生的具身操作系统作为爱宝店长背后的技术底座，XOS ",
+      "source": "雷峰网",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-02T10:09:00+00:00"
+    },
     {
       "title": "马斯克收购Mesh，打通卫星光通信「关键一步」",
       "url": "https://www.leiphone.com/category/ai/Kt66f2aNWvTzcMod.html",
       "summary": "2026年6月25日，美国联邦贸易委员会（FTC）在一份例行公告中，批准了马斯克对一家名为 Mesh Optical Technologies 初创公司的收购。Mesh此前在科技圈几乎无人知晓。这家总部位于洛杉矶的公司2025年创立，直到2026年2月Thrive Capital领投5000万美元A轮融资时才首次对外亮相，公开“存在感”仅4个月。但Mesh的三位创始人却是马斯克的“老熟人”。特拉维",
       "source": "雷峰网",
-      "time": "2h",
+      "time": "5h",
       "tags": [],
       "published_at": "2026-07-02T09:32:00+00:00"
     },
@@ -17,7 +53,7 @@
       "url": "https://www.leiphone.com/category/yanxishe/w6us4wphPrRD8x6g.html",
       "summary": "连 AI 的 “外壳” 都学会自我迭代了&nbsp; &nbsp; 作者丨高允毅&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
       "source": "雷峰网",
-      "time": "4h",
+      "time": "7h",
       "tags": [],
       "published_at": "2026-07-02T07:10:00+00:00"
     },
@@ -26,7 +62,7 @@
       "url": "https://www.leiphone.com/category/chips/EAd6eTSPIeOOy4j7.html",
       "summary": "6月，在德国汉堡ISC高性能计算大会的展台上，GPU、液冷、量子计算的声浪依旧汹涌，但今年，会场的主角悄悄换了人。IO500榜单——全球高性能计算存储领域最权威的评测体系——公布了最新一期结果：中科曙光ParaStor F9000分布式全闪存储系统，同时拿下生产型全节点和10节点两大榜单的第一名。在这一榜单近十年的历史中，能够同时统领这两个维度的，此前只有少数几家美国厂商，中科曙光成为首家达成此成",
       "source": "雷峰网",
-      "time": "5h",
+      "time": "8h",
       "tags": [],
       "published_at": "2026-07-02T06:16:00+00:00"
     },
@@ -35,7 +71,7 @@
       "url": "https://www.leiphone.com/category/private/sADR0wFJaCQinCZr.html",
       "summary": "作者｜吴思梦编辑｜岑峰&nbsp;引言：&nbsp;2016年6月，纽约。David Silver站到了ICML的讲台上，用66页幻灯片，从Q-Learning一路推到AlphaGo。他传递出一种信念：把深度网络嫁接到强化学习上，通用智能的涌现就只是算力和工程问题。彼时距AlphaGo在首尔4∶1击败李世石仅三个月。&nbsp;十年后的2025年7月，温哥华。Anca Dragan——Google",
       "source": "雷峰网",
-      "time": "6h",
+      "time": "9h",
       "tags": [],
       "published_at": "2026-07-02T05:36:00+00:00"
     },
@@ -44,7 +80,7 @@
       "url": "https://www.leiphone.com/category/industrynews/bm5j7ZigtfWU5sL5.html",
       "summary": "过去足球赛场上的高光瞬间回顾，往往需要剪辑师回看素材，找到进球、庆祝、慢动作回放和观众反应，再切片、包装、加字幕，最后分发到不同平台。链路长，人工重，能不能接到热点爆发的流量，考验的是人的经验和手速。现在这条链路被拆开重组，开始由模型和工具链来接管赛事高光视频的完整生产流程。在新的链路中，AI 已经可以实时理解直播流，识别镜头切换、音频变化、球员庆祝、裁判哨音等信号，在关键事件发生后快速返回高光片",
       "source": "雷峰网",
-      "time": "8h",
+      "time": "11h",
       "tags": [],
       "published_at": "2026-07-02T03:32:00+00:00"
     },
@@ -53,7 +89,7 @@
       "url": "https://www.leiphone.com/category/shengwuyiyao/5hR8USux68fILtr1.html",
       "summary": "6月30日，Anthropic和OpenAI同时在AI4S赛道投下了各自的筹码。Anthropic发布了科研智能体工作台Claude Science，明确表态“不依赖新模型”，通过工作流整合现有能力来承包科学家的日常研究流程。OpenAI推出了GeneBench-Pro，一套覆盖基因组学、定量生物学等10个领域的评测基准，其测试数据显示，在129个真实科研workflow题目中，即便是最强的GPT",
       "source": "雷峰网",
-      "time": "9h",
+      "time": "12h",
       "tags": [],
       "published_at": "2026-07-02T02:11:00+00:00"
     },
@@ -62,7 +98,7 @@
       "url": "https://www.leiphone.com/category/private/Nw1OlDVlsfqh1PJq.html",
       "summary": "首尔见，ICML见，新方向见。&nbsp; &nbsp; 作者丨吴思梦&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
       "source": "雷峰网",
-      "time": "10h",
+      "time": "12h",
       "tags": [],
       "published_at": "2026-07-02T01:48:00+00:00"
     },
@@ -71,7 +107,7 @@
       "url": "https://www.leiphone.com/category/zaobao/8xIKNxdh5DASn0Tj.html",
       "summary": "要闻提示1.美国最强AI公司被曝暗藏针对中国的“监视代码”，官方回应：将在更新中删除2.优必选CEO：珍惜做牛马的时光吧，20年后全是机器人干活3.小米人事调整：中国区总裁王晓雁不再兼任销售运营一部总经理，陈幕楠接任4.山姆砍单多个苹果涨价前已付款订单，转头加价600元新上架遭质疑5.百度持续加码AI技术投入：再次引入年轻技术人才6.消息称iPhone17价格即将迎来调整7.“家电不换成格力，凭什",
       "source": "雷峰网",
-      "time": "11h",
+      "time": "13h",
       "tags": [],
       "published_at": "2026-07-02T00:52:00+00:00"
     },
@@ -80,7 +116,7 @@
       "url": "https://www.leiphone.com/category/industrynews/CpoGYmsPl9BAuO0W.html",
       "summary": "过去一年，几乎所有人都在追问同一个问题： AI 大模型还能变得多聪明？Agent、多模态、端侧部署，构成了 AI 产业最热闹的叙事。但当 AI 开始进入眼镜、汽车、机器人、摄像头这些物理载体，开始在道路、工厂、家庭和人类交互之后，我们发现，现实世界和 AI 大模型之间，还有最后一公里的路没有打通。AI 眼镜要识别眼前的文字，Robotaxi 要判断周围路况，机器人要决定下一步动作。它们依赖的不只是",
       "source": "雷峰网",
-      "time": "21h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T14:05:00+00:00"
     },
@@ -89,7 +125,7 @@
       "url": "https://www.leiphone.com/category/industrynews/IUJkaiRJfWAKK6uy.html",
       "summary": "7月1日，赛力斯发布6月产销快报。6月问界交付新车30,199台，上半年累计交付同比增长10.2%。今年上半年，问界新品持续迭代升级，产品矩阵进一步丰富，迎来新一轮新品强周期。&nbsp;问界持续巩固高端市场地位 全新M9大定超4.2万二季度以来，问界高端产品结构优化升级，核心竞争力持续提升，市场反响热烈。全新一代问界M9系列上市一个月大定突破42000台；问界M6上市54天，累计交付超30000",
       "source": "雷峰网",
-      "time": "22h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T13:13:00+00:00"
     },
@@ -146,42 +182,6 @@
       "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T08:53:00+00:00"
-    },
-    {
-      "title": "百花奖联合即梦AI首设AIGC推优单元，即日启动全球征集",
-      "url": "https://www.leiphone.com/category/industrynews/zHXIS9N1aUAltixB.html",
-      "summary": "6月30日，第38届大众电影百花奖配套活动“AIGC推优单元”宣布启动全球作品征集，即梦AI作为该单元独家AIGC技术合作伙伴，为参赛创作者提供AI影像创作工具支持，并参与评审协同与创作者服务。大众电影百花奖由中国文学艺术界联合会和中国电影家协会主办，是中国电影领域具有广泛社会影响力的群众性电影奖项。此次在配套活动中联合即梦AI设立AIGC推优单元，是大众电影百花奖系列活动首次涉足AIGC领域。本",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-01T07:10:00+00:00"
-    },
-    {
-      "title": "他山科技联合图灵奖得主萨顿共建“机器人幼儿园”，具身智能从“模仿时代”迈向“经验时代”",
-      "url": "https://www.leiphone.com/category/industrynews/LaVawKu3UpUILUSR.html",
-      "summary": "雷峰网获悉，6月29日，“触碰真实·自主进化——机器人幼儿园启幕大会”在北京首钢园隆重举行。本次大会由他山科技与OpenMind Global Research共同发起，由北京具身智能研究院联合主办。大会上，由他山科技与2024年图灵奖得主、Openmind 全球研究院首席科学家理查德·萨顿（Richard Sutton）教授团队联合共建的“机器人幼儿园”正式揭牌。这是强化学习理论在具身智能领域的",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-01T06:18:00+00:00"
-    },
-    {
-      "title": "UC Berkeley Ken Goldberg 教授：具身数据规模落后十万年，你仍然相信数据万能吗？| ICRA 2026",
-      "url": "https://www.leiphone.com/category/industrynews/92jlrAw30yRS1lnt.html",
-      "summary": "雷峰网讯 数以十亿计的资金涌入具身智能行业，与此同时，这些机器人真正完成的有效工作却屈指可数。落地压力的迫近之下，VLA 等无模型方案和传统 Model-Based 路线之间的分歧是如此强烈，以至于某种程度上，甚至带上了意识形态的色彩。这成为了本届国际机器人与自动化会议（ICRA）现场最引人关注的话题。在会议第二天，UC Berkeley 教授 Ken Goldberg 发表了题为《Can GOF",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-01T05:45:00+00:00"
-    },
-    {
-      "title": "杀上闭源前沿，国产最强已经无法满足 GLM-5.2 了",
-      "url": "https://www.leiphone.com/category/industrynews/Zi0BnF17zHARAgxx.html",
-      "summary": "雷峰网讯 过去一周，AI 开发者圈讨论的焦点，已经不只是谁又发布了更强的模型，而是一个更现实的问题，谁还能稳定地调用到最强的模型？随着美国对于 Fable 5 调用的限制，顶级闭源模型的可获得性终于成为了悬在开发者头上的不确定因素。特别是对于已经把大模型深度接入代码生成、Agent 工作流和企业应用的团队来说，一个模型哪怕性能再强，只要存在访问受限、策略调整、价格波动或突然下架的风险，就跟“可靠的",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-01T05:42:00+00:00"
     }
   ]
 }

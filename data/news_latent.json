@@ -1,14 +1,23 @@
 {
   "source": "Latent Space",
   "layer": "newsletter",
-  "updated": "2026-07-02T19:54:47+08:00",
+  "updated": "2026-07-02T22:41:47+08:00",
   "items": [
+    {
+      "title": "Skill engineering and the case against one-shot AI design",
+      "url": "https://www.latent.space/p/skill-engineering-design",
+      "summary": "Paul Bakaus talks to us about Impeccable, human judgment in a 'loopmaxxing' era, and why agents still need people to steer them.",
+      "source": "Latent Space",
+      "time": "5m",
+      "tags": [],
+      "published_at": "2026-07-02T14:36:05+00:00"
+    },
     {
       "title": "[AINews] not much happened today",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-900",
       "summary": "another quiet day.",
       "source": "Latent Space",
-      "time": "4h",
+      "time": "7h",
       "tags": [],
       "published_at": "2026-07-02T07:10:14+00:00"
     },
@@ -17,7 +26,7 @@
       "url": "https://www.latent.space/p/aiewf-daily-dispatch-agency",
       "summary": "The software factory vision met resistance today from speakers defending human understanding and control.",
       "source": "Latent Space",
-      "time": "5h",
+      "time": "8h",
       "tags": [],
       "published_at": "2026-07-02T06:13:49+00:00"
     },
@@ -26,7 +35,7 @@
       "url": "https://www.latent.space/p/autoresearch-introspection",
       "summary": "Introspection co-founder Roland Gavrilescu explains autoresearch, agent &#8220;recipes,&#8221; self-improving loops, and why humans remain central to the software factory.",
       "source": "Latent Space",
-      "time": "12h",
+      "time": "14h",
       "tags": [],
       "published_at": "2026-07-01T23:52:30+00:00"
     },
@@ -35,7 +44,7 @@
       "url": "https://www.latent.space/p/cursor-forward-deployed-engineers",
       "summary": "Cursor's Pauline Brunet explains how her team of Forward Deployed Engineers help organizations implement agents &#8212; essentially setting up software factories.",
       "source": "Latent Space",
-      "time": "16h",
+      "time": "19h",
       "tags": [],
       "published_at": "2026-07-01T19:03:44+00:00"
     },
@@ -44,7 +53,7 @@
       "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
       "summary": "Why the Llama lead left Meta for drug discovery, PEARL's zero-shot OpenBind win, and what becomes possible when co-folding finally crosses the accuracy threshold.",
       "source": "Latent Space",
-      "time": "21h",
+      "time": "23h",
       "tags": [],
       "published_at": "2026-07-01T14:42:39+00:00"
     },
@@ -53,7 +62,7 @@
       "url": "https://www.latent.space/p/software-factories",
       "summary": "Warp's founder thinks every major software project will soon run on an automated factory. He discusses why and how engineers should prepare for this shift.",
       "source": "Latent Space",
-      "time": "21h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T14:28:23+00:00"
     },
@@ -83,15 +92,6 @@
       "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T00:20:18+00:00"
-    },
-    {
-      "title": "Ahmad Osman on why local AI is catching up",
-      "url": "https://www.latent.space/p/ahmad-osman-local-ai",
-      "summary": "After two packed AIEWF workshops, Ahmad Osman makes the case that local AI is catching up fast &#8212; from laptops and phones to enterprise-grade infrastructure.",
-      "source": "Latent Space",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-06-30T23:39:29+00:00"
     }
   ]
 }

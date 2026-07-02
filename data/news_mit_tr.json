@@ -1,14 +1,32 @@
 {
   "source": "MIT Tech Review",
   "layer": "news",
-  "updated": "2026-07-02T19:54:26+08:00",
+  "updated": "2026-07-02T22:41:32+08:00",
   "items": [
+    {
+      "title": "Teaching AI to run with the turbines",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in",
+      "source": "MIT Tech Review",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-02T12:51:44+00:00"
+    },
+    {
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startu",
+      "source": "MIT Tech Review",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-02T12:10:00+00:00"
+    },
     {
       "title": "Why California’s carbon manure math doesn’t add up",
       "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
       "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, enc",
       "source": "MIT Tech Review",
-      "time": "2h",
+      "time": "5h",
       "tags": [],
       "published_at": "2026-07-02T09:00:00+00:00"
     },
@@ -17,7 +35,7 @@
       "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
       "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll",
       "source": "MIT Tech Review",
-      "time": "21h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T14:35:16+00:00"
     },
@@ -26,7 +44,7 @@
       "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship prod",
       "source": "MIT Tech Review",
-      "time": "23h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T12:10:00+00:00"
     },
@@ -53,7 +71,7 @@
       "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming ",
       "source": "MIT Tech Review",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-06-30T12:10:00+00:00"
     },
@@ -62,7 +80,7 @@
       "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
       "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, ",
       "source": "MIT Tech Review",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-06-30T12:00:00+00:00"
     },
@@ -74,24 +92,6 @@
       "time": "2d",
       "tags": [],
       "published_at": "2026-06-30T10:23:30+00:00"
-    },
-    {
-      "title": "AI agents are not your “coworkers”",
-      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will r",
-      "source": "MIT Tech Review",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-06-29T18:00:00+00:00"
-    },
-    {
-      "title": "Agent confidence on the technical frontier",
-      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mount",
-      "source": "MIT Tech Review",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-06-29T14:44:01+00:00"
     }
   ]
 }

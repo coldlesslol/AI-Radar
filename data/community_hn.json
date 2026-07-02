@@ -1,187 +1,187 @@
 {
   "source": "HN",
   "layer": "community",
-  "updated": "2026-07-02T19:54:31+08:00",
+  "updated": "2026-07-02T22:41:37+08:00",
   "items": [
     {
-      "title": "Meta building cloud business to sell excess AI capacity",
-      "url": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
-      "summary": "Article URL: https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/ Comments URL: https://news.ycombinator.com/item?id=48759329 P",
+      "title": "Show HN: ZeroFS – A log-structured filesystem for S3",
+      "url": "https://www.zerofs.net/",
+      "summary": "Article URL: https://www.zerofs.net/ Comments URL: https://news.ycombinator.com/item?id=48761493 Points: 34 # Comments: 12",
       "source": "HN",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-02T10:43:41+00:00"
+      "published_at": "2026-07-02T13:41:11+00:00"
     },
     {
-      "title": "Nvidia offers startup customers chance to swap compute power for revenue share",
-      "url": "https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html Comments URL: https://news.ycombinator.com/item?id=48759308 Points: 12 # Comm",
+      "title": "How to ask for help from people who don't know you",
+      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+      "summary": "Article URL: https://pradyuprasad.com/writings/how-to-ask-for-help/ Comments URL: https://news.ycombinator.com/item?id=48761118 Points: 3 # Comments: 0",
       "source": "HN",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-02T10:41:33+00:00"
+      "published_at": "2026-07-02T13:19:22+00:00"
+    },
+    {
+      "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
+      "summary": "Article URL: https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci Comments URL: https://news.ycombinator.com/item?id=48761068 Points: 0 # Comments: 0",
+      "source": "HN",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-02T13:14:57+00:00"
+    },
+    {
+      "title": "Winamp Skin Museum",
+      "url": "https://skins.webamp.org",
+      "summary": "Article URL: https://skins.webamp.org Comments URL: https://news.ycombinator.com/item?id=48760840 Points: 29 # Comments: 9",
+      "source": "HN",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-02T12:58:55+00:00"
+    },
+    {
+      "title": "Germany’s Infineon opens major chip plant as EU seeks tech autonomy",
+      "url": "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy",
+      "summary": "Article URL: https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy Comments URL: https://news.ycombinator.com/item?id=48760669 Points: 3",
+      "source": "HN",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-02T12:46:31+00:00"
+    },
+    {
+      "title": "AI fake news complaining about how AI fake news is the death of real news",
+      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+      "summary": "Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 P",
+      "source": "HN",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-02T12:40:36+00:00"
+    },
+    {
+      "title": "This blog is written in en-GB",
+      "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/ Comments URL: https://news.ycombinator.com/item?id=48760289 Points: 268 # Comments: 237",
+      "source": "HN",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-02T12:17:33+00:00"
+    },
+    {
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "url": "https://arxiv.org/abs/2607.01232",
+      "summary": "Article URL: https://arxiv.org/abs/2607.01232 Comments URL: https://news.ycombinator.com/item?id=48760201 Points: 34 # Comments: 8",
+      "source": "HN",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-02T12:10:24+00:00"
+    },
+    {
+      "title": "Many people misunderstand the purpose of code review",
+      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+      "summary": "Article URL: https://mathstodon.xyz/@mjd/115096720350507897 Comments URL: https://news.ycombinator.com/item?id=48759870 Points: 74 # Comments: 44",
+      "source": "HN",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-02T11:41:27+00:00"
+    },
+    {
+      "title": "Vite+ Beta",
+      "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+      "summary": "Article URL: https://voidzero.dev/posts/announcing-vite-plus-beta Comments URL: https://news.ycombinator.com/item?id=48759761 Points: 126 # Comments: 76",
+      "source": "HN",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-02T11:30:01+00:00"
+    },
+    {
+      "title": "Orbital Data Centers: Why the Hype Outpaces Reality",
+      "url": "https://spectrum.ieee.org/orbital-data-center-hype",
+      "summary": "Article URL: https://spectrum.ieee.org/orbital-data-center-hype Comments URL: https://news.ycombinator.com/item?id=48759256 Points: 10 # Comments: 4",
+      "source": "HN",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-02T10:35:17+00:00"
+    },
+    {
+      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
+      "url": "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0",
+      "summary": "Article URL: https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0 Comments URL: https://news.ycombinator.com/item?id=48758970 Points: 222 # Comments: 130",
+      "source": "HN",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-02T10:00:27+00:00"
     },
     {
       "title": "Google loses fight over record $4.7B EU antitrust fine",
       "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html Comments URL: https://news.ycombinator.com/item?id=48758309 Points: 120 # Comments: ",
+      "summary": "Article URL: https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html Comments URL: https://news.ycombinator.com/item?id=48758309 Points: 222 # Comments: ",
       "source": "HN",
-      "time": "3h",
+      "time": "6h",
       "tags": [],
       "published_at": "2026-07-02T08:34:13+00:00"
     },
     {
-      "title": "The Fall of the Theorem Economy",
+      "title": "The fall of the theorem economy",
       "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-      "summary": "Article URL: https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy Comments URL: https://news.ycombinator.com/item?id=48758048 Points: 81 # Comments: 31",
+      "summary": "Article URL: https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy Comments URL: https://news.ycombinator.com/item?id=48758048 Points: 137 # Comments: 56",
       "source": "HN",
-      "time": "3h",
+      "time": "6h",
       "tags": [],
       "published_at": "2026-07-02T08:01:15+00:00"
     },
     {
-      "title": "CursorBench 3.1",
-      "url": "https://cursor.com/evals",
-      "summary": "Article URL: https://cursor.com/evals Comments URL: https://news.ycombinator.com/item?id=48756840 Points: 79 # Comments: 49",
-      "source": "HN",
-      "time": "6h",
-      "tags": [],
-      "published_at": "2026-07-02T05:19:34+00:00"
-    },
-    {
       "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-      "summary": "Article URL: https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/ Comments URL: https://news.ycombinator.com/item?id=48756602 Points: 193 # Comments: 83",
+      "summary": "Article URL: https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/ Comments URL: https://news.ycombinator.com/item?id=48756602 Points: 271 # Comments: 112",
       "source": "HN",
-      "time": "7h",
+      "time": "10h",
       "tags": [],
       "published_at": "2026-07-02T04:32:41+00:00"
     },
     {
-      "title": "A new Android malware from Google",
+      "title": "Android Developer Verification: Threat masquerading as Protection",
       "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "summary": "Article URL: https://f-droid.org/2026/07/01/adv-malware.html Comments URL: https://news.ycombinator.com/item?id=48755965 Points: 759 # Comments: 300",
+      "summary": "Article URL: https://f-droid.org/2026/07/01/adv-malware.html Comments URL: https://news.ycombinator.com/item?id=48755965 Points: 1070 # Comments: 433",
       "source": "HN",
-      "time": "8h",
+      "time": "11h",
       "tags": [],
       "published_at": "2026-07-02T03:00:15+00:00"
     },
     {
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "url": "https://senior-swe-bench.snorkel.ai/",
-      "summary": "Article URL: https://senior-swe-bench.snorkel.ai/ Comments URL: https://news.ycombinator.com/item?id=48755928 Points: 103 # Comments: 78",
-      "source": "HN",
-      "time": "8h",
-      "tags": [],
-      "published_at": "2026-07-02T02:55:16+00:00"
-    },
-    {
       "title": "Bring back crappy forums",
       "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-      "summary": "Article URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/ Comments URL: https://news.ycombinator.com/item?id=48755731 Points: 321 # Comments: 200",
+      "summary": "Article URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/ Comments URL: https://news.ycombinator.com/item?id=48755731 Points: 406 # Comments: 258",
       "source": "HN",
-      "time": "9h",
+      "time": "12h",
       "tags": [],
       "published_at": "2026-07-02T02:30:16+00:00"
     },
     {
       "title": "Oomwoo, an open-source robot vacuum you build yourself",
       "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "summary": "Article URL: https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/ Comments URL: https://news.ycombinator.com/item?id=48755005 Points: 337 # Comments: 63",
-      "source": "HN",
-      "time": "11h",
-      "tags": [],
-      "published_at": "2026-07-02T00:48:01+00:00"
-    },
-    {
-      "title": "The Underhanded C Contest",
-      "url": "https://underhanded-c.org/",
-      "summary": "Article URL: https://underhanded-c.org/ Comments URL: https://news.ycombinator.com/item?id=48754080 Points: 101 # Comments: 12",
+      "summary": "Article URL: https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/ Comments URL: https://news.ycombinator.com/item?id=48755005 Points: 390 # Comments: 73",
       "source": "HN",
       "time": "13h",
       "tags": [],
-      "published_at": "2026-07-01T22:39:15+00:00"
+      "published_at": "2026-07-02T00:48:01+00:00"
     },
     {
       "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
       "summary": "Article URL: https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/ Comments URL: https://news.ycombinator.com",
       "source": "HN",
-      "time": "13h",
+      "time": "16h",
       "tags": [],
       "published_at": "2026-07-01T22:27:47+00:00"
     },
     {
       "title": "ZCode – Harness for GLM-5.2",
       "url": "https://zcode.z.ai/en",
-      "summary": "Article URL: https://zcode.z.ai/en Comments URL: https://news.ycombinator.com/item?id=48753715 Points: 417 # Comments: 297",
+      "summary": "Article URL: https://zcode.z.ai/en Comments URL: https://news.ycombinator.com/item?id=48753715 Points: 461 # Comments: 313",
       "source": "HN",
-      "time": "13h",
+      "time": "16h",
       "tags": [],
       "published_at": "2026-07-01T22:03:36+00:00"
-    },
-    {
-      "title": "Qualcomm Linux 2.0",
-      "url": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
-      "summary": "Article URL: https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available Comments URL: https://news.ycombinator.com/item?id=48753069 Points: 116 # Comments: 51",
-      "source": "HN",
-      "time": "14h",
-      "tags": [],
-      "published_at": "2026-07-01T21:01:42+00:00"
-    },
-    {
-      "title": "Proliferate (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer Comments URL: https://news.ycombinator.com/item?id=48753045 Points: 0 # Comments: 0",
-      "source": "HN",
-      "time": "14h",
-      "tags": [],
-      "published_at": "2026-07-01T21:00:14+00:00"
-    },
-    {
-      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
-      "url": "https://www.workerowned.info/",
-      "summary": "Article URL: https://www.workerowned.info/ Comments URL: https://news.ycombinator.com/item?id=48752905 Points: 364 # Comments: 69",
-      "source": "HN",
-      "time": "15h",
-      "tags": [],
-      "published_at": "2026-07-01T20:47:41+00:00"
-    },
-    {
-      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-      "url": "https://www.weaverobotics.com/isaac-1",
-      "summary": "https://runtimewire.com/article/weave-robotics-isaac-1-home-... Comments URL: https://news.ycombinator.com/item?id=48750989 Points: 194 # Comments: 281",
-      "source": "HN",
-      "time": "17h",
-      "tags": [],
-      "published_at": "2026-07-01T18:12:18+00:00"
-    },
-    {
-      "title": "Learn Vim motions with an ice-cream van",
-      "url": "https://thisismodest.com/vimscoops/",
-      "summary": "Article URL: https://thisismodest.com/vimscoops/ Comments URL: https://news.ycombinator.com/item?id=48750803 Points: 78 # Comments: 26",
-      "source": "HN",
-      "time": "17h",
-      "tags": [],
-      "published_at": "2026-07-01T18:00:07+00:00"
-    },
-    {
-      "title": "What to learn to be a graphics programmer",
-      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-      "summary": "Article URL: https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/ Comments URL: https://news.ycombinator.com/item?id=48750710 Points: 370 # Comments: 188",
-      "source": "HN",
-      "time": "18h",
-      "tags": [],
-      "published_at": "2026-07-01T17:53:44+00:00"
-    },
-    {
-      "title": "Ask HN: Who is hiring? (July 2026)",
-      "url": "https://news.ycombinator.com/item?id=48747976",
-      "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are p",
-      "source": "HN",
-      "time": "20h",
-      "tags": [],
-      "published_at": "2026-07-01T15:01:21+00:00"
     }
   ]
 }

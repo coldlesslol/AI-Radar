@@ -1,14 +1,50 @@
 {
   "source": "Techmeme",
   "layer": "news",
-  "updated": "2026-07-02T19:54:12+08:00",
+  "updated": "2026-07-02T22:41:24+08:00",
   "items": [
+    {
+      "title": "Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip (Qianer Liu/The Information)",
+      "url": "https://www.theinformation.com/articles/anthropic-talks-samsung-manufacture-custom-ai-chip",
+      "summary": "Qianer Liu / The Information: Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip&nbsp; &mdas",
+      "source": "Techmeme",
+      "time": "46m",
+      "tags": [],
+      "published_at": "2026-07-02T13:55:01+00:00"
+    },
+    {
+      "title": "Global VC funding hit a record $510B in H1 2026, with OpenAI and Anthropic accounting for $217B, or 43% of the total; in Q2, VCs put $205B into 5K+ startups (Gené Teare/Crunchbase News)",
+      "url": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
+      "summary": "Gen&eacute; Teare / Crunchbase News: Global VC funding hit a record $510B in H1 2026, with OpenAI and Anthropic accounting for $217B, or 43% of the total; in Q2, VCs put $205B into 5K+ startups&nbsp; ",
+      "source": "Techmeme",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-02T13:40:01+00:00"
+    },
+    {
+      "title": "Microsoft establishes an organization with 6,000 staff specializing in engineering, corporate training, and management to support businesses with AI deployments (Todd Bishop/GeekWire)",
+      "url": "https://www.geekwire.com/2026/microsoft-announces-2-5b-frontier-company-to-embed-ai-engineers-inside-customers/",
+      "summary": "Todd Bishop / GeekWire: Microsoft establishes an organization with 6,000 staff specializing in engineering, corporate training, and management to support businesses with AI deployments&nbsp; &mdash;&n",
+      "source": "Techmeme",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-02T13:15:01+00:00"
+    },
+    {
+      "title": "Sam Altman proposes a \"US-led international forum\" to establish AI standards, provide analysis of capabilities and risks, and make AI available to allies (Sam Altman/Financial Times)",
+      "url": "https://www.techmeme.com/260702/p21#a260702p21",
+      "summary": "Sam Altman / Financial Times: Sam Altman proposes a &ldquo;US-led international forum&rdquo; to establish AI standards, provide analysis of capabilities and risks, and make AI available to allies&nbsp",
+      "source": "Techmeme",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-02T12:00:42+00:00"
+    },
     {
       "title": "SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by 2030 (Min-Jeong Lee/Bloomberg)",
       "url": "https://www.bloomberg.com/news/articles/2026-07-02/softbank-launches-ai-cloud-unit-with-plans-to-tap-10-gigawatt-capacity",
       "summary": "Min-Jeong Lee / Bloomberg: SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by 2030&nbsp; &mdash;&nbsp; S",
       "source": "Techmeme",
-      "time": "4m",
+      "time": "2h",
       "tags": [],
       "published_at": "2026-07-02T11:50:10+00:00"
     },
@@ -17,16 +53,16 @@
       "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
       "summary": "Michael Nu&ntilde;ez / VentureBeat: Z.ai launches ZCode, an &ldquo;Agentic Development Environment&rdquo; optimized for its new GLM-5.2 model; Z.ai's GLM Coding Plan costs from $16.20 to $144 per mont",
       "source": "Techmeme",
-      "time": "34m",
+      "time": "3h",
       "tags": [],
       "published_at": "2026-07-02T11:20:12+00:00"
     },
     {
-      "title": "Filings: President Trump purchased up to $5M each in Broadcom, Meta, Amazon, Apple, Microsoft, and Nvidia stocks on July 23, the same day as his AI action plan (New York Times)",
+      "title": "Filings: Trump purchased up to $5M each in Broadcom, Meta, Amazon, Apple, Microsoft, and Nvidia stocks on July 23, the same day he unveiled his AI action plan (New York Times)",
       "url": "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html?unlocked_article_code=1.uVA.MIkb.09sjYfuX5frT&amp;smid=url-share",
-      "summary": "New York Times: Filings: President Trump purchased up to $5M each in Broadcom, Meta, Amazon, Apple, Microsoft, and Nvidia stocks on July 23, the same day as his AI action plan&nbsp; &mdash;&nbsp; Pres",
+      "summary": "New York Times: Filings: Trump purchased up to $5M each in Broadcom, Meta, Amazon, Apple, Microsoft, and Nvidia stocks on July 23, the same day he unveiled his AI action plan&nbsp; &mdash;&nbsp; Presi",
       "source": "Techmeme",
-      "time": "48m",
+      "time": "3h",
       "tags": [],
       "published_at": "2026-07-02T11:05:22+00:00"
     },
@@ -35,7 +71,7 @@
       "url": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
       "summary": "Thomas Ricker / The Verge: Amazon says Leo reached 396 satellites in low-Earth orbit following a recent launch, which is &ldquo;enough to support continuous service across initial latitudes&rdquo;&nbs",
       "source": "Techmeme",
-      "time": "59m",
+      "time": "3h",
       "tags": [],
       "published_at": "2026-07-02T10:55:00+00:00"
     },
@@ -44,7 +80,7 @@
       "url": "https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html?unlocked_article_code=1.ulA.FGZt.VxL32ZdmHEsJ&amp;smid=nytcore-ios-share",
       "summary": "Jim Tankersley / New York Times: German software giant SAP says it is encouraging workers to invent new, more valuable jobs aided by AI, in a bid to avoid layoffs; SAP cut ~10K staff in 2024&nbsp; &md",
       "source": "Techmeme",
-      "time": "1h",
+      "time": "3h",
       "tags": [],
       "published_at": "2026-07-02T10:45:01+00:00"
     },
@@ -53,7 +89,7 @@
       "url": "https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us",
       "summary": "Joe Warminsky / The Record: The US DOJ says Peter Stokes, a 19-year-old dual US-Estonian citizen, was extradited from Finland to face charges of participating in Scattered Spider hacks&nbsp; &mdash;&n",
       "source": "Techmeme",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T10:25:00+00:00"
     },
@@ -62,7 +98,7 @@
       "url": "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html",
       "summary": "New York Times: President Trump says Micron will invest $250M in Trump Accounts; Micron says it will come via an employee matching program and a $250 deposit in some US states&nbsp; &mdash;&nbsp; Pres",
       "source": "Techmeme",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T10:10:00+00:00"
     },
@@ -71,7 +107,7 @@
       "url": "https://www.nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446",
       "summary": "Samantha Elkins / NBC News: Cloudflare sets a September 15 deadline for AI companies to differentiate their web crawlers into search, AI training, and AI agents or face being blocked&nbsp; &mdash;&nbs",
       "source": "Techmeme",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T10:00:00+00:00"
     },
@@ -80,7 +116,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-02/quantum-systems-more-than-doubles-valuation-to-8-billion-in-new-round",
       "summary": "Yazhou Sun / Bloomberg: Germany-based Quantum Systems, which sells surveillance drones used by Ukraine, raised $1.2B led by Blackstone, Noteus, Airbus, and Advent at an ~$8B valuation&nbsp; &mdash;&nb",
       "source": "Techmeme",
-      "time": "2h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T09:50:04+00:00"
     },
@@ -89,54 +125,18 @@
       "url": "https://www.cnbc.com/2026/07/02/amazon-ai-chips-devices.html",
       "summary": "Arjun Kharpal / CNBC: An interview with Amazon SVP of Devices Panos Panay on designing custom chips for Echo and Fire TV devices, experimenting with AI-enabled gadgets, and more&nbsp; &mdash;&nbsp; Am",
       "source": "Techmeme",
-      "time": "2h",
+      "time": "5h",
       "tags": [],
       "published_at": "2026-07-02T08:55:01+00:00"
     },
     {
-      "title": "The European Court of Justice rules that Google's earlier defeat against a €4.1B European Commission penalty over abusing Android market power should stand (Bloomberg)",
+      "title": "The European Court of Justice rules that Google's earlier defeat against a €4.1B European Commission penalty over abusing Android's market power should stand (Bloomberg)",
       "url": "https://www.bloomberg.com/news/articles/2026-07-02/google-loses-eu-court-fight-over-4-1-billion-android-fine",
-      "summary": "Bloomberg: The European Court of Justice rules that Google's earlier defeat against a &euro;4.1B European Commission penalty over abusing Android market power should stand&nbsp; &mdash;&nbsp; Google l",
-      "source": "Techmeme",
-      "time": "3h",
-      "tags": [],
-      "published_at": "2026-07-02T08:40:03+00:00"
-    },
-    {
-      "title": "A look at the CSOP SK Hynix Leveraged ETF, which trades in Hong Kong and has ballooned into a $13B fund, becoming the world's largest single-stock leveraged ETF (Bloomberg)",
-      "url": "https://www.bloomberg.com/news/features/2026-07-01/how-a-13-billion-leveraged-etf-drives-volatility-in-a-key-ai-memory-stock?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mjk3MjQ3NywiZXhwIjoxNzgzNTc3Mjc3LCJhcnRpY2xlSWQiOiJUSElMMEtLSVAzSjQwMCIsImJjb25uZWN0SWQiOiI0NjFFOUQ2MTU1RDM0RjcxOTZBMTk0OTg2MTk3NUM3OSJ9.HYRyAigt2YC00yG9q9og2BqrLqTXjRC0cfIGETIxIrQ",
-      "summary": "Bloomberg: A look at the CSOP SK Hynix Leveraged ETF, which trades in Hong Kong and has ballooned into a $13B fund, becoming the world's largest single-stock leveraged ETF&nbsp; &mdash;&nbsp; A Hong K",
-      "source": "Techmeme",
-      "time": "3h",
-      "tags": [],
-      "published_at": "2026-07-02T08:30:04+00:00"
-    },
-    {
-      "title": "A survey of US adults finds 56% support banning social media for under-16s, while 21% oppose; majorities across demographic and partisan groups support a ban (Pew Research Center)",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/01/majority-of-americans-support-banning-social-media-for-kids-under-16/",
-      "summary": "Pew Research Center: A survey of US adults finds 56% support banning social media for under-16s, while 21% oppose; majorities across demographic and partisan groups support a ban&nbsp; &mdash;&nbsp; N",
-      "source": "Techmeme",
-      "time": "5h",
-      "tags": [],
-      "published_at": "2026-07-02T06:30:01+00:00"
-    },
-    {
-      "title": "Nansen: about two-thirds of Trump's memecoin investors are currently in the red, and 85% of World Liberty's $WLFI buyers on the secondary market are underwater (Wall Street Journal)",
-      "url": "https://www.wsj.com/finance/currencies/trump-made-1-billion-on-crypto-deals-while-his-fans-lost-a-fortune-408754c9?st=EqVyz4&amp;reflink=desktopwebshare_permalink",
-      "summary": "Wall Street Journal: Nansen: about two-thirds of Trump's memecoin investors are currently in the red, and 85% of World Liberty's $WLFI buyers on the secondary market are underwater&nbsp; &mdash;&nbsp;",
-      "source": "Techmeme",
-      "time": "5h",
-      "tags": [],
-      "published_at": "2026-07-02T06:00:43+00:00"
-    },
-    {
-      "title": "UK lawyers say the tide of AI-assisted employment claims is straining an already overloaded employment tribunal system, whose backlog has doubled in two years (Delphine Strauss/Financial Times)",
-      "url": "https://www.ft.com/content/f2b02e7d-c3ca-42d0-a575-ea1f62550900",
-      "summary": "Delphine Strauss / Financial Times: UK lawyers say the tide of AI-assisted employment claims is straining an already overloaded employment tribunal system, whose backlog has doubled in two years&nbsp;",
+      "summary": "Bloomberg: The European Court of Justice rules that Google's earlier defeat against a &euro;4.1B European Commission penalty over abusing Android's market power should stand&nbsp; &mdash;&nbsp; Google",
       "source": "Techmeme",
       "time": "6h",
       "tags": [],
-      "published_at": "2026-07-02T05:50:03+00:00"
+      "published_at": "2026-07-02T08:40:03+00:00"
     }
   ]
 }

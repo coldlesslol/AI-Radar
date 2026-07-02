@@ -1,14 +1,23 @@
 {
   "source": "量子位",
   "layer": "news",
-  "updated": "2026-07-02T19:54:26+08:00",
+  "updated": "2026-07-02T22:41:32+08:00",
   "items": [
+    {
+      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+      "url": "https://www.qbitai.com/2026/07/442134.html",
+      "summary": "与社区共同推进自演进智能体生态发展",
+      "source": "量子位",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-02T11:28:36+00:00"
+    },
     {
       "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
       "url": "https://www.qbitai.com/2026/07/442047.html",
       "summary": "霸榜OpenR ou",
       "source": "量子位",
-      "time": "58m",
+      "time": "3h",
       "tags": [],
       "published_at": "2026-07-02T10:56:23+00:00"
     },
@@ -17,7 +26,7 @@
       "url": "https://www.qbitai.com/2026/07/442048.html",
       "summary": "",
       "source": "量子位",
-      "time": "1h",
+      "time": "3h",
       "tags": [],
       "published_at": "2026-07-02T10:45:31+00:00"
     },
@@ -26,7 +35,7 @@
       "url": "https://www.qbitai.com/2026/07/442037.html",
       "summary": "7月17日至7月20日",
       "source": "量子位",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T10:29:03+00:00"
     },
@@ -35,7 +44,7 @@
       "url": "https://www.qbitai.com/2026/07/442030.html",
       "summary": "和人并肩工作",
       "source": "量子位",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T10:24:32+00:00"
     },
@@ -44,7 +53,7 @@
       "url": "https://www.qbitai.com/2026/07/442024.html",
       "summary": "AI 硬件的终局不是比拼参数，而是比拼背后有没有一个真正的企业级 AI 协作平台",
       "source": "量子位",
-      "time": "3h",
+      "time": "6h",
       "tags": [],
       "published_at": "2026-07-02T08:03:00+00:00"
     },
@@ -53,7 +62,7 @@
       "url": "https://www.qbitai.com/2026/07/442016.html",
       "summary": "7月13-17日，澳大利亚悉尼",
       "source": "量子位",
-      "time": "4h",
+      "time": "7h",
       "tags": [],
       "published_at": "2026-07-02T07:33:10+00:00"
     },
@@ -62,7 +71,7 @@
       "url": "https://www.qbitai.com/2026/07/441790.html",
       "summary": "最大客户赛力斯，一单贡献全年三成收入",
       "source": "量子位",
-      "time": "4h",
+      "time": "7h",
       "tags": [],
       "published_at": "2026-07-02T07:16:15+00:00"
     },
@@ -71,7 +80,7 @@
       "url": "https://www.qbitai.com/2026/07/441786.html",
       "summary": "其中AI短剧平台业务ARR超过7亿美元",
       "source": "量子位",
-      "time": "5h",
+      "time": "8h",
       "tags": [],
       "published_at": "2026-07-02T06:23:10+00:00"
     },
@@ -80,18 +89,9 @@
       "url": "https://www.qbitai.com/2026/07/441725.html",
       "summary": "具身智能数采迎来了新范式",
       "source": "量子位",
-      "time": "6h",
+      "time": "8h",
       "tags": [],
       "published_at": "2026-07-02T05:44:25+00:00"
-    },
-    {
-      "title": "2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！",
-      "url": "https://www.qbitai.com/2026/07/441586.html",
-      "summary": "AI入场景，Token大时代。",
-      "source": "量子位",
-      "time": "6h",
-      "tags": [],
-      "published_at": "2026-07-02T05:33:37+00:00"
     }
   ]
 }

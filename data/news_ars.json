@@ -1,14 +1,14 @@
 {
   "source": "Ars Technica",
   "layer": "news",
-  "updated": "2026-07-02T19:54:24+08:00",
+  "updated": "2026-07-02T22:41:30+08:00",
   "items": [
     {
       "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
       "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
       "summary": "Google tries balancing AI data center emissions with clean energy efforts.",
       "source": "Ars Technica",
-      "time": "38m",
+      "time": "3h",
       "tags": [],
       "published_at": "2026-07-02T11:15:49+00:00"
     },
@@ -17,7 +17,7 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
       "summary": "US lifts curbs on Anthropic’s advanced Fable and Mythos models.",
       "source": "Ars Technica",
-      "time": "19h",
+      "time": "21h",
       "tags": [],
       "published_at": "2026-07-01T16:44:18+00:00"
     },

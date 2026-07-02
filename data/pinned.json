@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T12:40:20.688125+00:00",
+  "updated": "2026-07-02T14:49:29.024399+00:00",
   "items": [
     {
       "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
@@ -117,6 +117,67 @@
       "auto": true
     },
     {
+      "title": "Claude Sonnet 5 上线一日差评刷屏：打不过千问和 Minimax，性价比全面翻车",
+      "url": "https://www.leiphone.com/category/yanxishe/GLDTfDIWau83OKGC.html",
+      "summary_cn": "Anthropic 发布 Claude Sonnet 5（主打规划、执行与完成任务的 Agent 能力），但上线首日中文测评差评刷屏，被指性价比翻车、在部分测试中打不过千问和 MiniMax。",
+      "sources": [
+        "雷峰网",
+        "Product Hunt",
+        "TLDR AI",
+        "Latent Space"
+      ],
+      "relevance_score": 1.0,
+      "category": "模型发布",
+      "pinned_at": "2026-07-02T14:49:29.024399+00:00",
+      "expires_at": "2026-07-16T14:49:29.024399+00:00",
+      "auto": true
+    },
+    {
+      "title": "月之暗面Kimi半年融资超39亿美元，投前估值升至315亿美元 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRYmVEUndEWEpHZ2tSWEpUbWtjV19WWXNxZUlGSjNTYzNXOUJWTktSX3otWUpGdzRsMkZURHY5a3RhNVQxcEI2RHloaXJLWkY1U2hPbUx1Z3Bqc1NE?oc=5",
+      "summary_cn": "月之暗面 Kimi 半年累计融资超 39 亿美元，投前估值升至 315 亿美元，ARR 迈入 3 亿美元高速增长期，成为国产大模型头部玩家的融资标杆。",
+      "sources": [
+        "电子工程专辑",
+        "搜狐网",
+        "新浪网",
+        "36kr"
+      ],
+      "relevance_score": 1.0,
+      "category": "融资并购",
+      "pinned_at": "2026-07-02T14:49:29.024399+00:00",
+      "expires_at": "2026-07-16T14:49:29.024399+00:00",
+      "auto": true
+    },
+    {
+      "title": "豆包付费靴子落地字 节跳动直面AI算力、定价、商业化博弈 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nLV8tN245T2xLTTVNVkl5UHpzWERxRmQ5RGJVOW4xSUlDU0NsVExUVTFYR005WjBrdWtWNUZhaDM5RHowUDRVYXdnakRvYi1lYjQ1cUlPR0s3V1Ix?oc=5",
+      "summary_cn": "字节跳动豆包推出专业版付费订阅，标志其 AI 商业化落地，直面算力成本、定价与商业模式博弈，被解读为字节'AI 梭哈 To B'战略的第一步。",
+      "sources": [
+        "证券时报",
+        "36kr",
+        "虎嗅",
+        "DoNews"
+      ],
+      "relevance_score": 1.0,
+      "category": "产品动态",
+      "pinned_at": "2026-07-02T14:49:29.024399+00:00",
+      "expires_at": "2026-07-16T14:49:29.024399+00:00",
+      "auto": true
+    },
+    {
+      "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
+      "summary_cn": "AI Engineer World's Fair 系列观察：围绕'循环(loops)'、Agent 工程、软件工厂与前向部署工程师(FDE)的密集讨论，映射自演进 Agent、autoresearch 与人机协作的行业新范式。",
+      "sources": [
+        "Latent Space"
+      ],
+      "relevance_score": 1.0,
+      "category": "行业动态",
+      "pinned_at": "2026-07-02T14:49:29.024399+00:00",
+      "expires_at": "2026-07-16T14:49:29.024399+00:00",
+      "auto": true
+    },
+    {
       "title": "Sources: OpenAI has discussed giving a 5% stake to the US government as the company seeks to clear political obstacles by securing buy-in from the Trump admin (Financial Times)",
       "url": "https://www.techmeme.com/260702/p1#a260702p1",
       "summary_cn": "OpenAI 与美国政府展开初步讨论，提议向政府提供约5%股权，以换取特朗普政府对 AI 产业的政策支持并缓解监管阻力。",
@@ -176,6 +237,21 @@
       "auto": true
     },
     {
+      "title": "Z.ai launches ZCode, an \"Agentic Development Environment\" optimized for its new GLM-5.2 model; Z.ai's GLM Coding Plan costs from $16.20 to $144 per month (Michael Nuñez/VentureBeat)",
+      "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+      "summary_cn": "Z.ai 发布为 GLM-5.2 优化的 Agentic 开发环境 ZCode，GLM Coding Plan 月费从 16.2 至 144 美元不等，海外开发者反响热烈。",
+      "sources": [
+        "Techmeme(VentureBeat)",
+        "HN",
+        "TLDR AI"
+      ],
+      "relevance_score": 0.96,
+      "category": "产品动态",
+      "pinned_at": "2026-07-02T14:49:29.024399+00:00",
+      "expires_at": "2026-07-16T14:49:29.024399+00:00",
+      "auto": true
+    },
+    {
       "title": "Anthropic、OpenAI同一天落子AI4S赛道，巨头混战从「拼模型」转向「卡生态」",
       "url": "https://www.leiphone.com/category/shengwuyiyao/5hR8USux68fILtr1.html",
       "summary_cn": "Anthropic 与 OpenAI 同日布局 AI4S 科研赛道，Anthropic 推出科研智能体工作台 Claude Science，强调不依赖新模型而靠工作流整合现有能力，巨头竞争从拼模型转向卡生态。",
@@ -187,6 +263,21 @@
       "category": "产品动态",
       "pinned_at": "2026-07-02T04:38:49.767584+00:00",
       "expires_at": "2026-07-16T04:38:49.767584+00:00",
+      "auto": true
+    },
+    {
+      "title": "卷不赢模型，Meta改行「算力包租公」！一夜炸崩美股AI链 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0R1WVRxQWQxdXExMXhFRl9xLUlCbEoyQm9yaUxseFlOdFEtSjA5VnM2blNzcXFFT0pHbG95V1dFTjBBRkVONVZ2OVZ0MHliY1dSel9Xc3F3bFBOZVNrb2g2VUFTN0pxWmhHdGp3d01MdklfVFJWR2pOZ2FnNDR2VGw4WWQ1QmFZ?oc=5",
+      "summary_cn": "Meta 转向对外出租/变卖算力'当包租公'，一度炸崩美股 AI 产业链（寒武纪等大跌），引发市场对 AI 基建泡沫与算力过剩的讨论，亦有业内人士称'算力过剩'系误读。",
+      "sources": [
+        "新智元",
+        "钛媒体",
+        "36kr"
+      ],
+      "relevance_score": 0.91,
+      "category": "算力供应链",
+      "pinned_at": "2026-07-02T14:49:29.024399+00:00",
+      "expires_at": "2026-07-16T14:49:29.024399+00:00",
       "auto": true
     },
     {
