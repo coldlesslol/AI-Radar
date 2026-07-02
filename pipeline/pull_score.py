@@ -20,6 +20,7 @@ from __future__ import annotations
 import json
 import shutil
 import subprocess
+from datetime import datetime, timezone, timedelta
 
 from lib.common import DATA_DIR, now_iso, setup_logging, write_json, update_index
 
@@ -43,13 +44,18 @@ CATEGORIES = "模型发布 / 融资并购 / 产品动态 / 研究技术 / 行业
 
 # 每增加一个额外信源，relevance_score 加这么多（最高不超过 1.0）
 MULTI_SOURCE_BOOST = 0.08
+NEWS_MAX_AGE_DAYS  = 7   # 超过 7 天的条目不送 Claude 打分
+PIN_THRESHOLD      = 0.88  # ≥ 此分值自动加入 pinned.json
+PIN_DAYS           = 14    # 置顶条目保留天数
 
 
 def load_news_items() -> list[dict]:
     # 动态加载 data/ 下所有新闻/社区/研究类 JSON（非 digest/stocks/rankings/index）
-    SKIP = {"digest.json", "stocks.json", "_index.json",
+    SKIP = {"digest.json", "stocks.json", "_index.json", "pinned.json",
             "rankings_openrouter.json", "github_trending.json", "huggingface_trending.json"}
+    cutoff = datetime.now(timezone.utc) - timedelta(days=NEWS_MAX_AGE_DAYS)
     items = []
+    skipped_old = 0
     for path in sorted(DATA_DIR.glob("*.json")):
         if path.name in SKIP:
             continue
@@ -62,6 +68,15 @@ def load_news_items() -> list[dict]:
             continue
         label = data.get("source", path.stem)
         for i, item in enumerate(data.get("items", [])):
+            pub = item.get("published_at", "")
+            if pub:
+                try:
+                    dt = datetime.fromisoformat(pub.replace("Z", "+00:00"))
+                    if dt < cutoff:
+                        skipped_old += 1
+                        continue
+                except Exception:
+                    pass
             items.append({
                 "_id":          f"{label}_{i}",
                 "_source":      label,
@@ -72,7 +87,51 @@ def load_news_items() -> list[dict]:
                 "published_at": item.get("published_at", ""),
                 "tags":         item.get("tags", []),
             })
+    log.info("过滤掉 %d 条超过 %d 天的旧条目", skipped_old, NEWS_MAX_AGE_DAYS)
     return items
+
+
+def update_pinned(enriched: list[dict]) -> None:
+    """把高分条目（≥ PIN_THRESHOLD）写入 data/pinned.json，保留 PIN_DAYS 天。"""
+    pinned_path = DATA_DIR / "pinned.json"
+    now = datetime.now(timezone.utc)
+
+    try:
+        existing = json.loads(pinned_path.read_text(encoding="utf-8"))
+        pin_items = existing.get("items", [])
+    except Exception:
+        pin_items = []
+
+    # 剔除已过期
+    pin_items = [
+        x for x in pin_items
+        if datetime.fromisoformat(x["expires_at"].replace("Z", "+00:00")) > now
+    ]
+
+    existing_urls = {x["url"] for x in pin_items}
+    added = 0
+    for e in enriched:
+        if e.get("relevance_score", 0) >= PIN_THRESHOLD and e.get("url") and e["url"] not in existing_urls:
+            pin_items.append({
+                "title":           e["title"],
+                "url":             e["url"],
+                "summary_cn":      e.get("summary_cn", ""),
+                "sources":         e.get("sources", []),
+                "relevance_score": e["relevance_score"],
+                "category":        e.get("category", ""),
+                "pinned_at":       now.isoformat(),
+                "expires_at":      (now + timedelta(days=PIN_DAYS)).isoformat(),
+                "auto":            True,
+            })
+            existing_urls.add(e["url"])
+            added += 1
+
+    pin_items.sort(key=lambda x: x.get("relevance_score", 0), reverse=True)
+    pinned_path.write_text(
+        json.dumps({"updated": now.isoformat(), "items": pin_items}, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    log.info("pinned.json: 共 %d 条（本次新增 %d 条）", len(pin_items), added)
 
 
 def build_prompt(items: list[dict]) -> str:
@@ -176,6 +235,8 @@ def main() -> None:
         })
 
     enriched.sort(key=lambda x: x["relevance_score"], reverse=True)
+
+    update_pinned(enriched)
 
     high       = sum(1 for x in enriched if x["relevance_score"] >= 0.8)
     mid        = sum(1 for x in enriched if 0.5 <= x["relevance_score"] < 0.8)

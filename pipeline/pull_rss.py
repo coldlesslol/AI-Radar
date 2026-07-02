@@ -7,14 +7,17 @@
 
 from __future__ import annotations
 
+import html as html_mod
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 import feedparser
 
 from lib.common import get_session, retry, write_json, update_index, setup_logging, now_iso
 
 log = setup_logging("rss")
+
+MAX_AGE_DAYS = 7  # 超过此天数的条目直接跳过
 
 # 配置表：(输出键, 输出文件, 显示名, layer, url, max_items)
 FEEDS = [
@@ -94,12 +97,21 @@ def pull_one(key: str, out: str, source: str, layer: str, url: str, max_items: i
     raw = fetch_raw(url)
     feed = feedparser.parse(raw)
     is_techmeme = "techmeme.com" in url
+    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
     items = []
-    for e in feed.entries[:max_items]:
+    skipped_old = 0
+    for e in feed.entries[:max_items * 3]:  # 多取一些，补上被过滤掉的
+        if len(items) >= max_items:
+            break
         parsed = e.get("published_parsed") or e.get("updated_parsed")
+        if parsed:
+            dt = datetime(*parsed[:6], tzinfo=timezone.utc)
+            if dt < cutoff:
+                skipped_old += 1
+                continue
         article_url = techmeme_source_url(e) if is_techmeme else e.get("link", "")
         items.append({
-            "title": e.get("title", "").strip(),
+            "title": html_mod.unescape(e.get("title", "").strip()),
             "url": article_url,
             "summary": strip_html(e.get("summary", "")),
             "source": source,
@@ -115,7 +127,7 @@ def pull_one(key: str, out: str, source: str, layer: str, url: str, max_items: i
     }
     write_json(out, payload)
     update_index(key, out, len(items))
-    log.info("%s OK: %d 条", source, len(items))
+    log.info("%s OK: %d 条（跳过 %d 条过期）", source, len(items), skipped_old)
     return len(items)
 
 

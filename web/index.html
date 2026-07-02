@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>TechRadar 早报</title>
+<title>Coldless AI Radar</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.js" integrity="sha384-iU8HYtnGQ8Cy4zl7gbNMOhsDTTKX02BTXptVP/vqAWIaTfM7isw76iyZCsjL2eVi" crossorigin="anonymous"></script>
 <style>
 :root {
@@ -143,14 +143,35 @@ footer code { background: #f3f4f6; padding: 1px 4px; border-radius: 3px; }
 .freq-weekly  { background: #eff6ff; color: #2563eb; }
 .freq-monthly { background: #f0fdf4; color: #16a34a; }
 .freq-quarter { background: #faf5ff; color: #9333ea; }
+
+/* ── Ticker ────────────────────────────────────────────────────────────── */
+.ticker-wrap { background: #111; overflow: hidden; height: 34px; display: none; align-items: center; margin: 10px -16px 14px; }
+.ticker-label { font-size: 9.5px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; padding: 0 14px; background: #0066cc; color: #fff; height: 100%; display: flex; align-items: center; flex-shrink: 0; white-space: nowrap; }
+.ticker-scroll { overflow: hidden; flex: 1; height: 100%; display: flex; align-items: center; }
+.ticker-track { display: inline-flex; align-items: center; white-space: nowrap; animation: ticker-run 60s linear infinite; }
+.ticker-track:hover { animation-play-state: paused; }
+.ticker-item { display: inline-flex; align-items: center; color: #d1d5db; font-size: 12px; padding: 0 28px 0 0; gap: 6px; }
+.ticker-item a { color: #e5e7eb; text-decoration: none; transition: color 0.12s; }
+.ticker-item a:hover { color: #fff; text-decoration: underline; }
+.ticker-sep { color: #374151; font-size: 16px; margin-right: 28px; }
+.ticker-src { font-size: 9.5px; background: #374151; color: #9ca3af; padding: 1px 5px; border-radius: 3px; flex-shrink: 0; }
+@keyframes ticker-run {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+/* ── Header watermark ───────────────────────────────────────────────────── */
+header { position: relative; overflow: hidden; }
+.header-bg { position: absolute; top: -20%; right: -2%; bottom: -20%; width: 45%; background: url('assets/coldless-bg.jpg') center/contain no-repeat; mix-blend-mode: screen; opacity: 0.22; pointer-events: none; transform: rotate(-3deg); }
 </style>
 </head>
 <body>
 <div class="container">
 
 <header>
+  <div class="header-bg"></div>
   <div class="brand">
-    Tech<span class="brand-accent">Radar</span>
+    Coldless <span class="brand-accent">AI Radar</span>
     <span class="brand-meta" id="dateStr"></span>
   </div>
   <div class="header-right">
@@ -159,10 +180,17 @@ footer code { background: #f3f4f6; padding: 1px 4px; border-radius: 3px; }
   </div>
 </header>
 
+<div class="ticker-wrap" id="tickerWrap">
+  <div class="ticker-label">重要</div>
+  <div class="ticker-scroll">
+    <div class="ticker-track" id="tickerTrack"></div>
+  </div>
+</div>
+
 <div id="errBox" class="err-box" style="display:none"></div>
 
 <div class="tabs">
-  <button class="tab active" data-tab="feed">今日要闻 <span class="cnt" id="cntFeed"></span></button>
+  <button class="tab active" data-tab="feed">近期要闻 <span class="cnt" id="cntFeed"></span></button>
   <button class="tab" data-tab="models">模型 & 榜单 <span class="cnt" id="cntModels"></span></button>
   <button class="tab" data-tab="invest">投融资 & 二级 <span class="cnt" id="cntInvest"></span></button>
 </div>
@@ -272,6 +300,7 @@ let STOCKS = [];
 let META = {};
 let GITHUB_TRENDING = {};   // github_trending.json
 let HF_TRENDING = {};        // huggingface_trending.json
+let PINNED = { items: [] }; // pinned.json（重要新闻，保留14天）
 
 // ── 卡片渲染 ──────────────────────────────────────────────────────────────
 function newsCard(item) {
@@ -503,15 +532,47 @@ async function loadData() {
     catch(e) { errs.push('huggingface_trending: '+e.message); }
   }
 
+  // Pinned（重要新闻滚动栏，不依赖 _index）
+  PINNED = { items: [] };
+  try { PINNED = await getJSON('../data/pinned.json'); } catch(e) {}
+
   const errBox = document.getElementById('errBox');
   if (errs.length) { errBox.style.display='block'; errBox.textContent = '⚠️ 部分数据加载失败：'+errs.join('；'); }
   else { errBox.style.display='none'; }
+}
+
+// ── Ticker ────────────────────────────────────────────────────────────────
+function decodeHtml(s) {
+  const d = document.createElement('div'); d.innerHTML = s; return d.textContent;
+}
+
+function renderTicker() {
+  const now = new Date();
+  const items = (PINNED.items || []).filter(x => {
+    if (!x.url || !x.title) return false;
+    try { return new Date(x.expires_at) > now; } catch(e) { return true; }
+  });
+  const wrap = document.getElementById('tickerWrap');
+  const track = document.getElementById('tickerTrack');
+  if (!items.length) { wrap.style.display = 'none'; return; }
+  wrap.style.display = 'flex';
+  const seg = items.map(it => {
+    const srcs = (it.sources || []).slice(0, 3).join(' · ');
+    const srcBadge = srcs ? `<span class="ticker-src">${esc(srcs)}</span>` : '';
+    const title = decodeHtml(it.title || '');
+    return `<span class="ticker-item">${srcBadge}<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(title)}</a></span><span class="ticker-sep">·</span>`;
+  }).join('');
+  track.innerHTML = seg + seg;
+  const totalChars = items.reduce((s, x) => s + x.title.length, 0);
+  track.style.animationDuration = Math.max(30, totalChars * 0.4) + 's';
 }
 
 // ── 渲染全部 ──────────────────────────────────────────────────────────────
 let stocksReady = false;
 
 function renderAll() {
+  renderTicker();
+
   // Tab 1: 今日要闻 = 非模型/投资专属的条目（行业动态/社区信号/产品动态），上限 15
   const feedItems = DIGEST.filter(x => catTab(x.category) === 'feed').slice(0, 15);
   renderGrid('feedGrid', feedItems);
