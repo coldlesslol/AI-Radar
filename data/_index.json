@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T23:18:07+08:00",
+  "updated": "2026-07-02T23:32:44+08:00",
   "files": {
     "rankings_openrouter": "rankings_openrouter.json",
     "news_techmeme": "news_techmeme.json",
@@ -41,10 +41,11 @@
     "analysis_raschka": "analysis_raschka.json",
     "company_xinzhiyuan": "company_xinzhiyuan.json",
     "company_jiqizhixin": "company_jiqizhixin.json",
-    "analysis_tisi": "analysis_tisi.json"
+    "analysis_tisi": "analysis_tisi.json",
+    "analysis_mckinsey": "analysis_mckinsey.json"
   },
   "stats": {
-    "total_items": 681,
+    "total_items": 699,
     "last_run_status": "ok",
     "errors": [
       {
@@ -74,7 +75,7 @@
       "news_qbitai": 10,
       "community_hn": 20,
       "stocks": 24,
-      "digest": 43,
+      "digest": 44,
       "huggingface_trending": 15,
       "github_trending": 15,
       "news_jiqizhixin": 0,
@@ -89,8 +90,8 @@
       "news_semianalysis": 0,
       "news_producthunt": 15,
       "research_arxiv": 20,
-      "archive": 302,
-      "news_ars": 13,
+      "archive": 308,
+      "news_ars": 14,
       "news_mit_tr": 10,
       "news_tmtpost": 15,
       "news_geekpark": 0,
@@ -109,7 +110,8 @@
       "analysis_raschka": 2,
       "company_xinzhiyuan": 8,
       "company_jiqizhixin": 3,
-      "analysis_tisi": 0
+      "analysis_tisi": 0,
+      "analysis_mckinsey": 10
     }
   }
 }

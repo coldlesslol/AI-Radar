@@ -1,14 +1,14 @@
 {
   "source": "雷峰网",
   "layer": "news",
-  "updated": "2026-07-02T23:09:04+08:00",
+  "updated": "2026-07-02T23:24:02+08:00",
   "items": [
     {
       "title": "Claude Sonnet 5 上线一日差评刷屏：打不过千问和 Minimax，性价比全面翻车",
       "url": "https://www.leiphone.com/category/yanxishe/GLDTfDIWau83OKGC.html",
       "summary": "一张中文测评图把Claude Sonnet 5送上风口浪尖。&nbsp; &nbsp; 作者丨高允毅&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs",
       "source": "雷峰网",
-      "time": "3h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T11:22:00+00:00"
     },
@@ -53,7 +53,7 @@
       "url": "https://www.leiphone.com/category/yanxishe/w6us4wphPrRD8x6g.html",
       "summary": "连 AI 的 “外壳” 都学会自我迭代了&nbsp; &nbsp; 作者丨高允毅&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
       "source": "雷峰网",
-      "time": "7h",
+      "time": "8h",
       "tags": [],
       "published_at": "2026-07-02T07:10:00+00:00"
     },
@@ -62,7 +62,7 @@
       "url": "https://www.leiphone.com/category/chips/EAd6eTSPIeOOy4j7.html",
       "summary": "6月，在德国汉堡ISC高性能计算大会的展台上，GPU、液冷、量子计算的声浪依旧汹涌，但今年，会场的主角悄悄换了人。IO500榜单——全球高性能计算存储领域最权威的评测体系——公布了最新一期结果：中科曙光ParaStor F9000分布式全闪存储系统，同时拿下生产型全节点和10节点两大榜单的第一名。在这一榜单近十年的历史中，能够同时统领这两个维度的，此前只有少数几家美国厂商，中科曙光成为首家达成此成",
       "source": "雷峰网",
-      "time": "8h",
+      "time": "9h",
       "tags": [],
       "published_at": "2026-07-02T06:16:00+00:00"
     },
@@ -89,7 +89,7 @@
       "url": "https://www.leiphone.com/category/shengwuyiyao/5hR8USux68fILtr1.html",
       "summary": "6月30日，Anthropic和OpenAI同时在AI4S赛道投下了各自的筹码。Anthropic发布了科研智能体工作台Claude Science，明确表态“不依赖新模型”，通过工作流整合现有能力来承包科学家的日常研究流程。OpenAI推出了GeneBench-Pro，一套覆盖基因组学、定量生物学等10个领域的评测基准，其测试数据显示，在129个真实科研workflow题目中，即便是最强的GPT",
       "source": "雷峰网",
-      "time": "12h",
+      "time": "13h",
       "tags": [],
       "published_at": "2026-07-02T02:11:00+00:00"
     },

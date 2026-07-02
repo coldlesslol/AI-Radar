@@ -1,14 +1,14 @@
 {
   "source": "Reddit ML",
   "layer": "community",
-  "updated": "2026-07-02T23:09:10+08:00",
+  "updated": "2026-07-02T23:24:12+08:00",
   "items": [
     {
       "title": "[D] Self-Promotion Thread",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "source": "Reddit ML",
-      "time": "12h",
+      "time": "13h",
       "tags": [],
       "published_at": "2026-07-02T02:15:27+00:00"
     },
@@ -44,7 +44,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ulk5cd/in_2026_ml_book_outdated_d/",
       "summary": "Hello everyone. I wanted to ask if the below book is a good source of machine learning in 2026 or if it is now outdated and if there are better options. Hands-on Machine Learning with. Scikit-Learn, K",
       "source": "Reddit ML",
-      "time": "28m",
+      "time": "43m",
       "tags": [],
       "published_at": "2026-07-02T14:40:27+00:00"
     },
@@ -71,7 +71,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ukyciw/new_pymupdf_release_supports_markdown_n/",
       "summary": "https://pymupdf.io/blog/markdown-in-pymupdf-1-28 PyMuPDF 1.28 release, introduces Markdown as a first class document in PyMuPDF. Seems useful for a variety of workflows. You can create PDFs from Markd",
       "source": "Reddit ML",
-      "time": "17h",
+      "time": "18h",
       "tags": [],
       "published_at": "2026-07-01T21:15:56+00:00"
     },
@@ -134,7 +134,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ukv9x5/how_to_describe_a_model_that_has_higher_accuracy/",
       "summary": "Hello, My supervisor is nowhere to be found so I am turning to the internet for my naive questions. &#32; submitted by &#32; /u/obliviousphoenix2003 [link] &#32; [comments]",
       "source": "Reddit ML",
-      "time": "19h",
+      "time": "20h",
       "tags": [],
       "published_at": "2026-07-01T19:21:38+00:00"
     }

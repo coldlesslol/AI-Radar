@@ -1,7 +1,7 @@
 {
   "source": "智谱AI",
   "layer": "company",
-  "updated": "2026-07-02T23:09:39+08:00",
+  "updated": "2026-07-02T23:24:49+08:00",
   "items": [
     {
       "title": "中文在线：智谱GLM-5.2全面开放 国产大模型助力打造AI内容生产力 - 东方财富",
@@ -40,15 +40,6 @@
       "published_at": "2026-06-29T06:10:14+00:00"
     },
     {
-      "title": "智谱AI发布GLM - 5.2，能力逼近美国模型引美政府担忧，开放权重或存滥用风险 - blog.csdn.net",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85Tk5PYktGLU5sa01fX1VGQXU5QUJEeDJwelRfRThYTEUzaHdJNGI3d3JBUzFxdUttZFl1b3AtNUNkdXhod1lzTDg2aVBxY3RmZTFaTG94UVNBSkNqVXF6LUhlYUNmaWtMZEcw?oc=5",
-      "summary": "智谱AI发布GLM - 5.2，能力逼近美国模型引美政府担忧，开放权重或存滥用风险&nbsp;&nbsp;blog.csdn.net",
-      "source": "智谱AI",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-06-30T00:56:07+00:00"
-    },
-    {
       "title": "智谱AI模型低成本高性能 或能再创DeepSeek时刻 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LbkxwNG9lN1RucTU5RzNYaVRWUUdwTVY4RW5TVVpMN25CbTBXemt0VUpCQmZiU3l2ZnB1M2xtMTJvS21FVXozQm9BZFp1Sm1FaDgyU1RoZ1pGZlNISVZlTnBhcVcySGMydWc?oc=5",
       "summary": "智谱AI模型低成本高性能 或能再创DeepSeek时刻&nbsp;&nbsp;联合早报",
@@ -56,6 +47,15 @@
       "time": "6d",
       "tags": [],
       "published_at": "2026-06-26T12:00:00+00:00"
+    },
+    {
+      "title": "智谱AI发布GLM - 5.2，能力逼近美国模型引美政府担忧，开放权重或存滥用风险 - blog.csdn.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85Tk5PYktGLU5sa01fX1VGQXU5QUJEeDJwelRfRThYTEUzaHdJNGI3d3JBUzFxdUttZFl1b3AtNUNkdXhod1lzTDg2aVBxY3RmZTFaTG94UVNBSkNqVXF6LUhlYUNmaWtMZEcw?oc=5",
+      "summary": "智谱AI发布GLM - 5.2，能力逼近美国模型引美政府担忧，开放权重或存滥用风险&nbsp;&nbsp;blog.csdn.net",
+      "source": "智谱AI",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-06-30T00:56:07+00:00"
     },
     {
       "title": "美媒：智谱GLM-5.2漏洞挖掘能力达到Mythos水平 - cnBeta.COM",

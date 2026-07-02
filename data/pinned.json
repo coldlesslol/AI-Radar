@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T15:17:27.009605+00:00",
+  "updated": "2026-07-02T15:31:22.488785+00:00",
   "items": [
     {
       "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
@@ -281,6 +281,19 @@
       "auto": true
     },
     {
+      "title": "智谱AI发布GLM - 5.2，能力逼近美国模型引美政府担忧，开放权重或存滥用风险 - blog.csdn.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85Tk5PYktGLU5sa01fX1VGQXU5QUJEeDJwelRfRThYTEUzaHdJNGI3d3JBUzFxdUttZFl1b3AtNUNkdXhod1lzTDg2aVBxY3RmZTFaTG94UVNBSkNqVXF6LUhlYUNmaWtMZEcw?oc=5",
+      "summary_cn": "智谱发布并全面开放 GLM-5.2 开源大模型，性能被指比肩 Anthropic Opus 4.8、漏洞挖掘能力接近 Claude Mythos，低成本高性能被视为潜在的又一个「DeepSeek 时刻」，其开放权重也引发美国政府对滥用风险的担忧。",
+      "sources": [
+        "智谱AI"
+      ],
+      "relevance_score": 0.92,
+      "category": "模型发布",
+      "pinned_at": "2026-07-02T15:31:22.488785+00:00",
+      "expires_at": "2026-07-16T15:31:22.488785+00:00",
+      "auto": true
+    },
+    {
       "title": "卷不赢模型，Meta改行「算力包租公」！一夜炸崩美股AI链 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0R1WVRxQWQxdXExMXhFRl9xLUlCbEoyQm9yaUxseFlOdFEtSjA5VnM2blNzcXFFT0pHbG95V1dFTjBBRkVONVZ2OVZ0MHliY1dSel9Xc3F3bFBOZVNrb2g2VUFTN0pxWmhHdGp3d01MdklfVFJWR2pOZ2FnNDR2VGw4WWQ1QmFZ?oc=5",
       "summary_cn": "Meta 转向对外出租/变卖算力'当包租公'，一度炸崩美股 AI 产业链（寒武纪等大跌），引发市场对 AI 基建泡沫与算力过剩的讨论，亦有业内人士称'算力过剩'系误读。",
@@ -308,6 +321,19 @@
       "category": "研究技术",
       "pinned_at": "2026-07-02T12:05:39.338012+00:00",
       "expires_at": "2026-07-16T12:05:39.338012+00:00",
+      "auto": true
+    },
+    {
+      "title": "Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip (Qianer Liu/The Information)",
+      "url": "https://www.theinformation.com/articles/anthropic-talks-samsung-manufacture-custom-ai-chip",
+      "summary_cn": "据 The Information，Anthropic 已启动自研 AI 服务器芯片的早期开发，并就代工事宜与三星进行了初步接触，试图降低对英伟达的依赖。",
+      "sources": [
+        "Techmeme"
+      ],
+      "relevance_score": 0.9,
+      "category": "算力供应链",
+      "pinned_at": "2026-07-02T15:31:22.488785+00:00",
+      "expires_at": "2026-07-16T15:31:22.488785+00:00",
       "auto": true
     },
     {

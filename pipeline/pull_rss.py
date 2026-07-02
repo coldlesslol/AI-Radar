@@ -71,7 +71,9 @@ FEEDS = [
     ("analysis_inter",  "analysis_inter.json",   "Interconnects",  "analysis",   "https://www.interconnects.ai/feed",                                                            5),
     ("analysis_raschka","analysis_raschka.json", "Ahead of AI",    "analysis",   "https://magazine.sebastianraschka.com/feed",                                                   5),
     # 中文研究机构
-    ("analysis_tisi",   "analysis_tisi.json",    "腾讯研究院",      "analysis",   "https://www.tisi.org/feed",                                                                    8),
+    ("analysis_tisi",      "analysis_tisi.json",      "腾讯研究院",      "analysis",   "https://www.tisi.org/feed",                                                               8),
+    # 国际战略研究机构（公开免费研报）
+    ("analysis_mckinsey",  "analysis_mckinsey.json",  "McKinsey",        "analysis",   "https://www.mckinsey.com/insights/rss",                                                   10),
 ]
 
 DEFAULT_MAX = 30

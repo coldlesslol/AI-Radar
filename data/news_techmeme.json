@@ -1,7 +1,7 @@
 {
   "source": "Techmeme",
   "layer": "news",
-  "updated": "2026-07-02T23:08:54+08:00",
+  "updated": "2026-07-02T23:23:49+08:00",
   "items": [
     {
       "title": "Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip (Qianer Liu/The Information)",
@@ -26,7 +26,7 @@
       "url": "https://www.geekwire.com/2026/microsoft-announces-2-5b-frontier-company-to-embed-ai-engineers-inside-customers/",
       "summary": "Todd Bishop / GeekWire: Microsoft establishes an organization with 6,000 staff specializing in engineering, corporate training, and management to support businesses with AI deployments&nbsp; &mdash;&n",
       "source": "Techmeme",
-      "time": "1h",
+      "time": "2h",
       "tags": [],
       "published_at": "2026-07-02T13:15:01+00:00"
     },
@@ -53,7 +53,7 @@
       "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
       "summary": "Michael Nu&ntilde;ez / VentureBeat: Z.ai launches ZCode, an &ldquo;Agentic Development Environment&rdquo; optimized for its new GLM-5.2 model; Z.ai's GLM Coding Plan costs from $16.20 to $144 per mont",
       "source": "Techmeme",
-      "time": "3h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T11:20:12+00:00"
     },
@@ -98,7 +98,7 @@
       "url": "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html",
       "summary": "New York Times: President Trump says Micron will invest $250M in Trump Accounts; Micron says it will come via an employee matching program and a $250 deposit in some US states&nbsp; &mdash;&nbsp; Pres",
       "source": "Techmeme",
-      "time": "4h",
+      "time": "5h",
       "tags": [],
       "published_at": "2026-07-02T10:10:00+00:00"
     },

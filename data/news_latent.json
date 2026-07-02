@@ -1,14 +1,14 @@
 {
   "source": "Latent Space",
   "layer": "newsletter",
-  "updated": "2026-07-02T23:09:17+08:00",
+  "updated": "2026-07-02T23:24:21+08:00",
   "items": [
     {
       "title": "Skill engineering and the case against one-shot AI design",
       "url": "https://www.latent.space/p/skill-engineering-design",
       "summary": "Paul Bakaus talks to us about Impeccable, human judgment in a 'loopmaxxing' era, and why agents still need people to steer them.",
       "source": "Latent Space",
-      "time": "33m",
+      "time": "48m",
       "tags": [],
       "published_at": "2026-07-02T14:36:05+00:00"
     },
@@ -17,7 +17,7 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-900",
       "summary": "another quiet day.",
       "source": "Latent Space",
-      "time": "7h",
+      "time": "8h",
       "tags": [],
       "published_at": "2026-07-02T07:10:14+00:00"
     },
@@ -26,7 +26,7 @@
       "url": "https://www.latent.space/p/aiewf-daily-dispatch-agency",
       "summary": "The software factory vision met resistance today from speakers defending human understanding and control.",
       "source": "Latent Space",
-      "time": "8h",
+      "time": "9h",
       "tags": [],
       "published_at": "2026-07-02T06:13:49+00:00"
     },

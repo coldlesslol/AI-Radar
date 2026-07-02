@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T15:17:27.004480+00:00",
+  "updated": "2026-07-02T15:31:22.483469+00:00",
   "items": [
     {
       "title": "IN 2026 ML BOOK OUTDATED? [D]",
@@ -52,6 +52,19 @@
       "category": "社区信号",
       "published_at": "2026-07-02T14:16:57+00:00",
       "first_seen_at": "2026-07-02T15:17:27.004480+00:00"
+    },
+    {
+      "title": "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读",
+      "summary_cn": "证监会同意宇树科技科创板 IPO 注册，人形机器人龙头登陆资本市场提速；同日「Meta 带崩科技股」被业内解读为算力过剩误读。",
+      "url": "https://36kr.com/p/3878550357946625?f=rss",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.42,
+      "category": "融资并购",
+      "published_at": "2026-07-02T14:16:31+00:00",
+      "first_seen_at": "2026-07-02T15:31:22.483469+00:00"
     },
     {
       "title": "Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip (Qianer Liu/The Information)",
@@ -2090,6 +2103,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "80%富人在用Claude：美国AI用户大调查出炉|Epoch AI|Copilot|ChatGPT|Google|Grok_手机新浪网 - 新浪财经",
+      "summary_cn": "Epoch AI 美国 AI 用户大调查出炉：约 80% 高收入人群在使用 Claude，同时覆盖 ChatGPT、Copilot、Gemini、Grok 等的使用画像。",
+      "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNSGpaZ0VxZlM1cHowaGJyTXRaN3lEWng1bHFyZ0I4SVdTempJX19DYnhXSWtHY1lHQWxMM19ETzE4MER6TjRtVHpNa1o4X0V5dkp6WUQ2aUl6V204RDdXWGh0YnpOUGtyWVQwS0NKZ1dlekkxVmhPVjBxY1N3Q3RqT3pTb3hkeHpjUF95bE9fQ0dTYnZkQnZhazBMWERqWVY0cjNSSlVnWFJlVXA3enFBc3RGblhrSFhXdkl4LXBnaUFEVTJGeTFFSU9UejFnUmpWaG9rTmw3ZmFYLUNfUUtwS3h3NnZlZlV1QkhISXBkR3NvOFVXZktyMzBlX0doa0l5Tkx0dnRVQmgybUFTeThybWxET0R5d3hZekVoMHl5SVZ5Q1Z1ZUsxdGpYSnNIeDNxME5qcnVpVk44UWFkdkdLS3lKbDI3bWJwejNidDE0a0RkMzM5X2VwU19IN0xsTHd1OGVhbHNZNDk4alZJRlFxNmo0emxhZDVMcXdnVFQyS3BNd2xheHNvaE01WFVLaHBvT3lsUW9jWU01T01LT3U1blE5bTFQVmEtRE5QdlNKNGJEcGRGcHNFLXRjVjNLU1AwM1RKVHVDQkpQU0g3TjdxYXZXb3p3dzNoS3lTLVJyRUhidDRqZnJybVFza3dOeUh6cHNjZnNXUEd4NHd4OWd6V0JpbVpaN0k?oc=5",
+      "sources": [
+        "新智元"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "行业动态",
+      "published_at": "2026-07-01T20:59:16+00:00",
+      "first_seen_at": "2026-07-02T15:31:22.483469+00:00"
+    },
+    {
       "title": "Alibaba and its US payment processor AUS agree to pay $600M to resolve DOJ allegations that they failed to prevent illegal sales of drugs and other products (Reuters)",
       "summary_cn": "阿里巴巴及其美国支付处理商 AUS 同意支付6亿美元，和解美国司法部关于未阻止非法药品等销售的指控。",
       "url": "https://www.reuters.com/world/alibaba-aus-merchant-services-pay-600-million-resolve-alleged-illegal-2026-07-01/",
@@ -3000,6 +3026,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "Lights, camera, algorithm: How AI is rewriting the rules of film and TV",
+      "summary_cn": "麦肯锡分析 AI 正从剧本到成片重塑影视制作全流程，探讨其对影视行业规则的改写与最大分歧点。",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/lights-camera-algorithm-how-ai-is-rewriting-the-rules-of-film-and-tv",
+      "sources": [
+        "McKinsey"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "AI落地",
+      "published_at": "2026-07-01T00:00:00+00:00",
+      "first_seen_at": "2026-07-02T15:31:22.483469+00:00"
+    },
+    {
       "title": "Ahmad Osman on why local AI is catching up",
       "summary_cn": "Ahmad Osman 在 AIEWF 工作坊后论证本地 AI 正在快速追赶云端。",
       "url": "https://www.latent.space/p/ahmad-osman-local-ai",
@@ -3422,6 +3461,19 @@
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
+      "title": "智谱AI发布GLM - 5.2，能力逼近美国模型引美政府担忧，开放权重或存滥用风险 - blog.csdn.net",
+      "summary_cn": "智谱发布并全面开放 GLM-5.2 开源大模型，性能被指比肩 Anthropic Opus 4.8、漏洞挖掘能力接近 Claude Mythos，低成本高性能被视为潜在的又一个「DeepSeek 时刻」，其开放权重也引发美国政府对滥用风险的担忧。",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85Tk5PYktGLU5sa01fX1VGQXU5QUJEeDJwelRfRThYTEUzaHdJNGI3d3JBUzFxdUttZFl1b3AtNUNkdXhod1lzTDg2aVBxY3RmZTFaTG94UVNBSkNqVXF6LUhlYUNmaWtMZEcw?oc=5",
+      "sources": [
+        "智谱AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.92,
+      "category": "模型发布",
+      "published_at": "2026-06-30T00:56:07+00:00",
+      "first_seen_at": "2026-07-02T15:31:22.483469+00:00"
+    },
+    {
       "title": "Devin Fusion 💻, DeepSeek DSpark ⚡, economy of tokens 💰",
       "summary_cn": "TLDR AI 速递：Devin Fusion、DeepSeek DSpark 等新品发布，并探讨'Token 经济学'。",
       "url": "https://tldr.tech/ai/2026-06-30",
@@ -3433,6 +3485,19 @@
       "category": "模型发布",
       "published_at": "2026-06-30T00:00:00+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "Colocation data centers: The infrastructure race behind AI",
+      "summary_cn": "麦肯锡分析 AI 工作负载激增推动数据中心资本开支飙升，托管（colocation）数据中心成为 AI 基础设施竞赛的关键战场。",
+      "url": "https://www.mckinsey.com/mgi/our-research/colocation-data-centers-the-infrastructure-race-behind-ai",
+      "sources": [
+        "McKinsey"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "算力供应链",
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "first_seen_at": "2026-07-02T15:31:22.483469+00:00"
     },
     {
       "title": "v0 Design Systems 2.0",
@@ -3645,6 +3710,19 @@
       "category": "算力供应链",
       "published_at": "2026-06-29T12:00:06+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "多收170万，AI账单黑箱曝光，Anthropic退钱不认账 - 36 Kr",
+      "summary_cn": "有客户曝出 Anthropic API 账单黑箱、多收约 170 万，Anthropic 退款处理不畅引发计费透明度争议。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpdThfMk1Cc0lmb1RqVVo5YjktT3ZIdmpScXNBWnQ2cnRUUE1OVS02TW5mV2FPV2hiT3IyRjFXWllkYV9MdVhaTXBfQnBRRlRo?oc=5",
+      "sources": [
+        "新智元"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "行业动态",
+      "published_at": "2026-06-29T09:19:22+00:00",
+      "first_seen_at": "2026-07-02T15:31:22.483469+00:00"
     },
     {
       "title": "别再管豆包收费了，Seedance正在疯狂吸金 - 21财经",
