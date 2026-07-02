@@ -44,14 +44,16 @@ CATEGORIES = "模型发布 / 融资并购 / 产品动态 / 研究技术 / 行业
 
 # 每增加一个额外信源，relevance_score 加这么多（最高不超过 1.0）
 MULTI_SOURCE_BOOST = 0.08
-NEWS_MAX_AGE_DAYS  = 7   # 超过 7 天的条目不送 Claude 打分
+NEWS_MAX_AGE_DAYS  = 7    # 超过 7 天的条目不送 Claude 打分
 PIN_THRESHOLD      = 0.88  # ≥ 此分值自动加入 pinned.json
 PIN_DAYS           = 14    # 置顶条目保留天数
+ARCHIVE_MAX_DAYS   = 30   # archive.json 保留最近 30 天
+ARCHIVE_MAX_ITEMS  = 400  # 条目上限
 
 
 def load_news_items() -> list[dict]:
     # 动态加载 data/ 下所有新闻/社区/研究类 JSON（非 digest/stocks/rankings/index）
-    SKIP = {"digest.json", "stocks.json", "_index.json", "pinned.json",
+    SKIP = {"digest.json", "stocks.json", "_index.json", "pinned.json", "archive.json",
             "rankings_openrouter.json", "github_trending.json", "huggingface_trending.json"}
     cutoff = datetime.now(timezone.utc) - timedelta(days=NEWS_MAX_AGE_DAYS)
     items = []
@@ -89,6 +91,57 @@ def load_news_items() -> list[dict]:
             })
     log.info("过滤掉 %d 条超过 %d 天的旧条目", skipped_old, NEWS_MAX_AGE_DAYS)
     return items
+
+
+def update_archive(enriched: list[dict]) -> None:
+    """把本次所有评分条目追加到 data/archive.json（30 天滚动窗口，URL 去重）。"""
+    archive_path = DATA_DIR / "archive.json"
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(days=ARCHIVE_MAX_DAYS)
+    cutoff_str = cutoff.strftime("%Y-%m-%d")
+
+    try:
+        existing = json.loads(archive_path.read_text(encoding="utf-8"))
+        arch_items = existing.get("items", [])
+    except Exception:
+        arch_items = []
+
+    # 剔除超过 30 天的旧条目
+    arch_items = [
+        x for x in arch_items
+        if (x.get("published_at") or x.get("first_seen_at", ""))[:10] >= cutoff_str
+    ]
+
+    existing_urls = {x["url"] for x in arch_items}
+    added = 0
+    for e in enriched:
+        if e.get("url") and e["url"] not in existing_urls:
+            arch_items.append({
+                "title":           e["title"],
+                "summary_cn":      e.get("summary_cn", ""),
+                "url":             e["url"],
+                "sources":         e.get("sources", []),
+                "source_count":    e.get("source_count", 1),
+                "relevance_score": e["relevance_score"],
+                "category":        e.get("category", ""),
+                "published_at":    e.get("published_at", ""),
+                "first_seen_at":   now.isoformat(),
+            })
+            existing_urls.add(e["url"])
+            added += 1
+
+    arch_items.sort(
+        key=lambda x: (x.get("published_at") or x.get("first_seen_at", "")),
+        reverse=True,
+    )
+    arch_items = arch_items[:ARCHIVE_MAX_ITEMS]
+
+    archive_path.write_text(
+        json.dumps({"updated": now.isoformat(), "items": arch_items}, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    update_index("archive", "archive.json", len(arch_items))
+    log.info("archive.json: 共 %d 条（本次新增 %d 条）", len(arch_items), added)
 
 
 def update_pinned(enriched: list[dict]) -> None:
@@ -236,6 +289,7 @@ def main() -> None:
 
     enriched.sort(key=lambda x: x["relevance_score"], reverse=True)
 
+    update_archive(enriched)
     update_pinned(enriched)
 
     high       = sum(1 for x in enriched if x["relevance_score"] >= 0.8)

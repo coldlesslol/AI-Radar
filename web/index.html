@@ -135,6 +135,17 @@ header { display: flex; align-items: center; justify-content: space-between; mar
 .pill-f.invest  { border-color: #fca5a5; background: #fef2f2; color: #b91c1c; }
 .pill-f.supply  { border-color: #d1d5db; background: #f9fafb; color: #374151; }
 
+/* Archive list (全部新闻 tab) */
+.news-list { display: flex; flex-direction: column; }
+.date-divider { font-size: 10.5px; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase; color: var(--text-muted); padding: 16px 0 7px; border-bottom: 1px solid var(--border); }
+.news-row { display: flex; align-items: center; gap: 8px; padding: 9px 4px; border-bottom: 1px solid #f0efee; text-decoration: none; color: inherit; border-radius: 5px; transition: background 0.08s; }
+.news-row:hover { background: #fafaf9; }
+.row-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+.row-cat { font-size: 9.5px; font-weight: 600; padding: 1px 5px; border-radius: 3px; flex-shrink: 0; white-space: nowrap; }
+.row-title { flex: 1; font-size: 13px; color: var(--text-primary); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; }
+.row-srcs { font-size: 11px; color: var(--text-muted); white-space: nowrap; flex-shrink: 0; }
+.row-time { font-size: 10.5px; color: var(--text-muted); white-space: nowrap; min-width: 28px; text-align: right; flex-shrink: 0; }
+
 /* Misc */
 .err-box { background: #fef2f2; border-left: 3px solid #dc2626; padding: 9px 13px; border-radius: 0 6px 6px 0; font-size: 12px; color: #991b1b; margin-bottom: 12px; }
 footer { margin-top: 28px; padding-top: 12px; border-top: 1px solid var(--border); font-size: 11px; color: var(--text-muted); text-align: center; }
@@ -198,6 +209,7 @@ header { position: relative; overflow: hidden; }
   <button class="tab active" data-tab="feed">近期要闻 <span class="cnt" id="cntFeed"></span></button>
   <button class="tab" data-tab="models">模型 & 榜单 <span class="cnt" id="cntModels"></span></button>
   <button class="tab" data-tab="invest">投融资 & 二级 <span class="cnt" id="cntInvest"></span></button>
+  <button class="tab" data-tab="all">全部新闻 <span class="cnt" id="cntAll"></span></button>
 </div>
 
 <!-- Tab 1: 今日要闻 -->
@@ -219,6 +231,11 @@ header { position: relative; overflow: hidden; }
   <div id="investGrid" class="cards-grid"></div>
   <div class="section-head" style="margin-top:24px"><span class="section-icon">📈</span><span class="section-title">AI 核心标的</span><span class="section-sub">美 / A / 港 · 30 天收盘</span><span class="live-dot">日更</span></div>
   <div id="stocksGrid" class="stocks-grid"></div>
+</div>
+
+<!-- Tab 4: 全部新闻 -->
+<div class="tab-panel" id="tab-all">
+  <div id="archiveList" class="news-list"></div>
 </div>
 
 <div class="sources-block">
@@ -302,9 +319,10 @@ let DIGEST = [];   // digest.json items（去重+打分）
 let RANKINGS = []; // openrouter
 let STOCKS = [];
 let META = {};
-let GITHUB_TRENDING = {};   // github_trending.json
-let HF_TRENDING = {};        // huggingface_trending.json
-let PINNED = { items: [] }; // pinned.json（重要新闻，保留14天）
+let GITHUB_TRENDING = {};
+let HF_TRENDING = {};
+let PINNED   = { items: [] }; // pinned.json（重要新闻，保留14天）
+let ARCHIVE  = { items: [] }; // archive.json（30天历史归档）
 
 // ── 卡片渲染 ──────────────────────────────────────────────────────────────
 function newsCard(item) {
@@ -554,9 +572,70 @@ async function loadData() {
   PINNED = { items: [] };
   try { PINNED = await getJSON('../data/pinned.json'); } catch(e) {}
 
+  // Archive（全部新闻历史归档）
+  ARCHIVE = { items: [] };
+  if (files.archive) {
+    try { ARCHIVE = await getJSON('../data/'+files.archive); }
+    catch(e) { errs.push('archive: '+e.message); }
+  } else {
+    try { ARCHIVE = await getJSON('../data/archive.json'); } catch(e) {}
+  }
+
   const errBox = document.getElementById('errBox');
   if (errs.length) { errBox.style.display='block'; errBox.textContent = '⚠️ 部分数据加载失败：'+errs.join('；'); }
   else { errBox.style.display='none'; }
+}
+
+// ── 归档列表渲染（全部新闻 tab）─────────────────────────────────────────────
+function relTime(isoStr) {
+  if (!isoStr) return '';
+  const diff = Date.now() - new Date(isoStr).getTime();
+  const h = diff / 3600000;
+  if (h < 1)  return Math.floor(diff / 60000) + 'm';
+  if (h < 24) return Math.floor(h) + 'h';
+  const d = Math.floor(h / 24);
+  return d + 'd';
+}
+
+function dateDividerLabel(isoStr) {
+  if (!isoStr) return '';
+  const dt  = new Date(isoStr);
+  const now = new Date();
+  const diffDays = Math.floor((Date.now() - dt.getTime()) / 86400000);
+  const mm  = String(dt.getMonth() + 1).padStart(2, '0');
+  const dd  = String(dt.getDate()).padStart(2, '0');
+  if (diffDays === 0) return `今日 · ${mm}月${dd}日`;
+  if (diffDays === 1) return `昨日 · ${mm}月${dd}日`;
+  return `${mm}月${dd}日`;
+}
+
+function renderArchive() {
+  const el = document.getElementById('archiveList');
+  const items = (ARCHIVE.items || []);
+  document.getElementById('cntAll').textContent = items.length;
+  if (!items.length) { el.innerHTML = '<p class="empty-tip">暂无归档数据，明日 10:00 管线运行后自动生成</p>'; return; }
+
+  let html = '';
+  let lastDay = '';
+  for (const it of items) {
+    const dateKey = (it.published_at || it.first_seen_at || '').slice(0, 10);
+    if (dateKey && dateKey !== lastDay) {
+      html += `<div class="date-divider">${esc(dateDividerLabel(it.published_at || it.first_seen_at))}</div>`;
+      lastDay = dateKey;
+    }
+    const cat   = it.category || '行业动态';
+    const text  = it.summary_cn || it.title || '';
+    const srcs  = (it.sources || []).slice(0, 3).join(' · ');
+    const tstr  = relTime(it.published_at || it.first_seen_at);
+    html += `<a class="news-row" href="${esc(it.url)}" target="_blank" rel="noopener">
+      <span class="row-dot" style="background:${catColor(cat)}"></span>
+      <span class="row-cat" style="background:${catBg(cat)};color:${catColor(cat)}">${esc(cat)}</span>
+      <span class="row-title">${esc(text)}</span>
+      ${srcs ? `<span class="row-srcs">${esc(srcs)}</span>` : ''}
+      <span class="row-time">${esc(tstr)}</span>
+    </a>`;
+  }
+  el.innerHTML = html;
 }
 
 // ── Ticker ────────────────────────────────────────────────────────────────
@@ -611,6 +690,7 @@ function renderAll() {
   renderGrid('investGrid', investItems);
   document.getElementById('cntInvest').textContent = investItems.length + STOCKS.length;
 
+  renderArchive();
   renderSources();
 
   stocksReady = false;
