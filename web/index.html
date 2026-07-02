@@ -28,10 +28,12 @@ header { display: flex; align-items: center; justify-content: space-between; mar
 .brand-accent { color: var(--accent); }
 .brand-meta { font-size: 12px; color: var(--text-muted); font-weight: 400; }
 .header-right { display: flex; align-items: center; gap: 10px; }
-.updated-tag { font-size: 11.5px; color: var(--text-muted); }
-.updated-tag b { color: #16a34a; }
-.btn { border: 1px solid var(--border); background: var(--surface); padding: 6px 12px; border-radius: 6px; cursor: pointer; font-size: 12.5px; color: var(--text-secondary); font-family: inherit; transition: all 0.12s; }
-.btn:hover { background: #f5f5f4; border-color: var(--border-hover); }
+.update-chip { display: inline-flex; align-items: center; gap: 6px; background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 20px; padding: 5px 12px; cursor: pointer; font-size: 11.5px; color: #15803d; font-family: inherit; transition: background 0.12s; white-space: nowrap; user-select: none; }
+.update-chip:hover { background: #dcfce7; }
+.update-chip.loading { background: #f9fafb; border-color: var(--border); color: var(--text-muted); }
+.update-dot { width: 6px; height: 6px; border-radius: 50%; background: #16a34a; flex-shrink: 0; }
+.update-chip.loading .update-dot { background: #d1d5db; }
+.update-icon { font-size: 12px; opacity: 0.6; }
 
 /* Tabs */
 .tabs { display: flex; gap: 2px; margin-bottom: 14px; border-bottom: 1px solid var(--border); }
@@ -175,8 +177,11 @@ header { position: relative; overflow: hidden; }
     <span class="brand-meta" id="dateStr"></span>
   </div>
   <div class="header-right">
-    <span class="updated-tag" id="updatedTag"></span>
-    <button class="btn" id="refreshBtn">↻ 刷新数据</button>
+    <button class="update-chip loading" id="refreshBtn" title="点击重新读取本地缓存（不消耗 API，不重新抓取数据）">
+      <span class="update-dot"></span>
+      <span id="updatedTag">加载中…</span>
+      <span class="update-icon">↺</span>
+    </button>
   </div>
 </header>
 
@@ -203,17 +208,16 @@ header { position: relative; overflow: hidden; }
 
 <!-- Tab 2: 模型 & 榜单 -->
 <div class="tab-panel" id="tab-models">
-  <div class="section-head"><span class="section-icon">🚀</span><span class="section-title">今日模型动态</span><span class="live-dot">实时</span></div>
+  <div class="section-head"><span class="section-icon">🚀</span><span class="section-title">模型 & 研究</span></div>
   <div id="modelGrid" class="cards-grid"></div>
-  <div class="section-head" style="margin-top:24px"><span class="section-icon">📊</span><span class="section-title">榜单总览</span><span class="section-sub">实时数据 + 链接入口</span></div>
+  <div class="section-head" style="margin-top:24px"><span class="section-icon">📊</span><span class="section-title">榜单总览</span><span class="section-sub">日更数据 + 链接入口</span></div>
   <div id="rankingsAll" class="rankings-grid"></div>
 </div>
 
 <!-- Tab 3: 投融资 & 二级 -->
 <div class="tab-panel" id="tab-invest">
-  <div class="section-head"><span class="section-icon">💰</span><span class="section-title">今日融资 & 产业</span><span class="live-dot">实时</span></div>
   <div id="investGrid" class="cards-grid"></div>
-  <div class="section-head" style="margin-top:24px"><span class="section-icon">📈</span><span class="section-title">AI 核心标的</span><span class="section-sub">美 / A / 港 · 30 天收盘</span><span class="live-dot">实时</span></div>
+  <div class="section-head" style="margin-top:24px"><span class="section-icon">📈</span><span class="section-title">AI 核心标的</span><span class="section-sub">美 / A / 港 · 30 天收盘</span><span class="live-dot">日更</span></div>
   <div id="stocksGrid" class="stocks-grid"></div>
 </div>
 
@@ -223,7 +227,7 @@ header { position: relative; overflow: hidden; }
 </div>
 
 <footer>
-  TechRadar · 数据由 <code>run_daily.sh</code> 每日拉取写入 <code>data/*.json</code> · Claude 打分排序
+  Coldless AI Radar · 数据由 <code>run_daily.sh</code> 每日 10:00 拉取 · Claude 打分排序
 </footer>
 </div>
 
@@ -493,13 +497,27 @@ async function loadData() {
 
   // Digest (主数据源：打分+去重+摘要)
   DIGEST = [];
+  const chip = document.getElementById('refreshBtn');
+  const tag  = document.getElementById('updatedTag');
   if (files.digest) {
     try {
       const d = await getJSON('../data/'+files.digest);
       DIGEST = d.items || [];
-      document.getElementById('updatedTag').innerHTML = d.updated
-        ? `更新 <b>${esc(d.updated.replace('T',' ').slice(0,16))}</b>` : '';
-    } catch(e) { errs.push('digest.json: '+e.message); }
+      if (d.updated) {
+        const dt = new Date(d.updated);
+        const now = new Date();
+        const isToday = dt.toDateString() === now.toDateString();
+        const mm = String(dt.getMonth()+1).padStart(2,'0');
+        const dd = String(dt.getDate()).padStart(2,'0');
+        const hh = String(dt.getHours()).padStart(2,'0');
+        const mi = String(dt.getMinutes()).padStart(2,'0');
+        tag.textContent = isToday ? `今日 ${hh}:${mi} 已更新` : `${mm}-${dd} ${hh}:${mi} 已更新`;
+        chip.classList.remove('loading');
+      } else {
+        tag.textContent = '数据已加载';
+        chip.classList.remove('loading');
+      }
+    } catch(e) { errs.push('digest.json: '+e.message); tag.textContent = '加载失败'; }
   }
 
   // OpenRouter
@@ -570,22 +588,26 @@ function renderTicker() {
 // ── 渲染全部 ──────────────────────────────────────────────────────────────
 let stocksReady = false;
 
+function byTime(a, b) {
+  return (b.published_at || '') > (a.published_at || '') ? 1 : -1;
+}
+
 function renderAll() {
   renderTicker();
 
-  // Tab 1: 今日要闻 = 非模型/投资专属的条目（行业动态/社区信号/产品动态），上限 15
-  const feedItems = DIGEST.filter(x => catTab(x.category) === 'feed').slice(0, 15);
+  // Tab 1: 近期要闻 — 按时间排序，最新在前
+  const feedItems = DIGEST.filter(x => catTab(x.category) === 'feed').sort(byTime).slice(0, 15);
   renderGrid('feedGrid', feedItems);
   document.getElementById('cntFeed').textContent = feedItems.length;
 
-  // Tab 2: 模型 & 榜单 = 模型/Agent/研究 类条目，上限 15
-  const modelItems = DIGEST.filter(x => catTab(x.category) === 'models').slice(0, 15);
+  // Tab 2: 模型 & 研究 — 按时间排序
+  const modelItems = DIGEST.filter(x => catTab(x.category) === 'models').sort(byTime).slice(0, 15);
   renderGrid('modelGrid', modelItems);
   renderAllRankings('rankingsAll');
   document.getElementById('cntModels').textContent = modelItems.length;
 
-  // Tab 3: 投融资 & 二级 = 融资并购/算力供应链 类条目，上限 15
-  const investItems = DIGEST.filter(x => catTab(x.category) === 'invest').slice(0, 15);
+  // Tab 3: 投融资 & 二级 — 按时间排序
+  const investItems = DIGEST.filter(x => catTab(x.category) === 'invest').sort(byTime).slice(0, 15);
   renderGrid('investGrid', investItems);
   document.getElementById('cntInvest').textContent = investItems.length + STOCKS.length;
 
@@ -604,7 +626,14 @@ function switchTab(name) {
   if (name === 'invest' && !stocksReady) { renderStocks(); stocksReady = true; }
 }
 document.querySelectorAll('.tab').forEach(t => t.addEventListener('click', () => switchTab(t.dataset.tab)));
-document.getElementById('refreshBtn').addEventListener('click', async () => { await loadData(); renderAll(); });
+document.getElementById('refreshBtn').addEventListener('click', async () => {
+  const chip = document.getElementById('refreshBtn');
+  const tag  = document.getElementById('updatedTag');
+  chip.classList.add('loading');
+  tag.textContent = '读取中…';
+  await loadData();
+  renderAll();
+});
 document.getElementById('dateStr').textContent = new Date().toLocaleDateString('zh-CN',{year:'numeric',month:'long',day:'numeric',weekday:'long'});
 
 // ── 启动 ──────────────────────────────────────────────────────────────────
