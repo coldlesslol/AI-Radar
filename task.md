@@ -8,7 +8,13 @@ date: 2026-06-29
 
 # task — 12-TechRadar
 
-## 下一步（owner: CD + Claude Code）
+## 当前：P1 视觉重设计（owner: CD + Cowork，2026-07-02）
+1. ✅ Claude Design 探索 3 轮（学习目的达成：附件锚定/画布锚定/文件vs截图三课）；风格资产沉淀，字体定稿 Fraunces，brief 升 v2
+2. ✅ Cowork 三段落地 `web/index.html`：纸墨 token / nameplate 报头 / 卡片系统 / 5 个 bug 全修 / 响应式补齐；CD 验收通过
+3. **⏳ 等 CD 确认 git push 上线**（GitHub Pages 数分钟生效，明日 10:00 管道照常）
+4. 后续成长路线（P2 文章页排版 / P3 动效）见任务包第五节；DISPATCH 区待终态阶段引入
+
+## 历史阶段（已完成）
 1. ✅ 调研主报告 + 结构化提炼 + 看板方案 + 核心层汇总，全部齐备
 2. ✅ Cowork MVP v0.4 形态验证：三 tab + 真实信源入口 + 股票曲线 + AI 摘要
 3. **🔄 切到 Claude Code 接手数据管道**：

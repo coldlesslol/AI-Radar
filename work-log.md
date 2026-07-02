@@ -84,3 +84,33 @@ date: 2026-06-29
 - 数据：全部仍是 Claude 基于 2026 H1 公开信息构造的近似数据（量级真实，具体数字非实时）。底部 footer 明确标注了**数据来源**和**接 API 的三条路径**（短期手动 / 中期 Scheduled Task / 长期自建后端）。
 - 二级看板：当前只是 v0（股票卡 + 30 天曲线），note-box 标注完整二级看板待 Phase 2 优化（成交量 / PE / 机构持仓 / 财报节点 / 北向资金等）。
 - 待办：CD 确认三 tab 结构 + 榜单选项 + 股票曲线形态 → 决定 Phase 2 是否启动真实数据接入（建议先接 OpenRouter API 试水，最容易且最有信号价值）。
+
+## 2026-07-02 P1 视觉重设计启动：Claude Design 学习闭环
+- 背景：数据管道已跑通（14 源/日更/GH Pages），`work/design-brief.md` 定稿设计方向（纸墨编辑刊物风、纹身美学锚点）。CD 明确两个目标：页面更有设计感 + 借项目学习 claude.ai/design（可成长，非一次性）。
+- 决策：分工闭环 = Claude Design（CD 操作，出风格 DEMO、学工具）→ 定稿导出 → Cowork 接真实数据落地 web/index.html。P1 先出 DEMO 不直接改代码。
+- 完成：`work/20260702/风格DEMO任务包--RADAR--Prompt.md` —— 上手步骤 / 可粘贴主 prompt（3 变体：Broadsheet / Ink Brutalist / Quiet Journal，含真实数据样本）/ 6 项迭代练习（对应 chat、行内评论、画布编辑、版本管理、设计评审、响应式）/ 成果带回路径 / P2-P4 成长路线。
+- 待办：CD 在 claude.ai/design 出 DEMO 并定方向 → 成果放 inputs/ → Cowork 落地 + 修 brief 中 5 个 bug。
+- 经验：Brief 已把设计系统定死时，探索空间集中在"气质变体"，适合让 Claude Design 并排出 3 版对比而不是从零发散。
+
+## 2026-07-02 Claude Design 迭代复盘：规范打架导致"不听话"
+- 现象：CD 在 claude.ai/design 跑了 3 轮（3 变体 → C 收敛 → 2a/2b），但输出始终偏"大哥特字标/设计过度"。
+- 根因：design-brief.md（附件，持久上下文）写死"COLDLESS 字标 54-60px 是全页主角"，与 CD 迭代中的真实偏好（信息主角、品牌背景化、报纸 nameplate、黑曼巴细线底纹、保持现网结构只换皮）冲突；chat 修正每轮都被附件重新锚回。次因：brief 的五段式新架构 vs "不改现有框架"冲突；URL 文字≠现网截图，工具看不到真实结构。
+- 完成：任务包追加「主 Prompt v2」——固化新方向（信息主角/nameplate ≤40px/曼巴几何线条为唯一装饰层/以现网截图为结构锚/基于 2a 融合 2b 减半底纹出完整首页），并注明开新 chat tab、不再附旧 brief。
+- 待办：CD 用 v2 出完整首页定稿 → 定稿后由 Cowork 提案修订 design-brief.md 至 v2（等 CD 确认）→ 落地 web/index.html。
+- 经验：**附件规范 > 聊天修正**是 Claude Design 的实际优先级；偏好变了必须改源头规范，否则每轮生成都会回锚。"学 Claude Design"第一课：管理它的持久上下文。
+
+## 2026-07-02 结构基准对齐 + 现网快照制作
+- 对齐：CD 确认「正确的排版」= 线上 index.html 的三 tab + 卡片流结构（非 demo 五段式）；修复路径 = 喂真实 HTML 继续在 Claude Design 迭代。
+- 根因补充：生成式画布无法凭 URL 复刻没见过的排版；v2 prompt 中"以现网截图为准"与"基于 2a 骨架"自相矛盾（Cowork 笔误），且实际未附截图，模型选了画布上的 2a。
+- 完成：`work/20260702/snapshot-现网结构快照-20260702.html`（~100KB）——把 web/index.html 的 fetch 改为内嵌今日真实数据（digest 全量/榜单/股票/archive 前 40 条），双击可打开，渲染=线上；任务包追加「主 Prompt v3 结构保真版」（结构红线 + 视觉层替换规则 + 输出完整 HTML）。
+- 待办：CD 开新 chat 附快照 + v3 → 产出换皮版 HTML → 放 inputs/ → Cowork 审查合并回 web/index.html（保留 fetch 逻辑，只取样式层）。
+- 经验：要求生成工具"严格遵守现有排版"时，唯一可靠输入是真实源文件；描述性文字和 URL 都会被自由发挥。
+
+## 2026-07-02 P1 视觉重设计落地（Cowork 执行，web/index.html）
+- 路线变更：Claude Design 出完整 demo 的路线放弃（画布锚定问题），改为 Cowork 直接在真实 index.html 上换皮，结构零改动。Claude Design 阶段沉淀的风格资产被采纳：纸墨色板、nameplate 报头、细线结构、等宽分数徽章、多源指示。
+- 字体定稿：CD 从 6 候选（字体试衣间）中选 **Fraunces**（中文配 Noto Serif SC）；哥特体退役。design-brief.md 升 v2（信息主角/结构=现网只换皮/曼巴细线装饰上限），任务包 prompt 同步 v3。
+- 三段实施：①token+字体+报头+tab+分区线 ②卡片系统全量去圆角去阴影去彩色、分类墨色化、bug5 黄底→等宽分数徽章（≥0.8 酒红）、多源徽章去 emoji ③bug1 入口卡单行、bug2 HF 标签删除、emoji 图标退役、补齐响应式断点（原文件无任何 @media）、meta 行单行化（信源>4 截断 +N）。
+- 验证：grep 走查渐变/阴影/圆角/蓝紫残留全 0；JS 语法 node 校验通过；预览快照（内嵌真实数据）三轮交 CD 验收通过。
+- 交付：`web/index.html`（待 push）；过程件 `work/20260702/`（字体试衣间/快照/预览×3/任务包）。
+- 待办：CD 确认后 git push 上线；后续 P2 候选见任务包第五节。
+- 经验：①设计 token 先行让后续每段改动自动级联；②"结构保真"类需求代码层做远优于生成画布；③分段验收节奏（骨架→卡片→细节）让 CD 每轮只判断一类问题。
