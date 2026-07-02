@@ -1,14 +1,14 @@
 {
   "source": "Latent Space",
   "layer": "newsletter",
-  "updated": "2026-07-02T22:41:47+08:00",
+  "updated": "2026-07-02T23:09:17+08:00",
   "items": [
     {
       "title": "Skill engineering and the case against one-shot AI design",
       "url": "https://www.latent.space/p/skill-engineering-design",
       "summary": "Paul Bakaus talks to us about Impeccable, human judgment in a 'loopmaxxing' era, and why agents still need people to steer them.",
       "source": "Latent Space",
-      "time": "5m",
+      "time": "33m",
       "tags": [],
       "published_at": "2026-07-02T14:36:05+00:00"
     },
@@ -35,7 +35,7 @@
       "url": "https://www.latent.space/p/autoresearch-introspection",
       "summary": "Introspection co-founder Roland Gavrilescu explains autoresearch, agent &#8220;recipes,&#8221; self-improving loops, and why humans remain central to the software factory.",
       "source": "Latent Space",
-      "time": "14h",
+      "time": "15h",
       "tags": [],
       "published_at": "2026-07-01T23:52:30+00:00"
     },
@@ -44,7 +44,7 @@
       "url": "https://www.latent.space/p/cursor-forward-deployed-engineers",
       "summary": "Cursor's Pauline Brunet explains how her team of Forward Deployed Engineers help organizations implement agents &#8212; essentially setting up software factories.",
       "source": "Latent Space",
-      "time": "19h",
+      "time": "20h",
       "tags": [],
       "published_at": "2026-07-01T19:03:44+00:00"
     },
@@ -53,7 +53,7 @@
       "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
       "summary": "Why the Llama lead left Meta for drug discovery, PEARL's zero-shot OpenBind win, and what becomes possible when co-folding finally crosses the accuracy threshold.",
       "source": "Latent Space",
-      "time": "23h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T14:42:39+00:00"
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T22:50:16+08:00",
+  "updated": "2026-07-02T23:18:07+08:00",
   "files": {
     "rankings_openrouter": "rankings_openrouter.json",
     "news_techmeme": "news_techmeme.json",
@@ -40,10 +40,11 @@
     "analysis_inter": "analysis_inter.json",
     "analysis_raschka": "analysis_raschka.json",
     "company_xinzhiyuan": "company_xinzhiyuan.json",
-    "company_jiqizhixin": "company_jiqizhixin.json"
+    "company_jiqizhixin": "company_jiqizhixin.json",
+    "analysis_tisi": "analysis_tisi.json"
   },
   "stats": {
-    "total_items": 653,
+    "total_items": 681,
     "last_run_status": "ok",
     "errors": [
       {
@@ -73,7 +74,7 @@
       "news_qbitai": 10,
       "community_hn": 20,
       "stocks": 24,
-      "digest": 53,
+      "digest": 43,
       "huggingface_trending": 15,
       "github_trending": 15,
       "news_jiqizhixin": 0,
@@ -82,14 +83,14 @@
       "news_venturebeat": 0,
       "news_verge_ai": 10,
       "community_reddit": 15,
-      "news_tldr_ai": 5,
-      "news_import_ai": 1,
+      "news_tldr_ai": 20,
+      "news_import_ai": 4,
       "news_latent": 10,
       "news_semianalysis": 0,
       "news_producthunt": 15,
       "research_arxiv": 20,
-      "archive": 289,
-      "news_ars": 12,
+      "archive": 302,
+      "news_ars": 13,
       "news_mit_tr": 10,
       "news_tmtpost": 15,
       "news_geekpark": 0,
@@ -102,12 +103,13 @@
       "company_minimax": 0,
       "company_mistral": 4,
       "company_runway": 2,
-      "company_cohere": 1,
+      "company_cohere": 2,
       "analysis_ark": 0,
-      "analysis_inter": 1,
-      "analysis_raschka": 1,
+      "analysis_inter": 5,
+      "analysis_raschka": 2,
       "company_xinzhiyuan": 8,
-      "company_jiqizhixin": 3
+      "company_jiqizhixin": 3,
+      "analysis_tisi": 0
     }
   }
 }

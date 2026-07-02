@@ -1,14 +1,14 @@
 {
   "source": "TLDR AI",
   "layer": "newsletter",
-  "updated": "2026-07-02T22:41:42+08:00",
+  "updated": "2026-07-02T23:09:12+08:00",
   "items": [
     {
       "title": "Gemini Flash upgrade ⚡️, Meta AI cloud 🌐, ZCode 👨‍💻",
       "url": "https://tldr.tech/ai/2026-07-02",
       "summary": "",
       "source": "TLDR AI",
-      "time": "14h",
+      "time": "15h",
       "tags": [],
       "published_at": "2026-07-02T00:00:00+00:00"
     },
@@ -47,6 +47,141 @@
       "time": "6d",
       "tags": [],
       "published_at": "2026-06-26T00:00:00+00:00"
+    },
+    {
+      "title": "Jalapeño chip 🌶️, Anthropic accuses Alibaba ⚖️, Gemini computer use 🖥️",
+      "url": "https://tldr.tech/ai/2026-06-25",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "7d",
+      "tags": [],
+      "published_at": "2026-06-25T00:00:00+00:00"
+    },
+    {
+      "title": "Claude Tag 💬, Seedance 2.5 🎥, Mistral OCR 4 🧠",
+      "url": "https://tldr.tech/ai/2026-06-24",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "8d",
+      "tags": [],
+      "published_at": "2026-06-24T00:00:00+00:00"
+    },
+    {
+      "title": "SpaceX Colossus deal 🚀, GPT-5.5 Cyber launch 🛡️, Codex as workspace 🤖",
+      "url": "https://tldr.tech/ai/2026-06-23",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "9d",
+      "tags": [],
+      "published_at": "2026-06-23T00:00:00+00:00"
+    },
+    {
+      "title": "Orchestration models 🤖, DeepMind exodus 👋, loop engineering 🔄",
+      "url": "https://tldr.tech/ai/2026-06-22",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "10d",
+      "tags": [],
+      "published_at": "2026-06-22T00:00:00+00:00"
+    },
+    {
+      "title": "GPT-5.6 Tuesday 🤖, Claude Code artifacts 👨‍💻, Perplexity’s Brain memory 🧠",
+      "url": "https://tldr.tech/ai/2026-06-19",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "13d",
+      "tags": [],
+      "published_at": "2026-06-19T00:00:00+00:00"
+    },
+    {
+      "title": "ChatGPT marketshare drops 📉, Vercel eve 🤖, Replit links Claude 🔌",
+      "url": "https://tldr.tech/ai/2026-06-18",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "14d",
+      "tags": [],
+      "published_at": "2026-06-18T00:00:00+00:00"
+    },
+    {
+      "title": "GLM-5.2 🤖, DeepSeek raises $7.4B 💰, Android MCP 📱",
+      "url": "https://tldr.tech/ai/2026-06-17",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "15d",
+      "tags": [],
+      "published_at": "2026-06-17T00:00:00+00:00"
+    },
+    {
+      "title": "Meta AI mode 📱, Factory 2.0 👨‍💻, Sakana’s autonomous researcher 🐟",
+      "url": "https://tldr.tech/ai/2026-06-16",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "16d",
+      "tags": [],
+      "published_at": "2026-06-16T00:00:00+00:00"
+    },
+    {
+      "title": "Anthropic Fable shutdown 🏛️, GLM-5.2 🤖, OpenRouter Fusion 🧠",
+      "url": "https://tldr.tech/ai/2026-06-15",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "17d",
+      "tags": [],
+      "published_at": "2026-06-15T00:00:00+00:00"
+    },
+    {
+      "title": "OpenAI buys Ona 🤝, Anthropic backtracks 🔁, Xiaomi’s MiMo code 👨‍💻",
+      "url": "https://tldr.tech/ai/2026-06-12",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "20d",
+      "tags": [],
+      "published_at": "2026-06-12T00:00:00+00:00"
+    },
+    {
+      "title": "Dario Amodei policy 🏛️, DiffusionGemma ⚡, WhatsApp to unblock bots 🤖",
+      "url": "https://tldr.tech/ai/2026-06-11",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "21d",
+      "tags": [],
+      "published_at": "2026-06-11T00:00:00+00:00"
+    },
+    {
+      "title": "Claude Fable 5 🚀, Gemini 3.5 Live Translate 📱, scaling test time compute 📈",
+      "url": "https://tldr.tech/ai/2026-06-10",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "22d",
+      "tags": [],
+      "published_at": "2026-06-10T00:00:00+00:00"
+    },
+    {
+      "title": "OpenAI S-1 🇺🇸, Siri AI 📱, Xiaomi Ultraspeed ⚡",
+      "url": "https://tldr.tech/ai/2026-06-09",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "23d",
+      "tags": [],
+      "published_at": "2026-06-09T00:00:00+00:00"
+    },
+    {
+      "title": "OpenAI govt stake 🇺🇸, Google compute deal 🚀, Microsoft Scout launch 🤖",
+      "url": "https://tldr.tech/ai/2026-06-08",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "24d",
+      "tags": [],
+      "published_at": "2026-06-08T00:00:00+00:00"
+    },
+    {
+      "title": "Anthropic Oceanus leaks 🤖, ChatGPT Dreaming 💭, recursive self improvement 🚀",
+      "url": "https://tldr.tech/ai/2026-06-05",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "27d",
+      "tags": [],
+      "published_at": "2026-06-05T00:00:00+00:00"
     }
   ]
 }

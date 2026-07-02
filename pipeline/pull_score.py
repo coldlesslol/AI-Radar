@@ -74,6 +74,8 @@ _AI_DEDICATED = {
     "新智元", "机器之心",
     # P3 分析机构（专注 AI 深度分析）
     "ARK Invest", "Interconnects", "Ahead of AI",
+    # 中文研究机构
+    "腾讯研究院",
 }
 
 # 运行时合并用户自定义公司/信源名（绕过关键词预筛）

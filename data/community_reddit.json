@@ -1,7 +1,7 @@
 {
   "source": "Reddit ML",
   "layer": "community",
-  "updated": "2026-07-02T22:41:40+08:00",
+  "updated": "2026-07-02T23:09:10+08:00",
   "items": [
     {
       "title": "[D] Self-Promotion Thread",
@@ -35,9 +35,18 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ukzdnj/hamiltonian_neural_networks_from_a_differential/",
       "summary": "This is a write-up on our company blog that I wrote, sharing our perspective into Hamiltonian Neural Networks (Greydanus et al., 2019) from a differential-geometry angle rather than the usual &quot;he",
       "source": "Reddit ML",
-      "time": "16h",
+      "time": "17h",
       "tags": [],
       "published_at": "2026-07-01T21:55:58+00:00"
+    },
+    {
+      "title": "IN 2026 ML BOOK OUTDATED? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulk5cd/in_2026_ml_book_outdated_d/",
+      "summary": "Hello everyone. I wanted to ask if the below book is a good source of machine learning in 2026 or if it is now outdated and if there are better options. Hands-on Machine Learning with. Scikit-Learn, K",
+      "source": "Reddit ML",
+      "time": "28m",
+      "tags": [],
+      "published_at": "2026-07-02T14:40:27+00:00"
     },
     {
       "title": "On July 1, 2026, arXiv will spin out from Cornell University, its home for the past 25 years, to become an independent nonprofit organization. Major funding support from Simons Foundation and Schmidt Sciences. Ditching the red for their website. [N]",
@@ -49,20 +58,11 @@
       "published_at": "2026-07-01T12:07:43+00:00"
     },
     {
-      "title": "IN 2026 ML BOOK OUTDATED? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulk5cd/in_2026_ml_book_outdated_d/",
-      "summary": "Hello everyone. I wanted to ask if the below book is a good source of machine learning in 2026 or if it is now outdated and if there are better options. Hands-on Machine Learning with. Scikit-Learn, K",
-      "source": "Reddit ML",
-      "time": "1m",
-      "tags": [],
-      "published_at": "2026-07-02T14:40:27+00:00"
-    },
-    {
       "title": "SentryCode: Real-time Auditor + Honeytokens for AI Coding Agents [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ul7ap2/sentrycode_realtime_auditor_honeytokens_for_ai/",
       "summary": "In light of recent privacy concerns arising from local AI coding agents performing telemetry, environmental scanning, and hidden cue fingerprinting, I've open-sourced SentryCode—a kernel-level behavio",
       "source": "Reddit ML",
-      "time": "10h",
+      "time": "11h",
       "tags": [],
       "published_at": "2026-07-02T03:48:58+00:00"
     },
@@ -89,7 +89,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ul3ohk/making_optimization_work_when_labels_are_scarce_r/",
       "summary": "https://www.gnosyslabs.com/case-studies/safety-classifier-sparse-labels Gnosys is an autonomous model engineer: it improves prompts and classifiers when ground truth is too sparse for conventional opt",
       "source": "Reddit ML",
-      "time": "13h",
+      "time": "14h",
       "tags": [],
       "published_at": "2026-07-02T00:59:15+00:00"
     },
@@ -98,7 +98,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ukud96/acl_arr_may_2026d/",
       "summary": "Hi everyone. Do the ACL arr may 2026 reviews come out of July 2nd or do they come out on July 7 th?? How much does one need to get into Main or Findings? I am a bit new to this. Thanks a lot folks. &#",
       "source": "Reddit ML",
-      "time": "19h",
+      "time": "20h",
       "tags": [],
       "published_at": "2026-07-01T18:48:58+00:00"
     },
@@ -107,7 +107,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uko3x6/d_simple_questions_thread/",
       "summary": "Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead! Thread will stay alive until next one so keep posting after ",
       "source": "Reddit ML",
-      "time": "23h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T15:00:27+00:00"
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T14:49:29.024399+00:00",
+  "updated": "2026-07-02T15:17:27.009605+00:00",
   "items": [
     {
       "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
@@ -249,6 +249,21 @@
       "category": "产品动态",
       "pinned_at": "2026-07-02T14:49:29.024399+00:00",
       "expires_at": "2026-07-16T14:49:29.024399+00:00",
+      "auto": true
+    },
+    {
+      "title": "实锤了：Claude Code偷查用户，时区、中国AI实验室全是关键词 - qq.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yanZuanozZjJSemZDOWdSX2RUTm1xb3ByNUVRcnpLWGNZbXNVbHM4OFBQb096NzhoVHBta0lkTWo1bURnOFg1OXRzWFhxV2NLTmc4Y3Nn?oc=5",
+      "summary_cn": "开发者曝光 Claude Code 内含针对中国用户的检测代码（含时区、中国 AI 实验室等关键词），Anthropic 回应称是为防止模型蒸馏、将在更新中删除；同期 Anthropic 指控阿里巴巴用约2.5万账号、2880万次对话进行史上最大规模 Claude 克隆。",
+      "sources": [
+        "机器之心",
+        "雷峰网",
+        "Ars Technica"
+      ],
+      "relevance_score": 0.94,
+      "category": "行业动态",
+      "pinned_at": "2026-07-02T15:17:27.009605+00:00",
+      "expires_at": "2026-07-16T15:17:27.009605+00:00",
       "auto": true
     },
     {

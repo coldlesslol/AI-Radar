@@ -267,7 +267,6 @@ header { position: relative; overflow: hidden; }
 
 <!-- Tab 2: 模型 & 榜单 -->
 <div class="tab-panel" id="tab-models">
-  <div class="section-head"><span class="section-icon">🚀</span><span class="section-title">模型 & 研究</span></div>
   <div id="modelGrid" class="cards-grid"></div>
   <div class="section-head" style="margin-top:24px"><span class="section-icon">📊</span><span class="section-title">榜单总览</span><span class="section-sub">日更数据 + 链接入口</span></div>
   <div id="rankingsAll" class="rankings-grid"></div>
@@ -799,11 +798,24 @@ function onFilingsForm() {
 // ── 研报渲染（分页，最多 30 条）─────────────────────────────────────────
 const RESEARCH_SOURCES = new Set([
   'SemiAnalysis','Latent Space','Import AI','Interconnects','Ahead of AI',
-  'ARK Invest','Benedict Evans'
+  'ARK Invest','Benedict Evans',
+  '腾讯研究院',
 ]);
+// 中文机构：同等分数优先展示
+const RESEARCH_CN = new Set(['腾讯研究院']);
 const RESEARCH_PAGE_SIZE = 6;
 let researchPage = 1;
 let researchItems = [];
+
+function _researchRank(x) {
+  const score = x.relevance_score || 0;
+  const ageDays = (Date.now() - new Date(x.published_at || 0)) / 86400000;
+  // 时效衰减：14天内线性加权，最高 +0.25
+  const recency = Math.max(0, 0.25 * (1 - ageDays / 14));
+  // 中文机构加权 +0.10
+  const cnBoost = RESEARCH_CN.has(x._researchSrc || '') ? 0.10 : 0;
+  return score + recency + cnBoost;
+}
 
 function buildResearchItems() {
   const seen = new Set();
@@ -816,7 +828,7 @@ function buildResearchItems() {
     seen.add(x.url);
     filtered.push({...x, _researchSrc: match});
   }
-  filtered.sort((a, b) => (b.relevance_score||0) - (a.relevance_score||0));
+  filtered.sort((a, b) => _researchRank(b) - _researchRank(a));
   return filtered.slice(0, 30);
 }
 

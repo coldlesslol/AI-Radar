@@ -1,8 +1,17 @@
 {
   "source": "Ars Technica",
   "layer": "news",
-  "updated": "2026-07-02T22:41:30+08:00",
+  "updated": "2026-07-02T23:09:01+08:00",
   "items": [
+    {
+      "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
+      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+      "summary": "FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns.",
+      "source": "Ars Technica",
+      "time": "29m",
+      "tags": [],
+      "published_at": "2026-07-02T14:39:17+00:00"
+    },
     {
       "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
       "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
@@ -17,7 +26,7 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
       "summary": "US lifts curbs on Anthropic’s advanced Fable and Mythos models.",
       "source": "Ars Technica",
-      "time": "21h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-01T16:44:18+00:00"
     },

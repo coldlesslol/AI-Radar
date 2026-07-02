@@ -1,14 +1,14 @@
 {
   "source": "Techmeme",
   "layer": "news",
-  "updated": "2026-07-02T22:41:24+08:00",
+  "updated": "2026-07-02T23:08:54+08:00",
   "items": [
     {
       "title": "Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip (Qianer Liu/The Information)",
       "url": "https://www.theinformation.com/articles/anthropic-talks-samsung-manufacture-custom-ai-chip",
       "summary": "Qianer Liu / The Information: Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip&nbsp; &mdas",
       "source": "Techmeme",
-      "time": "46m",
+      "time": "1h",
       "tags": [],
       "published_at": "2026-07-02T13:55:01+00:00"
     },
@@ -35,7 +35,7 @@
       "url": "https://www.techmeme.com/260702/p21#a260702p21",
       "summary": "Sam Altman / Financial Times: Sam Altman proposes a &ldquo;US-led international forum&rdquo; to establish AI standards, provide analysis of capabilities and risks, and make AI available to allies&nbsp",
       "source": "Techmeme",
-      "time": "2h",
+      "time": "3h",
       "tags": [],
       "published_at": "2026-07-02T12:00:42+00:00"
     },
@@ -44,7 +44,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-02/softbank-launches-ai-cloud-unit-with-plans-to-tap-10-gigawatt-capacity",
       "summary": "Min-Jeong Lee / Bloomberg: SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by 2030&nbsp; &mdash;&nbsp; S",
       "source": "Techmeme",
-      "time": "2h",
+      "time": "3h",
       "tags": [],
       "published_at": "2026-07-02T11:50:10+00:00"
     },
@@ -62,7 +62,7 @@
       "url": "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html?unlocked_article_code=1.uVA.MIkb.09sjYfuX5frT&amp;smid=url-share",
       "summary": "New York Times: Filings: Trump purchased up to $5M each in Broadcom, Meta, Amazon, Apple, Microsoft, and Nvidia stocks on July 23, the same day he unveiled his AI action plan&nbsp; &mdash;&nbsp; Presi",
       "source": "Techmeme",
-      "time": "3h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T11:05:22+00:00"
     },
@@ -71,7 +71,7 @@
       "url": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
       "summary": "Thomas Ricker / The Verge: Amazon says Leo reached 396 satellites in low-Earth orbit following a recent launch, which is &ldquo;enough to support continuous service across initial latitudes&rdquo;&nbs",
       "source": "Techmeme",
-      "time": "3h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T10:55:00+00:00"
     },
@@ -80,7 +80,7 @@
       "url": "https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html?unlocked_article_code=1.ulA.FGZt.VxL32ZdmHEsJ&amp;smid=nytcore-ios-share",
       "summary": "Jim Tankersley / New York Times: German software giant SAP says it is encouraging workers to invent new, more valuable jobs aided by AI, in a bid to avoid layoffs; SAP cut ~10K staff in 2024&nbsp; &md",
       "source": "Techmeme",
-      "time": "3h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-02T10:45:01+00:00"
     },
@@ -107,7 +107,7 @@
       "url": "https://www.nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446",
       "summary": "Samantha Elkins / NBC News: Cloudflare sets a September 15 deadline for AI companies to differentiate their web crawlers into search, AI training, and AI agents or face being blocked&nbsp; &mdash;&nbs",
       "source": "Techmeme",
-      "time": "4h",
+      "time": "5h",
       "tags": [],
       "published_at": "2026-07-02T10:00:00+00:00"
     },
@@ -116,7 +116,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-02/quantum-systems-more-than-doubles-valuation-to-8-billion-in-new-round",
       "summary": "Yazhou Sun / Bloomberg: Germany-based Quantum Systems, which sells surveillance drones used by Ukraine, raised $1.2B led by Blackstone, Noteus, Airbus, and Advent at an ~$8B valuation&nbsp; &mdash;&nb",
       "source": "Techmeme",
-      "time": "4h",
+      "time": "5h",
       "tags": [],
       "published_at": "2026-07-02T09:50:04+00:00"
     },
@@ -125,7 +125,7 @@
       "url": "https://www.cnbc.com/2026/07/02/amazon-ai-chips-devices.html",
       "summary": "Arjun Kharpal / CNBC: An interview with Amazon SVP of Devices Panos Panay on designing custom chips for Echo and Fire TV devices, experimenting with AI-enabled gadgets, and more&nbsp; &mdash;&nbsp; Am",
       "source": "Techmeme",
-      "time": "5h",
+      "time": "6h",
       "tags": [],
       "published_at": "2026-07-02T08:55:01+00:00"
     },

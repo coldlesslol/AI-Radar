@@ -1,25 +1,16 @@
 {
   "source": "Product Hunt",
   "layer": "news",
-  "updated": "2026-07-02T22:41:57+08:00",
+  "updated": "2026-07-02T23:09:28+08:00",
   "items": [
     {
-      "title": "Solaris",
-      "url": "https://www.producthunt.com/products/build-club",
-      "summary": "Your company’s AI adoption and upskilling platform Discussion | Link",
+      "title": "scritty",
+      "url": "https://www.producthunt.com/products/scritty",
+      "summary": "Shared, searchable memory for every AI coding agent Discussion | Link",
       "source": "Product Hunt",
-      "time": "1d",
+      "time": "14h",
       "tags": [],
-      "published_at": "2026-06-30T20:58:22+00:00"
-    },
-    {
-      "title": "Retrace",
-      "url": "https://www.producthunt.com/products/retrace-2",
-      "summary": "Debug AI agents by replaying and forking runs Discussion | Link",
-      "source": "Product Hunt",
-      "time": "22h",
-      "tags": [],
-      "published_at": "2026-07-01T16:12:07+00:00"
+      "published_at": "2026-07-02T00:21:44+00:00"
     },
     {
       "title": "Macro",
@@ -31,33 +22,6 @@
       "published_at": "2026-06-26T19:41:09+00:00"
     },
     {
-      "title": "PieterPost MCP",
-      "url": "https://www.producthunt.com/products/pieter-post",
-      "summary": "Connect your AI agent to postal mail Discussion | Link",
-      "source": "Product Hunt",
-      "time": "18h",
-      "tags": [],
-      "published_at": "2026-07-01T20:19:19+00:00"
-    },
-    {
-      "title": "Needle",
-      "url": "https://www.producthunt.com/products/needle-3",
-      "summary": "The proactive GTM agent in Slack and Teams Discussion | Link",
-      "source": "Product Hunt",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-06-30T13:17:55+00:00"
-    },
-    {
-      "title": "Macuse",
-      "url": "https://www.producthunt.com/products/macuse",
-      "summary": "Give Your AI Superpowers on macOS Discussion | Link",
-      "source": "Product Hunt",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-01T09:26:16+00:00"
-    },
-    {
       "title": "Basedash Actions",
       "url": "https://www.producthunt.com/products/basedash",
       "summary": "A BI tool that can take action for you Discussion | Link",
@@ -65,15 +29,6 @@
       "time": "10h",
       "tags": [],
       "published_at": "2026-07-02T04:14:53+00:00"
-    },
-    {
-      "title": "scritty",
-      "url": "https://www.producthunt.com/products/scritty",
-      "summary": "Shared, searchable memory for every AI coding agent Discussion | Link",
-      "source": "Product Hunt",
-      "time": "14h",
-      "tags": [],
-      "published_at": "2026-07-02T00:21:44+00:00"
     },
     {
       "title": "Context.dev",
@@ -85,6 +40,51 @@
       "published_at": "2026-07-01T03:33:28+00:00"
     },
     {
+      "title": "Needle",
+      "url": "https://www.producthunt.com/products/needle-3",
+      "summary": "The proactive GTM agent in Slack and Teams Discussion | Link",
+      "source": "Product Hunt",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-06-30T13:17:55+00:00"
+    },
+    {
+      "title": "Retrace",
+      "url": "https://www.producthunt.com/products/retrace-2",
+      "summary": "Debug AI agents by replaying and forking runs Discussion | Link",
+      "source": "Product Hunt",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-01T16:12:07+00:00"
+    },
+    {
+      "title": "PieterPost MCP",
+      "url": "https://www.producthunt.com/products/pieter-post",
+      "summary": "Connect your AI agent to postal mail Discussion | Link",
+      "source": "Product Hunt",
+      "time": "18h",
+      "tags": [],
+      "published_at": "2026-07-01T20:19:19+00:00"
+    },
+    {
+      "title": "Macuse",
+      "url": "https://www.producthunt.com/products/macuse",
+      "summary": "Give Your AI Superpowers on macOS Discussion | Link",
+      "source": "Product Hunt",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-01T09:26:16+00:00"
+    },
+    {
+      "title": "Solaris",
+      "url": "https://www.producthunt.com/products/build-club",
+      "summary": "Your company’s AI adoption and upskilling platform Discussion | Link",
+      "source": "Product Hunt",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-06-30T20:58:22+00:00"
+    },
+    {
       "title": "Flowly",
       "url": "https://www.producthunt.com/products/flowly-6",
       "summary": "A personal AI agent that runs on your desktop and iPhone Discussion | Link",
@@ -94,31 +94,31 @@
       "published_at": "2026-06-30T02:35:56+00:00"
     },
     {
-      "title": "Bamboo",
-      "url": "https://www.producthunt.com/products/bamboo-ai-markdown-notes",
-      "summary": "Markdown notes with AI under your control Discussion | Link",
-      "source": "Product Hunt",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-06-30T07:58:01+00:00"
-    },
-    {
-      "title": "Claude Sonnet 5",
-      "url": "https://www.producthunt.com/products/claude",
-      "summary": "AI that plans, acts, and gets work done Discussion | Link",
+      "title": "Gemini Omni Flash",
+      "url": "https://www.producthunt.com/products/gemini-omni-flash",
+      "summary": "High-quality video generation and conversational editing Discussion | Link",
       "source": "Product Hunt",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-06-30T18:30:12+00:00"
+      "published_at": "2026-06-30T20:22:29+00:00"
     },
     {
-      "title": "Sequence Agentic",
-      "url": "https://www.producthunt.com/products/sequence",
-      "summary": "Money movement for AI agents Discussion | Link",
+      "title": "Livinity",
+      "url": "https://www.producthunt.com/products/livinity",
+      "summary": "Open-source homeserver OS with a built-in AI agent Discussion | Link",
       "source": "Product Hunt",
-      "time": "4d",
+      "time": "2d",
       "tags": [],
-      "published_at": "2026-06-28T14:09:49+00:00"
+      "published_at": "2026-06-30T04:36:55+00:00"
+    },
+    {
+      "title": "Ciaro Pro",
+      "url": "https://www.producthunt.com/products/ciaro-pro",
+      "summary": "AI filmmaking for visual storytellers Discussion | Link",
+      "source": "Product Hunt",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-06-30T14:36:16+00:00"
     },
     {
       "title": "Claude Science",
@@ -130,13 +130,13 @@
       "published_at": "2026-06-30T18:19:10+00:00"
     },
     {
-      "title": "Ciaro Pro",
-      "url": "https://www.producthunt.com/products/ciaro-pro",
-      "summary": "AI filmmaking for visual storytellers Discussion | Link",
+      "title": "Bamboo",
+      "url": "https://www.producthunt.com/products/bamboo-ai-markdown-notes",
+      "summary": "Markdown notes with AI under your control Discussion | Link",
       "source": "Product Hunt",
       "time": "2d",
       "tags": [],
-      "published_at": "2026-06-30T14:36:16+00:00"
+      "published_at": "2026-06-30T07:58:01+00:00"
     }
   ]
 }

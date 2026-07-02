@@ -1,7 +1,7 @@
 {
   "source": "Interconnects",
   "layer": "analysis",
-  "updated": "2026-07-02T22:42:36+08:00",
+  "updated": "2026-07-02T23:10:06+08:00",
   "items": [
     {
       "title": "Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
@@ -11,6 +11,42 @@
       "time": "3d",
       "tags": [],
       "published_at": "2026-06-28T17:03:07+00:00"
+    },
+    {
+      "title": "GLM-5.2 is the step change for open agents",
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "summary": "A capability threshold I've been carefully monitoring.",
+      "source": "Interconnects",
+      "time": "10d",
+      "tags": [],
+      "published_at": "2026-06-22T14:52:45+00:00"
+    },
+    {
+      "title": "Banning Open Source AI Would Be A Mistake",
+      "url": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+      "summary": "This post was originally an op-ed co-authored with Kevin Xu of Interconnected for a general, non-technical audience.",
+      "source": "Interconnects",
+      "time": "13d",
+      "tags": [],
+      "published_at": "2026-06-19T13:02:47+00:00"
+    },
+    {
+      "title": "State of the blog, mid-2026",
+      "url": "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+      "summary": "About 3 years since I started writing weekly.",
+      "source": "Interconnects",
+      "time": "15d",
+      "tags": [],
+      "published_at": "2026-06-17T14:29:06+00:00"
+    },
+    {
+      "title": "Frontier post-training recipe review with Finbarr Timbers",
+      "url": "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+      "summary": "\"Interview\" #18",
+      "source": "Interconnects",
+      "time": "16d",
+      "tags": [],
+      "published_at": "2026-06-16T13:29:30+00:00"
     }
   ]
 }

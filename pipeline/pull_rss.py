@@ -18,7 +18,8 @@ from lib.user_config import load as load_user_config
 
 log = setup_logging("rss")
 
-MAX_AGE_DAYS = 7  # 超过此天数的条目直接跳过
+MAX_AGE_DAYS = 7         # 新闻/社区默认时间窗口
+ANALYSIS_MAX_AGE = 30   # 研报/Newsletter：低频发布，放宽到 30 天
 
 # 配置表：(输出键, 输出文件, 显示名, layer, url, max_items)
 FEEDS = [
@@ -69,6 +70,8 @@ FEEDS = [
     # ("analysis_ark",    "analysis_ark.json",     "ARK Invest",     "analysis",   "https://ark-invest.com/articles/feed/",                                5),
     ("analysis_inter",  "analysis_inter.json",   "Interconnects",  "analysis",   "https://www.interconnects.ai/feed",                                                            5),
     ("analysis_raschka","analysis_raschka.json", "Ahead of AI",    "analysis",   "https://magazine.sebastianraschka.com/feed",                                                   5),
+    # 中文研究机构
+    ("analysis_tisi",   "analysis_tisi.json",    "腾讯研究院",      "analysis",   "https://www.tisi.org/feed",                                                                    8),
 ]
 
 DEFAULT_MAX = 30
@@ -125,7 +128,8 @@ def pull_one(key: str, out: str, source: str, layer: str, url: str, max_items: i
     raw = fetch_raw(url)
     feed = feedparser.parse(raw)
     is_techmeme = "techmeme.com" in url
-    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
+    age_days = ANALYSIS_MAX_AGE if layer in ("analysis", "newsletter") else MAX_AGE_DAYS
+    cutoff = datetime.now(timezone.utc) - timedelta(days=age_days)
     items = []
     skipped_old = 0
     for e in feed.entries[:max_items * 3]:  # 多取一些，补上被过滤掉的

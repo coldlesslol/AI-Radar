@@ -1,14 +1,14 @@
 {
   "source": "Mistral",
   "layer": "company",
-  "updated": "2026-07-02T22:42:27+08:00",
+  "updated": "2026-07-02T23:09:57+08:00",
   "items": [
     {
       "title": "BMW Group and Mistral AI collaborate to advance AI in crash simulation - Engineer Live",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTE9ZeTJDT1hvUEhTWTZLVnR4eDlkUTROYVJDYjFmV2dkRlVEYXQ1XzBvMVFXZEVSZWtoRjhneUo2b2s4X1NpR3hKeS1la3B4U2tuZnE2R256SFNFQzJrekxyQ0FDQ2ZpYU0xeF8yM295ZmVQYzg3Vno5NGxiVU9ERGtmenZuR3hxWHdOcjJhbXU2RUdu?oc=5",
       "summary": "BMW Group and Mistral AI collaborate to advance AI in crash simulation&nbsp;&nbsp;Engineer Live",
       "source": "Mistral",
-      "time": "4h",
+      "time": "5h",
       "tags": [],
       "published_at": "2026-07-02T10:08:23+00:00"
     },
@@ -17,18 +17,9 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2p4TmtNNEFWWXBSd1E4OUtqbFFqYXY4MVNWMXJxUm5BSGxVZHplYTBrbV9MeGlNT0lYN0NZeHJtYXZXZHd3V0ZxSWdQekFEeXEtLXBXVTJGV3NyRlB6LVFTVll1ZjRLTlBuWkFBSDQwOWNMbkRENmk1MEpUbk51Vm9VdDd2SU1o?oc=5",
       "summary": "Portugal Launches Amália, Its First Open-Source AI Model&nbsp;&nbsp;Technology Org",
       "source": "Mistral",
-      "time": "2h",
+      "time": "3h",
       "tags": [],
       "published_at": "2026-07-02T12:07:16+00:00"
-    },
-    {
-      "title": "Portugal launches first open-source AI model, joining Europe’s sovereignty push - KELO-AM",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdklCTGxub2FrT3dQZjZrXzR1RVFGY0s5blN5YUpCYjVUNldoeFMycHRkOXhNOUw4ZnVXLTlZQjhXV1pGU25OZUR4Z1llaG42ZFUxcmZoQWdXUm5ZWnp3T0o0RlA1TlJmTk0yWGRZZTc1bUNBZnZLclZWYS1jOE1Zajk0c3hycllRd2NjWm9kRVYtd0tFNHE1NVRUaHZTWGpoMXZJeW9rYlhPUQ?oc=5",
-      "summary": "Portugal launches first open-source AI model, joining Europe’s sovereignty push&nbsp;&nbsp;KELO-AM",
-      "source": "Mistral",
-      "time": "22h",
-      "tags": [],
-      "published_at": "2026-07-01T16:34:04+00:00"
     },
     {
       "title": "Mistral releases 'Leanstral 1.5,' an AI for automated theorem proving, supporting Lean 4 proof work. - GIGAZINE",
@@ -38,6 +29,15 @@
       "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T07:05:00+00:00"
+    },
+    {
+      "title": "Portugal launches first open-source AI model, joining Europe’s sovereignty push - KELO-AM",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdklCTGxub2FrT3dQZjZrXzR1RVFGY0s5blN5YUpCYjVUNldoeFMycHRkOXhNOUw4ZnVXLTlZQjhXV1pGU25OZUR4Z1llaG42ZFUxcmZoQWdXUm5ZWnp3T0o0RlA1TlJmTk0yWGRZZTc1bUNBZnZLclZWYS1jOE1Zajk0c3hycllRd2NjWm9kRVYtd0tFNHE1NVRUaHZTWGpoMXZJeW9rYlhPUQ?oc=5",
+      "summary": "Portugal launches first open-source AI model, joining Europe’s sovereignty push&nbsp;&nbsp;KELO-AM",
+      "source": "Mistral",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-01T16:34:04+00:00"
     }
   ]
 }

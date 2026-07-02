@@ -1,6 +1,58 @@
 {
-  "updated": "2026-07-02T14:49:29.017636+00:00",
+  "updated": "2026-07-02T15:17:27.004480+00:00",
   "items": [
+    {
+      "title": "IN 2026 ML BOOK OUTDATED? [D]",
+      "summary_cn": "网友讨论某本机器学习书籍在2026年是否已过时。",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulk5cd/in_2026_ml_book_outdated_d/",
+      "sources": [
+        "Reddit ML"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.2,
+      "category": "社区信号",
+      "published_at": "2026-07-02T14:40:27+00:00",
+      "first_seen_at": "2026-07-02T15:17:27.004480+00:00"
+    },
+    {
+      "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
+      "summary_cn": "隐私倡导者警告 FTC，马斯克的 X 因 AI 相关用途对美国人隐私构成'严重风险'，呼吁驳回其结束监督的请求。",
+      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+      "sources": [
+        "Ars Technica"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.28,
+      "category": "行业动态",
+      "published_at": "2026-07-02T14:39:17+00:00",
+      "first_seen_at": "2026-07-02T15:17:27.004480+00:00"
+    },
+    {
+      "title": "Skill engineering and the case against one-shot AI design",
+      "summary_cn": "Paul Bakaus 谈技能工程（skill engineering）与反对一次性 AI 设计，强调'loopmaxxing'时代仍需人类判断。",
+      "url": "https://www.latent.space/p/skill-engineering-design",
+      "sources": [
+        "Latent Space"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "行业动态",
+      "published_at": "2026-07-02T14:36:05+00:00",
+      "first_seen_at": "2026-07-02T15:17:27.004480+00:00"
+    },
+    {
+      "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
+      "summary_cn": "Show HN：Mail Memories，一款从 Gmail 中抢救照片的桌面应用（与 AI 产业链无直接关联）。",
+      "url": "https://mailmemories.com",
+      "sources": [
+        "HN"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.15,
+      "category": "社区信号",
+      "published_at": "2026-07-02T14:16:57+00:00",
+      "first_seen_at": "2026-07-02T15:17:27.004480+00:00"
+    },
     {
       "title": "Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip (Qianer Liu/The Information)",
       "summary_cn": "消息称 Anthropic 已启动自研 AI 服务器芯片的早期开发，并就代工事宜与三星进行了初步接触。",
@@ -13,6 +65,19 @@
       "category": "算力供应链",
       "published_at": "2026-07-02T13:55:01+00:00",
       "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
+      "title": "AI Can't Be Listed as Inventor on Patent Applications, Japan's Top Court Rules",
+      "summary_cn": "日本最高法院裁定 AI 不能被列为专利申请中的发明人。",
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "sources": [
+        "HN"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "行业动态",
+      "published_at": "2026-07-02T13:43:41+00:00",
+      "first_seen_at": "2026-07-02T15:17:27.004480+00:00"
     },
     {
       "title": "Global VC funding hit a record $510B in H1 2026, with OpenAI and Anthropic accounting for $217B, or 43% of the total; in Q2, VCs put $205B into 5K+ startups (Gené Teare/Crunchbase News)",
@@ -28,6 +93,19 @@
       "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
     },
     {
+      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+      "summary_cn": "鸡蛋价格操纵案：涉事方获利远超所缴罚款（与 AI 无关）。",
+      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+      "sources": [
+        "HN"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.1,
+      "category": "行业动态",
+      "published_at": "2026-07-02T13:25:25+00:00",
+      "first_seen_at": "2026-07-02T15:17:27.004480+00:00"
+    },
+    {
       "title": "谁能想到，系统流「爽文」最先被AI Agent实现了",
       "summary_cn": "网文'系统流'题材率先被 AI Agent 实现并拍成职场短剧，AI 短剧成为内容产业新落地方向。",
       "url": "https://36kr.com/p/3878522627518471?f=rss",
@@ -39,6 +117,19 @@
       "category": "行业动态",
       "published_at": "2026-07-02T13:22:24+00:00",
       "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
+      "title": "Comparing Fable and 10 other LLMs on refactoring a LangGraph god node",
+      "summary_cn": "一篇博客对比 Fable 及其他10款 LLM 重构 LangGraph'上帝节点'的表现。",
+      "url": "https://wtf.korridzy.com/twilight-of-the-gods/",
+      "sources": [
+        "HN"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "社区信号",
+      "published_at": "2026-07-02T13:19:56+00:00",
+      "first_seen_at": "2026-07-02T15:17:27.004480+00:00"
     },
     {
       "title": "Microsoft establishes an organization with 6,000 staff specializing in engineering, corporate training, and management to support businesses with AI deployments (Todd Bishop/GeekWire)",
@@ -67,6 +158,19 @@
       "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
     },
     {
+      "title": "美股大型科技股盘前多数上涨，英特尔涨超2%",
+      "summary_cn": "美股大型科技股盘前多数上涨，英特尔涨超2%、英伟达微涨、Meta 下跌（大盘行情，与 AI 产业无实质关联）。",
+      "url": "https://36kr.com/newsflashes/3878492795203840?f=rss",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.15,
+      "category": "行业动态",
+      "published_at": "2026-07-02T12:46:53+00:00",
+      "first_seen_at": "2026-07-02T15:17:27.004480+00:00"
+    },
+    {
       "title": "Germany’s Infineon opens major chip plant as EU seeks tech autonomy",
       "summary_cn": "德国英飞凌开设大型芯片工厂，助力欧盟寻求技术自主。",
       "url": "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy",
@@ -91,6 +195,19 @@
       "category": "行业动态",
       "published_at": "2026-07-02T12:40:36+00:00",
       "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
+    },
+    {
+      "title": "东微半导：拟发行不超14.36亿元可转债",
+      "summary_cn": "东微半导拟发行不超14.36亿元可转债，募资用于功率器件与功率管理芯片研发产业化（普通功率半导体，非 AI 芯片）。",
+      "url": "https://36kr.com/newsflashes/3878475816955913?f=rss",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.2,
+      "category": "算力供应链",
+      "published_at": "2026-07-02T12:29:37+00:00",
+      "first_seen_at": "2026-07-02T15:17:27.004480+00:00"
     },
     {
       "title": "What do you think about paper fishing? [D]",
@@ -478,6 +595,19 @@
       "category": "行业动态",
       "published_at": "2026-07-02T10:12:24+00:00",
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "Meta都要变卖算力了，AI基建泡沫要破了吗？",
+      "summary_cn": "Meta 都要变卖算力，引发'AI 基建泡沫是否将破''算力是否开始过剩'的行业讨论。",
+      "url": "https://www.tmtpost.com/8050077.html",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "算力供应链",
+      "published_at": "2026-07-02T10:12:21+00:00",
+      "first_seen_at": "2026-07-02T15:17:27.004480+00:00"
     },
     {
       "title": "President Trump says Micron will invest $250M in Trump Accounts; Micron says it will come via an employee matching program and a $250 deposit in some US states (New York Times)",
@@ -1685,6 +1815,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "scritty",
+      "summary_cn": "scritty 为所有 AI 编程 Agent 提供共享、可检索的记忆。",
+      "url": "https://www.producthunt.com/products/scritty",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.38,
+      "category": "产品动态",
+      "published_at": "2026-07-02T00:21:44+00:00",
+      "first_seen_at": "2026-07-02T15:17:27.004480+00:00"
+    },
+    {
       "title": "卷不赢模型，Meta改行「算力包租公」！一夜炸崩美股AI链 - 搜狐网",
       "summary_cn": "Meta 转向对外出租/变卖算力'当包租公'，一度炸崩美股 AI 产业链（寒武纪等大跌），引发市场对 AI 基建泡沫与算力过剩的讨论，亦有业内人士称'算力过剩'系误读。",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0R1WVRxQWQxdXExMXhFRl9xLUlCbEoyQm9yaUxseFlOdFEtSjA5VnM2blNzcXFFT0pHbG95V1dFTjBBRkVONVZ2OVZ0MHliY1dSel9Xc3F3bFBOZVNrb2g2VUFTN0pxWmhHdGp3d01MdklfVFJWR2pOZ2FnNDR2VGw4WWQ1QmFZ?oc=5",
@@ -1984,6 +2127,19 @@
       "category": "融资并购",
       "published_at": "2026-07-01T20:40:03+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "PieterPost MCP",
+      "summary_cn": "PieterPost MCP 上线，让 AI Agent 可连接并处理实体邮政信件。",
+      "url": "https://www.producthunt.com/products/pieter-post",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.38,
+      "category": "产品动态",
+      "published_at": "2026-07-01T20:19:19+00:00",
+      "first_seen_at": "2026-07-02T15:17:27.004480+00:00"
     },
     {
       "title": "Alex Karp calls US reliance on AI labs for military tech \"effing insane\", pans AI fees for businesses, and touts Palantir's Nvidia Nemotron deal for US agencies (Ty Roush/Forbes)",
@@ -2746,6 +2902,21 @@
       "category": "社区信号",
       "published_at": "2026-07-01T03:15:16+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "实锤了：Claude Code偷查用户，时区、中国AI实验室全是关键词 - qq.com",
+      "summary_cn": "开发者曝光 Claude Code 内含针对中国用户的检测代码（含时区、中国 AI 实验室等关键词），Anthropic 回应称是为防止模型蒸馏、将在更新中删除；同期 Anthropic 指控阿里巴巴用约2.5万账号、2880万次对话进行史上最大规模 Claude 克隆。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yanZuanozZjJSemZDOWdSX2RUTm1xb3ByNUVRcnpLWGNZbXNVbHM4OFBQb096NzhoVHBta0lkTWo1bURnOFg1OXRzWFhxV2NLTmc4Y3Nn?oc=5",
+      "sources": [
+        "机器之心",
+        "雷峰网",
+        "Ars Technica"
+      ],
+      "source_count": 3,
+      "relevance_score": 0.94,
+      "category": "行业动态",
+      "published_at": "2026-07-01T02:51:00+00:00",
+      "first_seen_at": "2026-07-02T15:17:27.004480+00:00"
     },
     {
       "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
