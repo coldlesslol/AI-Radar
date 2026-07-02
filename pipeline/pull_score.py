@@ -23,6 +23,7 @@ import subprocess
 from datetime import datetime, timezone, timedelta
 
 from lib.common import DATA_DIR, now_iso, setup_logging, write_json, update_index
+from lib.user_config import load as load_user_config
 
 log = setup_logging("score")
 
@@ -74,6 +75,11 @@ _AI_DEDICATED = {
     # P3 分析机构（专注 AI 深度分析）
     "ARK Invest", "Interconnects", "Ahead of AI",
 }
+
+# 运行时合并用户自定义公司/信源名（绕过关键词预筛）
+_user_cfg = load_user_config()
+_AI_DEDICATED = _AI_DEDICATED | {s["name"] for s in _user_cfg.get("stocks", [])} \
+                               | {s["name"] for s in _user_cfg.get("sources", [])}
 # 关键词（标题或摘要含任意一个即通过，小写匹配）
 _AI_KW = {
     # 英文：技术/公司/概念

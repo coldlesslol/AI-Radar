@@ -10,13 +10,14 @@ from __future__ import annotations
 import yfinance as yf
 
 from lib.common import write_json, update_index, setup_logging, now_iso
+from lib.user_config import load as load_user_config
 
 log = setup_logging("stocks")
 
-# ── AI 核心标的（可交易，15 只，5 per row × 3 rows）──────────────────────────
+# ── AI 核心标的（可交易，19 只，5 per row）────────────────────────────────────
 # (ticker, 显示名, 区域, 币种)
 TICKERS = [
-    # US（10）
+    # US（11）
     ("NVDA",      "NVIDIA",    "US", "USD"),
     ("MSFT",      "Microsoft", "US", "USD"),
     ("GOOGL",     "Alphabet",  "US", "USD"),
@@ -27,22 +28,21 @@ TICKERS = [
     ("TSLA",      "Tesla",     "US", "USD"),
     ("ARM",       "ARM",       "US", "USD"),
     ("ORCL",      "Oracle",    "US", "USD"),
+    ("SPCX",      "SpaceX",   "US", "USD"),
     # A 股（3）
     ("688256.SS", "寒武纪",    "CN", "CNY"),
     ("300308.SZ", "中际旭创",  "CN", "CNY"),
     ("002261.SZ", "拓维信息",  "CN", "CNY"),
-    # 港股（2）
+    # 港股（5）
     ("0020.HK",   "商汤-W",   "HK", "HKD"),
     ("9988.HK",   "阿里巴巴", "HK", "HKD"),
+    ("0700.HK",   "腾讯",     "HK", "HKD"),
+    ("2513.HK",   "智谱AI",   "HK", "HKD"),
+    ("0100.HK",   "MiniMax",  "HK", "HKD"),
 ]
 
-# ── 私有公司（未上市，静态信息，不拉价格）──────────────────────────────────
-PRIVATE = [
-    {"ticker": "SpaceX",  "name": "SpaceX",  "region": "US", "note": "私有·未上市",
-     "url": "https://www.spacex.com"},
-    {"ticker": "智谱AI", "name": "智谱AI", "region": "CN", "note": "私有·未上市",
-     "url": "https://www.zhipuai.cn"},
-]
+# 私有公司列表已清空（SpaceX/智谱/MiniMax 均已上市）
+PRIVATE: list[dict] = []
 
 # ── 大盘指数（5 只，单独一行）──────────────────────────────────────────────
 INDEX_TICKERS = [
@@ -74,7 +74,12 @@ def pull_one(ticker: str, name: str, region: str, currency: str) -> dict | None:
 def main() -> None:
     stocks, indices, errors = [], [], []
 
-    for ticker, name, region, currency in TICKERS:
+    user_cfg = load_user_config()
+    user_tickers = [(s["ticker"], s["name"], s["region"], s["currency"])
+                    for s in user_cfg.get("stocks", []) if s.get("ticker")]
+    all_tickers = TICKERS + user_tickers
+
+    for ticker, name, region, currency in all_tickers:
         try:
             row = pull_one(ticker, name, region, currency)
             if row:

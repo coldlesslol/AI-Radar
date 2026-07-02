@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import time
 from lib.common import get_session, retry, write_json, setup_logging, now_iso
+from lib.user_config import load as load_user_config
 
 log = setup_logging("filings")
 
@@ -77,7 +78,12 @@ def _quarter(date_str: str) -> int:
 
 def main() -> None:
     items = []
-    for ticker, company, cik in COMPANIES:
+    user_cfg = load_user_config()
+    user_companies = [(s["ticker"], s["name"], s["cik"])
+                      for s in user_cfg.get("stocks", []) if s.get("cik")]
+    all_companies = COMPANIES + user_companies
+
+    for ticker, company, cik in all_companies:
         try:
             data = fetch_submissions(cik)
             filings = latest_filing(data, ticker, company)

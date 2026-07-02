@@ -14,6 +14,7 @@ from datetime import datetime, timezone, timedelta
 import feedparser
 
 from lib.common import get_session, retry, write_json, update_index, setup_logging, now_iso
+from lib.user_config import load as load_user_config
 
 log = setup_logging("rss")
 
@@ -158,9 +159,35 @@ def pull_one(key: str, out: str, source: str, layer: str, url: str, max_items: i
     return len(items)
 
 
+def _user_feeds() -> list[tuple]:
+    """从 user-config.json 动态生成额外 feed 条目。"""
+    user_cfg = load_user_config()
+    feeds = []
+    # 用户自定义信源
+    for s in user_cfg.get("sources", []):
+        sid = s.get("id") or s["name"].lower().replace(" ", "_")
+        feeds.append((
+            f"user_{sid}", f"user_{sid}.json",
+            s["name"], s.get("category", "news"),
+            s["url"], s.get("cap", 10),
+        ))
+    # 用户新增股票 → 自动生成 Google News RSS
+    for s in user_cfg.get("stocks", []):
+        name = s["name"]
+        region = s.get("region", "US")
+        safe_id = s.get("ticker", name).replace(".", "_").lower()
+        if region == "CN":
+            url = f"https://news.google.com/rss/search?q={name}+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+        else:
+            url = f"https://news.google.com/rss/search?q={name}+AI&hl=en-US&gl=US&ceid=US:en"
+        feeds.append((f"company_user_{safe_id}", f"company_user_{safe_id}.json", name, "company", url, 6))
+    return feeds
+
+
 def main() -> None:
     ok, fail = 0, 0
-    for key, out, source, layer, url, *rest in FEEDS:
+    all_feeds = FEEDS + _user_feeds()
+    for key, out, source, layer, url, *rest in all_feeds:
         max_items = rest[0] if rest else DEFAULT_MAX
         try:
             pull_one(key, out, source, layer, url, max_items)

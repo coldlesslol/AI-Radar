@@ -121,6 +121,22 @@ header { display: flex; align-items: center; justify-content: space-between; mar
 .callout-green  { border-color: var(--green); background: #f0fdf4; color: #14532d; }
 .callout strong { font-weight: 700; }
 
+/* 操作台 */
+.field-label { display: block; font-size: 10px; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase; color: var(--text-muted); margin-bottom: 4px; }
+.field-input { width: 100%; font-size: 12.5px; font-family: inherit; padding: 7px 10px; border: 1px solid var(--border); border-radius: 6px; background: var(--bg); color: var(--text-primary); outline: none; }
+.field-input:focus { border-color: var(--accent); }
+select.field-input { cursor: pointer; }
+.btn-add { font-size: 12px; font-weight: 600; font-family: inherit; padding: 8px 16px; border: none; border-radius: 6px; background: var(--text-primary); color: var(--bg); cursor: pointer; white-space: nowrap; height: 36px; }
+.btn-add:hover { opacity: 0.8; }
+.btn-del { font-size: 11px; color: var(--red); background: none; border: none; cursor: pointer; padding: 3px 8px; border-radius: 4px; font-family: inherit; }
+.btn-del:hover { background: #fef2f2; }
+.add-form { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 14px 16px; margin-top: 12px; }
+.add-form-title { font-size: 11px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: var(--text-muted); margin-bottom: 10px; }
+.form-row { display: flex; gap: 8px; align-items: flex-end; flex-wrap: wrap; }
+.form-row > div { flex: 1; min-width: 80px; }
+.form-row > div.col-narrow { flex: 0 0 90px; }
+.form-row > div.col-wide { flex: 2; }
+
 footer { margin-top: 40px; padding-top: 14px; border-top: 1px solid var(--border); font-size: 11px; color: var(--text-muted); text-align: center; }
 </style>
 </head>
@@ -139,6 +155,7 @@ footer { margin-top: 40px; padding-top: 14px; border-top: 1px solid var(--border
   <button class="tab active" onclick="switchTab('log')">工程日志</button>
   <button class="tab" onclick="switchTab('rules')">规则层</button>
   <button class="tab" onclick="switchTab('monitor')">监控清单</button>
+  <button class="tab" onclick="switchTab('config')">⚙ 操作台</button>
 </div>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
@@ -1021,6 +1038,84 @@ Claude 处理步骤：
 
 </div><!-- /tab-monitor -->
 
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- TAB 4: 操作台                                                          -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<div class="tab-panel" id="tab-config">
+
+  <div id="apiStatus" class="callout callout-amber" style="margin-bottom:20px;">
+    正在连接本地 API...
+  </div>
+
+  <!-- ── 股票监控 ── -->
+  <div class="section">
+    <div class="section-title">自定义股票监控</div>
+    <p style="font-size:12.5px;color:var(--text-secondary);margin:0 0 12px;">
+      新增股票后，下次管线运行自动同步：行情曲线 · 公司新闻 RSS（Google News）· 财报（美股需填 CIK）。
+    </p>
+    <table class="data-table" id="stocksTable">
+      <tr><th>Ticker</th><th>显示名</th><th>市场</th><th>币种</th><th>SEC CIK</th><th></th></tr>
+    </table>
+    <div class="add-form">
+      <div class="add-form-title">+ 新增股票</div>
+      <div class="form-row">
+        <div><label class="field-label">Ticker</label><input class="field-input" id="s-ticker" placeholder="AAPL"></div>
+        <div class="col-wide"><label class="field-label">显示名</label><input class="field-input" id="s-name" placeholder="Apple"></div>
+        <div class="col-narrow"><label class="field-label">市场</label>
+          <select class="field-input" id="s-region">
+            <option value="US">US</option>
+            <option value="HK">HK 港股</option>
+            <option value="CN">CN A股</option>
+          </select>
+        </div>
+        <div class="col-narrow"><label class="field-label">币种</label>
+          <select class="field-input" id="s-currency">
+            <option value="USD">USD</option>
+            <option value="HKD">HKD</option>
+            <option value="CNY">CNY</option>
+          </select>
+        </div>
+        <div class="col-wide"><label class="field-label">SEC CIK（美股选填，格式 0001234567）</label><input class="field-input" id="s-cik" placeholder="留空跳过财报"></div>
+        <div style="flex:0"><button class="btn-add" onclick="addStock()">加入</button></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── 信源管理 ── -->
+  <div class="section">
+    <div class="section-title">自定义信源</div>
+    <p style="font-size:12.5px;color:var(--text-secondary);margin:0 0 12px;">
+      RSS feed 直接进管线打分。类型选「研报」时在主页投资 tab 的研报区单独展示。
+    </p>
+    <table class="data-table" id="sourcesTable">
+      <tr><th>名称</th><th>类型</th><th>RSS URL</th><th>条数上限</th><th></th></tr>
+    </table>
+    <div class="add-form">
+      <div class="add-form-title">+ 新增信源</div>
+      <div class="form-row">
+        <div><label class="field-label">名称</label><input class="field-input" id="src-name" placeholder="SemiAnalysis"></div>
+        <div class="col-narrow"><label class="field-label">类型</label>
+          <select class="field-input" id="src-cat">
+            <option value="research">研报</option>
+            <option value="news">新闻</option>
+            <option value="company">公司动态</option>
+            <option value="newsletter">Newsletter</option>
+          </select>
+        </div>
+        <div class="col-wide" style="flex:3"><label class="field-label">RSS URL</label><input class="field-input" id="src-url" placeholder="https://example.com/feed"></div>
+        <div class="col-narrow"><label class="field-label">条数上限</label><input class="field-input" id="src-cap" type="number" value="10" min="1" max="30"></div>
+        <div style="flex:0"><button class="btn-add" onclick="addSource()">加入</button></div>
+      </div>
+    </div>
+  </div>
+
+  <div style="font-size:12px;color:var(--text-muted);line-height:1.8;margin-top:8px;">
+    <strong>启动 API 服务器：</strong><code style="font-size:11.5px;background:#f3f4f6;padding:2px 6px;border-radius:3px;">pipeline/.venv/bin/python pipeline/api_server.py</code><br>
+    保存后下次 <code style="font-size:11.5px;background:#f3f4f6;padding:2px 6px;border-radius:3px;">run_daily.sh</code> 自动生效。如需立即更新，终端手动跑一次管线。
+  </div>
+
+</div><!-- /tab-config -->
+
 <footer>
   Coldless AI Radar · Dev Log · <a href="index.html">← 返回主页</a>
 </footer>
@@ -1033,6 +1128,113 @@ function switchTab(name) {
   document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
   document.querySelector(`[onclick="switchTab('${name}')"]`).classList.add('active');
   document.getElementById('tab-' + name).classList.add('active');
+  if (name === 'config') initConfig();
+}
+
+// ── 操作台 ────────────────────────────────────────────────────────────────
+const API = 'http://localhost:8766';
+let cfg = { stocks: [], sources: [] };
+let apiOk = false;
+
+async function initConfig() {
+  try {
+    const r = await fetch(API + '/api/config', { signal: AbortSignal.timeout(2000) });
+    if (r.ok) { cfg = await r.json(); apiOk = true; }
+  } catch { apiOk = false; }
+  const el = document.getElementById('apiStatus');
+  if (apiOk) {
+    el.className = 'callout callout-green';
+    el.innerHTML = '<strong>API 已连接</strong> · localhost:8766 正常，配置修改即时保存到 config/user-config.json。';
+  } else {
+    el.className = 'callout callout-amber';
+    el.innerHTML = '<strong>API 未运行</strong> · 先在终端执行：<code style="background:rgba(0,0,0,.08);padding:1px 5px;border-radius:3px">pipeline/.venv/bin/python pipeline/api_server.py</code>，然后刷新此页。';
+  }
+  renderTables();
+}
+
+async function saveConfig() {
+  if (!apiOk) { alert('API 未运行，无法保存'); return false; }
+  await fetch(API + '/api/config', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(cfg, null, 2),
+    signal: AbortSignal.timeout(3000),
+  });
+  return true;
+}
+
+function renderTables() {
+  // stocks
+  const st = document.getElementById('stocksTable');
+  const sRows = cfg.stocks.map((s, i) => `
+    <tr>
+      <td><code style="font-size:11.5px">${s.ticker}</code></td>
+      <td>${s.name}</td>
+      <td>${s.region}</td>
+      <td>${s.currency}</td>
+      <td style="color:var(--text-muted);font-size:11.5px">${s.cik || '—'}</td>
+      <td><button class="btn-del" onclick="removeStock(${i})">删除</button></td>
+    </tr>`).join('');
+  st.innerHTML = `<tr><th>Ticker</th><th>显示名</th><th>市场</th><th>币种</th><th>SEC CIK</th><th></th></tr>${sRows || '<tr><td colspan="6" style="color:var(--text-muted);font-size:12px;text-align:center;padding:16px">暂无自定义股票</td></tr>'}`;
+
+  // sources
+  const src = document.getElementById('sourcesTable');
+  const catClass = { research: 'analysis', company: 'company', newsletter: 'letter', news: 'scan' };
+  const srcRows = cfg.sources.map((s, i) => `
+    <tr>
+      <td><strong>${s.name}</strong></td>
+      <td><span class="layer layer-${catClass[s.category] || 'scan'}">${s.category}</span></td>
+      <td style="font-size:11.5px;color:var(--text-muted);word-break:break-all;max-width:320px">${s.url}</td>
+      <td>${s.cap || 10}</td>
+      <td><button class="btn-del" onclick="removeSource(${i})">删除</button></td>
+    </tr>`).join('');
+  src.innerHTML = `<tr><th>名称</th><th>类型</th><th>RSS URL</th><th>条数上限</th><th></th></tr>${srcRows || '<tr><td colspan="5" style="color:var(--text-muted);font-size:12px;text-align:center;padding:16px">暂无自定义信源</td></tr>'}`;
+}
+
+async function addStock() {
+  const ticker = document.getElementById('s-ticker').value.trim().toUpperCase();
+  const name   = document.getElementById('s-name').value.trim();
+  if (!ticker || !name) { alert('Ticker 和显示名必填'); return; }
+  const entry = { ticker, name, region: document.getElementById('s-region').value, currency: document.getElementById('s-currency').value };
+  const cik = document.getElementById('s-cik').value.trim();
+  if (cik) entry.cik = cik;
+  cfg.stocks.push(entry);
+  if (await saveConfig()) {
+    renderTables();
+    ['s-ticker','s-name','s-cik'].forEach(id => document.getElementById(id).value = '');
+  } else { cfg.stocks.pop(); }
+}
+
+async function removeStock(i) {
+  if (!confirm(`删除 ${cfg.stocks[i].name}？`)) return;
+  cfg.stocks.splice(i, 1);
+  if (!await saveConfig()) cfg.stocks.splice(i, 0, cfg.stocks[i]);
+  else renderTables();
+}
+
+async function addSource() {
+  const name = document.getElementById('src-name').value.trim();
+  const url  = document.getElementById('src-url').value.trim();
+  if (!name || !url) { alert('名称和 URL 必填'); return; }
+  const entry = {
+    id: name.toLowerCase().replace(/\s+/g, '_'),
+    name, url,
+    category: document.getElementById('src-cat').value,
+    cap: parseInt(document.getElementById('src-cap').value) || 10,
+  };
+  cfg.sources.push(entry);
+  if (await saveConfig()) {
+    renderTables();
+    document.getElementById('src-name').value = '';
+    document.getElementById('src-url').value = '';
+  } else { cfg.sources.pop(); }
+}
+
+async function removeSource(i) {
+  if (!confirm(`删除信源 ${cfg.sources[i].name}？`)) return;
+  cfg.sources.splice(i, 1);
+  if (!await saveConfig()) cfg.sources.splice(i, 0, cfg.sources[i]);
+  else renderTables();
 }
 </script>
 </body>
