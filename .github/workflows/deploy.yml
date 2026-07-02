@@ -36,3 +36,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # 本仓库 Pages 后端部署耗时常年逼近默认 10min 超时（8b8ded2 勉强过、
+          # a5c667d/590a759 超时失败）。放宽到 20min 给慢后端留足余量。
+          timeout: 1200000
