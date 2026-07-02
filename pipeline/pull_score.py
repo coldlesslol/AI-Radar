@@ -69,6 +69,8 @@ _AI_DEDICATED = {
     # P1 企业动态（Google News 搜索已限定为 AI 公司相关）
     "智谱AI", "月之暗面", "百度AI", "字节豆包", "MiniMax",
     "Mistral", "Runway", "Cohere",
+    # 微信头部 AI 媒体（无官方 RSS，走 Google News 捕获转载）
+    "新智元", "机器之心",
     # P3 分析机构（专注 AI 深度分析）
     "ARK Invest", "Interconnects", "Ahead of AI",
 }

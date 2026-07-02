@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T12:05:39.335428+00:00",
+  "updated": "2026-07-02T12:40:20.684915+00:00",
   "items": [
     {
       "title": "SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by 2030 (Min-Jeong Lee/Bloomberg)",
@@ -279,6 +279,19 @@
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
+      "title": "一杯拿铁3毛8，Gemini 3.1联手GPT-5.5干黄咖啡馆！2个月烧光21万 - 新浪网",
+      "summary_cn": "AI经营实验中，Gemini 3.1联手GPT-5.5运营咖啡馆，2个月烧光约21万、拿铁定价3毛8仍难盈利，凸显Agent自主经营的现实差距。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4Skh0M0JDYk5NT3ZPYks0dDEyWkJNMWFDQVBwc29laVhXZXprb0RDZ1JMUlcxUE1pTHlTTjVuQzc4VFBjQ3gwWGt2MTZaeWRsZXcxay1lTlNKUEpfWTA2c0ZUR2Rrb2xOZVVkWGVzYmY1LTBHeG82bHdqRjBUTVk?oc=5",
+      "sources": [
+        "新智元"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "社区信号",
+      "published_at": "2026-07-02T10:04:52+00:00",
+      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
+    },
+    {
       "title": "Cloudflare sets a September 15 deadline for AI companies to differentiate their web crawlers into search, AI training, and AI agents or face being blocked (Samantha Elkins/NBC News)",
       "summary_cn": "Cloudflare 要求 AI 公司在 9 月 15 日前将网络爬虫区分为搜索、训练、Agent 三类，否则将被封禁。",
       "url": "https://www.nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446",
@@ -422,6 +435,20 @@
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
+      "title": "你天天用的Claude和Codex，Meta内部不让随便用了 - 智源社区",
+      "summary_cn": "Meta内部收紧对Claude、Codex等外部AI工具的使用，AI大厂互相设防，最强AI工具在竞对间已不敢随意使用。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kNXo3a0Nua0tRRFA1R1pOVktOX3A5S01aeTVJNzRDMW9QY2YxcnJ4Q3BxOXN4SjAzeGJlc2hjVjkwcEx3YVA2bQ?oc=5",
+      "sources": [
+        "新智元",
+        "钛媒体"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.68,
+      "category": "行业动态",
+      "published_at": "2026-07-02T07:10:00+00:00",
+      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
+    },
+    {
       "title": "秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股",
       "summary_cn": "深圳光伏企业靠储能冲刺港股，净利大幅下滑（新能源，与 AI 无关）。",
       "url": "https://36kr.com/p/3878131056701447?f=rss",
@@ -500,6 +527,21 @@
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
+      "title": "训练世界模型，开始从人类的肌肉和脑子里偷师了",
+      "summary_cn": "具身智能数采迎来新范式，开始从人类肌肉与大脑「偷师」训练世界模型；相关论文提出面向演化环境的多尺度世界模型混合方法。",
+      "url": "https://www.qbitai.com/2026/07/441725.html",
+      "sources": [
+        "量子位",
+        "机器之心",
+        "arXiv AI"
+      ],
+      "source_count": 3,
+      "relevance_score": 0.71,
+      "category": "研究技术",
+      "published_at": "2026-07-02T05:44:25+00:00",
+      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
+    },
+    {
       "title": "2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！",
       "summary_cn": "2026 中国智算产业生态发展年会在深圳举办，2000+ 智算产业代表参会。",
       "url": "https://www.qbitai.com/2026/07/441586.html",
@@ -511,6 +553,32 @@
       "category": "算力供应链",
       "published_at": "2026-07-02T05:33:37+00:00",
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "全球第一！ 中国模型登顶榜首，首个可编辑AI语音来了 - 搜狐网",
+      "summary_cn": "中国模型登顶全球某榜单第一，并推出首个可编辑的AI语音技术。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd1VWbkN2RjAyejgtMXNVQ3hHUUl0QTBGZDZhYlpaWW5pM3pnWDVHTXpPd2ZxSHZ0cFBCbzNQNTRYel9BYUFzSU1Zb0VreGdZTlBNNk9OM0FHY0dlcFkxNWdybENFZUh2NDBPYjYyWmNZc1dKMGZkMEdJOXh6Tnh0Y2FReXNMekZM?oc=5",
+      "sources": [
+        "新智元"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "模型发布",
+      "published_at": "2026-07-02T05:29:30+00:00",
+      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
+    },
+    {
+      "title": "豆包公关负责人辟谣明星指数榜单：系博主用豆包生成 - 搜狐网",
+      "summary_cn": "豆包公关辟谣网传明星指数榜单，称系博主自行用豆包生成而非官方数据。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWGpKUVR3Zk1YdGhOa1N3c0YzWW9ScGU4aDRTVlBrOUREVDJ3Qy1hTmhqRnFfOGZUTk5fa2djWXNSQ0RXSVJxQVRDVVd2SHoyek5ySWJyUHZwX240bmVYMldlNmlRTTdJUkFmd1c0V0dpREZiU3V6dm9FQ0dSRXFmNjc0QmNfby1Z?oc=5",
+      "sources": [
+        "字节豆包"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.2,
+      "category": "社区信号",
+      "published_at": "2026-07-02T05:29:00+00:00",
+      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
     },
     {
       "title": "巨人网络参投VAST新一轮超10亿元融资，",
@@ -1022,6 +1090,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "备案遇阻、供应链换血：新一代豆包AI手机发布延期 - 新浪财经",
+      "summary_cn": "因备案受阻、供应链调整，新一代豆包AI手机发布延期。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41UFFSOEIwYjlYR1N4djcwaUF5dl91TXVfTV9pWEdyZUY3VFB5bUcwa3dWQm1wSWZSazJDQXU5dWtEU0R0dVpXLTg4aklsTnQwb21uTFEtZTl5bEltUXlyNnRTbTRUZXZkVGtHSlp6RHdJQQ?oc=5",
+      "sources": [
+        "字节豆包"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "产品动态",
+      "published_at": "2026-07-02T03:02:15+00:00",
+      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
+    },
+    {
       "title": "沪深两市成交额突破2万亿元",
       "summary_cn": "沪深两市成交额突破2万亿元，较上一日缩量超1300亿元（市场成交数据）。",
       "url": "https://36kr.com/newsflashes/3877915705094144?f=rss",
@@ -1098,6 +1179,19 @@
       "category": "行业动态",
       "published_at": "2026-07-02T02:36:09+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "Kimi企业版会员功能升级：支持在线下单与成员管理 - 搜狐网",
+      "summary_cn": "Kimi企业版会员功能升级，新增在线下单与成员管理能力。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNU9kdV8yUUZwS3FUX3ByYy1idk8wMHhjWUJFcENfakFyZ1NEWjVtcXJiX0NGaFM0N3M5ZVNQa1VXNWgxaGpfYmw3RTZnalA5ZTcyVVZWcnJnWG9xVTIzSC1OcVNxVVBrQUM4bHl0ZkxlNS1BUlNXbHFBWWpLQlQ1TnFZeDhrN3E0?oc=5",
+      "sources": [
+        "月之暗面"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "产品动态",
+      "published_at": "2026-07-02T02:31:00+00:00",
+      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
     },
     {
       "title": "Bring back crappy forums",
@@ -1388,6 +1482,19 @@
       "category": "行业动态",
       "published_at": "2026-07-02T00:05:01+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "Claude Code官宣下一版大升级！你在聊天，后台把活干完了 - 智源社区",
+      "summary_cn": "Anthropic官宣Claude Code下一版本大升级，支持在用户聊天的同时后台异步完成任务。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2Wi0wdE1lbU5CUkZfMy03TUtZNWJKNWFvTGI2bnF2bWxOM3VpMWI2M0FjSWxkbHg4WEp4MDBKR0t0LXRFMzN4Qg?oc=5",
+      "sources": [
+        "新智元"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.58,
+      "category": "产品动态",
+      "published_at": "2026-07-02T00:00:00+00:00",
+      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
     },
     {
       "title": "The <Usermedia> HTML Element",
@@ -2464,6 +2571,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "OpenClaw和Cursor杀入手机！Agent从此塞进口袋 - thepaper.cn",
+      "summary_cn": "OpenClaw与Cursor杀入手机端，AI Agent开始装进口袋，向移动端渗透。",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxcnV6WUpDYllPLUFQVnU0OXltdFZRUUN0YmliaTl1N3lBR2ozYUEzTU9JZ2ZvYUJZLS11ekdNSEhaSjNPSmw3LWltcFhLQ2lIVjdodmxzS1lzY1hmSnc?oc=5",
+      "sources": [
+        "新智元"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "published_at": "2026-06-30T23:07:00+00:00",
+      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
+    },
+    {
       "title": "Claude Science is Anthropic’s newest flagship product",
       "summary_cn": "Anthropic 面向药企与科研人员推出旗舰产品 Claude Science 科研智能体工作台，强调不依赖新模型、以工作流整合现有能力，与 OpenAI 同日切入 AI4S 赛道。",
       "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
@@ -2633,6 +2753,19 @@
       "category": "产品动态",
       "published_at": "2026-06-30T14:36:16+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "豆包上车！字节造车实锤，首款AI汽车或定价10万 - 汽车之家",
+      "summary_cn": "字节造车传闻落地，豆包将上车，首款AI汽车定价或在10万元级。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yQzJPZS1oa1Q4cVo2cjlNbVBHN2dlRi1ZZHVxOGF1bEZCbFRQUWMwa3daZkliZnp5SWRIeDZoR0V5N2QtUktpZFR4TTNjRlduX1FxN1BPOE1vMDA?oc=5",
+      "sources": [
+        "字节豆包"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "行业动态",
+      "published_at": "2026-06-30T13:32:35+00:00",
+      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
     },
     {
       "title": "The Download: AI “coworkers” and stratospheric internet",
@@ -2994,6 +3127,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "80%富人在用Claude：美国AI用户大调查出炉|Epoch AI|Copilot|ChatGPT|Google|Grok_手机新浪网 - 新浪财经",
+      "summary_cn": "美国AI用户大调查显示，80%高收入人群在使用Claude，反映不同AI产品在人群中的渗透差异。",
+      "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxNLXh1SnJiNDFURjVlQ1VyN0NVYktoYU9ZS2pFRzlqQU1aTHlzU2xyaXBNclVDMTRERXJTSlYtV0N2dG5BanA1aTlsVVJxc2g2T2FQVFdjX25CR0xibmw5U2R0QVVfczRlTFBOSFdNLXp2cHc5NnhLd1Y2bHloMUFLeW1aTXJXUGU5dVV2YWEtYUlyREFwbkpTWHR4R2UzSDI5SUhPaEZRUTN4VlFfRkVTRVF1TFc0bTNuZURfelNYMno2TWFETmtIVjRreFZFUHh1ME5XUFdVNlhiWkNybXJzRmdUbDUzc1ZUajBabTQzRHVTSGYxalJoTmtXcUwwUm1Hek52R0xwNElNSkdKa3NrWDR2U0c1cmhhdzhVemMtanFRNXUzcV8zeHVaWGt3LVppTXVqeko0LV83MTNobTg3bFF1Y1Vaek5pRklxOVRIRVVSWlJnRWZEZGdzV0xyU0JZRkhKeUNwd2k2bEJRUU8wWEJpUnJDZ2d0NnNCeldVZjVSemZCY09jWHZ6b3BfNktFeUhnYU9uOHV0NHdDS0tjckFXR0d6bi1hVHhVbTd3TGJBbXRYYllaVkVnb0tObnVrUFFfWjQtZDRyanpHMklKTXFxQjh6QkJOOW5TWFJVejFBTjEwcVRuQlVpSjhZTl9BM3R1czZFUDhOOEg4azJMcG9wUHI?oc=5",
+      "sources": [
+        "新智元"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "行业动态",
+      "published_at": "2026-06-29T12:11:28+00:00",
+      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
+    },
+    {
       "title": "The Download: metric weaknesses and AI elephant warnings",
       "summary_cn": "The Download 综述指标度量缺陷与 AI 对大象保护的预警等话题。",
       "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
@@ -3018,6 +3164,36 @@
       "category": "算力供应链",
       "published_at": "2026-06-29T12:00:06+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "别再管豆包收费了，Seedance正在疯狂吸金 - 21财经",
+      "summary_cn": "字节视频生成模型Seedance与即梦AI持续吸金并加速商业化，即梦亮相法国昂西动画节、联合百花奖设AIGC推优单元，布局AI影像创作生态。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3o0R3RoQjA5SGp2MGQ3b05IUTlzVEZ1c3BURHZhaTRybVV2MnBvb2tkRlVqa3lYQWdiOWg4a3FKV3B5MUkxSjFBM1pSb2I2aU4wSW56cG5rX0o3U1hoVWpSRXk3cXVhSGRxN1NhRlpRYmlINnZGLU1MenBaaTA2a0poVGIwN0ZpSkFZag?oc=5",
+      "sources": [
+        "字节豆包",
+        "21财经",
+        "雷峰网"
+      ],
+      "source_count": 3,
+      "relevance_score": 0.74,
+      "category": "产品动态",
+      "published_at": "2026-06-29T08:59:00+00:00",
+      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
+    },
+    {
+      "title": "不靠低价抢客户，月之暗面 Kimi 出海，凭什么硬刚海外 AI“御三家”？ - Infoq.cn",
+      "summary_cn": "月之暗面B端负责人黄震昕称中国模型有望年内达Fable级水平、AI将带来生产力质变，Kimi不做重交付、以差异化而非低价出海硬刚海外AI巨头。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iSnF4a3dvM2VoOW5JZy1sWF9BbFF0MkdYdnVyNUZMQWpQa29CVnJycDZ4bHJtS3VDal9meWZtdDVlSEhOR1J1U3h0ZDJRaEcyNnl6RlJNWXQ3UQ?oc=5",
+      "sources": [
+        "月之暗面",
+        "新浪",
+        "Infoq"
+      ],
+      "source_count": 3,
+      "relevance_score": 0.71,
+      "category": "行业动态",
+      "published_at": "2026-06-29T02:06:57+00:00",
+      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
     },
     {
       "title": "GPT-5.6 preview ☀️, Grok 4.5 beta 🤖, Google limits Meta 🛑",
@@ -3184,6 +3360,19 @@
       "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
     },
     {
+      "title": "Macro",
+      "summary_cn": "Product Hunt涌现大量AI Agent工具（Macro、Flowly、Retrace、Needle、scritty等），聚焦桌面助手、共享记忆、GTM自动化与Agent调试等场景。",
+      "url": "https://www.producthunt.com/products/macro-workspace",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "产品动态",
+      "published_at": "2026-06-26T19:41:09+00:00",
+      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
+    },
+    {
       "title": "Mark by Airtop",
       "summary_cn": "Airtop 推出 Mark：面向个人营销者的'氛围式'自动化工具。",
       "url": "https://www.producthunt.com/products/airtop",
@@ -3195,6 +3384,19 @@
       "category": "产品动态",
       "published_at": "2026-06-26T19:21:13+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "国产AI高考708分，这款模型靠什么成为「屏蔽生」？ - qq.com",
+      "summary_cn": "某国产大模型在高考评测中取得708分「屏蔽生」级成绩，展示其推理与学科能力。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SOWdqYldjUU5tejZ3dm1CQkhTYXdCWkRxYWRhQzFfVnlSUXpLRGl3cEd6N3U2Q1JDVTBtWDlZOWJzZktVaVNjdzJSWllia0pYR3F5VXJ3?oc=5",
+      "sources": [
+        "机器之心"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "研究技术",
+      "published_at": "2026-06-26T06:58:00+00:00",
+      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
     },
     {
       "title": "US vs. OpenAI 🏛️, state of AI economy 🤖, scaling laws 📈",

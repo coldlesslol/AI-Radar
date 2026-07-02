@@ -57,6 +57,8 @@ FEEDS = [
     ("company_baidu",   "company_baidu.json",    "百度AI",          "company",    "https://news.google.com/rss/search?q=百度+文心+ERNIE+Bot&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",   8),
     ("company_doubao",  "company_doubao.json",   "字节豆包",        "company",    "https://news.google.com/rss/search?q=字节跳动+豆包+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",      8),
     ("company_minimax", "company_minimax.json",  "MiniMax",        "company",    "https://news.google.com/rss/search?q=MiniMax+AI+海螺&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",        6),
+    ("company_xinzhiyuan","company_xinzhiyuan.json","新智元",       "company",    "https://news.google.com/rss/search?q=新智元+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",               8),
+    ("company_jiqizhixin","company_jiqizhixin.json","机器之心",     "company",    "https://news.google.com/rss/search?q=机器之心+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",             8),
     # 国际中小 AI 公司（大平台已有 Techmeme/Verge 覆盖）
     ("company_mistral", "company_mistral.json",  "Mistral",        "company",    "https://news.google.com/rss/search?q=Mistral+AI+model&hl=en-US&gl=US&ceid=US:en",            6),
     ("company_runway",  "company_runway.json",   "Runway",         "company",    "https://news.google.com/rss/search?q=Runway+AI+video+generation&hl=en-US&gl=US&ceid=US:en",  6),
