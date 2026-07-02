@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T10:22:38+08:00",
+  "updated": "2026-07-02T10:44:24+08:00",
   "files": {
     "rankings_openrouter": "rankings_openrouter.json",
     "news_techmeme": "news_techmeme.json",
@@ -23,7 +23,7 @@
     "research_arxiv": "research_arxiv.json"
   },
   "stats": {
-    "total_items": 485,
+    "total_items": 391,
     "last_run_status": "ok",
     "errors": [
       {
@@ -38,19 +38,19 @@
       "news_qbitai": 10,
       "community_hn": 20,
       "stocks": 12,
-      "digest": 206,
+      "digest": 154,
       "huggingface_trending": 15,
       "github_trending": 15,
       "news_jiqizhixin": 0,
       "news_36kr": 30,
       "news_leiphone": 20,
-      "news_venturebeat": 7,
+      "news_venturebeat": 0,
       "news_verge_ai": 10,
       "community_reddit": 20,
-      "news_tldr_ai": 20,
-      "news_import_ai": 10,
+      "news_tldr_ai": 4,
+      "news_import_ai": 1,
       "news_latent": 10,
-      "news_semianalysis": 10,
+      "news_semianalysis": 0,
       "news_producthunt": 20,
       "research_arxiv": 20
     }

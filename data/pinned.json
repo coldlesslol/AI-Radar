@@ -1,0 +1,36 @@
+{
+  "updated": "2026-07-02T02:44:24.002615+00:00",
+  "items": [
+    {
+      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "summary_cn": "经过与特朗普政府数周谈判，Anthropic 此前被搁置的 Fable 5 获准恢复上线，多家科技媒体与社区同步报道并热议。",
+      "sources": [
+        "HN",
+        "The Verge",
+        "Latent Space",
+        "TLDR AI"
+      ],
+      "relevance_score": 1.0,
+      "category": "模型发布",
+      "pinned_at": "2026-07-02T02:44:24.002615+00:00",
+      "expires_at": "2026-07-16T02:44:24.002615+00:00",
+      "auto": true
+    },
+    {
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "summary_cn": "智谱 Z.ai 发布开源权重模型 GLM-5.2，宣称在网络安全等能力上可比肩顶级闭源模型，并推出配套编码 Harness ZCode，成为开发者关注的国产最强开源模型。",
+      "sources": [
+        "HN",
+        "The Verge",
+        "雷峰网"
+      ],
+      "relevance_score": 1.0,
+      "category": "模型发布",
+      "pinned_at": "2026-07-02T02:44:24.002615+00:00",
+      "expires_at": "2026-07-16T02:44:24.002615+00:00",
+      "auto": true
+    }
+  ]
+}

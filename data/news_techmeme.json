@@ -1,8 +1,17 @@
 {
   "source": "Techmeme",
   "layer": "news",
-  "updated": "2026-07-02T10:03:38+08:00",
+  "updated": "2026-07-02T10:38:27+08:00",
   "items": [
+    {
+      "title": "India-based short video app ShareChat's parent company Mohalla Tech plans to raise up to $400M in an IPO in 2027; ShareChat has ~65M micro-drama viewers monthly (Sankalp Phartiyal/Bloomberg)",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/sharechat-india-s-meta-rival-plans-400-million-ipo-next-year",
+      "summary": "Sankalp Phartiyal / Bloomberg: India-based short video app ShareChat's parent company Mohalla Tech plans to raise up to $400M in an IPO in 2027; ShareChat has ~65M micro-drama viewers monthly&nbsp; &m",
+      "source": "Techmeme",
+      "time": "33m",
+      "tags": [],
+      "published_at": "2026-07-02T02:05:01+00:00"
+    },
     {
       "title": "Amazon's emissions rose 16%+ YoY in 2025, driven by data center construction and delivery fuel, while Google's \"ambition-based\" emissions jumped 18% YoY in 2025 (Bloomberg)",
       "url": "https://www.bloomberg.com/news/articles/2026-07-01/big-tech-s-carbon-emissions-spike-with-runaway-growth-of-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjkzMjk3MiwiZXhwIjoxNzgzNTM3NzcyLCJhcnRpY2xlSWQiOiJUSElGQkJLSVVQVUMwMCIsImJjb25uZWN0SWQiOiIwOTRFQTUyQzdCQTQ0RDRDQjk1QTNCNDVENDg4RjY1NSJ9.1uq0UK38jkTF2Q0aiMNqqnGiskdqRbIWrqAgPcRgo2k",
@@ -17,7 +26,7 @@
       "url": "https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a",
       "summary": "George Hammond / Financial Times: Sources: the White House is in advanced talks with AI companies on voluntary standards and release timelines for new models to be announced as soon as next week&nbsp;",
       "source": "Techmeme",
-      "time": "1h",
+      "time": "2h",
       "tags": [],
       "published_at": "2026-07-02T00:05:01+00:00"
     },
@@ -53,7 +62,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-01/apple-readies-new-ipad-pro-redesigned-entry-macbook-pro-for-first-half-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjkzOTExOCwiZXhwIjoxNzgzNTQzOTE4LCJhcnRpY2xlSWQiOiJUSDM4SjhUOTZPU0owMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.Whw0tQOHQJ2qtIH7i1qAWNRHVT-TVl8Tyx5zr-AmQbs",
       "summary": "Mark Gurman / Bloomberg: Sources: Apple is working on new iPad Pros and an entry-level 14\" MacBook Pro with a new design in line with the upcoming touch-screen laptops for H1 2027&nbsp; &mdash;&nbsp; ",
       "source": "Techmeme",
-      "time": "4h",
+      "time": "5h",
       "tags": [],
       "published_at": "2026-07-01T21:26:25+00:00"
     },
@@ -89,7 +98,7 @@
       "url": "https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b?st=z9P7nX&amp;reflink=desktopwebshare_permalink",
       "summary": "Wall Street Journal: Sources: SpaceX showed investors a handset-like device prototype with AI tech from xAI, a proprietary OS, a Snapdragon chip, and a design slimmer than an iPhone&nbsp; &mdash;&nbsp",
       "source": "Techmeme",
-      "time": "7h",
+      "time": "8h",
       "tags": [],
       "published_at": "2026-07-01T18:13:01+00:00"
     },
@@ -98,7 +107,7 @@
       "url": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjRmOEljak1IR1IiLCJwIjoiL3JlcG9ydC85NjAxNzMvbWljcm9zb2Z0LXhib3gtZGlzYy10by1kaWdpdGFsLWZlYXR1cmUtcGh5c2ljYWwtZ2FtZS1jb2xsZWN0aW9uIiwiZXhwIjoxNzgzMzU5Njk2LCJpYXQiOjE3ODI5Mjc2OTZ9.oIfTRukq2XbJkjjtGK4EYmJ6Qm5KXSejNZwdcWqWf9U&amp;utm_medium=gift-link",
       "summary": "Tom Warren / The Verge: Sources: Microsoft has been working on a disc-to-digital feature for Xbox One and Xbox Series X that will let users digitize their physical game collections&nbsp; &mdash;&nbsp;",
       "source": "Techmeme",
-      "time": "7h",
+      "time": "8h",
       "tags": [],
       "published_at": "2026-07-01T18:05:01+00:00"
     },
@@ -107,7 +116,7 @@
       "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
       "summary": "Ram Iyer / TechCrunch: Venice AI, which offers access to 200+ AI models while allowing users to retain their privacy, raised a $65M Series A led by Dragonfly at a $1B valuation&nbsp; &mdash;&nbsp; Con",
       "source": "Techmeme",
-      "time": "9h",
+      "time": "10h",
       "tags": [],
       "published_at": "2026-07-01T16:20:02+00:00"
     },
@@ -128,15 +137,6 @@
       "time": "11h",
       "tags": [],
       "published_at": "2026-07-01T14:50:02+00:00"
-    },
-    {
-      "title": "B2B sales workspace startup Aligned raised a $60M Series B led by PeakSpan Capital, taking its total funding to $73.8M, and says it has 1,000+ customers (Chris Metinko/Axios)",
-      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/01/sales-startup-aligned-enterprise-software",
-      "summary": "Chris Metinko / Axios: B2B sales workspace startup Aligned raised a $60M Series B led by PeakSpan Capital, taking its total funding to $73.8M, and says it has 1,000+ customers&nbsp; &mdash;&nbsp; Alig",
-      "source": "Techmeme",
-      "time": "11h",
-      "tags": [],
-      "published_at": "2026-07-01T14:40:01+00:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "source": "Latent Space",
   "layer": "newsletter",
-  "updated": "2026-07-02T10:15:52+08:00",
+  "updated": "2026-07-02T10:38:43+08:00",
   "items": [
     {
       "title": "Autoresearch: The feedback loop behind self-improving agents",
@@ -35,7 +35,7 @@
       "url": "https://www.latent.space/p/software-factories",
       "summary": "Warp's founder thinks every major software project will soon run on an automated factory. He discusses why and how engineers should prepare for this shift.",
       "source": "Latent Space",
-      "time": "11h",
+      "time": "12h",
       "tags": [],
       "published_at": "2026-07-01T14:28:23+00:00"
     },

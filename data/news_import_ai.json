@@ -1,7 +1,7 @@
 {
   "source": "Import AI",
   "layer": "newsletter",
-  "updated": "2026-07-02T10:15:47+08:00",
+  "updated": "2026-07-02T10:38:40+08:00",
   "items": [
     {
       "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
@@ -11,87 +11,6 @@
       "time": "2d",
       "tags": [],
       "published_at": "2026-06-29T13:03:27+00:00"
-    },
-    {
-      "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
-      "url": "https://importai.substack.com/p/import-ai-462-superpersuasion-self",
-      "summary": "How religious are beliefs in the singularity?",
-      "source": "Import AI",
-      "time": "9d",
-      "tags": [],
-      "published_at": "2026-06-22T12:31:45+00:00"
-    },
-    {
-      "title": "Import AI 461: \"Alignment is not on track\"; FrontierCode; and synthetic research interns",
-      "url": "https://importai.substack.com/p/import-ai-461-alignment-is-not-on",
-      "summary": "Where are your agents right now?",
-      "source": "Import AI",
-      "time": "16d",
-      "tags": [],
-      "published_at": "2026-06-15T11:30:53+00:00"
-    },
-    {
-      "title": "Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing",
-      "url": "https://importai.substack.com/p/import-ai-460-reward-hacking-society",
-      "summary": "When will markets price the singularity?",
-      "source": "Import AI",
-      "time": "23d",
-      "tags": [],
-      "published_at": "2026-06-08T12:31:32+00:00"
-    },
-    {
-      "title": "Import AI 459: AI oversight is difficult; scaling laws for protein folding models; and pricing the extinction risk of AI systems",
-      "url": "https://importai.substack.com/p/import-ai-459-ai-oversight-is-difficult",
-      "summary": "Do you feel as though you are living in a revolution?",
-      "source": "Import AI",
-      "time": "30d",
-      "tags": [],
-      "published_at": "2026-06-01T13:31:56+00:00"
-    },
-    {
-      "title": "Import AI 458: Reckoning with the future; and a singularity story",
-      "url": "https://importai.substack.com/p/import-ai-458-reckoning-with-the",
-      "summary": "What AI-driven miracles will happen this year?",
-      "source": "Import AI",
-      "time": "36d",
-      "tags": [],
-      "published_at": "2026-05-26T12:32:03+00:00"
-    },
-    {
-      "title": "Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment",
-      "url": "https://importai.substack.com/p/import-ai-457-ai-stuxnet-cursed-muon",
-      "summary": "Welcome to Import AI, a newsletter about AI research.",
-      "source": "Import AI",
-      "time": "44d",
-      "tags": [],
-      "published_at": "2026-05-18T13:31:17+00:00"
-    },
-    {
-      "title": "Import AI 456: RSI and economic growth; radical optionality for AI regulation; and a neural computer",
-      "url": "https://importai.substack.com/p/import-ai-456-rsi-and-economic-growth",
-      "summary": "What laws does superintelligence demand?",
-      "source": "Import AI",
-      "time": "51d",
-      "tags": [],
-      "published_at": "2026-05-11T12:46:12+00:00"
-    },
-    {
-      "title": "Import AI 455: AI systems are about to start building themselves.",
-      "url": "https://importai.substack.com/p/import-ai-455-automating-ai-research",
-      "summary": "The first step towards recursive self improvement",
-      "source": "Import AI",
-      "time": "58d",
-      "tags": [],
-      "published_at": "2026-05-04T12:32:09+00:00"
-    },
-    {
-      "title": "Import AI 454: Automating alignment research; safety study of a Chinese model; HiFloat4",
-      "url": "https://importai.substack.com/p/import-ai-454-automating-alignment",
-      "summary": "At what point do the financial markets price in the singularity?",
-      "source": "Import AI",
-      "time": "72d",
-      "tags": [],
-      "published_at": "2026-04-20T12:30:19+00:00"
     }
   ]
 }

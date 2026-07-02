@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T10:16:16+08:00",
+  "updated": "2026-07-02T10:39:02+08:00",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -326,7 +326,7 @@
       "name": "寒武纪",
       "region": "CN",
       "currency": "CNY",
-      "price": 1419.32,
+      "price": 1417.94,
       "history_30d": [
         1290.9,
         1286.0,
@@ -357,7 +357,7 @@
         1482.0,
         1595.55,
         1485.33,
-        1419.32
+        1417.94
       ],
       "url": "https://finance.yahoo.com/quote/688256.SS"
     },
@@ -366,7 +366,7 @@
       "name": "中际旭创",
       "region": "CN",
       "currency": "CNY",
-      "price": 1177.99,
+      "price": 1182.01,
       "history_30d": [
         993.34,
         1037.98,
@@ -397,7 +397,7 @@
         1220.0,
         1270.0,
         1223.17,
-        1177.99
+        1182.01
       ],
       "url": "https://finance.yahoo.com/quote/300308.SZ"
     },
@@ -406,7 +406,7 @@
       "name": "拓维信息",
       "region": "CN",
       "currency": "CNY",
-      "price": 29.55,
+      "price": 31.32,
       "history_30d": [
         32.27,
         32.23,
@@ -437,7 +437,7 @@
         26.86,
         28.01,
         28.47,
-        29.55
+        31.32
       ],
       "url": "https://finance.yahoo.com/quote/002261.SZ"
     },
@@ -446,7 +446,7 @@
       "name": "商汤-W",
       "region": "HK",
       "currency": "HKD",
-      "price": 1.38,
+      "price": 1.36,
       "history_30d": [
         1.84,
         1.81,
@@ -477,7 +477,7 @@
         1.28,
         1.34,
         1.34,
-        1.38
+        1.36
       ],
       "url": "https://finance.yahoo.com/quote/0020.HK"
     }

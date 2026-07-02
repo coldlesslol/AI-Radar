@@ -1,8 +1,17 @@
 {
   "source": "HN",
   "layer": "community",
-  "updated": "2026-07-02T10:15:38+08:00",
+  "updated": "2026-07-02T10:38:34+08:00",
   "items": [
+    {
+      "title": "Avoiding Fallback in Distributed Systems",
+      "url": "https://builder.aws.com",
+      "summary": "Article URL: https://builder.aws.com Comments URL: https://news.ycombinator.com/item?id=48755653 Points: 5 # Comments: 2",
+      "source": "HN",
+      "time": "18m",
+      "tags": [],
+      "published_at": "2026-07-02T02:19:48+00:00"
+    },
     {
       "title": "LibreCAD in the Browser",
       "url": "https://magik.net/librecad/",
@@ -15,7 +24,7 @@
     {
       "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
       "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "summary": "Article URL: https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/ Comments URL: https://news.ycombinator.com/item?id=48755005 Points: 30 # Comments: 1",
+      "summary": "Article URL: https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/ Comments URL: https://news.ycombinator.com/item?id=48755005 Points: 44 # Comments: 2",
       "source": "HN",
       "time": "1h",
       "tags": [],
@@ -24,25 +33,16 @@
     {
       "title": "Global review confirms mRNA vaccines are safe, effective and full of promise",
       "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
-      "summary": "Article URL: https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/ Comments URL: https://news.ycombinator.com/item?id=48754963 Points: 80 # Comments: 46",
+      "summary": "Article URL: https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/ Comments URL: https://news.ycombinator.com/item?id=48754963 Points: 116 # Comments: 69",
       "source": "HN",
       "time": "1h",
       "tags": [],
       "published_at": "2026-07-02T00:40:14+00:00"
     },
     {
-      "title": "Meta caps internal AI token spending",
-      "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
-      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 112 # Comments: 88",
-      "source": "HN",
-      "time": "2h",
-      "tags": [],
-      "published_at": "2026-07-01T23:58:48+00:00"
-    },
-    {
       "title": "The <Usermedia> HTML Element",
       "url": "https://developer.chrome.com/blog/usermedia-html-element",
-      "summary": "Article URL: https://developer.chrome.com/blog/usermedia-html-element Comments URL: https://news.ycombinator.com/item?id=48754700 Points: 32 # Comments: 14",
+      "summary": "Article URL: https://developer.chrome.com/blog/usermedia-html-element Comments URL: https://news.ycombinator.com/item?id=48754700 Points: 36 # Comments: 15",
       "source": "HN",
       "time": "2h",
       "tags": [],
@@ -60,7 +60,7 @@
     {
       "title": "The Underhanded C Contest",
       "url": "https://underhanded-c.org/",
-      "summary": "Article URL: https://underhanded-c.org/ Comments URL: https://news.ycombinator.com/item?id=48754080 Points: 36 # Comments: 5",
+      "summary": "Article URL: https://underhanded-c.org/ Comments URL: https://news.ycombinator.com/item?id=48754080 Points: 40 # Comments: 5",
       "source": "HN",
       "time": "3h",
       "tags": [],
@@ -71,14 +71,14 @@
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
       "summary": "Article URL: https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/ Comments URL: https://news.ycombinator.com",
       "source": "HN",
-      "time": "3h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-01T22:27:47+00:00"
     },
     {
       "title": "ZCode – Harness for GLM-5.2",
       "url": "https://zcode.z.ai/en",
-      "summary": "Article URL: https://zcode.z.ai/en Comments URL: https://news.ycombinator.com/item?id=48753715 Points: 204 # Comments: 212",
+      "summary": "Article URL: https://zcode.z.ai/en Comments URL: https://news.ycombinator.com/item?id=48753715 Points: 223 # Comments: 217",
       "source": "HN",
       "time": "4h",
       "tags": [],
@@ -87,25 +87,16 @@
     {
       "title": "Chip Off the Old Block",
       "url": "https://www.astralcodexten.com/p/chip-off-the-old-block",
-      "summary": "Article URL: https://www.astralcodexten.com/p/chip-off-the-old-block Comments URL: https://news.ycombinator.com/item?id=48753524 Points: 46 # Comments: 5",
+      "summary": "Article URL: https://www.astralcodexten.com/p/chip-off-the-old-block Comments URL: https://news.ycombinator.com/item?id=48753524 Points: 51 # Comments: 7",
       "source": "HN",
       "time": "4h",
       "tags": [],
       "published_at": "2026-07-01T21:42:57+00:00"
     },
     {
-      "title": "I Left Harry's All-Night Hamburgers",
-      "url": "https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/",
-      "summary": "Article URL: https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/ Comments URL: https://news.ycombinator.com/item?id=48753220 Points: 75 # Comments: 10",
-      "source": "HN",
-      "time": "4h",
-      "tags": [],
-      "published_at": "2026-07-01T21:15:41+00:00"
-    },
-    {
       "title": "Qualcomm Linux 2.0",
       "url": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
-      "summary": "Article URL: https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available Comments URL: https://news.ycombinator.com/item?id=48753069 Points: 50 # Comments: 12",
+      "summary": "Article URL: https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available Comments URL: https://news.ycombinator.com/item?id=48753069 Points: 54 # Comments: 13",
       "source": "HN",
       "time": "5h",
       "tags": [],
@@ -123,7 +114,7 @@
     {
       "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
       "url": "https://www.workerowned.info/",
-      "summary": "Article URL: https://www.workerowned.info/ Comments URL: https://news.ycombinator.com/item?id=48752905 Points: 223 # Comments: 36",
+      "summary": "Article URL: https://www.workerowned.info/ Comments URL: https://news.ycombinator.com/item?id=48752905 Points: 241 # Comments: 39",
       "source": "HN",
       "time": "5h",
       "tags": [],
@@ -132,16 +123,16 @@
     {
       "title": "Fable 5 Is Back",
       "url": "https://twitter.com/claudeai/status/2072402636813607381",
-      "summary": "Article URL: https://twitter.com/claudeai/status/2072402636813607381 Comments URL: https://news.ycombinator.com/item?id=48752030 Points: 322 # Comments: 304",
+      "summary": "Article URL: https://twitter.com/claudeai/status/2072402636813607381 Comments URL: https://news.ycombinator.com/item?id=48752030 Points: 332 # Comments: 309",
       "source": "HN",
-      "time": "6h",
+      "time": "7h",
       "tags": [],
       "published_at": "2026-07-01T19:35:57+00:00"
     },
     {
       "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
       "url": "https://www.weaverobotics.com/isaac-1",
-      "summary": "https://runtimewire.com/article/weave-robotics-isaac-1-home-... Comments URL: https://news.ycombinator.com/item?id=48750989 Points: 80 # Comments: 126",
+      "summary": "https://runtimewire.com/article/weave-robotics-isaac-1-home-... Comments URL: https://news.ycombinator.com/item?id=48750989 Points: 83 # Comments: 135",
       "source": "HN",
       "time": "8h",
       "tags": [],
@@ -150,7 +141,7 @@
     {
       "title": "What to learn to be a graphics programmer",
       "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-      "summary": "Article URL: https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/ Comments URL: https://news.ycombinator.com/item?id=48750710 Points: 247 # Comments: 129",
+      "summary": "Article URL: https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/ Comments URL: https://news.ycombinator.com/item?id=48750710 Points: 248 # Comments: 130",
       "source": "HN",
       "time": "8h",
       "tags": [],
@@ -161,7 +152,7 @@
       "url": "https://probelab.io/blog/optimistic-provide/",
       "summary": "Article URL: https://probelab.io/blog/optimistic-provide/ Comments URL: https://news.ycombinator.com/item?id=48748518 Points: 148 # Comments: 48",
       "source": "HN",
-      "time": "10h",
+      "time": "11h",
       "tags": [],
       "published_at": "2026-07-01T15:30:35+00:00"
     },
@@ -182,6 +173,15 @@
       "time": "11h",
       "tags": [],
       "published_at": "2026-07-01T15:01:21+00:00"
+    },
+    {
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "summary": "https://biotic.org/research/spudcell/https://www.science.org/content/article/lab-created-spudcell...https://www.nytimes.com/interactive/2026/07/01/science/spudc... Comments URL: https://news.ycombinat",
+      "source": "HN",
+      "time": "12h",
+      "tags": [],
+      "published_at": "2026-07-01T14:20:52+00:00"
     }
   ]
 }

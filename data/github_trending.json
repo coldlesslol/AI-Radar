@@ -2,7 +2,7 @@
   "key": "github_trending",
   "title": "GitHub Trending AI",
   "freq": "daily",
-  "updated": "2026-07-02T10:16:20+08:00",
+  "updated": "2026-07-02T10:39:05+08:00",
   "url": "https://github.com/trending?since=daily",
   "total_trending": 20,
   "items": [
@@ -10,7 +10,7 @@
       "full_name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars": 123591,
+      "stars": 123655,
       "stars_today": 2114,
       "url": "https://github.com/msitarzewski/agency-agents",
       "rank": 1
@@ -19,7 +19,7 @@
       "full_name": "usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars": 29816,
+      "stars": 29855,
       "stars_today": 1211,
       "url": "https://github.com/usestrix/strix",
       "rank": 2
@@ -28,7 +28,7 @@
       "full_name": "HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars": 16600,
+      "stars": 16620,
       "stars_today": 694,
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "rank": 3
@@ -37,7 +37,7 @@
       "full_name": "facebook/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars": 2705,
+      "stars": 2725,
       "stars_today": 708,
       "url": "https://github.com/facebook/astryx",
       "rank": 4
@@ -46,7 +46,7 @@
       "full_name": "diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars": 9584,
+      "stars": 9603,
       "stars_today": 1010,
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "rank": 5
@@ -55,7 +55,7 @@
       "full_name": "allenai/olmocr",
       "description": "Toolkit for linearizing PDFs for LLM datasets/training",
       "language": "Python",
-      "stars": 18298,
+      "stars": 18312,
       "stars_today": 334,
       "url": "https://github.com/allenai/olmocr",
       "rank": 6
@@ -64,7 +64,7 @@
       "full_name": "logto-io/logto",
       "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
       "language": "TypeScript",
-      "stars": 13290,
+      "stars": 13295,
       "stars_today": 113,
       "url": "https://github.com/logto-io/logto",
       "rank": 7
@@ -73,7 +73,7 @@
       "full_name": "togatoga/karukan",
       "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
       "language": "Rust",
-      "stars": 590,
+      "stars": 593,
       "stars_today": 42,
       "url": "https://github.com/togatoga/karukan",
       "rank": 8
@@ -82,7 +82,7 @@
       "full_name": "Unclecheng-li/VulnClaw",
       "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
       "language": "Python",
-      "stars": 1592,
+      "stars": 1601,
       "stars_today": 132,
       "url": "https://github.com/Unclecheng-li/VulnClaw",
       "rank": 9
@@ -91,7 +91,7 @@
       "full_name": "microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
-      "stars": 50507,
+      "stars": 50537,
       "stars_today": 1096,
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "rank": 10
@@ -100,7 +100,7 @@
       "full_name": "ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars": 9641,
+      "stars": 9650,
       "stars_today": 609,
       "url": "https://github.com/ogulcancelik/herdr",
       "rank": 11
@@ -109,7 +109,7 @@
       "full_name": "0xNyk/council-of-high-intelligence",
       "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
       "language": "Shell",
-      "stars": 2661,
+      "stars": 2672,
       "stars_today": 161,
       "url": "https://github.com/0xNyk/council-of-high-intelligence",
       "rank": 12
@@ -118,7 +118,7 @@
       "full_name": "altic-dev/FluidVoice",
       "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
       "language": "Swift",
-      "stars": 5524,
+      "stars": 5533,
       "stars_today": 572,
       "url": "https://github.com/altic-dev/FluidVoice",
       "rank": 13
@@ -127,7 +127,7 @@
       "full_name": "TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Rust",
-      "stars": 6818,
+      "stars": 6824,
       "stars_today": 79,
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "rank": 14
@@ -136,7 +136,7 @@
       "full_name": "browser-use/video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars": 13252,
+      "stars": 13264,
       "stars_today": 693,
       "url": "https://github.com/browser-use/video-use",
       "rank": 15
