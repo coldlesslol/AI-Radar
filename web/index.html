@@ -136,7 +136,14 @@ header { display: flex; align-items: center; justify-content: space-between; mar
 .stock-card { background: var(--surface); border: 1px solid var(--border); border-radius: 0; padding: 12px 13px; display: flex; flex-direction: column; gap: 3px; text-decoration: none; color: inherit; transition: border-color 0.12s; position: relative; }
 .stock-card:hover { border-color: var(--border-hover); }
 .stock-card.private-co { opacity: 0.75; cursor: default; }
-.stock-card.index-card { border-left: 3px solid var(--border); }
+/* 大盘行情：扁平化，与股票卡区分（无框 / 透明 / 底线 / 薄趋势 / 名称为主） */
+.stock-card.index-card { background: transparent; border: none; border-bottom: 1px solid var(--border); border-radius: 0; padding: 6px 2px 8px; gap: 2px; }
+.stock-card.index-card:hover { border-bottom-color: var(--text-muted); }
+.index-card .stock-region-badge { display: none; }
+.index-card .stock-ticker { font-size: 10.5px; color: var(--text-muted); order: 2; }
+.index-card .stock-name { font-size: 12.5px; color: var(--text-primary); font-weight: 500; order: 1; }
+.index-card .stock-price { font-size: 15px; margin-top: 0; order: 3; }
+.index-card .spark { height: 22px; margin-top: 5px; order: 4; }
 .stock-region-badge { position: absolute; top: 9px; right: 9px; font-family: var(--mono); font-size: 8.5px; padding: 1px 5px; background: transparent; border: 1px solid var(--border); color: var(--text-muted); font-weight: 400; }
 .stock-ticker { font-family: var(--mono); font-size: 13px; font-weight: 500; }
 .stock-name { font-size: 10.5px; color: var(--text-muted); }
@@ -535,7 +542,7 @@ function renderEntryRankings(containerId) {
 // ── 股票渲染 ──────────────────────────────────────────────────────────────
 let sparkCharts = {};
 
-function stockCardHTML(s, idx, extraClass) {
+function stockCardHTML(s, idx, extraClass, prefix) {
   const sym = s.currency==='CNY'?'¥':(s.currency==='HKD'?'HK$':'$');
   const h = s.history_30d || [];
   const up = h.length >= 2 ? h[h.length-1] >= h[0] : true;
@@ -545,7 +552,7 @@ function stockCardHTML(s, idx, extraClass) {
     <div class="stock-ticker">${esc(shortTick)}</div>
     <div class="stock-name">${esc(s.name)}</div>
     <div class="stock-price ${up?'up':'down'}">${sym}${Number(s.price).toLocaleString()}</div>
-    <div class="spark"><canvas id="sp${idx}"></canvas></div>
+    <div class="spark"><canvas id="${(prefix||'sp')}${idx}"></canvas></div>
   </a>`;
 }
 
@@ -572,7 +579,7 @@ function renderStocks() {
   const all = [...STOCKS, ...PRIVATE_STOCKS];
   if (!all.length) { el.innerHTML = '<p class="empty-tip">暂无股票数据</p>'; return; }
 
-  const tradeable = STOCKS.map((s, i) => stockCardHTML(s, i, '')).join('');
+  const tradeable = STOCKS.map((s, i) => stockCardHTML(s, i, '', 'sp')).join('');
   const privates  = PRIVATE_STOCKS.map(p => `
     <span class="stock-card private-co">
       <span class="stock-region-badge">${esc(p.region)}</span>
@@ -590,7 +597,7 @@ function renderStocks() {
 function renderIndices() {
   const el = document.getElementById('indicesGrid');
   if (!el || !INDICES.length) return;
-  el.innerHTML = INDICES.map((s, i) => stockCardHTML(s, i, 'index-card')).join('');
+  el.innerHTML = INDICES.map((s, i) => stockCardHTML(s, i, 'index-card', 'idx')).join('');
   requestAnimationFrame(() => drawSpark(INDICES, 'idx'));
 }
 
