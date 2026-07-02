@@ -70,6 +70,7 @@ header { display: flex; align-items: center; justify-content: space-between; mar
 .card-meta { display: flex; align-items: center; gap: 5px; flex-wrap: wrap; }
 .cat-tag { font-size: 10.5px; font-weight: 600; padding: 2px 7px; border-radius: 3px; }
 .multi-badge { font-size: 10px; padding: 2px 7px; border-radius: 3px; background: #fef3c7; color: #92400e; font-weight: 600; border: 1px solid #fde68a; }
+.archive-badge { font-size: 9px; color: #a8a29e; background: #f3f4f6; padding: 1px 5px; border-radius: 3px; font-weight: 500; }
 .src-list { font-size: 10.5px; color: var(--text-muted); }
 .time-tag { font-size: 10.5px; color: var(--text-muted); margin-left: auto; }
 
@@ -334,17 +335,22 @@ function newsCard(item) {
   const multiBadge = isMulti
     ? `<span class="multi-badge">📡 ${item.source_count}源</span>`
     : '';
+  const archiveBadge = item._from_archive
+    ? '<span class="archive-badge">历史</span>'
+    : '';
   const srcLabel = srcNames.join(' · ');
 
   const summary = item.summary_cn || item.summary || '';
   const titleEn = item.title || '';
+  // relTime() 用 published_at 实时计算，比 RSS 抓取时存下的 time 字段更准确
+  const timeStr = relTime(item.published_at || item.first_seen_at || '') || item.time || '';
 
   return `<div class="news-card${isHigh?' high':''}" style="border-left-color:${catColor(cat)}">
     <div class="card-meta">
       <span class="cat-tag" style="background:${catBg(cat)};color:${catColor(cat)}">${esc(cat)}</span>
-      ${multiBadge}
+      ${multiBadge}${archiveBadge}
       <span class="src-list">${esc(srcLabel)}</span>
-      ${item.time ? `<span class="time-tag">${esc(item.time)}</span>` : ''}
+      ${timeStr ? `<span class="time-tag">${esc(timeStr)}</span>` : ''}
     </div>
     <p class="card-summary">${esc(summary)}</p>
     ${titleEn ? `<p class="card-title-en">${esc(titleEn)}</p>` : ''}
@@ -671,21 +677,34 @@ function byTime(a, b) {
   return (b.published_at || '') > (a.published_at || '') ? 1 : -1;
 }
 
+// 不足 15 张时从 archive 按评分补位（最重要的历史内容垫底）
+function fillToFifteen(digestItems, tabName) {
+  const TAB_SIZE = 15;
+  if (digestItems.length >= TAB_SIZE) return digestItems.slice(0, TAB_SIZE);
+  const shown  = new Set(digestItems.map(x => x.url).filter(Boolean));
+  const needed = TAB_SIZE - digestItems.length;
+  const backfill = (ARCHIVE.items || [])
+    .filter(x => catTab(x.category) === tabName && x.url && !shown.has(x.url))
+    .sort((a, b) => (b.relevance_score || 0) - (a.relevance_score || 0))
+    .slice(0, needed)
+    .map(x => ({...x, _from_archive: true}));
+  return [...digestItems, ...backfill];
+}
+
 function renderAll() {
   renderTicker();
 
-  // Tab 1-3: 按 relevance_score 降序（管线已排好，直接 filter+slice）
-  // 顺序 = 管线当日固定评分，不随实时动态变化
-  const feedItems   = DIGEST.filter(x => catTab(x.category) === 'feed').slice(0, 15);
+  // Tab 1-3: 管线评分顺序；不足 15 条时从 archive 按评分补位
+  const feedItems   = fillToFifteen(DIGEST.filter(x => catTab(x.category) === 'feed'),   'feed');
   renderGrid('feedGrid', feedItems);
   document.getElementById('cntFeed').textContent = feedItems.length;
 
-  const modelItems  = DIGEST.filter(x => catTab(x.category) === 'models').slice(0, 15);
+  const modelItems  = fillToFifteen(DIGEST.filter(x => catTab(x.category) === 'models'), 'models');
   renderGrid('modelGrid', modelItems);
   renderAllRankings('rankingsAll');
   document.getElementById('cntModels').textContent = modelItems.length;
 
-  const investItems = DIGEST.filter(x => catTab(x.category) === 'invest').slice(0, 15);
+  const investItems = fillToFifteen(DIGEST.filter(x => catTab(x.category) === 'invest'), 'invest');
   renderGrid('investGrid', investItems);
   document.getElementById('cntInvest').textContent = investItems.length + STOCKS.length;
 
