@@ -72,12 +72,12 @@ header { display: flex; align-items: center; justify-content: space-between; mar
 .news-card.high { background: var(--surface); }
 
 /* card meta row */
-.card-meta { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
-.cat-tag { font-size: 9.5px; font-weight: 500; letter-spacing: 1px; padding: 0; }
+.card-meta { display: flex; align-items: center; gap: 6px; flex-wrap: nowrap; }
+.cat-tag { font-size: 9.5px; font-weight: 500; letter-spacing: 1px; padding: 0; white-space: nowrap; flex-shrink: 0; }
 .multi-badge { font-family: var(--mono); font-size: 9.5px; padding: 1px 6px; background: transparent; color: var(--text-secondary); font-weight: 400; border: 1px solid var(--border); }
 .archive-badge { font-family: var(--mono); font-size: 9px; color: var(--text-muted); background: transparent; padding: 1px 5px; border: 1px solid var(--border); font-weight: 400; }
-.src-list { font-family: var(--mono); font-size: 9.5px; color: var(--text-muted); }
-.time-tag { font-family: var(--mono); font-size: 9.5px; color: var(--text-muted); margin-left: auto; }
+.src-list { font-family: var(--mono); font-size: 9.5px; color: var(--text-muted); flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.time-tag { font-family: var(--mono); font-size: 9.5px; color: var(--text-muted); margin-left: auto; white-space: nowrap; flex-shrink: 0; }
 .score-badge { font-family: var(--mono); font-size: 10.5px; color: var(--text-secondary); }
 .score-badge.hi { color: var(--accent); font-weight: 500; }
 
@@ -130,19 +130,34 @@ header { display: flex; align-items: center; justify-content: space-between; mar
 .research-title { flex: 1; font-size: 13px; font-weight: 500; color: var(--text-secondary); line-height: 1.45; }
 .research-date { font-family: var(--mono); font-size: 10px; color: var(--text-muted); white-space: nowrap; }
 
-/* Stocks */
-.stocks-grid { display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); margin-bottom: 16px; }
+/* Stocks — 固定 5 列 */
+.stocks-grid  { display: grid; gap: 10px; grid-template-columns: repeat(5, 1fr); margin-bottom: 16px; }
+.indices-grid { display: grid; gap: 10px; grid-template-columns: repeat(5, 1fr); margin-bottom: 16px; }
 .stock-card { background: var(--surface); border: 1px solid var(--border); border-radius: 0; padding: 12px 13px; display: flex; flex-direction: column; gap: 3px; text-decoration: none; color: inherit; transition: border-color 0.12s; position: relative; }
 .stock-card:hover { border-color: var(--border-hover); }
+.stock-card.private-co { opacity: 0.75; cursor: default; }
+.stock-card.index-card { border-left: 3px solid var(--border); }
 .stock-region-badge { position: absolute; top: 9px; right: 9px; font-family: var(--mono); font-size: 8.5px; padding: 1px 5px; background: transparent; border: 1px solid var(--border); color: var(--text-muted); font-weight: 400; }
 .stock-ticker { font-family: var(--mono); font-size: 13px; font-weight: 500; }
 .stock-name { font-size: 10.5px; color: var(--text-muted); }
 .stock-price { font-family: var(--mono); font-size: 17px; font-weight: 500; margin-top: 2px; }
-.stock-change { font-size: 11px; font-weight: 500; }
+.private-note { font-family: var(--mono); font-size: 9.5px; color: var(--text-muted); margin-top: 6px; }
 .up { color: #dc2626; }
 .down { color: #16a34a; }
 .spark { height: 40px; margin-top: 6px; }
 .spark canvas { width: 100% !important; height: 100% !important; }
+
+/* Filings dropdown */
+.filings-select-wrap { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 12px; }
+.filings-select { font-family: var(--mono); font-size: 11px; color: var(--text-primary); background: var(--surface); border: 1px solid var(--border); padding: 6px 10px; border-radius: 0; cursor: pointer; min-width: 160px; }
+.filings-select:focus { outline: none; border-color: var(--text-primary); }
+.filings-result { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+
+/* Research pagination */
+.pager { display: flex; gap: 4px; margin: 12px 0 4px; }
+.pager-btn { font-family: var(--mono); font-size: 10.5px; padding: 3px 10px; border: 1px solid var(--border); background: transparent; color: var(--text-muted); cursor: pointer; transition: all 0.1s; }
+.pager-btn:hover { border-color: var(--text-primary); color: var(--text-primary); }
+.pager-btn.active { border-color: var(--text-primary); color: var(--text-primary); font-weight: 600; background: var(--text-primary); color: var(--bg); }
 
 /* Sources block — 平铺 */
 .sources-block { background: var(--surface); border: 1px solid var(--border); border-radius: 0; padding: 14px 18px; margin-top: 24px; }
@@ -183,10 +198,26 @@ footer code { font-family: var(--mono); padding: 1px 4px; border: 1px solid var(
 .ticker-item a { color: #e5e7eb; text-decoration: none; transition: color 0.12s; }
 .ticker-item a:hover { color: #fff; text-decoration: underline; }
 .ticker-sep { color: #374151; font-size: 16px; margin-right: 28px; }
-.ticker-src { font-size: 9.5px; background: #374151; color: #9ca3af; padding: 1px 5px; border-radius: 3px; flex-shrink: 0; }
+.ticker-src { font-family: var(--mono); font-size: 9.5px; background: #333330; color: #B8B4A8; padding: 1px 5px; flex-shrink: 0; }
 @keyframes ticker-run {
   0%   { transform: translateX(0); }
   100% { transform: translateX(-50%); }
+}
+
+/* ── Responsive（P1：移动端断点）──────────────────────────────────────── */
+@media (max-width: 1080px) {
+  .cards-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 680px) {
+  .cards-grid { grid-template-columns: 1fr; }
+  .container { padding: 12px 12px 48px; }
+  .brand { font-size: 23px; }
+  .brand-meta { display: none; }
+  .tabs { overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tab { padding: 9px 12px; font-size: 11.5px; }
+  .section-sub { display: none; }
+  .ticker-wrap { margin: 10px -12px 14px; }
 }
 
 /* ── Header watermark ───────────────────────────────────────────────────── */
@@ -245,11 +276,26 @@ header { position: relative; overflow: hidden; }
 <!-- Tab 3: 投融资 & 二级 -->
 <div class="tab-panel" id="tab-invest">
   <div id="investGrid" class="cards-grid"></div>
-  <div class="section-head" style="margin-top:24px"><span class="section-icon">📝</span><span class="section-title">研报 & 深度分析</span><span class="section-sub">SemiAnalysis · Latent Space · Import AI · Interconnects · Ahead of AI</span></div>
+
+  <div class="section-head" style="margin-top:24px"><span class="section-title">研报 & 深度分析</span><span class="section-sub">SemiAnalysis · Latent Space · Interconnects · Ahead of AI · Import AI</span></div>
   <div id="researchList" class="research-list"></div>
-  <div class="section-head" style="margin-top:8px"><span class="section-icon">📋</span><span class="section-title">最新财报</span><span class="section-sub">美股 SEC · 季报/年报直链</span></div>
-  <div id="filingsWrap" class="filings-wrap"></div>
-  <div class="section-head" style="margin-top:8px"><span class="section-icon">📈</span><span class="section-title">AI 核心标的</span><span class="section-sub">美 / A / 港 · 30 天收盘</span><span class="live-dot">日更</span></div>
+  <div class="pager" id="researchPager"></div>
+
+  <div class="section-head" style="margin-top:20px"><span class="section-title">最新财报</span><span class="section-sub">美股 SEC · 选标的查季报/年报</span></div>
+  <div class="filings-select-wrap">
+    <select class="filings-select" id="filingsTicker" onchange="onFilingsTicker()">
+      <option value="">— 选择标的 —</option>
+    </select>
+    <select class="filings-select" id="filingsForm" onchange="onFilingsForm()" disabled>
+      <option value="">— 选择报告 —</option>
+    </select>
+  </div>
+  <div id="filingsResult" class="filings-result"></div>
+
+  <div class="section-head" style="margin-top:20px"><span class="section-title">大盘行情</span><span class="section-sub">S&P 500 · QQQ · 上证 · 沪深300 · 恒生</span><span class="live-dot">日更</span></div>
+  <div id="indicesGrid" class="indices-grid"></div>
+
+  <div class="section-head" style="margin-top:20px"><span class="section-title">AI 核心标的</span><span class="section-sub">美 / A / 港 · 30 天收盘</span><span class="live-dot">日更</span></div>
   <div id="stocksGrid" class="stocks-grid"></div>
 </div>
 
@@ -259,7 +305,7 @@ header { position: relative; overflow: hidden; }
 </div>
 
 <div class="sources-block">
-  <div class="sources-title" id="sourcesTitle">🔗 信源直达</div>
+  <div class="sources-title" id="sourcesTitle">信源直达</div>
   <div id="sourcesWrap"></div>
 </div>
 
@@ -286,12 +332,12 @@ function catTab(c)   { return (CAT[c]||{tab:'feed'}).tab; }
 
 // ── 榜单入口（真实链接，待接入真数据）────────────────────────────────────
 const ENTRY_RANKINGS = [
-  { icon:'🥊', title:'LMArena',           freq:'weekly', desc:['众包盲测 Elo 排名', '主观接受度黄金标准'],   url:'https://lmarena.ai/leaderboard' },
-  { icon:'📊', title:'Artificial Analysis',freq:'weekly', desc:['性能×价格独立评测', '性价比 Pareto 前沿'],   url:'https://artificialanalysis.ai/leaderboards/models' },
-  { icon:'🏆', title:'Open LLM Leaderboard',freq:'daily', desc:['HuggingFace 开源基准榜', 'IFEval/BBH/MATH/GPQA'], url:'https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard' },
-  { icon:'📄', title:'Papers With Code',   freq:'daily',  desc:['论文+代码趋势榜', 'SOTA 任务追踪'],           url:'https://paperswithcode.com/trending' },
-  { icon:'🔬', title:'Scale SEAL',         freq:'weekly', desc:['企业级 AI 能力评测', 'Scale AI 独立基准'],     url:'https://scale.com/leaderboard' },
-  { icon:'🦙', title:'AlpacaEval',         freq:'weekly', desc:['指令遵循能力排名', 'GPT-4 胜率对比'],         url:'https://tatsu-lab.github.io/alpaca_eval/' },
+  { title:'LMArena',              freq:'weekly', desc:'众包盲测 Elo 排名，主观接受度的黄金标准',        url:'https://lmarena.ai/leaderboard' },
+  { title:'Artificial Analysis',  freq:'weekly', desc:'性能 × 价格独立评测，性价比 Pareto 前沿',        url:'https://artificialanalysis.ai/leaderboards/models' },
+  { title:'Open LLM Leaderboard', freq:'daily',  desc:'HuggingFace 开源模型基准榜（IFEval / BBH / MATH / GPQA）', url:'https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard' },
+  { title:'Papers With Code',     freq:'daily',  desc:'论文 + 代码趋势榜，SOTA 任务追踪',               url:'https://paperswithcode.com/trending' },
+  { title:'Scale SEAL',           freq:'weekly', desc:'Scale AI 独立基准，企业级能力评测',              url:'https://scale.com/leaderboard' },
+  { title:'AlpacaEval',           freq:'weekly', desc:'指令遵循能力排名，GPT-4 胜率对比',               url:'https://tatsu-lab.github.io/alpaca_eval/' },
 ];
 
 // ── 信源直达（平铺，type=框色，key=pipeline key for ★count）─────────────
@@ -338,6 +384,8 @@ function freqBadge(f){ const L={daily:'日',weekly:'周',monthly:'月',quarter:'
 let DIGEST = [];   // digest.json items（去重+打分）
 let RANKINGS = []; // openrouter
 let STOCKS = [];
+let PRIVATE_STOCKS = [];
+let INDICES = [];
 let META = {};
 let GITHUB_TRENDING = {};
 let HF_TRENDING = {};
@@ -358,7 +406,7 @@ function newsCard(item) {
   const archiveBadge = item._from_archive
     ? '<span class="archive-badge">历史</span>'
     : '';
-  const srcLabel = srcNames.join(' · ');
+  const srcLabel = srcNames.slice(0, 4).join(' · ') + (srcNames.length > 4 ? ` +${srcNames.length - 4}` : '');
 
   const summary = item.summary_cn || item.summary || '';
   const titleEn = item.title || '';
@@ -397,7 +445,7 @@ function renderOpenRouter(containerId) {
   const r = RANKINGS[0];
   el.innerHTML = `<div class="rank-card">
     <div class="rank-head">
-      <div class="rank-title">🤖 ${esc(r.title)} ${freqBadge(r.freq)}</div>
+      <div class="rank-title">${esc(r.title)} ${freqBadge(r.freq)}</div>
       <div class="rank-date">${esc(r.updated||'')}</div>
     </div>
     <ol class="rank-list">${(r.rows||[]).map(it=>`<li>
@@ -414,13 +462,13 @@ function renderGithubCard() {
   if (!d.items?.length) return renderStaticEntry(ENTRY_RANKINGS[2]);
   return `<div class="rank-card">
     <div class="rank-head">
-      <div class="rank-title">⭐ ${esc(d.title)} ${freqBadge(d.freq)}</div>
+      <div class="rank-title">${esc(d.title)} ${freqBadge(d.freq)}</div>
       <div class="rank-date">${esc((d.updated||'').slice(0,10))}</div>
     </div>
     <ol class="rank-list">${d.items.map(it=>`<li>
       <span class="rank-num${it.rank<=3?' top3':''}">${it.rank}</span>
       <span class="rank-gh-name">${esc(it.full_name)}</span>
-      <span class="rank-val">${it.stars_today>0?'+'+it.stars_today+' ⭐':''}</span>
+      <span class="rank-val">${it.stars_today>0?'+'+it.stars_today+'★':''}</span>
     </li>`).join('')}</ol>
     <a class="rank-link" href="${esc(d.url)}" target="_blank" rel="noopener">查看 GitHub Trending →</a>
   </div>`;
@@ -431,13 +479,13 @@ function renderHFCard() {
   if (!d.items?.length) return renderStaticEntry(ENTRY_RANKINGS[3]);
   return `<div class="rank-card">
     <div class="rank-head">
-      <div class="rank-title">🤗 ${esc(d.title)} ${freqBadge(d.freq)}</div>
+      <div class="rank-title">${esc(d.title)} ${freqBadge(d.freq)}</div>
       <div class="rank-date">${esc((d.updated||'').slice(0,10))}</div>
     </div>
     <ol class="rank-list">${d.items.map(it=>`<li>
       <span class="rank-num${it.rank<=3?' top3':''}">${it.rank}</span>
       <span class="rank-gh-name">${esc(it.model_id)}</span>
-      <span class="rank-val">${it.pipeline_label?'['+it.pipeline_label+']':''} ♥${it.likes||0}</span>
+      <span class="rank-val">♥ ${it.likes||0}</span>
     </li>`).join('')}</ol>
     <a class="rank-link" href="${esc(d.url)}" target="_blank" rel="noopener">查看 HuggingFace Trending →</a>
   </div>`;
@@ -445,8 +493,8 @@ function renderHFCard() {
 
 function renderStaticEntry(r) {
   return `<div class="rank-card">
-    <div class="rank-head"><div class="rank-title">${r.icon} ${esc(r.title)} ${freqBadge(r.freq)}</div></div>
-    <ul class="rank-list entry-desc">${r.desc.map(d=>`<li><span class="rank-num">·</span>${esc(d)}</li>`).join('')}</ul>
+    <div class="rank-head"><div class="rank-title">${esc(r.title)} ${freqBadge(r.freq)}</div></div>
+    <p class="entry-desc" style="margin:0;padding:2px 0">${esc(r.desc)}</p>
     <a class="rank-link" href="${esc(r.url)}" target="_blank" rel="noopener">访问榜单 →</a>
   </div>`;
 }
@@ -459,7 +507,7 @@ function renderAllRankings(containerId) {
     const r = RANKINGS[0];
     return `<div class="rank-card">
       <div class="rank-head">
-        <div class="rank-title">🤖 ${esc(r.title)} ${freqBadge(r.freq)}</div>
+        <div class="rank-title">${esc(r.title)} ${freqBadge(r.freq)}</div>
         <div class="rank-date">${esc(r.updated||'')}</div>
       </div>
       <ol class="rank-list">${(r.rows||[]).map(it=>`<li>
@@ -487,46 +535,71 @@ function renderEntryRankings(containerId) {
 
 // ── 股票渲染 ──────────────────────────────────────────────────────────────
 let sparkCharts = {};
-function renderStocks() {
-  const el = document.getElementById('stocksGrid');
-  if (!STOCKS.length) { el.innerHTML = '<p class="empty-tip">暂无股票数据</p>'; return; }
 
-  el.innerHTML = STOCKS.map((s,i) => {
-    const sym = s.currency==='CNY'?'¥':(s.currency==='HKD'?'HK$':'$');
+function stockCardHTML(s, idx, extraClass) {
+  const sym = s.currency==='CNY'?'¥':(s.currency==='HKD'?'HK$':'$');
+  const h = s.history_30d || [];
+  const up = h.length >= 2 ? h[h.length-1] >= h[0] : true;
+  const shortTick = s.ticker.replace(/\.(SS|SZ|HK)$/,'');
+  return `<a class="stock-card ${extraClass||''}" href="${esc(s.url)}" target="_blank" rel="noopener">
+    <span class="stock-region-badge">${esc(s.region)}</span>
+    <div class="stock-ticker">${esc(shortTick)}</div>
+    <div class="stock-name">${esc(s.name)}</div>
+    <div class="stock-price ${up?'up':'down'}">${sym}${Number(s.price).toLocaleString()}</div>
+    <div class="spark"><canvas id="sp${idx}"></canvas></div>
+  </a>`;
+}
+
+function drawSpark(stocks, prefix) {
+  stocks.forEach((s, i) => {
+    const canvas = document.getElementById(`${prefix}${i}`);
+    if (!canvas) return;
     const h = s.history_30d || [];
     const up = h.length >= 2 ? h[h.length-1] >= h[0] : true;
-    return `<a class="stock-card" href="${esc(s.url)}" target="_blank" rel="noopener">
-      <span class="stock-region-badge">${esc(s.region)}</span>
-      <div class="stock-ticker">${esc(s.ticker.replace(/\.(SS|SZ|HK)$/,''))}</div>
-      <div class="stock-name">${esc(s.name)}</div>
-      <div class="stock-price ${up?'up':'down'}">${sym}${Number(s.price).toLocaleString()}</div>
-      <div class="spark"><canvas id="sp${i}"></canvas></div>
-    </a>`;
-  }).join('');
+    const col = up ? '#dc2626' : '#16a34a';
+    const key = prefix + s.ticker;
+    sparkCharts[key]?.destroy?.();
+    sparkCharts[key] = new Chart(canvas.getContext('2d'), {
+      type: 'line',
+      data: { labels: h.map((_,j)=>j), datasets:[{ data:h, borderColor:col, backgroundColor:up?'rgba(220,38,38,0.06)':'rgba(22,163,74,0.06)', fill:true, tension:0.3, pointRadius:0, borderWidth:1.5 }] },
+      options: { responsive:true, maintainAspectRatio:false, plugins:{legend:{display:false},tooltip:{enabled:false}}, scales:{x:{display:false},y:{display:false}}, animation:false }
+    });
+  });
+}
+
+function renderStocks() {
+  const el = document.getElementById('stocksGrid');
+  if (!el) return;
+  const all = [...STOCKS, ...PRIVATE_STOCKS];
+  if (!all.length) { el.innerHTML = '<p class="empty-tip">暂无股票数据</p>'; return; }
+
+  const tradeable = STOCKS.map((s, i) => stockCardHTML(s, i, '')).join('');
+  const privates  = PRIVATE_STOCKS.map(p => `
+    <span class="stock-card private-co">
+      <span class="stock-region-badge">${esc(p.region)}</span>
+      <div class="stock-ticker">${esc(p.ticker)}</div>
+      <div class="stock-name">${esc(p.name)}</div>
+      <div class="private-note">${esc(p.note)}</div>
+    </span>`).join('');
+  el.innerHTML = tradeable + privates;
 
   Object.values(sparkCharts).forEach(c => c.destroy?.());
   sparkCharts = {};
-  requestAnimationFrame(() => {
-    STOCKS.forEach((s, i) => {
-      const canvas = document.getElementById(`sp${i}`);
-      if (!canvas) return;
-      const h = s.history_30d || [];
-      const up = h.length >= 2 ? h[h.length-1] >= h[0] : true;
-      const col = up ? '#dc2626' : '#16a34a';
-      sparkCharts[s.ticker] = new Chart(canvas.getContext('2d'), {
-        type: 'line',
-        data: { labels: h.map((_,j)=>j), datasets: [{ data: h, borderColor: col, backgroundColor: up?'rgba(220,38,38,0.06)':'rgba(22,163,74,0.06)', fill: true, tension: 0.3, pointRadius: 0, borderWidth: 1.5 }] },
-        options: { responsive:true, maintainAspectRatio:false, plugins:{legend:{display:false},tooltip:{enabled:false}}, scales:{x:{display:false},y:{display:false}}, animation:false }
-      });
-    });
-  });
+  requestAnimationFrame(() => drawSpark(STOCKS, 'sp'));
+}
+
+function renderIndices() {
+  const el = document.getElementById('indicesGrid');
+  if (!el || !INDICES.length) return;
+  el.innerHTML = INDICES.map((s, i) => stockCardHTML(s, i, 'index-card')).join('');
+  requestAnimationFrame(() => drawSpark(INDICES, 'idx'));
 }
 
 // ── 信源直达 ──────────────────────────────────────────────────────────────
 function renderSources() {
   const perFile = META?.stats?.per_file || {};
   const active = SOURCES.filter(s => s.key && perFile[s.key] > 0).length;
-  const title = `🔗 信源直达 · ★${active} 接入`;
+  const title = `信源直达 · ★${active} 接入`;
   document.getElementById('sourcesTitle').textContent = title;
   document.getElementById('sourcesWrap').innerHTML =
     `<div class="pills-flat">${SOURCES.map(s => {
@@ -577,11 +650,15 @@ async function loadData() {
     } catch(e) { errs.push('rankings_openrouter: '+e.message); }
   }
 
-  // Stocks
-  STOCKS = [];
+  // Stocks + private + indices
+  STOCKS = []; PRIVATE_STOCKS = []; INDICES = [];
   if (files.stocks) {
-    try { const d = await getJSON('../data/'+files.stocks); STOCKS = d.stocks||[]; }
-    catch(e) { errs.push('stocks: '+e.message); }
+    try {
+      const d = await getJSON('../data/'+files.stocks);
+      STOCKS         = d.stocks  || [];
+      PRIVATE_STOCKS = d.private || [];
+      INDICES        = d.indices || [];
+    } catch(e) { errs.push('stocks: '+e.message); }
   }
 
   // GitHub Trending
@@ -672,47 +749,113 @@ function renderArchive() {
   el.innerHTML = html;
 }
 
-// ── 财报渲染 ──────────────────────────────────────────────────────────────
+// ── 财报下拉渲染 ──────────────────────────────────────────────────────────
 function renderFilings() {
-  const el = document.getElementById('filingsWrap');
-  if (!el) return;
+  const tickerSel = document.getElementById('filingsTicker');
+  if (!tickerSel) return;
   const items = FILINGS.items || [];
-  if (!items.length) { el.innerHTML = '<p class="empty-tip">暂无财报数据，明日管线运行后自动更新</p>'; return; }
-  el.innerHTML = items.map(f => {
-    const co = (f.company || f.ticker || '').split(' ')[0];
-    return `<a class="filing-chip" href="${esc(f.url)}" target="_blank" rel="noopener">
-      <span class="filing-form">${esc(f.form)}</span>
-      <span>${esc(f.ticker)} · ${esc(co)}</span>
-      <span class="filing-date">${esc((f.date||'').slice(0,10))}</span>
-    </a>`;
-  }).join('');
+  if (!items.length) {
+    tickerSel.innerHTML = '<option value="">暂无财报数据</option>';
+    return;
+  }
+  // 按 ticker 分组
+  const byTicker = {};
+  items.forEach(f => { (byTicker[f.ticker] = byTicker[f.ticker] || []).push(f); });
+  tickerSel.innerHTML = '<option value="">— 选择标的 —</option>' +
+    Object.keys(byTicker).map(t => {
+      const co = byTicker[t][0].company || t;
+      return `<option value="${esc(t)}">${esc(t)} · ${esc(co)}</option>`;
+    }).join('');
+  document.getElementById('filingsResult').innerHTML = '';
 }
 
-// ── 研报渲染 ──────────────────────────────────────────────────────────────
+function onFilingsTicker() {
+  const ticker = document.getElementById('filingsTicker').value;
+  const formSel = document.getElementById('filingsForm');
+  const result  = document.getElementById('filingsResult');
+  if (!ticker) { formSel.innerHTML = '<option value="">— 选择报告 —</option>'; formSel.disabled = true; result.innerHTML = ''; return; }
+  const filings = (FILINGS.items || []).filter(f => f.ticker === ticker);
+  formSel.innerHTML = '<option value="">— 选择报告 —</option>' +
+    filings.map(f => `<option value="${esc(f.url)}">${esc(f.form)} · ${esc((f.date||'').slice(0,10))}</option>`).join('');
+  formSel.disabled = false;
+  result.innerHTML = '';
+}
+
+function onFilingsForm() {
+  const url = document.getElementById('filingsForm').value;
+  const result = document.getElementById('filingsResult');
+  if (!url) { result.innerHTML = ''; return; }
+  const ticker = document.getElementById('filingsTicker').value;
+  const f = (FILINGS.items || []).find(x => x.url === url && x.ticker === ticker);
+  if (!f) return;
+  result.innerHTML = `<a class="filing-chip" href="${esc(f.url)}" target="_blank" rel="noopener">
+    <span class="filing-form">${esc(f.form)}</span>
+    <span>${esc(f.ticker)} · ${esc(f.company||f.ticker)}</span>
+    <span class="filing-date">${esc((f.date||'').slice(0,10))}</span>
+    <span style="font-family:var(--mono);font-size:9px;color:var(--accent);margin-left:4px">→ SEC EDGAR ↗</span>
+  </a>`;
+}
+
+// ── 研报渲染（分页，最多 30 条）─────────────────────────────────────────
 const RESEARCH_SOURCES = new Set([
   'SemiAnalysis','Latent Space','Import AI','Interconnects','Ahead of AI',
   'ARK Invest','Benedict Evans'
 ]);
+const RESEARCH_PAGE_SIZE = 6;
+let researchPage = 1;
+let researchItems = [];
 
-function renderResearch() {
-  const el = document.getElementById('researchList');
+function buildResearchItems() {
+  const seen = new Set();
+  const combined = [...DIGEST, ...(ARCHIVE.items || [])];
+  const filtered = [];
+  for (const x of combined) {
+    if (!x.url || seen.has(x.url)) continue;
+    const match = (x.sources || []).find(s => RESEARCH_SOURCES.has(s));
+    if (!match) continue;
+    seen.add(x.url);
+    filtered.push({...x, _researchSrc: match});
+  }
+  filtered.sort((a, b) => (b.relevance_score||0) - (a.relevance_score||0));
+  return filtered.slice(0, 30);
+}
+
+function renderResearch(page) {
+  researchPage = page || researchPage;
+  if (!researchItems.length) researchItems = buildResearchItems();
+
+  const el    = document.getElementById('researchList');
+  const pager = document.getElementById('researchPager');
   if (!el) return;
-  const items = DIGEST.filter(x =>
-    (x.sources || []).some(s => RESEARCH_SOURCES.has(s))
-  ).slice(0, 8);
-  if (!items.length) {
-    el.innerHTML = '<p class="empty-tip">暂无分析文章，通常每周更新 1–3 篇</p>';
+
+  if (!researchItems.length) {
+    el.innerHTML = '<p class="empty-tip">暂无深度分析文章，通常每周更新 1–3 篇</p>';
+    if (pager) pager.innerHTML = '';
     return;
   }
-  el.innerHTML = items.map(x => {
-    const src  = (x.sources || []).find(s => RESEARCH_SOURCES.has(s)) || x.sources?.[0] || '';
+
+  const totalPages = Math.min(5, Math.ceil(researchItems.length / RESEARCH_PAGE_SIZE));
+  const start = (researchPage - 1) * RESEARCH_PAGE_SIZE;
+  const page_items = researchItems.slice(start, start + RESEARCH_PAGE_SIZE);
+
+  el.innerHTML = page_items.map(x => {
+    const src  = x._researchSrc || '';
     const date = (x.published_at || '').slice(0, 10);
+    const score = x.relevance_score ? `<span class="research-date" style="color:var(--accent)">${x.relevance_score.toFixed(2)}</span>` : '';
     return `<a class="research-row" href="${esc(x.url||'#')}" target="_blank" rel="noopener">
       <span class="research-source">${esc(src)}</span>
       <span class="research-title">${esc(x.title||'')}</span>
+      ${score}
       <span class="research-date">${esc(date)}</span>
     </a>`;
   }).join('');
+
+  if (pager) {
+    pager.innerHTML = Array.from({length: totalPages}, (_,i) => {
+      const p = i + 1;
+      return `<button class="pager-btn${p===researchPage?' active':''}" onclick="renderResearch(${p})">${p}</button>`;
+    }).join('');
+  }
 }
 
 // ── Ticker ────────────────────────────────────────────────────────────────
@@ -777,16 +920,17 @@ function renderAll() {
 
   const investItems = fillToFifteen(DIGEST.filter(x => catTab(x.category) === 'invest'), 'invest');
   renderGrid('investGrid', investItems);
-  document.getElementById('cntInvest').textContent = investItems.length + STOCKS.length;
+  document.getElementById('cntInvest').textContent = investItems.length + STOCKS.length + PRIVATE_STOCKS.length;
 
-  renderResearch();
+  researchItems = [];  // 重置，触发 buildResearchItems() 重新合并 DIGEST + ARCHIVE
+  renderResearch(1);
   renderFilings();
   renderArchive();
   renderSources();
 
   stocksReady = false;
   if (document.getElementById('tab-invest').classList.contains('active')) {
-    renderStocks(); stocksReady = true;
+    renderStocks(); renderIndices(); stocksReady = true;
   }
 }
 
@@ -794,7 +938,7 @@ function renderAll() {
 function switchTab(name) {
   document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.tab === name));
   document.querySelectorAll('.tab-panel').forEach(p => p.classList.toggle('active', p.id === 'tab-'+name));
-  if (name === 'invest' && !stocksReady) { renderStocks(); stocksReady = true; }
+  if (name === 'invest' && !stocksReady) { renderStocks(); renderIndices(); stocksReady = true; }
 }
 document.querySelectorAll('.tab').forEach(t => t.addEventListener('click', () => switchTab(t.dataset.tab)));
 document.getElementById('refreshBtn').addEventListener('click', async () => {
