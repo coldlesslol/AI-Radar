@@ -87,6 +87,23 @@ header { display: flex; align-items: center; justify-content: space-between; mar
 .layer-letter   { background: #f5f3ff; color: #5b21b6; }
 .layer-community{ background: #f0fdf4; color: #15803d; }
 .layer-research { background: #ecfdf5; color: #065f46; }
+.layer-company  { background: #fff7ed; color: #c2410c; }
+.layer-analysis { background: #faf5ff; color: #6d28d9; }
+.layer-filings  { background: #f0fdf4; color: #065f46; }
+
+/* Monitor grid cards */
+.monitor-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; margin-bottom: 12px; }
+.monitor-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 12px 14px; }
+.monitor-card .mc-name { font-size: 13px; font-weight: 700; color: var(--text-primary); margin-bottom: 2px; }
+.monitor-card .mc-sub  { font-size: 11px; color: var(--text-muted); margin-bottom: 8px; }
+.monitor-card .mc-stat { font-size: 11.5px; color: var(--text-secondary); display: flex; justify-content: space-between; }
+.mc-ok   { color: var(--green); font-weight: 600; }
+.mc-warn { color: var(--amber); font-weight: 600; }
+.mc-err  { color: var(--red);   font-weight: 600; }
+
+/* Ticker pill list */
+.pill-list { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0; }
+.pill { font-size: 11.5px; padding: 3px 10px; border-radius: 12px; border: 1px solid var(--border); background: var(--surface); color: var(--text-secondary); white-space: nowrap; }
 
 /* Rating stars */
 .stars { color: #f59e0b; letter-spacing: -2px; font-size: 13px; }
@@ -121,6 +138,7 @@ footer { margin-top: 40px; padding-top: 14px; border-top: 1px solid var(--border
 <div class="tabs">
   <button class="tab active" onclick="switchTab('log')">工程日志</button>
   <button class="tab" onclick="switchTab('rules')">规则层</button>
+  <button class="tab" onclick="switchTab('monitor')">监控清单</button>
 </div>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
@@ -131,12 +149,12 @@ footer { margin-top: 40px; padding-top: 14px; border-top: 1px solid var(--border
   <div class="status-bar">
     <div class="stat">
       <div class="stat-label">Sources</div>
-      <div class="stat-val">14</div>
+      <div class="stat-val">29</div>
       <div class="stat-sub">Active RSS/API feeds</div>
     </div>
     <div class="stat">
       <div class="stat-label">Items / run</div>
-      <div class="stat-val">~180</div>
+      <div class="stat-val">~186</div>
       <div class="stat-sub">After 7-day filter</div>
     </div>
     <div class="stat">
@@ -484,13 +502,15 @@ Claude 处理步骤：
 
 执行顺序：
   1. pull_openrouter.py    → OpenRouter API（JSON，实时）
-  2. pull_rss.py          → 14个 RSS/Atom feed（feedparser）
+  2. pull_rss.py          → 29个 RSS/Atom feed（feedparser）含 P1 企业 + P3 分析
   3. pull_stocks.py       → yfinance（美股 + A股 + 港股）
   4. pull_github_trending.py → GitHub trending HTML（BeautifulSoup）
   5. pull_huggingface.py  → HuggingFace API（sort=likes7d）
-  6. pull_score.py        → claude -p 打分归组（超时 600s）
-                          → 更新 pinned.json（高分置顶）
-  7. git add data/ && git commit && git push
+  6. pull_filings.py      → SEC EDGAR API（8支美股 10-K/10-Q 直链）[P2]
+  7. pull_score.py        → claude -p 打分归组（超时 600s）
+                          → 更新 archive.json（30天滚动）
+                          → 更新 pinned.json（score≥0.88 置顶14天）
+  8. git add data/ && git commit && git push
      → 触发 GitHub Actions → Pages 重新部署（约2分钟）
 
 时效过滤：
@@ -703,6 +723,285 @@ Claude 处理步骤：
   </div>
 
 </div><!-- /tab-rules -->
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- TAB 3: 监控清单                                                        -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<div class="tab-panel" id="tab-monitor">
+
+  <div class="callout callout-blue" style="margin-bottom:24px;">
+    <strong>P1 + P2 + P3</strong> 监控清单独立于主信源扫描层。P1 企业动态每日随管线更新；P2 财报链接直达 SEC EDGAR，季报/年报文件期间自动更新；P3 分析机构低频发布，新文章出现时 Claude 评分通常偏高。
+  </div>
+
+  <!-- ── P1: 企业动态监控 ── -->
+  <div class="section">
+    <div class="section-title">P1 · 企业动态监控 <span style="font-weight:400;text-transform:none;letter-spacing:0">— Google News RSS，每日随管线抓取</span></div>
+
+    <p style="font-size:12.5px;color:var(--text-secondary);margin:0 0 14px;">通过 Google News RSS 搜索接口（<code style="font-size:11.5px;background:#f3f4f6;padding:1px 4px;border-radius:3px;">news.google.com/rss/search?q=…</code>）定向监控各公司官方动态及媒体报道，进入统一打分管线，AI 不相关内容被关键词层和 Claude 两轮过滤。</p>
+
+    <div style="margin-bottom:20px;">
+      <div style="font-size:11px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--text-muted);margin-bottom:10px;">🇨🇳 国内重点企业</div>
+      <table class="data-table">
+        <tr>
+          <th style="width:14%">公司</th>
+          <th style="width:18%">搜索关键词</th>
+          <th style="width:10%">抓取上限</th>
+          <th style="width:12%">本次抓取</th>
+          <th>备注</th>
+        </tr>
+        <tr>
+          <td><strong>智谱AI</strong></td>
+          <td><code style="font-size:11px;">智谱AI GLM</code></td>
+          <td>8条/日</td>
+          <td class="mc-ok">8 条</td>
+          <td>GLM-4V/CogVideo 最新发布；多条命中 7 天窗口</td>
+        </tr>
+        <tr>
+          <td><strong>月之暗面</strong></td>
+          <td><code style="font-size:11px;">月之暗面 Kimi</code></td>
+          <td>8条/日</td>
+          <td class="mc-ok">8 条</td>
+          <td>Kimi k1.5 相关覆盖良好</td>
+        </tr>
+        <tr>
+          <td><strong>百度AI</strong></td>
+          <td><code style="font-size:11px;">百度 文心 ERNIE Bot</code></td>
+          <td>8条/日</td>
+          <td class="mc-warn">0 条</td>
+          <td>近 7 天无新文章（超时效过滤），下次发布时自动拾取</td>
+        </tr>
+        <tr>
+          <td><strong>字节豆包</strong></td>
+          <td><code style="font-size:11px;">字节跳动 豆包 AI</code></td>
+          <td>8条/日</td>
+          <td class="mc-ok">8 条</td>
+          <td>豆包 1.5 Pro 相关报道</td>
+        </tr>
+        <tr>
+          <td><strong>MiniMax</strong></td>
+          <td><code style="font-size:11px;">MiniMax AI 海螺</code></td>
+          <td>6条/日</td>
+          <td class="mc-warn">0 条</td>
+          <td>近 7 天结果均超时效，正常情况</td>
+        </tr>
+      </table>
+    </div>
+
+    <div>
+      <div style="font-size:11px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--text-muted);margin-bottom:10px;">🌐 国际中小 AI 公司</div>
+      <table class="data-table">
+        <tr>
+          <th style="width:14%">公司</th>
+          <th style="width:24%">搜索关键词</th>
+          <th style="width:10%">抓取上限</th>
+          <th style="width:12%">本次抓取</th>
+          <th>备注</th>
+        </tr>
+        <tr>
+          <td><strong>Mistral</strong></td>
+          <td><code style="font-size:11px;">Mistral AI model</code></td>
+          <td>6条/日</td>
+          <td class="mc-ok">3 条</td>
+          <td>大厂（OpenAI/Anthropic/Google）已由 Techmeme/Verge 覆盖；此处补盲区</td>
+        </tr>
+        <tr>
+          <td><strong>Runway</strong></td>
+          <td><code style="font-size:11px;">Runway AI video generation</code></td>
+          <td>6条/日</td>
+          <td class="mc-ok">3 条</td>
+          <td>视频生成竞争格局监控</td>
+        </tr>
+        <tr>
+          <td><strong>Cohere</strong></td>
+          <td><code style="font-size:11px;">Cohere AI enterprise</code></td>
+          <td>6条/日</td>
+          <td class="mc-ok">1 条</td>
+          <td>企业 AI 赛道，偏 B2B，媒体曝光低但行业重要</td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="callout callout-amber" style="margin-top:12px;">
+      <strong>扩展候选：</strong>阶跃星辰（StepFun）、零一万物（01.AI）、Perplexity、xAI（Grok）、ElevenLabs。建议在现有 8 家运行稳定后再扩，每加一家搜索词精准性需人工验证。
+    </div>
+  </div>
+
+  <!-- ── P2: SEC 财报直链 ── -->
+  <div class="section">
+    <div class="section-title">P2 · SEC 财报直链 <span style="font-weight:400;text-transform:none;letter-spacing:0">— EDGAR submissions API，免费，无 key</span></div>
+
+    <p style="font-size:12.5px;color:var(--text-secondary);margin:0 0 14px;">每日调用 <code style="font-size:11.5px;background:#f3f4f6;padding:1px 4px;border-radius:3px;">data.sec.gov/submissions/CIK{cik}.json</code> 提取最新 10-Q / 10-K 直链，写入 <code style="font-size:11.5px;background:#f3f4f6;padding:1px 4px;border-radius:3px;">data/filings.json</code>，前端投融资 Tab 的「最新财报」区域渲染为可点击 chip。不进入 Claude 打分管线。</p>
+
+    <table class="data-table">
+      <tr>
+        <th style="width:8%">代码</th>
+        <th style="width:16%">公司</th>
+        <th style="width:14%">CIK</th>
+        <th style="width:12%">最新 10-Q</th>
+        <th style="width:12%">最新 10-K</th>
+        <th>说明</th>
+      </tr>
+      <tr>
+        <td><strong>NVDA</strong></td>
+        <td>NVIDIA</td>
+        <td><code style="font-size:11px;">0001045810</code></td>
+        <td class="mc-ok">2026-05-20</td>
+        <td class="mc-ok">2026-02-25</td>
+        <td>AI 芯片龙头，季报披露 GPU 供需数据是重要风向标</td>
+      </tr>
+      <tr>
+        <td><strong>MSFT</strong></td>
+        <td>Microsoft</td>
+        <td><code style="font-size:11px;">0000789019</code></td>
+        <td class="mc-ok">2026-04-29</td>
+        <td class="mc-ok">2025-07-30</td>
+        <td>Azure AI 收入增速是云 AI 落地最重要参考指标</td>
+      </tr>
+      <tr>
+        <td><strong>GOOGL</strong></td>
+        <td>Alphabet</td>
+        <td><code style="font-size:11px;">0001652044</code></td>
+        <td class="mc-ok">2026-04-30</td>
+        <td class="mc-ok">2026-02-05</td>
+        <td>Google Cloud / Gemini 商业化进展</td>
+      </tr>
+      <tr>
+        <td><strong>AMZN</strong></td>
+        <td>Amazon</td>
+        <td><code style="font-size:11px;">0001018724</code></td>
+        <td class="mc-ok">2026-04-30</td>
+        <td class="mc-ok">2026-02-06</td>
+        <td>AWS AI 服务增速；Bedrock 平台规模</td>
+      </tr>
+      <tr>
+        <td><strong>META</strong></td>
+        <td>Meta</td>
+        <td><code style="font-size:11px;">0001326801</code></td>
+        <td class="mc-ok">2026-04-30</td>
+        <td class="mc-ok">2026-01-29</td>
+        <td>Llama 系列开源策略；广告 AI 变现效率</td>
+      </tr>
+      <tr>
+        <td><strong>AMD</strong></td>
+        <td>AMD</td>
+        <td><code style="font-size:11px;">0000002488</code></td>
+        <td class="mc-ok">2026-05-06</td>
+        <td class="mc-ok">2026-02-04</td>
+        <td>MI300X 数据中心 GPU 进展；英伟达替代方案</td>
+      </tr>
+      <tr>
+        <td><strong>AVGO</strong></td>
+        <td>Broadcom</td>
+        <td><code style="font-size:11px;">0001730168</code></td>
+        <td class="mc-ok">2026-06-09</td>
+        <td class="mc-ok">2025-12-18</td>
+        <td>定制 AI 芯片（XPU）是 Google/Meta 替代 GPU 的核心路径</td>
+      </tr>
+      <tr>
+        <td><strong>TSLA</strong></td>
+        <td>Tesla</td>
+        <td><code style="font-size:11px;">0001318605</code></td>
+        <td class="mc-ok">2026-04-23</td>
+        <td class="mc-ok">2026-01-29</td>
+        <td>FSD 进展；Dojo 超算；机器人 Optimus 产能</td>
+      </tr>
+    </table>
+
+    <div class="callout callout-green" style="margin-top:12px;">
+      <strong>扩展候选：</strong>ORCL（Oracle 云 AI）、ARM（芯片架构）、SMCI（服务器）、ASML（光刻机/荷兰，需手动 URL）。SEC 仅覆盖美股，A股/港股财报需另起机制。
+    </div>
+  </div>
+
+  <!-- ── P3: 分析机构 ── -->
+  <div class="section">
+    <div class="section-title">P3 · 分析机构 RSS <span style="font-weight:400;text-transform:none;letter-spacing:0">— 免费深度分析，低频高质</span></div>
+
+    <p style="font-size:12.5px;color:var(--text-secondary);margin:0 0 14px;">专注 AI 的独立分析师/机构免费订阅源，进入主打分管线，Claude 对深度长文通常给高分。与 Import AI / SemiAnalysis / Latent Space 同层级。</p>
+
+    <table class="data-table">
+      <tr>
+        <th style="width:16%">机构</th>
+        <th style="width:12%">状态</th>
+        <th style="width:28%">RSS URL</th>
+        <th style="width:14%">更新频率</th>
+        <th>定位</th>
+      </tr>
+      <tr>
+        <td><strong>Interconnects</strong><br><span style="font-size:11px;color:var(--text-muted)">Nathan Lambert</span></td>
+        <td class="mc-ok">✓ 已接入</td>
+        <td><code style="font-size:10.5px;">interconnects.ai/feed</code></td>
+        <td>不定期（1–3次/月）</td>
+        <td>RLHF / 对齐研究深度分析；Nathan Lambert（前 HuggingFace）视角独到</td>
+      </tr>
+      <tr>
+        <td><strong>Ahead of AI</strong><br><span style="font-size:11px;color:var(--text-muted)">Sebastian Raschka</span></td>
+        <td class="mc-ok">✓ 已接入</td>
+        <td><code style="font-size:10.5px;">magazine.sebastianraschka.com/feed</code></td>
+        <td>月更</td>
+        <td>AI 研究月度综述；Sebastian Raschka（AI 教材作者）深度总结，信噪比极高</td>
+      </tr>
+      <tr>
+        <td><strong>ARK Invest</strong><br><span style="font-size:11px;color:var(--text-muted)">Cathie Wood 团队</span></td>
+        <td class="mc-err">✗ 404 待修</td>
+        <td><code style="font-size:10.5px;">ark-invest.com/articles/feed/</code></td>
+        <td>不定期</td>
+        <td>颠覆性技术投资视角；Big Ideas 年报是 AI 产业预测重要参考。RSS URL 已更换，待确认新地址后接入</td>
+      </tr>
+    </table>
+
+    <div class="callout callout-amber" style="margin-top:12px;">
+      <strong>扩展候选（均有免费 RSS）：</strong>
+      <div class="pill-list" style="margin-top:8px;">
+        <span class="pill">The Batch (deeplearning.ai) — URL 待确认</span>
+        <span class="pill">Last Week in AI</span>
+        <span class="pill">The Gradient</span>
+        <span class="pill">One Useful Thing (Ethan Mollick)</span>
+        <span class="pill">AI Snake Oil</span>
+        <span class="pill">Stratechery 免费部分</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── 移动端信源评估 ── -->
+  <div class="section">
+    <div class="section-title">移动端信源评估 <span style="font-weight:400;text-transform:none;letter-spacing:0">— 微信公众号 / 小红书 / 抖音</span></div>
+    <table class="data-table">
+      <tr>
+        <th style="width:16%">平台</th>
+        <th style="width:12%">可接入性</th>
+        <th style="width:20%">技术路径</th>
+        <th style="width:10%">成本</th>
+        <th>评估与建议</th>
+      </tr>
+      <tr>
+        <td><strong>微信公众号</strong><br><span style="font-size:11px;color:var(--text-muted)">新智元、机器之心等</span></td>
+        <td><span style="color:var(--amber);font-weight:600;">⚠ 有限可行</span></td>
+        <td>① 检查账号官网 RSS<br>② RSSHub + DeDeDe key<br>③ 第三方聚合</td>
+        <td>低→中</td>
+        <td>微信公众号无官方 RSS。<strong>推荐路径：</strong>大部分头部账号有官方网站（新智元→xinzhiyuan.com，机器之心→jiqizhixin.com），可直接走网站 RSS 接入，已有 RSS 的则无需 WeChat。RSSHub 非官方路由需要 WeChat Web 登录态（DeDeDe token），维护成本高，不稳定。</td>
+      </tr>
+      <tr>
+        <td><strong>小红书</strong></td>
+        <td><span style="color:var(--red);font-weight:600;">✗ 不可行</span></td>
+        <td>无公开 API / RSS</td>
+        <td>—</td>
+        <td>完全封闭生态，强反爬，内容以图文/短视频为主，不适合文本新闻管线。即使技术上抓取，也违反 ToS 且极不稳定。跳过。</td>
+      </tr>
+      <tr>
+        <td><strong>抖音</strong></td>
+        <td><span style="color:var(--red);font-weight:600;">✗ 不可行</span></td>
+        <td>无公开 API / RSS</td>
+        <td>—</td>
+        <td>同小红书，视频优先，无文本摘要可提取，跳过。</td>
+      </tr>
+    </table>
+
+    <div class="callout callout-green" style="margin-top:14px;">
+      <strong>务实方案：</strong>新智元（xinzhiyuan.com）和机器之心（jiqizhixin.com）都有官方网站并可能提供 RSS——这是接入微信头部 AI 账号内容的正确路径，无需 WeChat 登录态。建议先验证这两个网站的 RSS 可用性，可用则直接加入 pull_rss.py，3行配置即可。
+    </div>
+  </div>
+
+</div><!-- /tab-monitor -->
 
 <footer>
   Coldless AI Radar · Dev Log · <a href="index.html">← 返回主页</a>
