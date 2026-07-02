@@ -99,6 +99,21 @@ header { display: flex; align-items: center; justify-content: space-between; mar
 
 /* Rankings */
 .rankings-grid { display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); margin-bottom: 16px; }
+/* 榜单两栏布局：左=数据大卡，右=入口小卡竖排 */
+.rankings-layout { display: grid; grid-template-columns: 1fr 190px; gap: 10px; margin-bottom: 16px; align-items: stretch; }
+.rank-data-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.rank-entry-col { display: flex; flex-direction: column; gap: 8px; }
+.rank-mini { display: flex; flex-direction: column; gap: 3px; justify-content: center; flex: 1; background: var(--surface); border: 1px solid var(--border); padding: 9px 11px; text-decoration: none; color: inherit; transition: border-color 0.12s; }
+.rank-mini:hover { border-color: var(--border-hover); }
+.rank-mini-top { display: flex; align-items: center; gap: 5px; }
+.rank-mini-title { font-family: var(--serif); font-size: 12.5px; font-weight: 500; color: var(--text-primary); }
+.rank-mini-desc { font-size: 10px; color: var(--text-muted); line-height: 1.45; }
+@media (max-width: 880px) {
+  .rankings-layout { grid-template-columns: 1fr; }
+  .rank-data-grid { grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); }
+  .rank-entry-col { flex-direction: row; flex-wrap: wrap; }
+  .rank-entry-col .rank-mini { flex: 1 1 45%; }
+}
 .rank-card { background: var(--surface); border: 1px solid var(--border); border-radius: 0; padding: 12px 14px; }
 .rank-head { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 8px; padding-bottom: 6px; border-bottom: 1px solid var(--border); gap: 6px; }
 .rank-title { font-family: var(--serif); font-size: 13px; font-weight: 500; color: var(--text-primary); display: flex; align-items: center; gap: 5px; flex-wrap: wrap; }
@@ -276,7 +291,7 @@ header { position: relative; overflow: hidden; }
 <div class="tab-panel" id="tab-models">
   <div id="modelGrid" class="cards-grid"></div>
   <div class="section-head" style="margin-top:24px"><span class="section-icon">📊</span><span class="section-title">榜单总览</span><span class="section-sub">日更数据 + 链接入口</span></div>
-  <div id="rankingsAll" class="rankings-grid"></div>
+  <div id="rankingsAll" class="rankings-layout"></div>
 </div>
 
 <!-- Tab 3: 投融资 & 二级 -->
@@ -505,6 +520,14 @@ function renderStaticEntry(r) {
   </div>`;
 }
 
+// 入口小卡（无实时数据，右侧竖排）
+function renderStaticEntryMini(r) {
+  return `<a class="rank-mini" href="${esc(r.url)}" target="_blank" rel="noopener">
+    <div class="rank-mini-top"><span class="rank-mini-title">${esc(r.title)}</span>${freqBadge(r.freq)}</div>
+    <div class="rank-mini-desc">${esc(r.desc)}</div>
+  </a>`;
+}
+
 // 统一榜单渲染：实时数据卡 + 链接入口卡，同一个 grid
 function renderAllRankings(containerId) {
   // 实时数据：OpenRouter + GitHub + HuggingFace
@@ -525,11 +548,11 @@ function renderAllRankings(containerId) {
     </div>`;
   })();
 
+  const dataCards  = openrouterHtml + renderGithubCard() + renderHFCard();
+  const entryCards = ENTRY_RANKINGS.map(r => renderStaticEntryMini(r)).join('');
   document.getElementById(containerId).innerHTML =
-    openrouterHtml +
-    renderGithubCard() +
-    renderHFCard() +
-    ENTRY_RANKINGS.map(r => renderStaticEntry(r)).join('');
+    `<div class="rank-data-grid">${dataCards}</div>` +
+    `<div class="rank-entry-col">${entryCards}</div>`;
 }
 
 function renderEntryRankings(containerId) {
