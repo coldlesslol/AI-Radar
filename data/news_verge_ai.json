@@ -1,19 +1,28 @@
 {
   "source": "The Verge",
   "layer": "news",
-  "updated": "2026-07-02T10:38:32+08:00",
+  "updated": "2026-07-02T19:54:19+08:00",
   "items": [
+    {
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Fin",
+      "source": "The Verge",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-02T10:23:27+00:00"
+    },
     {
       "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
       "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
       "summary": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen count",
       "source": "The Verge",
-      "time": "14h",
+      "time": "23h",
       "tags": [],
       "published_at": "2026-07-01T12:00:00+00:00"
     },
     {
-      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
       "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W",
       "source": "The Verge",
@@ -83,15 +92,6 @@
       "time": "2d",
       "tags": [],
       "published_at": "2026-06-29T16:00:00+00:00"
-    },
-    {
-      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from",
-      "source": "The Verge",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-06-28T21:42:51+00:00"
     }
   ]
 }

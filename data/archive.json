@@ -1,6 +1,517 @@
 {
-  "updated": "2026-07-02T04:53:14.534287+00:00",
+  "updated": "2026-07-02T12:05:39.335428+00:00",
   "items": [
+    {
+      "title": "SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by 2030 (Min-Jeong Lee/Bloomberg)",
+      "summary_cn": "软银及其电信子公司成立 SB Neo，向大型企业提供 AI 芯片与云服务，计划到 2030 年在美国提供 10GW 算力。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/softbank-launches-ai-cloud-unit-with-plans-to-tap-10-gigawatt-capacity",
+      "sources": [
+        "Techmeme(Bloomberg)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.72,
+      "category": "算力供应链",
+      "published_at": "2026-07-02T11:50:10+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "Meta“带崩”科技股？业内人士：算力过剩系误读",
+      "summary_cn": "Meta 对外出售算力引发 A 股科技股大跌，业内称'算力过剩'系误读（与 HN_0 同一事件的中文视角）。",
+      "url": "https://36kr.com/newsflashes/3878425482653960?f=rss",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "算力供应链",
+      "published_at": "2026-07-02T11:38:25+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "抖音电商上线“肖像保护功能”",
+      "summary_cn": "抖音电商上线'肖像保护功能'，用模型识别并拦截 AI 仿冒、盗用素材的交易类侵权。",
+      "url": "https://36kr.com/newsflashes/3878417762906376?f=rss",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "行业动态",
+      "published_at": "2026-07-02T11:30:34+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "36氪 AI 工具测评，正在找第一批「抢跑者」",
+      "summary_cn": "36氪 AI 工具测评招募'抢跑者'，关注 AI 工具使用能力的信息差。",
+      "url": "https://36kr.com/p/3878412963508486?f=rss",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "社区信号",
+      "published_at": "2026-07-02T11:27:23+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
+      "summary_cn": "谷歌 AI 数据中心建设推动其 2025 年用电量增长 37%，凸显 AI 能耗与清洁能源平衡压力。",
+      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+      "sources": [
+        "Ars Technica"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "算力供应链",
+      "published_at": "2026-07-02T11:15:49+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "Filings: President Trump purchased up to $5M each in Broadcom, Meta, Amazon, Apple, Microsoft, and Nvidia stocks on July 23, the same day as his AI action plan (New York Times)",
+      "summary_cn": "文件显示特朗普在其 AI 行动计划发布同日买入博通、Meta、亚马逊、苹果、微软、英伟达等股票（政治/财务，非 AI 产业事件）。",
+      "url": "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html?unlocked_article_code=1.uVA.MIkb.09sjYfuX5frT&amp;smid=url-share",
+      "sources": [
+        "Techmeme(NYT)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.12,
+      "category": "行业动态",
+      "published_at": "2026-07-02T11:05:22+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
+      "summary_cn": "一款'英伟达含量为0'（非英伟达算力训练）的万亿参数国产大模型霸榜 OpenRouter，成为海外开发者的抢手货。",
+      "url": "https://www.qbitai.com/2026/07/442047.html",
+      "sources": [
+        "量子位"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.72,
+      "category": "模型发布",
+      "published_at": "2026-07-02T10:56:23+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "Amazon says Leo reached 396 satellites in low-Earth orbit following a recent launch, which is \"enough to support continuous service across initial latitudes\" (Thomas Ricker/The Verge)",
+      "summary_cn": "亚马逊 Leo 低轨卫星达 396 颗，可支持初始纬度的连续服务（卫星业务，与 AI 无关）。",
+      "url": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
+      "sources": [
+        "Techmeme(The Verge)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.12,
+      "category": "行业动态",
+      "published_at": "2026-07-02T10:55:00+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "科大讯飞举办智能交互生态发布会，三大平台同步升级",
+      "summary_cn": "科大讯飞举办智能交互生态发布会，三大平台同步升级。",
+      "url": "https://www.qbitai.com/2026/07/442048.html",
+      "sources": [
+        "量子位"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.52,
+      "category": "产品动态",
+      "published_at": "2026-07-02T10:45:31+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "German software giant SAP says it is encouraging workers to invent new, more valuable jobs aided by AI, in a bid to avoid layoffs; SAP cut ~10K staff in 2024 (Jim Tankersley/New York Times)",
+      "summary_cn": "SAP 鼓励员工借助 AI 发明更高价值的新岗位以避免裁员（2024 年曾裁员约 1 万人）。",
+      "url": "https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html?unlocked_article_code=1.ulA.FGZt.VxL32ZdmHEsJ&amp;smid=nytcore-ios-share",
+      "sources": [
+        "Techmeme(NYT)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "行业动态",
+      "published_at": "2026-07-02T10:45:01+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "Meta building cloud business to sell excess AI capacity",
+      "summary_cn": "Meta 计划通过云业务对外出售过剩 AI 算力，引发'AI 算力过剩/基建泡沫'担忧并带崩 A 股科技股；业内人士认为'算力过剩'系误读。",
+      "url": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
+      "sources": [
+        "HN(Reuters)",
+        "36氪",
+        "钛媒体"
+      ],
+      "source_count": 3,
+      "relevance_score": 0.96,
+      "category": "算力供应链",
+      "published_at": "2026-07-02T10:43:41+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "Nvidia offers startup customers chance to swap compute power for revenue share",
+      "summary_cn": "英伟达拟向初创客户提供'以算力换营收分成'的新合作模式，降低初创企业的算力获取门槛。",
+      "url": "https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html",
+      "sources": [
+        "HN(CNBC)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.72,
+      "category": "算力供应链",
+      "published_at": "2026-07-02T10:41:33+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭",
+      "summary_cn": "AI 企业家论坛预告，公开首发阵容（活动预告）。",
+      "url": "https://www.qbitai.com/2026/07/442037.html",
+      "sources": [
+        "量子位"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.25,
+      "category": "社区信号",
+      "published_at": "2026-07-02T10:29:03+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "The US DOJ says Peter Stokes, a 19-year-old dual US-Estonian citizen, was extradited from Finland to face charges of participating in Scattered Spider hacks (Joe Warminsky/The Record)",
+      "summary_cn": "美国司法部：19 岁的 Scattered Spider 黑客嫌疑人从芬兰被引渡受审（与 AI 无关）。",
+      "url": "https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us",
+      "sources": [
+        "Techmeme(The Record)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.12,
+      "category": "行业动态",
+      "published_at": "2026-07-02T10:25:00+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊",
+      "summary_cn": "天工 3.2 升级上线 Skywork Tags，为 Agent 赋予'工牌'身份，使其可加入团队群聊协同工作。",
+      "url": "https://www.qbitai.com/2026/07/442030.html",
+      "sources": [
+        "量子位"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "published_at": "2026-07-02T10:24:32+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "summary_cn": "OpenAI 提议向美国政府让渡约 5% 股权，以缓解 AI 热潮下的监管紧张关系。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "sources": [
+        "The Verge"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-02T10:23:27+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "硅胶娃娃+AI，优必选就想卖宅男88万",
+      "summary_cn": "优必选推出售价高达 88 万元的'硅胶娃娃+AI'陪伴机器人，男款定价更高。",
+      "url": "https://www.tmtpost.com/8050479.html",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "产品动态",
+      "published_at": "2026-07-02T10:21:24+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "推理成本砍掉一半以上，OpenAI摸着DeepSeek过河",
+      "summary_cn": "OpenAI 借鉴 DeepSeek 思路完成系统优化，将模型推理成本削减一半以上，以缓解年亏超 200 亿美元的成本压力。",
+      "url": "https://www.tmtpost.com/8050492.html",
+      "sources": [
+        "钛媒体",
+        "36氪",
+        "TLDR AI"
+      ],
+      "source_count": 3,
+      "relevance_score": 0.9,
+      "category": "研究技术",
+      "published_at": "2026-07-02T10:21:23+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "微信 agent，到底能不能帮腾讯赚钱？",
+      "summary_cn": "微信'小微'Agent 探路商业化，折射微信在 AI 时代'收税'与'中立'之间的两难豪赌。",
+      "url": "https://www.tmtpost.com/8050426.html",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "published_at": "2026-07-02T10:12:37+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "AI写的书能不能出版？图书编辑没有答案",
+      "summary_cn": "AI 写的书能否出版？图书编辑们尚无答案。",
+      "url": "https://www.tmtpost.com/8050086.html",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "行业动态",
+      "published_at": "2026-07-02T10:12:24+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "President Trump says Micron will invest $250M in Trump Accounts; Micron says it will come via an employee matching program and a $250 deposit in some US states (New York Times)",
+      "summary_cn": "特朗普称美光将向'特朗普账户'投入 2.5 亿美元，美光称通过员工匹配计划实现（政治/财务，与 AI 无关）。",
+      "url": "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html",
+      "sources": [
+        "Techmeme(NYT)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.12,
+      "category": "行业动态",
+      "published_at": "2026-07-02T10:10:00+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "Cloudflare sets a September 15 deadline for AI companies to differentiate their web crawlers into search, AI training, and AI agents or face being blocked (Samantha Elkins/NBC News)",
+      "summary_cn": "Cloudflare 要求 AI 公司在 9 月 15 日前将网络爬虫区分为搜索、训练、Agent 三类，否则将被封禁。",
+      "url": "https://www.nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446",
+      "sources": [
+        "Techmeme(NBC)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.62,
+      "category": "行业动态",
+      "published_at": "2026-07-02T10:00:00+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "Germany-based Quantum Systems, which sells surveillance drones used by Ukraine, raised $1.2B led by Blackstone, Noteus, Airbus, and Advent at an ~$8B valuation (Yazhou Sun/Bloomberg)",
+      "summary_cn": "德国 Quantum Systems 以约 80 亿美元估值融资 12 亿美元，主营供乌克兰使用的侦察无人机（防务为主，AI 关联弱）。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/quantum-systems-more-than-doubles-valuation-to-8-billion-in-new-round",
+      "sources": [
+        "Techmeme(Bloomberg)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "融资并购",
+      "published_at": "2026-07-02T09:50:04+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "我妈骨折了，用AI自我诊断后觉得命不久矣",
+      "summary_cn": "评论：AI 自我诊断可能让缺乏医学素养的用户'越用越无知'，提示大模型对低文化水平人群的服务风险。",
+      "url": "https://www.tmtpost.com/8049913.html",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "行业动态",
+      "published_at": "2026-07-02T09:26:54+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "An interview with Amazon SVP of Devices Panos Panay on designing custom chips for Echo and Fire TV devices, experimenting with AI-enabled gadgets, and more (Arjun Kharpal/CNBC)",
+      "summary_cn": "亚马逊设备 SVP Panos Panay 谈为 Echo、Fire TV 设计定制芯片及试验 AI 硬件。",
+      "url": "https://www.cnbc.com/2026/07/02/amazon-ai-chips-devices.html",
+      "sources": [
+        "Techmeme(CNBC)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "算力供应链",
+      "published_at": "2026-07-02T08:55:01+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "Algorithmic Arms Race: How AI-Driven Recruiting Met Automated Job Hunting",
+      "summary_cn": "AI 驱动的招聘与自动化求职形成'算法军备竞赛'，招聘方与隐形求职者持续摩擦。",
+      "url": "https://www.tmtpost.com/8050392.html",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "行业动态",
+      "published_at": "2026-07-02T08:44:02+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "The European Court of Justice rules that Google's earlier defeat against a €4.1B European Commission penalty over abusing Android market power should stand (Bloomberg)",
+      "summary_cn": "欧洲法院维持谷歌因滥用 Android 市场支配地位而被处 41 亿欧元罚款的裁决（反垄断，与 AI 无关）。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/google-loses-eu-court-fight-over-4-1-billion-android-fine",
+      "sources": [
+        "Techmeme(Bloomberg)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.1,
+      "category": "行业动态",
+      "published_at": "2026-07-02T08:40:03+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "AI来了，组织“瘫”了？",
+      "summary_cn": "探讨'AI 优先'组织中人类员工的定位与组织重构挑战。",
+      "url": "https://www.tmtpost.com/8049868.html",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "行业动态",
+      "published_at": "2026-07-02T08:36:47+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "A look at the CSOP SK Hynix Leveraged ETF, which trades in Hong Kong and has ballooned into a $13B fund, becoming the world's largest single-stock leveraged ETF (Bloomberg)",
+      "summary_cn": "在港交易的 CSOP SK 海力士杠杆 ETF 膨胀至 130 亿美元，成全球最大单一股票杠杆 ETF（纯金融，AI 关联弱）。",
+      "url": "https://www.bloomberg.com/news/features/2026-07-01/how-a-13-billion-leveraged-etf-drives-volatility-in-a-key-ai-memory-stock?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mjk3MjQ3NywiZXhwIjoxNzgzNTc3Mjc3LCJhcnRpY2xlSWQiOiJUSElMMEtLSVAzSjQwMCIsImJjb25uZWN0SWQiOiI0NjFFOUQ2MTU1RDM0RjcxOTZBMTk0OTg2MTk3NUM3OSJ9.HYRyAigt2YC00yG9q9og2BqrLqTXjRC0cfIGETIxIrQ",
+      "sources": [
+        "Techmeme(Bloomberg)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.15,
+      "category": "算力供应链",
+      "published_at": "2026-07-02T08:30:04+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "钉钉A1录音卡入选Gartner AI可穿戴设备报告",
+      "summary_cn": "钉钉 A1 录音卡入选 Gartner AI 可穿戴设备报告，强调背后的企业级 AI 协作平台。",
+      "url": "https://www.qbitai.com/2026/07/442024.html",
+      "sources": [
+        "量子位"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.48,
+      "category": "产品动态",
+      "published_at": "2026-07-02T08:03:00+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "[AINews] not much happened today",
+      "summary_cn": "AINews 当日无重要事件，属空洞日报。",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-900",
+      "sources": [
+        "Latent Space"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.15,
+      "category": "社区信号",
+      "published_at": "2026-07-02T07:10:14+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "Claude 和 Manus 还要人工搭框架？小米直接让 Agent 自我进化",
+      "summary_cn": "小米提出让 Agent'外壳'自我进化的方案，无需像 Claude、Manus 那样人工搭建框架，Agent 可自我迭代。",
+      "url": "https://www.leiphone.com/category/yanxishe/w6us4wphPrRD8x6g.html",
+      "sources": [
+        "雷峰网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.68,
+      "category": "研究技术",
+      "published_at": "2026-07-02T07:10:00+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股",
+      "summary_cn": "深圳光伏企业靠储能冲刺港股，净利大幅下滑（新能源，与 AI 无关）。",
+      "url": "https://36kr.com/p/3878131056701447?f=rss",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.08,
+      "category": "行业动态",
+      "published_at": "2026-07-02T06:40:19+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "A survey of US adults finds 56% support banning social media for under-16s, while 21% oppose; majorities across demographic and partisan groups support a ban (Pew Research Center)",
+      "summary_cn": "皮尤调查：56% 美国成年人支持禁止 16 岁以下使用社交媒体（与 AI 无关）。",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/01/majority-of-americans-support-banning-social-media-for-kids-under-16/",
+      "sources": [
+        "Techmeme(Pew)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.1,
+      "category": "行业动态",
+      "published_at": "2026-07-02T06:30:01+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进",
+      "summary_cn": "昆仑万维天工 AI 业务 ARR 突破 8 亿美元（其中 AI 短剧平台超 7 亿美元），冲刺中国首个非 BAT 的 10 亿美元 ARR AI 公司。",
+      "url": "https://www.qbitai.com/2026/07/441786.html",
+      "sources": [
+        "量子位"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.66,
+      "category": "行业动态",
+      "published_at": "2026-07-02T06:23:10+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "十年榜单首迎中国双料冠军：这次赢的不只是性能",
+      "summary_cn": "IO500 全球 HPC 存储榜单出现中国'双料冠军'（中科曙光等），但与 AI 产业链直接关联较弱。",
+      "url": "https://www.leiphone.com/category/chips/EAd6eTSPIeOOy4j7.html",
+      "sources": [
+        "雷峰网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "算力供应链",
+      "published_at": "2026-07-02T06:16:00+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "Nansen: about two-thirds of Trump's memecoin investors are currently in the red, and 85% of World Liberty's $WLFI buyers on the secondary market are underwater (Wall Street Journal)",
+      "summary_cn": "Nansen：约三分之二特朗普 memecoin 投资者亏损（加密货币，与 AI 无关）。",
+      "url": "https://www.wsj.com/finance/currencies/trump-made-1-billion-on-crypto-deals-while-his-fans-lost-a-fortune-408754c9?st=EqVyz4&amp;reflink=desktopwebshare_permalink",
+      "sources": [
+        "Techmeme(WSJ)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.05,
+      "category": "行业动态",
+      "published_at": "2026-07-02T06:00:43+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "UK lawyers say the tide of AI-assisted employment claims is straining an already overloaded employment tribunal system, whose backlog has doubled in two years (Delphine Strauss/Financial Times)",
+      "summary_cn": "英国律师称 AI 辅助的劳资索赔正加剧本已超负荷的就业仲裁系统积压。",
+      "url": "https://www.ft.com/content/f2b02e7d-c3ca-42d0-a575-ea1f62550900",
+      "sources": [
+        "Techmeme(FT)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "行业动态",
+      "published_at": "2026-07-02T05:50:03+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！",
+      "summary_cn": "2026 中国智算产业生态发展年会在深圳举办，2000+ 智算产业代表参会。",
+      "url": "https://www.qbitai.com/2026/07/441586.html",
+      "sources": [
+        "量子位"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "算力供应链",
+      "published_at": "2026-07-02T05:33:37+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
     {
       "title": "巨人网络参投VAST新一轮超10亿元融资，",
       "summary_cn": "AI 3D 大模型与通用世界模型公司 VAST（三启万物）完成超 10 亿元 A3 战略轮融资，巨人网络参投，一个月内连续大额融资。",
@@ -13,6 +524,19 @@
       "category": "融资并购",
       "published_at": "2026-07-02T04:32:44+00:00",
       "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "summary_cn": "月之暗面 Kimi K2.7 Code 模型正式登陆 GitHub Copilot，进一步进入主流编程工具生态。",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "sources": [
+        "HN(GitHub)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.7,
+      "category": "产品动态",
+      "published_at": "2026-07-02T04:32:41+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
       "title": "“光电子先导院”完成新一轮融资",
@@ -418,6 +942,19 @@
       "category": "算力供应链",
       "published_at": "2026-07-02T03:36:01+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "从生成到交付，音视频 Agent 要有生产级开发套件",
+      "summary_cn": "音视频 Agent 走向生产级：从生成到交付需配套开发套件，替代人工剪辑/切片/分发链路。",
+      "url": "https://www.leiphone.com/category/industrynews/bm5j7ZigtfWU5sL5.html",
+      "sources": [
+        "雷峰网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.52,
+      "category": "产品动态",
+      "published_at": "2026-07-02T03:32:00+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
       "title": "A股三大指数午间休盘集体下跌，汽车股领涨",
@@ -827,6 +1364,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "8点1氪丨宾利低至27万，二手豪华燃油车价格大跳水；Anthropic回应暗藏代码检测中国用户；寒武纪市值一日蒸发700亿",
+      "summary_cn": "8点1氪早报综合：OpenAI 推理成本减半、Anthropic 回应针对中国的检测代码、寒武纪市值单日蒸发 700 亿等（多为已单列事件的聚合导览）。",
+      "url": "https://36kr.com/p/3877746956611847?f=rss",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "行业动态",
+      "published_at": "2026-07-02T00:10:58+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
       "title": "Sources: the White House is in advanced talks with AI companies on voluntary standards and release timelines for new models to be announced as soon as next week (George Hammond/Financial Times)",
       "summary_cn": "白宫正与 AI 公司就新模型的自愿标准和发布时间线进行深入磋商，最快下周宣布。",
       "url": "https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a",
@@ -929,6 +1479,19 @@
       "category": "行业动态",
       "published_at": "2026-07-01T22:27:47+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "ZCode – Harness for GLM-5.2",
+      "summary_cn": "ZCode：面向 GLM-5.2 的编码 harness/开发环境（与 GLM-5.2 事件同源，社区侧信号）。",
+      "url": "https://zcode.z.ai/en",
+      "sources": [
+        "HN"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.7,
+      "category": "产品动态",
+      "published_at": "2026-07-01T22:03:36+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
       "title": "Hamiltonian Neural Networks from a Differential Geometry Perspective [D]",
@@ -1154,6 +1717,32 @@
       "category": "模型发布",
       "published_at": "2026-07-01T16:44:18+00:00",
       "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
+      "title": "Portugal launches first open-source AI model, joining Europe’s sovereignty push - KELO-AM",
+      "summary_cn": "葡萄牙发布首个开源 AI 模型，加入欧洲 AI 主权化浪潮。",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdklCTGxub2FrT3dQZjZrXzR1RVFGY0s5blN5YUpCYjVUNldoeFMycHRkOXhNOUw4ZnVXLTlZQjhXV1pGU25OZUR4Z1llaG42ZFUxcmZoQWdXUm5ZWnp3T0o0RlA1TlJmTk0yWGRZZTc1bUNBZnZLclZWYS1jOE1Zajk0c3hycllRd2NjWm9kRVYtd0tFNHE1NVRUaHZTWGpoMXZJeW9rYlhPUQ?oc=5",
+      "sources": [
+        "KELO-AM"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-01T16:34:04+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "Retrace",
+      "summary_cn": "Retrace 上线：通过回放与分叉运行过程来调试 AI Agent。",
+      "url": "https://www.producthunt.com/products/retrace-2",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "产品动态",
+      "published_at": "2026-07-01T16:12:07+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
       "title": "How We Made IPFS Content Publishing 10x Faster",
@@ -1599,6 +2188,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "Mistral releases 'Leanstral 1.5,' an AI for automated theorem proving, supporting Lean 4 proof work. - GIGAZINE",
+      "summary_cn": "Mistral 发布面向自动定理证明的 AI 模型 Leanstral 1.5，支持 Lean 4 证明工作。",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oYllGRXZKVDVHcUM2ZnNXdkNydnZ2NWhBTXBLMkhFeTFoM2h2QVlObWppNldneG1wd3hYTDhhVjRWaGRHNmJSNUlfdjladGJRVTBkNXN5Q0NBZWZENGVRVHBMamZxNURSRUpuS2tZbGo?oc=5",
+      "sources": [
+        "GIGAZINE"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.66,
+      "category": "模型发布",
+      "published_at": "2026-07-01T07:05:00+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
       "title": "大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割",
       "summary_cn": "自变量科技完成大湾区首个200亿估值具身大脑相关融资，两个月连融四轮已交割，四大互联网公司分别领投。",
       "url": "https://www.qbitai.com/2026/07/441140.html",
@@ -1779,6 +2381,19 @@
       "category": "社区信号",
       "published_at": "2026-07-01T02:30:09+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "Mixi has formed a strategic partnership with Runway, an AI video generation company, and is already using Runway's AI in video production for Monster Strike, among other things. - GIGAZINE",
+      "summary_cn": "日本 Mixi 与 AI 视频生成公司 Runway 达成战略合作，已将其用于《怪物弹珠》等视频制作。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3JoWWF2S2gyOTBncFJPbWlkX2hoanN6cTJkeGs3dWJoRldycFZiTEc5ZExWcVE5SEtfN2YzaHpjcWNmbnN3andSNUR0ck81OFRJd1hXZFpfQkYwdTE5OC11TDZDd29nWnItTW9qdGdqMlZEX3ZvUGVMZmpybWc0cThn?oc=5",
+      "sources": [
+        "GIGAZINE"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.58,
+      "category": "产品动态",
+      "published_at": "2026-07-01T02:12:00+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
       "title": "80TB+ of astronomy for the HDD-poor: crossmatch the Universe from your laptop [R]",
@@ -2098,6 +2713,36 @@
       "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
     },
     {
+      "title": "BMW Group and Mistral AI collaborate to advance AI in crash simulation - Engineer Live",
+      "summary_cn": "宝马集团与 Mistral AI 合作，将 AI 应用于汽车碰撞仿真。",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTE9ZeTJDT1hvUEhTWTZLVnR4eDlkUTROYVJDYjFmV2dkRlVEYXQ1XzBvMVFXZEVSZWtoRjhneUo2b2s4X1NpR3hKeS1la3B4U2tuZnE2R256SFNFQzJrekxyQ0FDQ2ZpYU0xeF8yM295ZmVQYzg3Vno5NGxiVU9ERGtmenZuR3hxWHdOcjJhbXU2RUdu?oc=5",
+      "sources": [
+        "Engineer Live"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.58,
+      "category": "行业动态",
+      "published_at": "2026-06-30T09:09:45+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "月之暗面Kimi估值升至315亿美元，ARR突破3亿美元，API收入增长400% - 搜狐网",
+      "summary_cn": "月之暗面 Kimi 半年累计融资超 39 亿美元，投前估值升至 315 亿美元，ARR 突破 3 亿美元、API 收入同比增长 400%，并以'不靠低价'的姿态加速出海对标海外头部模型厂商。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUxmUjRCX2c0dy0zSUFCRTUtcWRHa2VnNDZ3bXpvT3hFc3JkaEozTmxISFV1TXNwZzdCZkdWbk10MHI0Y05RalVOczBFNVlzOHdxUm9DbXlweVVvQ2l2STJVaVdja3hheFpNd0hwVGFVMHFNV1gydUZQX2ZDTloyaWhLMENGMUxEV0dQWQ?oc=5",
+      "sources": [
+        "新浪财经",
+        "搜狐网",
+        "36氪",
+        "电子工程专辑",
+        "InfoQ"
+      ],
+      "source_count": 5,
+      "relevance_score": 1.0,
+      "category": "融资并购",
+      "published_at": "2026-06-30T08:04:27+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
       "title": "Bamboo",
       "summary_cn": "Bamboo 发布：用户可掌控的、带 AI 的 Markdown 笔记工具。",
       "url": "https://www.producthunt.com/products/bamboo-ai-markdown-notes",
@@ -2148,6 +2793,19 @@
       "category": "产品动态",
       "published_at": "2026-06-30T03:52:28+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "Flowly",
+      "summary_cn": "Product Hunt 一批个人/桌面 AI Agent 新品集中上线（Flowly 桌面+iPhone 个人 Agent、Macuse、Macro、scritty 共享记忆、Needle GTM Agent 等）。",
+      "url": "https://www.producthunt.com/products/flowly-6",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "产品动态",
+      "published_at": "2026-06-30T02:35:56+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
       "title": "Devin Fusion 💻, DeepSeek DSpark ⚡, economy of tokens 💰",
@@ -2293,6 +2951,36 @@
       "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
     },
     {
+      "title": "HiddenLayer and Cohere Collaborate to Remove Security Barriers to Enterprise Agentic AI - PR Newswire",
+      "summary_cn": "HiddenLayer 与 Cohere 合作，为企业级 Agentic AI 消除安全障碍。",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNHpnQkVjWEZHTWlleVVnS2NWQjRBam9abDBQR1J1LUY0UU44R3VhYWdNYlhwQ3RTaXNjMmJ0WVNMeUczQ0JnNEpySjVPRWw0eXgzY0pjZVBNV2JYOV9FNXY5cGRMTTRQZG85NTh0cmxwaklrWlNWUC1VdVZJMUg3ZUtXcFpwYlRFbS1nbS13ZWV5aE56aVNiM0VCdDdPN2NIV3VSZkZ2X0hpZnBVRkVXVkZqOThDaTJ2bDVIa3BuR0dMUnRRaml4d0NoQ192bU5sNHZoTU15VXZzU1k?oc=5",
+      "sources": [
+        "PR Newswire"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "published_at": "2026-06-29T14:35:00+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "消息称智谱AI最新GLM 5.2开源模型性能比肩Anthropic的Opus 4.8 - 光通信Pro",
+      "summary_cn": "智谱发布并全面开放开源大模型 GLM-5.2，性能比肩 Anthropic Opus 4.8、被富瑞评为全球第三，漏洞挖掘等能力逼近美国前沿模型引发美政府对开放权重滥用的担忧；同时推出配套的 ZCode 智能开发环境（ADE）与 GLM Coding 订阅计划，被视为又一次'DeepSeek 时刻'。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nbGRuRE1lS0F4NUZKS3NhZDd1ZW5VSUZFOTh0RFk3el96RFdqZ0w1emZlRVk4T0ZxcHVPa19EZnlXWmEwOFU2VUdOcGlCV3NnV2dNbWFn?oc=5",
+      "sources": [
+        "智谱AI",
+        "Techmeme",
+        "HN",
+        "雷峰网",
+        "联合早报"
+      ],
+      "source_count": 5,
+      "relevance_score": 1.0,
+      "category": "模型发布",
+      "published_at": "2026-06-29T14:18:04+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
       "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
       "summary_cn": "Import AI 第463期综述自我改进机器人、一个1万卡规模的中国 GPU 集群，以及一篇关于人类时代的挽歌式随笔。",
       "url": "https://importai.substack.com/p/import-ai-463-self-improving-robots",
@@ -2332,6 +3020,36 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "GPT-5.6 preview ☀️, Grok 4.5 beta 🤖, Google limits Meta 🛑",
+      "summary_cn": "行业速览：xAI Grok 4.5 beta、OpenAI GPT-5.6 preview 相继放出，谷歌对 Meta 施加访问限制。",
+      "url": "https://tldr.tech/ai/2026-06-29",
+      "sources": [
+        "TLDR AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.7,
+      "category": "模型发布",
+      "published_at": "2026-06-29T00:00:00+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
+      "title": "2026年6月24日，字节跳动AI助手豆包推出专业版订阅服务 - 虎嗅",
+      "summary_cn": "字节跳动 AI 助手豆包推出专业版付费订阅，正式开启商业化并全面押注 To B，直面算力成本、定价与商业化博弈；旗下视频模型 Seedance 商业化吸金表现亮眼。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ybm12c0V3QnE2SDI5RklEb19HdHRiYkVDSGJJbHV3ZThCUXRsX0JWdEdMNXhXMFpEeGZoamJrQ2c3X0RLR1RVSVRlNC1CT3UxaWJHdQ?oc=5",
+      "sources": [
+        "虎嗅",
+        "36氪",
+        "证券时报",
+        "21财经",
+        "DoNews"
+      ],
+      "source_count": 5,
+      "relevance_score": 1.0,
+      "category": "产品动态",
+      "published_at": "2026-06-28T22:50:00+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
+    },
+    {
       "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
       "summary_cn": "智谱 Z.ai 发布开源权重模型 GLM-5.2，杀入闭源前沿，有研究者称其网络安全能力可对标 Mythos；配套 ZCode harness 上线，在美国限制 Fable 5 调用背景下受到开发者追捧。",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
@@ -2345,6 +3063,19 @@
       "category": "模型发布",
       "published_at": "2026-06-28T21:42:51+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
+      "summary_cn": "Interconnects 评估开源模型生态：Zyphra、Cohere、Poolside 等正拓展开放模型生态的广度与动机。",
+      "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+      "sources": [
+        "Interconnects"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "published_at": "2026-06-28T17:03:07+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
       "title": "Sequence Agentic",
@@ -2397,6 +3128,20 @@
       "category": "产品动态",
       "published_at": "2026-06-27T12:16:36+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "Using Local Coding Agents",
+      "summary_cn": "Sebastian Raschka 探讨用开源权重模型在本地编码框架中替代 Claude Code/Codex 订阅的实践；业界普遍认为本地/开源 AI 正快速追赶闭源方案。",
+      "url": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+      "sources": [
+        "Ahead of AI",
+        "Latent Space"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.68,
+      "category": "研究技术",
+      "published_at": "2026-06-27T11:21:58+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
       "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
@@ -2515,6 +3260,22 @@
       "category": "产品动态",
       "published_at": "2026-06-25T18:38:51+00:00",
       "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
+      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+      "summary_cn": "Anthropic 指控阿里巴巴用约 2.5 万个账号、2880 万次对话大规模'克隆'Claude 并要求处罚；同时被曝为防模型蒸馏而暗藏针对中国用户的检测/封号代码，官方称将在更新中移除，引发'AI 大厂互相设防'的讨论。",
+      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "sources": [
+        "Ars Technica",
+        "雷峰网",
+        "钛媒体",
+        "36氪"
+      ],
+      "source_count": 4,
+      "relevance_score": 1.0,
+      "category": "行业动态",
+      "published_at": "2026-06-25T18:01:48+00:00",
+      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
       "title": "IBM claims world’s first sub-1 nanometer chip technology",

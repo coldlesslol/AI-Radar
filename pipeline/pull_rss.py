@@ -50,6 +50,22 @@ FEEDS = [
     ("news_producthunt", "news_producthunt.json", "Product Hunt",  "news",       "https://www.producthunt.com/feed?category=artificial-intelligence",    15),
     # ── 研究 ─────────────────────────────────────────────────────────────────
     ("research_arxiv",   "research_arxiv.json",   "arXiv AI",      "research",   "https://arxiv.org/rss/cs.AI",                                          20),
+    # ── P1 企业动态监控（Google News RSS，重点补齐国内 AI 公司覆盖）─────────────
+    # 国内重点企业
+    ("company_zhipu",   "company_zhipu.json",    "智谱AI",         "company",    "https://news.google.com/rss/search?q=智谱AI+GLM&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",              8),
+    ("company_kimi",    "company_kimi.json",     "月之暗面",        "company",    "https://news.google.com/rss/search?q=月之暗面+Kimi&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",          8),
+    ("company_baidu",   "company_baidu.json",    "百度AI",          "company",    "https://news.google.com/rss/search?q=百度+文心+ERNIE+Bot&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",   8),
+    ("company_doubao",  "company_doubao.json",   "字节豆包",        "company",    "https://news.google.com/rss/search?q=字节跳动+豆包+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",      8),
+    ("company_minimax", "company_minimax.json",  "MiniMax",        "company",    "https://news.google.com/rss/search?q=MiniMax+AI+海螺&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",        6),
+    # 国际中小 AI 公司（大平台已有 Techmeme/Verge 覆盖）
+    ("company_mistral", "company_mistral.json",  "Mistral",        "company",    "https://news.google.com/rss/search?q=Mistral+AI+model&hl=en-US&gl=US&ceid=US:en",            6),
+    ("company_runway",  "company_runway.json",   "Runway",         "company",    "https://news.google.com/rss/search?q=Runway+AI+video+generation&hl=en-US&gl=US&ceid=US:en",  6),
+    ("company_cohere",  "company_cohere.json",   "Cohere",         "company",    "https://news.google.com/rss/search?q=Cohere+AI+enterprise&hl=en-US&gl=US&ceid=US:en",        6),
+    # ── P3 分析机构（免费高质量 AI 研究）─────────────────────────────────────
+    # ARK Invest：官方 /articles/feed/ 返回 404，暂停，待确认可用 RSS URL
+    # ("analysis_ark",    "analysis_ark.json",     "ARK Invest",     "analysis",   "https://ark-invest.com/articles/feed/",                                5),
+    ("analysis_inter",  "analysis_inter.json",   "Interconnects",  "analysis",   "https://www.interconnects.ai/feed",                                                            5),
+    ("analysis_raschka","analysis_raschka.json", "Ahead of AI",    "analysis",   "https://magazine.sebastianraschka.com/feed",                                                   5),
 ]
 
 DEFAULT_MAX = 30

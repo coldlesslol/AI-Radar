@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T04:53:14.537526+00:00",
+  "updated": "2026-07-02T12:05:39.338012+00:00",
   "items": [
     {
       "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
@@ -50,6 +50,73 @@
       "auto": true
     },
     {
+      "title": "消息称智谱AI最新GLM 5.2开源模型性能比肩Anthropic的Opus 4.8 - 光通信Pro",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nbGRuRE1lS0F4NUZKS3NhZDd1ZW5VSUZFOTh0RFk3el96RFdqZ0w1emZlRVk4T0ZxcHVPa19EZnlXWmEwOFU2VUdOcGlCV3NnV2dNbWFn?oc=5",
+      "summary_cn": "智谱发布并全面开放开源大模型 GLM-5.2，性能比肩 Anthropic Opus 4.8、被富瑞评为全球第三，漏洞挖掘等能力逼近美国前沿模型引发美政府对开放权重滥用的担忧；同时推出配套的 ZCode 智能开发环境（ADE）与 GLM Coding 订阅计划，被视为又一次'DeepSeek 时刻'。",
+      "sources": [
+        "智谱AI",
+        "Techmeme",
+        "HN",
+        "雷峰网",
+        "联合早报"
+      ],
+      "relevance_score": 1.0,
+      "category": "模型发布",
+      "pinned_at": "2026-07-02T12:05:39.338012+00:00",
+      "expires_at": "2026-07-16T12:05:39.338012+00:00",
+      "auto": true
+    },
+    {
+      "title": "月之暗面Kimi估值升至315亿美元，ARR突破3亿美元，API收入增长400% - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUxmUjRCX2c0dy0zSUFCRTUtcWRHa2VnNDZ3bXpvT3hFc3JkaEozTmxISFV1TXNwZzdCZkdWbk10MHI0Y05RalVOczBFNVlzOHdxUm9DbXlweVVvQ2l2STJVaVdja3hheFpNd0hwVGFVMHFNV1gydUZQX2ZDTloyaWhLMENGMUxEV0dQWQ?oc=5",
+      "summary_cn": "月之暗面 Kimi 半年累计融资超 39 亿美元，投前估值升至 315 亿美元，ARR 突破 3 亿美元、API 收入同比增长 400%，并以'不靠低价'的姿态加速出海对标海外头部模型厂商。",
+      "sources": [
+        "新浪财经",
+        "搜狐网",
+        "36氪",
+        "电子工程专辑",
+        "InfoQ"
+      ],
+      "relevance_score": 1.0,
+      "category": "融资并购",
+      "pinned_at": "2026-07-02T12:05:39.338012+00:00",
+      "expires_at": "2026-07-16T12:05:39.338012+00:00",
+      "auto": true
+    },
+    {
+      "title": "2026年6月24日，字节跳动AI助手豆包推出专业版订阅服务 - 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ybm12c0V3QnE2SDI5RklEb19HdHRiYkVDSGJJbHV3ZThCUXRsX0JWdEdMNXhXMFpEeGZoamJrQ2c3X0RLR1RVSVRlNC1CT3UxaWJHdQ?oc=5",
+      "summary_cn": "字节跳动 AI 助手豆包推出专业版付费订阅，正式开启商业化并全面押注 To B，直面算力成本、定价与商业化博弈；旗下视频模型 Seedance 商业化吸金表现亮眼。",
+      "sources": [
+        "虎嗅",
+        "36氪",
+        "证券时报",
+        "21财经",
+        "DoNews"
+      ],
+      "relevance_score": 1.0,
+      "category": "产品动态",
+      "pinned_at": "2026-07-02T12:05:39.338012+00:00",
+      "expires_at": "2026-07-16T12:05:39.338012+00:00",
+      "auto": true
+    },
+    {
+      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "summary_cn": "Anthropic 指控阿里巴巴用约 2.5 万个账号、2880 万次对话大规模'克隆'Claude 并要求处罚；同时被曝为防模型蒸馏而暗藏针对中国用户的检测/封号代码，官方称将在更新中移除，引发'AI 大厂互相设防'的讨论。",
+      "sources": [
+        "Ars Technica",
+        "雷峰网",
+        "钛媒体",
+        "36氪"
+      ],
+      "relevance_score": 1.0,
+      "category": "行业动态",
+      "pinned_at": "2026-07-02T12:05:39.338012+00:00",
+      "expires_at": "2026-07-16T12:05:39.338012+00:00",
+      "auto": true
+    },
+    {
       "title": "Sources: OpenAI has discussed giving a 5% stake to the US government as the company seeks to clear political obstacles by securing buy-in from the Trump admin (Financial Times)",
       "url": "https://www.techmeme.com/260702/p1#a260702p1",
       "summary_cn": "OpenAI 与美国政府展开初步讨论，提议向政府提供约5%股权，以换取特朗普政府对 AI 产业的政策支持并缓解监管阻力。",
@@ -94,6 +161,21 @@
       "auto": true
     },
     {
+      "title": "Meta building cloud business to sell excess AI capacity",
+      "url": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
+      "summary_cn": "Meta 计划通过云业务对外出售过剩 AI 算力，引发'AI 算力过剩/基建泡沫'担忧并带崩 A 股科技股；业内人士认为'算力过剩'系误读。",
+      "sources": [
+        "HN(Reuters)",
+        "36氪",
+        "钛媒体"
+      ],
+      "relevance_score": 0.96,
+      "category": "算力供应链",
+      "pinned_at": "2026-07-02T12:05:39.338012+00:00",
+      "expires_at": "2026-07-16T12:05:39.338012+00:00",
+      "auto": true
+    },
+    {
       "title": "Anthropic、OpenAI同一天落子AI4S赛道，巨头混战从「拼模型」转向「卡生态」",
       "url": "https://www.leiphone.com/category/shengwuyiyao/5hR8USux68fILtr1.html",
       "summary_cn": "Anthropic 与 OpenAI 同日布局 AI4S 科研赛道，Anthropic 推出科研智能体工作台 Claude Science，强调不依赖新模型而靠工作流整合现有能力，巨头竞争从拼模型转向卡生态。",
@@ -105,6 +187,21 @@
       "category": "产品动态",
       "pinned_at": "2026-07-02T04:38:49.767584+00:00",
       "expires_at": "2026-07-16T04:38:49.767584+00:00",
+      "auto": true
+    },
+    {
+      "title": "推理成本砍掉一半以上，OpenAI摸着DeepSeek过河",
+      "url": "https://www.tmtpost.com/8050492.html",
+      "summary_cn": "OpenAI 借鉴 DeepSeek 思路完成系统优化，将模型推理成本削减一半以上，以缓解年亏超 200 亿美元的成本压力。",
+      "sources": [
+        "钛媒体",
+        "36氪",
+        "TLDR AI"
+      ],
+      "relevance_score": 0.9,
+      "category": "研究技术",
+      "pinned_at": "2026-07-02T12:05:39.338012+00:00",
+      "expires_at": "2026-07-16T12:05:39.338012+00:00",
       "auto": true
     },
     {

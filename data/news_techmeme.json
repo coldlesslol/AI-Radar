@@ -1,142 +1,142 @@
 {
   "source": "Techmeme",
   "layer": "news",
-  "updated": "2026-07-02T10:38:27+08:00",
+  "updated": "2026-07-02T19:54:12+08:00",
   "items": [
     {
-      "title": "India-based short video app ShareChat's parent company Mohalla Tech plans to raise up to $400M in an IPO in 2027; ShareChat has ~65M micro-drama viewers monthly (Sankalp Phartiyal/Bloomberg)",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-02/sharechat-india-s-meta-rival-plans-400-million-ipo-next-year",
-      "summary": "Sankalp Phartiyal / Bloomberg: India-based short video app ShareChat's parent company Mohalla Tech plans to raise up to $400M in an IPO in 2027; ShareChat has ~65M micro-drama viewers monthly&nbsp; &m",
+      "title": "SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by 2030 (Min-Jeong Lee/Bloomberg)",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/softbank-launches-ai-cloud-unit-with-plans-to-tap-10-gigawatt-capacity",
+      "summary": "Min-Jeong Lee / Bloomberg: SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by 2030&nbsp; &mdash;&nbsp; S",
       "source": "Techmeme",
-      "time": "33m",
+      "time": "4m",
       "tags": [],
-      "published_at": "2026-07-02T02:05:01+00:00"
+      "published_at": "2026-07-02T11:50:10+00:00"
     },
     {
-      "title": "Amazon's emissions rose 16%+ YoY in 2025, driven by data center construction and delivery fuel, while Google's \"ambition-based\" emissions jumped 18% YoY in 2025 (Bloomberg)",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-01/big-tech-s-carbon-emissions-spike-with-runaway-growth-of-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjkzMjk3MiwiZXhwIjoxNzgzNTM3NzcyLCJhcnRpY2xlSWQiOiJUSElGQkJLSVVQVUMwMCIsImJjb25uZWN0SWQiOiIwOTRFQTUyQzdCQTQ0RDRDQjk1QTNCNDVENDg4RjY1NSJ9.1uq0UK38jkTF2Q0aiMNqqnGiskdqRbIWrqAgPcRgo2k",
-      "summary": "Bloomberg: Amazon's emissions rose 16%+ YoY in 2025, driven by data center construction and delivery fuel, while Google's &ldquo;ambition-based&rdquo; emissions jumped 18% YoY in 2025&nbsp; &mdash;&nb",
+      "title": "Z.ai launches ZCode, an \"Agentic Development Environment\" optimized for its new GLM-5.2 model; Z.ai's GLM Coding Plan costs from $16.20 to $144 per month (Michael Nuñez/VentureBeat)",
+      "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+      "summary": "Michael Nu&ntilde;ez / VentureBeat: Z.ai launches ZCode, an &ldquo;Agentic Development Environment&rdquo; optimized for its new GLM-5.2 model; Z.ai's GLM Coding Plan costs from $16.20 to $144 per mont",
+      "source": "Techmeme",
+      "time": "34m",
+      "tags": [],
+      "published_at": "2026-07-02T11:20:12+00:00"
+    },
+    {
+      "title": "Filings: President Trump purchased up to $5M each in Broadcom, Meta, Amazon, Apple, Microsoft, and Nvidia stocks on July 23, the same day as his AI action plan (New York Times)",
+      "url": "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html?unlocked_article_code=1.uVA.MIkb.09sjYfuX5frT&amp;smid=url-share",
+      "summary": "New York Times: Filings: President Trump purchased up to $5M each in Broadcom, Meta, Amazon, Apple, Microsoft, and Nvidia stocks on July 23, the same day as his AI action plan&nbsp; &mdash;&nbsp; Pres",
+      "source": "Techmeme",
+      "time": "48m",
+      "tags": [],
+      "published_at": "2026-07-02T11:05:22+00:00"
+    },
+    {
+      "title": "Amazon says Leo reached 396 satellites in low-Earth orbit following a recent launch, which is \"enough to support continuous service across initial latitudes\" (Thomas Ricker/The Verge)",
+      "url": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
+      "summary": "Thomas Ricker / The Verge: Amazon says Leo reached 396 satellites in low-Earth orbit following a recent launch, which is &ldquo;enough to support continuous service across initial latitudes&rdquo;&nbs",
+      "source": "Techmeme",
+      "time": "59m",
+      "tags": [],
+      "published_at": "2026-07-02T10:55:00+00:00"
+    },
+    {
+      "title": "German software giant SAP says it is encouraging workers to invent new, more valuable jobs aided by AI, in a bid to avoid layoffs; SAP cut ~10K staff in 2024 (Jim Tankersley/New York Times)",
+      "url": "https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html?unlocked_article_code=1.ulA.FGZt.VxL32ZdmHEsJ&amp;smid=nytcore-ios-share",
+      "summary": "Jim Tankersley / New York Times: German software giant SAP says it is encouraging workers to invent new, more valuable jobs aided by AI, in a bid to avoid layoffs; SAP cut ~10K staff in 2024&nbsp; &md",
       "source": "Techmeme",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-02T01:00:13+00:00"
+      "published_at": "2026-07-02T10:45:01+00:00"
     },
     {
-      "title": "Sources: the White House is in advanced talks with AI companies on voluntary standards and release timelines for new models to be announced as soon as next week (George Hammond/Financial Times)",
-      "url": "https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a",
-      "summary": "George Hammond / Financial Times: Sources: the White House is in advanced talks with AI companies on voluntary standards and release timelines for new models to be announced as soon as next week&nbsp;",
+      "title": "The US DOJ says Peter Stokes, a 19-year-old dual US-Estonian citizen, was extradited from Finland to face charges of participating in Scattered Spider hacks (Joe Warminsky/The Record)",
+      "url": "https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us",
+      "summary": "Joe Warminsky / The Record: The US DOJ says Peter Stokes, a 19-year-old dual US-Estonian citizen, was extradited from Finland to face charges of participating in Scattered Spider hacks&nbsp; &mdash;&n",
+      "source": "Techmeme",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-02T10:25:00+00:00"
+    },
+    {
+      "title": "President Trump says Micron will invest $250M in Trump Accounts; Micron says it will come via an employee matching program and a $250 deposit in some US states (New York Times)",
+      "url": "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html",
+      "summary": "New York Times: President Trump says Micron will invest $250M in Trump Accounts; Micron says it will come via an employee matching program and a $250 deposit in some US states&nbsp; &mdash;&nbsp; Pres",
+      "source": "Techmeme",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-02T10:10:00+00:00"
+    },
+    {
+      "title": "Cloudflare sets a September 15 deadline for AI companies to differentiate their web crawlers into search, AI training, and AI agents or face being blocked (Samantha Elkins/NBC News)",
+      "url": "https://www.nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446",
+      "summary": "Samantha Elkins / NBC News: Cloudflare sets a September 15 deadline for AI companies to differentiate their web crawlers into search, AI training, and AI agents or face being blocked&nbsp; &mdash;&nbs",
+      "source": "Techmeme",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-02T10:00:00+00:00"
+    },
+    {
+      "title": "Germany-based Quantum Systems, which sells surveillance drones used by Ukraine, raised $1.2B led by Blackstone, Noteus, Airbus, and Advent at an ~$8B valuation (Yazhou Sun/Bloomberg)",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/quantum-systems-more-than-doubles-valuation-to-8-billion-in-new-round",
+      "summary": "Yazhou Sun / Bloomberg: Germany-based Quantum Systems, which sells surveillance drones used by Ukraine, raised $1.2B led by Blackstone, Noteus, Airbus, and Advent at an ~$8B valuation&nbsp; &mdash;&nb",
       "source": "Techmeme",
       "time": "2h",
       "tags": [],
-      "published_at": "2026-07-02T00:05:01+00:00"
+      "published_at": "2026-07-02T09:50:04+00:00"
     },
     {
-      "title": "Bending Spoons, which owns Vimeo and AOL, closed up 40% in its US market debut on Wednesday at a $25.7B valuation, after raising $1.68B in its IPO (Bloomberg)",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-01/aol-owner-bending-spoons-jumps-6-9-after-1-68-billion-ipo",
-      "summary": "Bloomberg: Bending Spoons, which owns Vimeo and AOL, closed up 40% in its US market debut on Wednesday at a $25.7B valuation, after raising $1.68B in its IPO&nbsp; &mdash;&nbsp; Bending Spoons SpA sha",
+      "title": "An interview with Amazon SVP of Devices Panos Panay on designing custom chips for Echo and Fire TV devices, experimenting with AI-enabled gadgets, and more (Arjun Kharpal/CNBC)",
+      "url": "https://www.cnbc.com/2026/07/02/amazon-ai-chips-devices.html",
+      "summary": "Arjun Kharpal / CNBC: An interview with Amazon SVP of Devices Panos Panay on designing custom chips for Echo and Fire TV devices, experimenting with AI-enabled gadgets, and more&nbsp; &mdash;&nbsp; Am",
       "source": "Techmeme",
       "time": "2h",
       "tags": [],
-      "published_at": "2026-07-01T23:50:05+00:00"
+      "published_at": "2026-07-02T08:55:01+00:00"
     },
     {
-      "title": "Higharc, which uses AI to assist house builders in design and construction, raised a $95M Series C led by Insight Partners, bringing its total funding to $170M+ (Lauren Ohnesorge/Triangle Business ...)",
-      "url": "https://www.bizjournals.com/triangle/news/2026/06/30/durham-ai-firm-raises-95m-hires.html?page=all",
-      "summary": "Lauren Ohnesorge / Triangle Business Journal: Higharc, which uses AI to assist house builders in design and construction, raised a $95M Series C led by Insight Partners, bringing its total funding to ",
+      "title": "The European Court of Justice rules that Google's earlier defeat against a €4.1B European Commission penalty over abusing Android market power should stand (Bloomberg)",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/google-loses-eu-court-fight-over-4-1-billion-android-fine",
+      "summary": "Bloomberg: The European Court of Justice rules that Google's earlier defeat against a &euro;4.1B European Commission penalty over abusing Android market power should stand&nbsp; &mdash;&nbsp; Google l",
       "source": "Techmeme",
       "time": "3h",
       "tags": [],
-      "published_at": "2026-07-01T22:55:01+00:00"
+      "published_at": "2026-07-02T08:40:03+00:00"
     },
     {
-      "title": "Lime's shares closed up 4% in its Nasdaq debut on Wednesday, valuing the company at ~$1.7B, after Lime and existing stockholders raised ~$174M in its US IPO (Reuters)",
-      "url": "https://www.reuters.com/business/finance/uber-backed-limes-shares-rise-nasdaq-debut-2026-07-01/",
-      "summary": "Reuters: Lime's shares closed up 4% in its Nasdaq debut on Wednesday, valuing the company at ~$1.7B, after Lime and existing stockholders raised ~$174M in its US IPO&nbsp; &mdash;&nbsp; Uber-backed (U",
+      "title": "A look at the CSOP SK Hynix Leveraged ETF, which trades in Hong Kong and has ballooned into a $13B fund, becoming the world's largest single-stock leveraged ETF (Bloomberg)",
+      "url": "https://www.bloomberg.com/news/features/2026-07-01/how-a-13-billion-leveraged-etf-drives-volatility-in-a-key-ai-memory-stock?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mjk3MjQ3NywiZXhwIjoxNzgzNTc3Mjc3LCJhcnRpY2xlSWQiOiJUSElMMEtLSVAzSjQwMCIsImJjb25uZWN0SWQiOiI0NjFFOUQ2MTU1RDM0RjcxOTZBMTk0OTg2MTk3NUM3OSJ9.HYRyAigt2YC00yG9q9og2BqrLqTXjRC0cfIGETIxIrQ",
+      "summary": "Bloomberg: A look at the CSOP SK Hynix Leveraged ETF, which trades in Hong Kong and has ballooned into a $13B fund, becoming the world's largest single-stock leveraged ETF&nbsp; &mdash;&nbsp; A Hong K",
       "source": "Techmeme",
-      "time": "4h",
+      "time": "3h",
       "tags": [],
-      "published_at": "2026-07-01T21:50:01+00:00"
+      "published_at": "2026-07-02T08:30:04+00:00"
     },
     {
-      "title": "Sources: Apple is working on new iPad Pros and an entry-level 14\" MacBook Pro with a new design in line with the upcoming touch-screen laptops for H1 2027 (Mark Gurman/Bloomberg)",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-01/apple-readies-new-ipad-pro-redesigned-entry-macbook-pro-for-first-half-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjkzOTExOCwiZXhwIjoxNzgzNTQzOTE4LCJhcnRpY2xlSWQiOiJUSDM4SjhUOTZPU0owMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.Whw0tQOHQJ2qtIH7i1qAWNRHVT-TVl8Tyx5zr-AmQbs",
-      "summary": "Mark Gurman / Bloomberg: Sources: Apple is working on new iPad Pros and an entry-level 14\" MacBook Pro with a new design in line with the upcoming touch-screen laptops for H1 2027&nbsp; &mdash;&nbsp; ",
-      "source": "Techmeme",
-      "time": "5h",
-      "tags": [],
-      "published_at": "2026-07-01T21:26:25+00:00"
-    },
-    {
-      "title": "Alibaba and its US payment processor AUS agree to pay $600M to resolve DOJ allegations that they failed to prevent illegal sales of drugs and other products (Reuters)",
-      "url": "https://www.reuters.com/world/alibaba-aus-merchant-services-pay-600-million-resolve-alleged-illegal-2026-07-01/",
-      "summary": "Reuters: Alibaba and its US payment processor AUS agree to pay $600M to resolve DOJ allegations that they failed to prevent illegal sales of drugs and other products&nbsp; &mdash;&nbsp; Chinese techno",
+      "title": "A survey of US adults finds 56% support banning social media for under-16s, while 21% oppose; majorities across demographic and partisan groups support a ban (Pew Research Center)",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/01/majority-of-americans-support-banning-social-media-for-kids-under-16/",
+      "summary": "Pew Research Center: A survey of US adults finds 56% support banning social media for under-16s, while 21% oppose; majorities across demographic and partisan groups support a ban&nbsp; &mdash;&nbsp; N",
       "source": "Techmeme",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-01T20:55:01+00:00"
+      "published_at": "2026-07-02T06:30:01+00:00"
     },
     {
-      "title": "Sources: SoftBank has reopened talks for a $10B loan backed by its OpenAI stake and is offering to guarantee repayment if OpenAI collateral proves insufficient (Echo Wang/Reuters)",
-      "url": "https://www.reuters.com/legal/transactional/softbank-renews-talks-10-billion-loan-against-openai-stake-adds-concessions-2026-07-01/",
-      "summary": "Echo Wang / Reuters: Sources: SoftBank has reopened talks for a $10B loan backed by its OpenAI stake and is offering to guarantee repayment if OpenAI collateral proves insufficient&nbsp; &mdash;&nbsp;",
+      "title": "Nansen: about two-thirds of Trump's memecoin investors are currently in the red, and 85% of World Liberty's $WLFI buyers on the secondary market are underwater (Wall Street Journal)",
+      "url": "https://www.wsj.com/finance/currencies/trump-made-1-billion-on-crypto-deals-while-his-fans-lost-a-fortune-408754c9?st=EqVyz4&amp;reflink=desktopwebshare_permalink",
+      "summary": "Wall Street Journal: Nansen: about two-thirds of Trump's memecoin investors are currently in the red, and 85% of World Liberty's $WLFI buyers on the secondary market are underwater&nbsp; &mdash;&nbsp;",
       "source": "Techmeme",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-01T20:40:03+00:00"
+      "published_at": "2026-07-02T06:00:43+00:00"
     },
     {
-      "title": "Alex Karp calls US reliance on AI labs for military tech \"effing insane\", pans AI fees for businesses, and touts Palantir's Nvidia Nemotron deal for US agencies (Ty Roush/Forbes)",
-      "url": "https://www.forbes.com/sites/tylerroush/2026/07/01/palantir-billionaire-alex-karp-calls-ai-industry-effing-insane-in-heated-interview/",
-      "summary": "Ty Roush / Forbes: Alex Karp calls US reliance on AI labs for military tech &ldquo;effing insane&rdquo;, pans AI fees for businesses, and touts Palantir's Nvidia Nemotron deal for US agencies&nbsp; &m",
+      "title": "UK lawyers say the tide of AI-assisted employment claims is straining an already overloaded employment tribunal system, whose backlog has doubled in two years (Delphine Strauss/Financial Times)",
+      "url": "https://www.ft.com/content/f2b02e7d-c3ca-42d0-a575-ea1f62550900",
+      "summary": "Delphine Strauss / Financial Times: UK lawyers say the tide of AI-assisted employment claims is straining an already overloaded employment tribunal system, whose backlog has doubled in two years&nbsp;",
       "source": "Techmeme",
       "time": "6h",
       "tags": [],
-      "published_at": "2026-07-01T19:50:02+00:00"
-    },
-    {
-      "title": "Sources: SpaceX showed investors a handset-like device prototype with AI tech from xAI, a proprietary OS, a Snapdragon chip, and a design slimmer than an iPhone (Wall Street Journal)",
-      "url": "https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b?st=z9P7nX&amp;reflink=desktopwebshare_permalink",
-      "summary": "Wall Street Journal: Sources: SpaceX showed investors a handset-like device prototype with AI tech from xAI, a proprietary OS, a Snapdragon chip, and a design slimmer than an iPhone&nbsp; &mdash;&nbsp",
-      "source": "Techmeme",
-      "time": "8h",
-      "tags": [],
-      "published_at": "2026-07-01T18:13:01+00:00"
-    },
-    {
-      "title": "Sources: Microsoft has been working on a disc-to-digital feature for Xbox One and Xbox Series X that will let users digitize their physical game collections (Tom Warren/The Verge)",
-      "url": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjRmOEljak1IR1IiLCJwIjoiL3JlcG9ydC85NjAxNzMvbWljcm9zb2Z0LXhib3gtZGlzYy10by1kaWdpdGFsLWZlYXR1cmUtcGh5c2ljYWwtZ2FtZS1jb2xsZWN0aW9uIiwiZXhwIjoxNzgzMzU5Njk2LCJpYXQiOjE3ODI5Mjc2OTZ9.oIfTRukq2XbJkjjtGK4EYmJ6Qm5KXSejNZwdcWqWf9U&amp;utm_medium=gift-link",
-      "summary": "Tom Warren / The Verge: Sources: Microsoft has been working on a disc-to-digital feature for Xbox One and Xbox Series X that will let users digitize their physical game collections&nbsp; &mdash;&nbsp;",
-      "source": "Techmeme",
-      "time": "8h",
-      "tags": [],
-      "published_at": "2026-07-01T18:05:01+00:00"
-    },
-    {
-      "title": "Venice AI, which offers access to 200+ AI models while allowing users to retain their privacy, raised a $65M Series A led by Dragonfly at a $1B valuation (Ram Iyer/TechCrunch)",
-      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "summary": "Ram Iyer / TechCrunch: Venice AI, which offers access to 200+ AI models while allowing users to retain their privacy, raised a $65M Series A led by Dragonfly at a $1B valuation&nbsp; &mdash;&nbsp; Con",
-      "source": "Techmeme",
-      "time": "10h",
-      "tags": [],
-      "published_at": "2026-07-01T16:20:02+00:00"
-    },
-    {
-      "title": "Meta names Chief Marketing Officer Alex Schultz as its first-ever chief data officer, to manage AI analytics across the company, and names Denise Moreno as CMO (Sara Fischer/Axios)",
-      "url": "https://www.axios.com/2026/07/01/meta-alex-schultz-chief-data-officer",
-      "summary": "Sara Fischer / Axios: Meta names Chief Marketing Officer Alex Schultz as its first-ever chief data officer, to manage AI analytics across the company, and names Denise Moreno as CMO&nbsp; &mdash;&nbsp",
-      "source": "Techmeme",
-      "time": "10h",
-      "tags": [],
-      "published_at": "2026-07-01T15:40:01+00:00"
-    },
-    {
-      "title": "Uber dismissed two leaders at its AI data labeling business as part of a broader leadership transition at the unit, which it says is \"seeing strong momentum\" (Natalie Lung/Bloomberg)",
-      "url": "https://www.techmeme.com/260701/p33#a260701p33",
-      "summary": "Natalie Lung / Bloomberg: Uber dismissed two leaders at its AI data labeling business as part of a broader leadership transition at the unit, which it says is &ldquo;seeing strong momentum&rdquo;&nbsp",
-      "source": "Techmeme",
-      "time": "11h",
-      "tags": [],
-      "published_at": "2026-07-01T14:50:02+00:00"
+      "published_at": "2026-07-02T05:50:03+00:00"
     }
   ]
 }

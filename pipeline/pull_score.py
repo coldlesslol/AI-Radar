@@ -66,6 +66,11 @@ _AI_DEDICATED = {
     "TLDR AI", "Import AI", "Latent Space", "SemiAnalysis",
     "arXiv AI", "Product Hunt", "VentureBeat", "The Verge",
     "Techmeme", "Benedict Evans", "The Batch",
+    # P1 企业动态（Google News 搜索已限定为 AI 公司相关）
+    "智谱AI", "月之暗面", "百度AI", "字节豆包", "MiniMax",
+    "Mistral", "Runway", "Cohere",
+    # P3 分析机构（专注 AI 深度分析）
+    "ARK Invest", "Interconnects", "Ahead of AI",
 }
 # 关键词（标题或摘要含任意一个即通过，小写匹配）
 _AI_KW = {
@@ -98,6 +103,7 @@ def _is_ai_related(source_label: str, title: str, summary: str) -> bool:
 def load_news_items() -> list[dict]:
     # 动态加载 data/ 下所有新闻/社区/研究类 JSON（非 digest/stocks/rankings/index）
     SKIP = {"digest.json", "stocks.json", "_index.json", "pinned.json", "archive.json",
+            "filings.json",
             "rankings_openrouter.json", "github_trending.json", "huggingface_trending.json"}
     cutoff = datetime.now(timezone.utc) - timedelta(days=NEWS_MAX_AGE_DAYS)
     items = []

@@ -57,10 +57,8 @@ header { display: flex; align-items: center; justify-content: space-between; mar
   --c-supply:   #ea580c; --c-supply-bg:   #fff7ed;
 }
 
-/* News cards grid */
-.cards-grid { display: grid; gap: 10px; grid-template-columns: 1fr; }
-@media(min-width:700px) { .cards-grid { grid-template-columns: repeat(2,1fr); } }
-@media(min-width:1060px) { .cards-grid { grid-template-columns: repeat(3,1fr); } }
+/* News cards grid — 固定 3 列，最多 15 张 */
+.cards-grid { display: grid; gap: 10px; grid-template-columns: repeat(3, 1fr); }
 
 .news-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 13px 14px 11px; display: flex; flex-direction: column; gap: 6px; transition: border-color 0.12s, box-shadow 0.12s; position: relative; border-left-width: 3px; }
 .news-card:hover { border-color: var(--border-hover); box-shadow: 0 2px 6px rgba(0,0,0,0.06); }
@@ -106,6 +104,13 @@ header { display: flex; align-items: center; justify-content: space-between; mar
 .rank-link:hover { text-decoration: underline; }
 .entry-desc { font-size: 11.5px; color: var(--text-secondary); }
 .entry-desc li { padding: 2px 0; }
+
+/* Filings chips */
+.filings-wrap { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
+.filing-chip { display: inline-flex; align-items: center; gap: 7px; padding: 6px 12px; border: 1px solid var(--border); border-radius: 20px; font-size: 12px; color: var(--text-secondary); text-decoration: none; background: var(--surface); transition: border-color 0.12s, box-shadow 0.12s; }
+.filing-chip:hover { border-color: var(--border-hover); box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+.filing-form { font-size: 9.5px; font-weight: 700; background: #eff6ff; color: #1d4ed8; padding: 1px 5px; border-radius: 3px; }
+.filing-date { font-size: 10.5px; color: var(--text-muted); }
 
 /* Stocks */
 .stocks-grid { display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); margin-bottom: 16px; }
@@ -230,7 +235,9 @@ header { position: relative; overflow: hidden; }
 <!-- Tab 3: 投融资 & 二级 -->
 <div class="tab-panel" id="tab-invest">
   <div id="investGrid" class="cards-grid"></div>
-  <div class="section-head" style="margin-top:24px"><span class="section-icon">📈</span><span class="section-title">AI 核心标的</span><span class="section-sub">美 / A / 港 · 30 天收盘</span><span class="live-dot">日更</span></div>
+  <div class="section-head" style="margin-top:24px"><span class="section-icon">📋</span><span class="section-title">最新财报</span><span class="section-sub">美股 SEC · 季报/年报直链</span></div>
+  <div id="filingsWrap" class="filings-wrap"></div>
+  <div class="section-head" style="margin-top:16px"><span class="section-icon">📈</span><span class="section-title">AI 核心标的</span><span class="section-sub">美 / A / 港 · 30 天收盘</span><span class="live-dot">日更</span></div>
   <div id="stocksGrid" class="stocks-grid"></div>
 </div>
 
@@ -324,6 +331,7 @@ let GITHUB_TRENDING = {};
 let HF_TRENDING = {};
 let PINNED   = { items: [] }; // pinned.json（重要新闻，保留14天）
 let ARCHIVE  = { items: [] }; // archive.json（30天历史归档）
+let FILINGS  = { items: [] }; // filings.json（美股 SEC 财报链接）
 
 // ── 卡片渲染 ──────────────────────────────────────────────────────────────
 function newsCard(item) {
@@ -587,6 +595,10 @@ async function loadData() {
     try { ARCHIVE = await getJSON('../data/archive.json'); } catch(e) {}
   }
 
+  // Filings（美股 SEC 财报直链）
+  FILINGS = { items: [] };
+  try { FILINGS = await getJSON('../data/filings.json'); } catch(e) {}
+
   const errBox = document.getElementById('errBox');
   if (errs.length) { errBox.style.display='block'; errBox.textContent = '⚠️ 部分数据加载失败：'+errs.join('；'); }
   else { errBox.style.display='none'; }
@@ -642,6 +654,22 @@ function renderArchive() {
     </a>`;
   }
   el.innerHTML = html;
+}
+
+// ── 财报渲染 ──────────────────────────────────────────────────────────────
+function renderFilings() {
+  const el = document.getElementById('filingsWrap');
+  if (!el) return;
+  const items = FILINGS.items || [];
+  if (!items.length) { el.innerHTML = '<p class="empty-tip">暂无财报数据，明日管线运行后自动更新</p>'; return; }
+  el.innerHTML = items.map(f => {
+    const co = (f.company || f.ticker || '').split(' ')[0];
+    return `<a class="filing-chip" href="${esc(f.url)}" target="_blank" rel="noopener">
+      <span class="filing-form">${esc(f.form)}</span>
+      <span>${esc(f.ticker)} · ${esc(co)}</span>
+      <span class="filing-date">${esc((f.date||'').slice(0,10))}</span>
+    </a>`;
+  }).join('');
 }
 
 // ── Ticker ────────────────────────────────────────────────────────────────
@@ -708,6 +736,7 @@ function renderAll() {
   renderGrid('investGrid', investItems);
   document.getElementById('cntInvest').textContent = investItems.length + STOCKS.length;
 
+  renderFilings();
   renderArchive();
   renderSources();
 

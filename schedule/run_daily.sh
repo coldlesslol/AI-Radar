@@ -1,6 +1,6 @@
 #!/bin/bash
 # TechRadar 每日全量数据更新
-# 顺序：OpenRouter 榜单 → RSS 新闻 → 股票 → Claude 打分摘要
+# 顺序：OpenRouter 榜单 → RSS 新闻 → 股票 → SEC 财报 → Claude 打分摘要
 # 用法：bash schedule/run_daily.sh（从项目根目录执行）
 
 set -euo pipefail
@@ -23,9 +23,10 @@ log "2/4 RSS 新闻（Techmeme / 量子位 / HN）..."
 log "3/4 股票数据..."
 "$PYTHON" pull_stocks.py
 
-log "4/4 GitHub Trending + HuggingFace..."
+log "4/5 GitHub Trending + HuggingFace + SEC 财报..."
 "$PYTHON" pull_github_trending.py
 "$PYTHON" pull_huggingface.py
+"$PYTHON" pull_filings.py
 
 log "5/5 Claude 打分 + 中文摘要..."
 "$PYTHON" pull_score.py

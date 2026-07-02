@@ -1,0 +1,117 @@
+{
+  "updated": "2026-07-02T19:57:16+08:00",
+  "items": [
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "form": "10-Q",
+      "date": "2026-06-09",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001730168&type=10-Q&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "form": "10-Q",
+      "date": "2026-05-20",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810&type=10-Q&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "form": "10-Q",
+      "date": "2026-05-06",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000002488&type=10-Q&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "form": "10-Q",
+      "date": "2026-04-30",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652044&type=10-Q&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "form": "10-Q",
+      "date": "2026-04-30",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724&type=10-Q&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "META",
+      "company": "Meta",
+      "form": "10-Q",
+      "date": "2026-04-30",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001326801&type=10-Q&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "form": "10-Q",
+      "date": "2026-04-29",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789019&type=10-Q&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "form": "10-Q",
+      "date": "2026-04-23",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001318605&type=10-Q&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "form": "10-K",
+      "date": "2026-02-25",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810&type=10-K&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "form": "10-K",
+      "date": "2026-02-06",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724&type=10-K&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "form": "10-K",
+      "date": "2026-02-05",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652044&type=10-K&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "form": "10-K",
+      "date": "2026-02-04",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000002488&type=10-K&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "META",
+      "company": "Meta",
+      "form": "10-K",
+      "date": "2026-01-29",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001326801&type=10-K&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "form": "10-K",
+      "date": "2026-01-29",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001318605&type=10-K&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "form": "10-K",
+      "date": "2025-12-18",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001730168&type=10-K&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "form": "10-K",
+      "date": "2025-07-30",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789019&type=10-K&dateb=&owner=include&count=1"
+    }
+  ]
+}

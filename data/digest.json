@@ -1,86 +1,144 @@
 {
-  "updated": "2026-07-02T12:53:58+08:00",
-  "total": 29,
-  "deduped_from": 151,
+  "updated": "2026-07-02T20:06:17+08:00",
+  "total": 46,
+  "deduped_from": 186,
   "stats": {
-    "high_relevance": 5,
-    "mid_relevance": 20,
-    "low_relevance": 4,
-    "multi_source": 6
+    "high_relevance": 8,
+    "mid_relevance": 33,
+    "low_relevance": 5,
+    "multi_source": 10
   },
   "items": [
     {
-      "_id": "Ars Technica_0",
-      "_source": "Ars Technica",
-      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-      "time": "12h",
-      "published_at": "2026-07-01T16:44:18+00:00",
+      "_id": "智谱AI_1",
+      "_source": "智谱AI",
+      "title": "消息称智谱AI最新GLM 5.2开源模型性能比肩Anthropic的Opus 4.8 - 光通信Pro",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nbGRuRE1lS0F4NUZKS3NhZDd1ZW5VSUZFOTh0RFk3el96RFdqZ0w1emZlRVk4T0ZxcHVPa19EZnlXWmEwOFU2VUdOcGlCV3NnV2dNbWFn?oc=5",
+      "time": "2d",
+      "published_at": "2026-06-29T14:18:04+00:00",
       "sources": [
-        "Ars Technica",
+        "智谱AI",
+        "Techmeme",
+        "HN",
+        "雷峰网",
+        "联合早报"
+      ],
+      "source_count": 5,
+      "relevance_score": 1.0,
+      "category": "模型发布",
+      "summary_cn": "智谱发布并全面开放开源大模型 GLM-5.2，性能比肩 Anthropic Opus 4.8、被富瑞评为全球第三，漏洞挖掘等能力逼近美国前沿模型引发美政府对开放权重滥用的担忧；同时推出配套的 ZCode 智能开发环境（ADE）与 GLM Coding 订阅计划，被视为又一次'DeepSeek 时刻'。"
+    },
+    {
+      "_id": "月之暗面_7",
+      "_source": "月之暗面",
+      "title": "月之暗面Kimi估值升至315亿美元，ARR突破3亿美元，API收入增长400% - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUxmUjRCX2c0dy0zSUFCRTUtcWRHa2VnNDZ3bXpvT3hFc3JkaEozTmxISFV1TXNwZzdCZkdWbk10MHI0Y05RalVOczBFNVlzOHdxUm9DbXlweVVvQ2l2STJVaVdja3hheFpNd0hwVGFVMHFNV1gydUZQX2ZDTloyaWhLMENGMUxEV0dQWQ?oc=5",
+      "time": "2d",
+      "published_at": "2026-06-30T08:04:27+00:00",
+      "sources": [
+        "新浪财经",
+        "搜狐网",
+        "36氪",
+        "电子工程专辑",
+        "InfoQ"
+      ],
+      "source_count": 5,
+      "relevance_score": 1.0,
+      "category": "融资并购",
+      "summary_cn": "月之暗面 Kimi 半年累计融资超 39 亿美元，投前估值升至 315 亿美元，ARR 突破 3 亿美元、API 收入同比增长 400%，并以'不靠低价'的姿态加速出海对标海外头部模型厂商。"
+    },
+    {
+      "_id": "The Verge_2",
+      "_source": "The Verge",
+      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "time": "1d",
+      "published_at": "2026-07-01T00:03:55+00:00",
+      "sources": [
         "The Verge",
-        "Latent Space",
+        "Ars Technica",
         "TLDR AI",
+        "Latent Space",
         "Product Hunt"
       ],
       "source_count": 5,
       "relevance_score": 1.0,
       "category": "模型发布",
-      "summary_cn": "Anthropic 发布 Claude Sonnet 5，此前被美国政府叫停的 Fable 5 也在与特朗普政府完成安全测试谈判后获批解禁并面向全球开放，标志顶级闭源模型可获得性恢复。"
+      "summary_cn": "Anthropic 与特朗普政府就安全测试完成谈判后，此前被搁置的 Fable 5 获准恢复发布，Claude Sonnet 5 同步上线，前沿模型恢复全球供应。"
     },
     {
-      "_id": "雷峰网_2",
-      "_source": "雷峰网",
-      "title": "曝美国最强AI公司暗藏针对中国的「监视代码」，已持续3个月；优必选CEO：珍惜做牛马的时光，20年后全是机器人干活；iPhone17价格将迎调整",
-      "url": "https://www.leiphone.com/category/zaobao/8xIKNxdh5DASn0Tj.html",
-      "time": "3h",
-      "published_at": "2026-07-02T00:52:00+00:00",
+      "_id": "字节豆包_5",
+      "_source": "字节豆包",
+      "title": "2026年6月24日，字节跳动AI助手豆包推出专业版订阅服务 - 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ybm12c0V3QnE2SDI5RklEb19HdHRiYkVDSGJJbHV3ZThCUXRsX0JWdEdMNXhXMFpEeGZoamJrQ2c3X0RLR1RVSVRlNC1CT3UxaWJHdQ?oc=5",
+      "time": "3d",
+      "published_at": "2026-06-28T22:50:00+00:00",
       "sources": [
-        "雷峰网",
+        "虎嗅",
         "36氪",
-        "Ars Technica",
-        "钛媒体"
+        "证券时报",
+        "21财经",
+        "DoNews"
       ],
-      "source_count": 4,
-      "relevance_score": 0.96,
-      "category": "行业动态",
-      "summary_cn": "Anthropic 被曝在 Claude 中暗藏针对中国用户的检测/封号代码（官方称为防模型蒸馏），并指控阿里巴巴用 2.5 万个账号、2880 万次对话实施最大规模 Claude 克隆，蒸馏之争从灰色地带升级为巨头全面博弈。"
+      "source_count": 5,
+      "relevance_score": 1.0,
+      "category": "产品动态",
+      "summary_cn": "字节跳动 AI 助手豆包推出专业版付费订阅，正式开启商业化并全面押注 To B，直面算力成本、定价与商业化博弈；旗下视频模型 Seedance 商业化吸金表现亮眼。"
     },
     {
-      "_id": "Techmeme_0",
-      "_source": "Techmeme",
-      "title": "Sources: OpenAI has discussed giving a 5% stake to the US government as the company seeks to clear political obstacles by securing buy-in from the Trump admin (Financial Times)",
-      "url": "https://www.techmeme.com/260702/p1#a260702p1",
-      "time": "26m",
-      "published_at": "2026-07-02T04:20:01+00:00",
+      "_id": "Ars Technica_11",
+      "_source": "Ars Technica",
+      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "time": "6d",
+      "published_at": "2026-06-25T18:01:48+00:00",
       "sources": [
-        "Techmeme",
+        "Ars Technica",
+        "雷峰网",
+        "钛媒体",
         "36氪"
       ],
-      "source_count": 2,
-      "relevance_score": 0.93,
+      "source_count": 4,
+      "relevance_score": 1.0,
       "category": "行业动态",
-      "summary_cn": "据报道 OpenAI 已与美国政府初步商谈，提议向政府让出约 5% 股权以换取政策支持、缓解监管与政治阻力。"
+      "summary_cn": "Anthropic 指控阿里巴巴用约 2.5 万个账号、2880 万次对话大规模'克隆'Claude 并要求处罚；同时被曝为防模型蒸馏而暗藏针对中国用户的检测/封号代码，官方称将在更新中移除，引发'AI 大厂互相设防'的讨论。"
     },
     {
-      "_id": "The Verge_9",
-      "_source": "The Verge",
-      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "time": "3d",
-      "published_at": "2026-06-28T21:42:51+00:00",
+      "_id": "HN_0",
+      "_source": "HN",
+      "title": "Meta building cloud business to sell excess AI capacity",
+      "url": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
+      "time": "1h",
+      "published_at": "2026-07-02T10:43:41+00:00",
       "sources": [
-        "The Verge",
-        "雷峰网",
-        "HN"
+        "HN(Reuters)",
+        "36氪",
+        "钛媒体"
       ],
       "source_count": 3,
-      "relevance_score": 0.88,
-      "category": "模型发布",
-      "summary_cn": "智谱 Z.ai 发布开源权重模型 GLM-5.2，宣称网络安全能力可比肩 Mythos，在美国限制 Fable 5 调用的背景下成为开发者关注的国产最强替代，并已出现 ZCode 等配套工具。"
+      "relevance_score": 0.96,
+      "category": "算力供应链",
+      "summary_cn": "Meta 计划通过云业务对外出售过剩 AI 算力，引发'AI 算力过剩/基建泡沫'担忧并带崩 A 股科技股；业内人士认为'算力过剩'系误读。"
     },
     {
-      "_id": "MIT Tech Review_2",
+      "_id": "钛媒体_2",
+      "_source": "钛媒体",
+      "title": "推理成本砍掉一半以上，OpenAI摸着DeepSeek过河",
+      "url": "https://www.tmtpost.com/8050492.html",
+      "time": "1h",
+      "published_at": "2026-07-02T10:21:23+00:00",
+      "sources": [
+        "钛媒体",
+        "36氪",
+        "TLDR AI"
+      ],
+      "source_count": 3,
+      "relevance_score": 0.9,
+      "category": "研究技术",
+      "summary_cn": "OpenAI 借鉴 DeepSeek 思路完成系统优化，将模型推理成本削减一半以上，以缓解年亏超 200 亿美元的成本压力。"
+    },
+    {
+      "_id": "MIT Tech Review_3",
       "_source": "MIT Tech Review",
       "title": "Claude Science is Anthropic’s newest flagship product",
       "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
@@ -88,47 +146,61 @@
       "published_at": "2026-06-30T21:50:04+00:00",
       "sources": [
         "MIT Tech Review",
-        "Product Hunt",
         "雷峰网"
       ],
-      "source_count": 3,
+      "source_count": 2,
       "relevance_score": 0.88,
       "category": "产品动态",
-      "summary_cn": "Anthropic 面向药企与科研人员推出旗舰产品 Claude Science 科研智能体工作台，强调不依赖新模型、以工作流整合现有能力，与 OpenAI 同日切入 AI4S 赛道。"
+      "summary_cn": "Anthropic 发布面向科研的旗舰产品 Claude Science（科研智能体工作台），主打'不依赖新模型、以工作流整合现有能力'；同日 OpenAI 亦落子 AI4S，巨头竞争从'拼模型'转向'卡生态'。"
     },
     {
-      "_id": "Latent Space_9",
-      "_source": "Latent Space",
-      "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
-      "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
-      "time": "4d",
-      "published_at": "2026-06-27T05:23:22+00:00",
+      "_id": "雷峰网_13",
+      "_source": "雷峰网",
+      "title": "走访 ICRA 30+中国企业，我们发现具身智能产业三大趋势 | ICRA 2026",
+      "url": "https://www.leiphone.com/category/private/fDotgIuCGA028lZJ.html",
+      "time": "1d",
+      "published_at": "2026-07-01T09:07:00+00:00",
       "sources": [
-        "Latent Space",
-        "TLDR AI"
-      ],
-      "source_count": 2,
-      "relevance_score": 0.78,
-      "category": "模型发布",
-      "summary_cn": "OpenAI 推出 GPT-5.6（Sol/Terra/Luna 分级版本），初期仅向受信任合作伙伴开放；同期 Grok 4.5 进入 beta。"
-    },
-    {
-      "_id": "量子位_6",
-      "_source": "量子位",
-      "title": "卡帕西李飞飞辛顿都投了的Transformer专用芯片，签下10亿美元大单",
-      "url": "https://www.qbitai.com/2026/07/441183.html",
-      "time": "21h",
-      "published_at": "2026-07-01T07:15:29+00:00",
-      "sources": [
+        "雷峰网",
         "量子位"
       ],
-      "source_count": 1,
-      "relevance_score": 0.65,
-      "category": "算力供应链",
-      "summary_cn": "获卡帕西、李飞飞、辛顿投资的 Transformer 专用芯片公司已流片，并签下 10 亿美元大单。"
+      "source_count": 2,
+      "relevance_score": 0.74,
+      "category": "行业动态",
+      "summary_cn": "ICRA 2026 呈现具身智能三大趋势：英伟达选用 Sharpa 灵巧手、他山科技联合图灵奖得主萨顿共建'机器人幼儿园'推动从'模仿'迈向'经验'时代；伯克利 Ken Goldberg 警示具身数据规模严重不足，世界模型训练开始从人类肌肉与神经中'偷师'新数据范式。"
     },
     {
-      "_id": "Ars Technica_5",
+      "_id": "HN_1",
+      "_source": "HN",
+      "title": "Nvidia offers startup customers chance to swap compute power for revenue share",
+      "url": "https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html",
+      "time": "1h",
+      "published_at": "2026-07-02T10:41:33+00:00",
+      "sources": [
+        "HN(CNBC)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.72,
+      "category": "算力供应链",
+      "summary_cn": "英伟达拟向初创客户提供'以算力换营收分成'的新合作模式，降低初创企业的算力获取门槛。"
+    },
+    {
+      "_id": "Techmeme_0",
+      "_source": "Techmeme",
+      "title": "SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by 2030 (Min-Jeong Lee/Bloomberg)",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/softbank-launches-ai-cloud-unit-with-plans-to-tap-10-gigawatt-capacity",
+      "time": "4m",
+      "published_at": "2026-07-02T11:50:10+00:00",
+      "sources": [
+        "Techmeme(Bloomberg)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.72,
+      "category": "算力供应链",
+      "summary_cn": "软银及其电信子公司成立 SB Neo，向大型企业提供 AI 芯片与云服务，计划到 2030 年在美国提供 10GW 算力。"
+    },
+    {
+      "_id": "Ars Technica_6",
       "_source": "Ars Technica",
       "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
       "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
@@ -138,174 +210,115 @@
         "Ars Technica"
       ],
       "source_count": 1,
-      "relevance_score": 0.65,
+      "relevance_score": 0.72,
       "category": "算力供应链",
-      "summary_cn": "韩国计划投入约 1 万亿美元扩产存储芯片并发展人形机器人，目标 2028 年前实现物理 AI 领先与商用人形机器人。"
-    },
-    {
-      "_id": "36氪_19",
-      "_source": "36氪",
-      "title": "英伟达为GPU采购提供融资支持，并从云计算收入中抽取一定比例分成",
-      "url": "https://36kr.com/newsflashes/3877951264239877?f=rss",
-      "time": "1h",
-      "published_at": "2026-07-02T03:36:01+00:00",
-      "sources": [
-        "36氪"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.6,
-      "category": "算力供应链",
-      "summary_cn": "英伟达为客户 GPU 采购提供融资支持，并从相关云计算收入中抽取一定比例分成。"
-    },
-    {
-      "_id": "Ars Technica_11",
-      "_source": "Ars Technica",
-      "title": "IBM claims world’s first sub-1 nanometer chip technology",
-      "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
-      "time": "6d",
-      "published_at": "2026-06-25T10:00:55+00:00",
-      "sources": [
-        "Ars Technica"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.6,
-      "category": "算力供应链",
-      "summary_cn": "IBM 宣称实现全球首个亚 1 纳米芯片技术，其 nanostack 晶体管有望提升芯片性能或能效。"
-    },
-    {
-      "_id": "36氪_11",
-      "_source": "36氪",
-      "title": "巨人网络参投VAST新一轮超10亿元融资，",
-      "url": "https://36kr.com/newsflashes/3878007026249990?f=rss",
-      "time": "14m",
-      "published_at": "2026-07-02T04:32:44+00:00",
-      "sources": [
-        "36氪"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.6,
-      "category": "融资并购",
-      "summary_cn": "AI 3D 大模型与通用世界模型公司 VAST（三启万物）完成超 10 亿元 A3 战略轮融资，巨人网络参投，一个月内连续大额融资。"
-    },
-    {
-      "_id": "Techmeme_7",
-      "_source": "Techmeme",
-      "title": "Sources: the White House is in advanced talks with AI companies on voluntary standards and release timelines for new models to be announced as soon as next week (George Hammond/Financial Times)",
-      "url": "https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a",
-      "time": "4h",
-      "published_at": "2026-07-02T00:05:01+00:00",
-      "sources": [
-        "Techmeme"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.6,
-      "category": "行业动态",
-      "summary_cn": "白宫据称正与多家 AI 公司深入商谈新模型发布的自愿标准与发布时间表，最快下周公布。"
-    },
-    {
-      "_id": "Techmeme_13",
-      "_source": "Techmeme",
-      "title": "Sources: SoftBank has reopened talks for a $10B loan backed by its OpenAI stake and is offering to guarantee repayment if OpenAI collateral proves insufficient (Echo Wang/Reuters)",
-      "url": "https://www.reuters.com/legal/transactional/softbank-renews-talks-10-billion-loan-against-openai-stake-adds-concessions-2026-07-01/",
-      "time": "8h",
-      "published_at": "2026-07-01T20:40:03+00:00",
-      "sources": [
-        "Techmeme"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.6,
-      "category": "融资并购",
-      "summary_cn": "软银重启以其 OpenAI 股权为抵押的 100 亿美元贷款谈判，并提出在抵押不足时提供还款担保。"
+      "summary_cn": "韩国计划投入 1 万亿美元扩建存储芯片产能并发展人形机器人，目标 2028 年前实现物理 AI 领先与商用人形机器人落地。"
     },
     {
       "_id": "量子位_0",
       "_source": "量子位",
-      "title": "具身智能Skill时刻！英伟达开源机器人技能库，Jim Fan：范式变了",
-      "url": "https://www.qbitai.com/2026/07/441396.html",
-      "time": "19h",
-      "published_at": "2026-07-01T09:33:05+00:00",
+      "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
+      "url": "https://www.qbitai.com/2026/07/442047.html",
+      "time": "58m",
+      "published_at": "2026-07-02T10:56:23+00:00",
       "sources": [
         "量子位"
       ],
       "source_count": 1,
-      "relevance_score": 0.6,
-      "category": "研究技术",
-      "summary_cn": "英伟达开源机器人技能库，Jim Fan 称这是一种全新的持续学习范式，标志具身智能训练方式转变。"
-    },
-    {
-      "_id": "HN_0",
-      "_source": "HN",
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "url": "https://senior-swe-bench.snorkel.ai/",
-      "time": "1h",
-      "published_at": "2026-07-02T02:55:16+00:00",
-      "sources": [
-        "HN"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.6,
-      "category": "研究技术",
-      "summary_cn": "Snorkel 推出开源基准 Senior SWE-Bench，以资深工程师标准评估编码 Agent 的能力。"
-    },
-    {
-      "_id": "36氪_7",
-      "_source": "36氪",
-      "title": "硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈",
-      "url": "https://36kr.com/p/3877057215393793?f=rss",
-      "time": "16h",
-      "published_at": "2026-07-01T12:27:18+00:00",
-      "sources": [
-        "36氪"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "算力供应链",
-      "summary_cn": "清华系硅基光子企业「灵动芯光」完成数千万元天使++轮融资，聚焦芯片间光互联技术以突破 AI 算力瓶颈。"
-    },
-    {
-      "_id": "钛媒体_13",
-      "_source": "钛媒体",
-      "title": "踩着物理AI的风口，Momenta冲刺IPO",
-      "url": "https://www.tmtpost.com/8049748.html",
-      "time": "2h",
-      "published_at": "2026-07-02T01:54:37+00:00",
-      "sources": [
-        "钛媒体"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "融资并购",
-      "summary_cn": "自动驾驶公司 Momenta 踩着物理 AI 风口冲刺 IPO。"
-    },
-    {
-      "_id": "量子位_9",
-      "_source": "量子位",
-      "title": "Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型",
-      "url": "https://www.qbitai.com/2026/07/441124.html",
-      "time": "1d",
-      "published_at": "2026-07-01T03:46:20+00:00",
-      "sources": [
-        "量子位"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
+      "relevance_score": 0.72,
       "category": "模型发布",
-      "summary_cn": "Om AI 联汇发布 VLX，称为全球首个面向物理世界的端侧流式多模态模型。"
+      "summary_cn": "一款'英伟达含量为0'（非英伟达算力训练）的万亿参数国产大模型霸榜 OpenRouter，成为海外开发者的抢手货。"
     },
     {
-      "_id": "雷峰网_15",
+      "_id": "HN_5",
+      "_source": "HN",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "time": "7h",
+      "published_at": "2026-07-02T04:32:41+00:00",
+      "sources": [
+        "HN(GitHub)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.7,
+      "category": "产品动态",
+      "summary_cn": "月之暗面 Kimi K2.7 Code 模型正式登陆 GitHub Copilot，进一步进入主流编程工具生态。"
+    },
+    {
+      "_id": "TLDR AI_2",
+      "_source": "TLDR AI",
+      "title": "GPT-5.6 preview ☀️, Grok 4.5 beta 🤖, Google limits Meta 🛑",
+      "url": "https://tldr.tech/ai/2026-06-29",
+      "time": "3d",
+      "published_at": "2026-06-29T00:00:00+00:00",
+      "sources": [
+        "TLDR AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.7,
+      "category": "模型发布",
+      "summary_cn": "行业速览：xAI Grok 4.5 beta、OpenAI GPT-5.6 preview 相继放出，谷歌对 Meta 施加访问限制。"
+    },
+    {
+      "_id": "雷峰网_1",
       "_source": "雷峰网",
-      "title": "国产 Coding 争霸赛：MiniMax 爆冷登顶，DeepSeek 性价比称王",
-      "url": "https://www.leiphone.com/category/industrynews/ft5tFfCB8Zh0ZFo8.html",
-      "time": "23h",
-      "published_at": "2026-07-01T05:34:00+00:00",
+      "title": "Claude 和 Manus 还要人工搭框架？小米直接让 Agent 自我进化",
+      "url": "https://www.leiphone.com/category/yanxishe/w6us4wphPrRD8x6g.html",
+      "time": "4h",
+      "published_at": "2026-07-02T07:10:00+00:00",
       "sources": [
         "雷峰网"
       ],
       "source_count": 1,
-      "relevance_score": 0.55,
+      "relevance_score": 0.68,
+      "category": "研究技术",
+      "summary_cn": "小米提出让 Agent'外壳'自我进化的方案，无需像 Claude、Manus 那样人工搭建框架，Agent 可自我迭代。"
+    },
+    {
+      "_id": "Ahead of AI_0",
+      "_source": "Ahead of AI",
+      "title": "Using Local Coding Agents",
+      "url": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+      "time": "5d",
+      "published_at": "2026-06-27T11:21:58+00:00",
+      "sources": [
+        "Ahead of AI",
+        "Latent Space"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.68,
+      "category": "研究技术",
+      "summary_cn": "Sebastian Raschka 探讨用开源权重模型在本地编码框架中替代 Claude Code/Codex 订阅的实践；业界普遍认为本地/开源 AI 正快速追赶闭源方案。"
+    },
+    {
+      "_id": "量子位_7",
+      "_source": "量子位",
+      "title": "天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进",
+      "url": "https://www.qbitai.com/2026/07/441786.html",
+      "time": "5h",
+      "published_at": "2026-07-02T06:23:10+00:00",
+      "sources": [
+        "量子位"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.66,
+      "category": "行业动态",
+      "summary_cn": "昆仑万维天工 AI 业务 ARR 突破 8 亿美元（其中 AI 短剧平台超 7 亿美元），冲刺中国首个非 BAT 的 10 亿美元 ARR AI 公司。"
+    },
+    {
+      "_id": "Mistral_2",
+      "_source": "Mistral",
+      "title": "Mistral releases 'Leanstral 1.5,' an AI for automated theorem proving, supporting Lean 4 proof work. - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oYllGRXZKVDVHcUM2ZnNXdkNydnZ2NWhBTXBLMkhFeTFoM2h2QVlObWppNldneG1wd3hYTDhhVjRWaGRHNmJSNUlfdjladGJRVTBkNXN5Q0NBZWZENGVRVHBMamZxNURSRUpuS2tZbGo?oc=5",
+      "time": "1d",
+      "published_at": "2026-07-01T07:05:00+00:00",
+      "sources": [
+        "GIGAZINE"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.66,
       "category": "模型发布",
-      "summary_cn": "国产 Coding 模型对比中 MiniMax 爆冷登顶，DeepSeek 以性价比称王。"
+      "summary_cn": "Mistral 发布面向自动定理证明的 AI 模型 Leanstral 1.5，支持 Lean 4 证明工作。"
     },
     {
       "_id": "TLDR AI_1",
@@ -318,12 +331,27 @@
         "TLDR AI"
       ],
       "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "模型发布",
-      "summary_cn": "Cognition 发布 Devin Fusion，DeepSeek 推出 DSpark，行业进入「Token 经济学」精算阶段。"
+      "relevance_score": 0.62,
+      "category": "产品动态",
+      "summary_cn": "Cognition 发布 Devin Fusion，DeepSeek 推出 DSpark，'token 经济'成为焦点。"
     },
     {
-      "_id": "The Verge_7",
+      "_id": "Techmeme_7",
+      "_source": "Techmeme",
+      "title": "Cloudflare sets a September 15 deadline for AI companies to differentiate their web crawlers into search, AI training, and AI agents or face being blocked (Samantha Elkins/NBC News)",
+      "url": "https://www.nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446",
+      "time": "1h",
+      "published_at": "2026-07-02T10:00:00+00:00",
+      "sources": [
+        "Techmeme(NBC)"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.62,
+      "category": "行业动态",
+      "summary_cn": "Cloudflare 要求 AI 公司在 9 月 15 日前将网络爬虫区分为搜索、训练、Agent 三类，否则将被封禁。"
+    },
+    {
+      "_id": "The Verge_8",
       "_source": "The Verge",
       "title": "OpenAI is teasing new hardware… for Codex",
       "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
@@ -333,54 +361,294 @@
         "The Verge"
       ],
       "source_count": 1,
-      "relevance_score": 0.55,
+      "relevance_score": 0.62,
       "category": "产品动态",
-      "summary_cn": "OpenAI 预告将于 7 月 15 日发布与其 AI 编码工具 Codex 相关的硬件设备。"
+      "summary_cn": "OpenAI 预告将于 7 月 15 日发布与其 AI 编程工具 Codex 相关的某种硬件设备。"
     },
     {
-      "_id": "Product Hunt_1",
-      "_source": "Product Hunt",
-      "title": "Gemini Omni Flash",
-      "url": "https://www.producthunt.com/products/gemini-omni-flash",
+      "_id": "36氪_8",
+      "_source": "36氪",
+      "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
+      "url": "https://36kr.com/p/3877109751803904?f=rss",
+      "time": "22h",
+      "published_at": "2026-07-01T13:21:17+00:00",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.62,
+      "category": "融资并购",
+      "summary_cn": "清华系机器人/世界模型初创完成数亿元种子轮融资（刻意回避'世界模型'标签），面向真实世界复杂任务。"
+    },
+    {
+      "_id": "arXiv AI_9",
+      "_source": "arXiv AI",
+      "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
+      "url": "https://arxiv.org/abs/2607.00248",
+      "time": "7h",
+      "published_at": "2026-07-02T04:00:00+00:00",
+      "sources": [
+        "arXiv"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.62,
+      "category": "研究技术",
+      "summary_cn": "字节 Seed 团队发布 Seed2.0 模型系列 Model Card，面向真实世界复杂性推进智能前沿。"
+    },
+    {
+      "_id": "Latent Space_6",
+      "_source": "Latent Space",
+      "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
       "time": "1d",
-      "published_at": "2026-06-30T20:22:29+00:00",
+      "published_at": "2026-07-01T04:46:21+00:00",
       "sources": [
-        "Product Hunt"
+        "Latent Space"
       ],
       "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "产品动态",
-      "summary_cn": "Gemini Omni Flash 上线，主打高质量视频生成与对话式编辑。"
+      "relevance_score": 0.6,
+      "category": "行业动态",
+      "summary_cn": "AI Engineer World's Fair 聚焦'软件工厂'、Agent 工程与前向部署工程师（FDE）：Warp、Cursor、Sierra 等探讨自动化编码工厂与人机协作的张力，自我改进 Agent 的 autoresearch 反馈循环受关注。"
     },
     {
-      "_id": "HN_13",
-      "_source": "HN",
-      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-      "url": "https://www.weaverobotics.com/isaac-1",
-      "time": "10h",
-      "published_at": "2026-07-01T18:12:18+00:00",
+      "_id": "Mistral_0",
+      "_source": "Mistral",
+      "title": "BMW Group and Mistral AI collaborate to advance AI in crash simulation - Engineer Live",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTE9ZeTJDT1hvUEhTWTZLVnR4eDlkUTROYVJDYjFmV2dkRlVEYXQ1XzBvMVFXZEVSZWtoRjhneUo2b2s4X1NpR3hKeS1la3B4U2tuZnE2R256SFNFQzJrekxyQ0FDQ2ZpYU0xeF8yM295ZmVQYzg3Vno5NGxiVU9ERGtmenZuR3hxWHdOcjJhbXU2RUdu?oc=5",
+      "time": "2d",
+      "published_at": "2026-06-30T09:09:45+00:00",
       "sources": [
-        "HN"
+        "Engineer Live"
       ],
       "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "产品动态",
-      "summary_cn": "Weave Robotics 推出售价 7999 美元的家用机器人 Isaac 1，计划 2026 年秋季交付。"
+      "relevance_score": 0.58,
+      "category": "行业动态",
+      "summary_cn": "宝马集团与 Mistral AI 合作，将 AI 应用于汽车碰撞仿真。"
     },
     {
-      "_id": "雷峰网_8",
-      "_source": "雷峰网",
-      "title": "走访 ICRA 30+中国企业，我们发现具身智能产业三大趋势 | ICRA 2026",
-      "url": "https://www.leiphone.com/category/private/fDotgIuCGA028lZJ.html",
+      "_id": "Runway_1",
+      "_source": "Runway",
+      "title": "Mixi has formed a strategic partnership with Runway, an AI video generation company, and is already using Runway's AI in video production for Monster Strike, among other things. - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3JoWWF2S2gyOTBncFJPbWlkX2hoanN6cTJkeGs3dWJoRldycFZiTEc5ZExWcVE5SEtfN2YzaHpjcWNmbnN3andSNUR0ck81OFRJd1hXZFpfQkYwdTE5OC11TDZDd29nWnItTW9qdGdqMlZEX3ZvUGVMZmpybWc0cThn?oc=5",
+      "time": "1d",
+      "published_at": "2026-07-01T02:12:00+00:00",
+      "sources": [
+        "GIGAZINE"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.58,
+      "category": "产品动态",
+      "summary_cn": "日本 Mixi 与 AI 视频生成公司 Runway 达成战略合作，已将其用于《怪物弹珠》等视频制作。"
+    },
+    {
+      "_id": "36氪_3",
+      "_source": "36氪",
+      "title": "36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景",
+      "url": "https://36kr.com/p/3877863381741577?f=rss",
+      "time": "9h",
+      "published_at": "2026-07-02T02:07:44+00:00",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.56,
+      "category": "融资并购",
+      "summary_cn": "可立点科技（清华、中科院联合华西医院）研发康养转运机器人并完成战略融资，布局居家养老场景。"
+    },
+    {
+      "_id": "Mistral_1",
+      "_source": "Mistral",
+      "title": "Portugal launches first open-source AI model, joining Europe’s sovereignty push - KELO-AM",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdklCTGxub2FrT3dQZjZrXzR1RVFGY0s5blN5YUpCYjVUNldoeFMycHRkOXhNOUw4ZnVXLTlZQjhXV1pGU25OZUR4Z1llaG42ZFUxcmZoQWdXUm5ZWnp3T0o0RlA1TlJmTk0yWGRZZTc1bUNBZnZLclZWYS1jOE1Zajk0c3hycllRd2NjWm9kRVYtd0tFNHE1NVRUaHZTWGpoMXZJeW9rYlhPUQ?oc=5",
       "time": "19h",
-      "published_at": "2026-07-01T09:07:00+00:00",
+      "published_at": "2026-07-01T16:34:04+00:00",
+      "sources": [
+        "KELO-AM"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "summary_cn": "葡萄牙发布首个开源 AI 模型，加入欧洲 AI 主权化浪潮。"
+    },
+    {
+      "_id": "Interconnects_0",
+      "_source": "Interconnects",
+      "title": "Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
+      "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+      "time": "3d",
+      "published_at": "2026-06-28T17:03:07+00:00",
+      "sources": [
+        "Interconnects"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "summary_cn": "Interconnects 评估开源模型生态：Zyphra、Cohere、Poolside 等正拓展开放模型生态的广度与动机。"
+    },
+    {
+      "_id": "Cohere_0",
+      "_source": "Cohere",
+      "title": "HiddenLayer and Cohere Collaborate to Remove Security Barriers to Enterprise Agentic AI - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNHpnQkVjWEZHTWlleVVnS2NWQjRBam9abDBQR1J1LUY0UU44R3VhYWdNYlhwQ3RTaXNjMmJ0WVNMeUczQ0JnNEpySjVPRWw0eXgzY0pjZVBNV2JYOV9FNXY5cGRMTTRQZG85NTh0cmxwaklrWlNWUC1VdVZJMUg3ZUtXcFpwYlRFbS1nbS13ZWV5aE56aVNiM0VCdDdPN2NIV3VSZkZ2X0hpZnBVRkVXVkZqOThDaTJ2bDVIa3BuR0dMUnRRaml4d0NoQ192bU5sNHZoTU15VXZzU1k?oc=5",
+      "time": "2d",
+      "published_at": "2026-06-29T14:35:00+00:00",
+      "sources": [
+        "PR Newswire"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "summary_cn": "HiddenLayer 与 Cohere 合作，为企业级 Agentic AI 消除安全障碍。"
+    },
+    {
+      "_id": "量子位_3",
+      "_source": "量子位",
+      "title": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊",
+      "url": "https://www.qbitai.com/2026/07/442030.html",
+      "time": "1h",
+      "published_at": "2026-07-02T10:24:32+00:00",
+      "sources": [
+        "量子位"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "summary_cn": "天工 3.2 升级上线 Skywork Tags，为 Agent 赋予'工牌'身份，使其可加入团队群聊协同工作。"
+    },
+    {
+      "_id": "MIT Tech Review_1",
+      "_source": "MIT Tech Review",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "time": "21h",
+      "published_at": "2026-07-01T14:35:16+00:00",
+      "sources": [
+        "MIT Tech Review"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "summary_cn": "一家初创试图解决大模型'群体思维'趋同问题，让 Claude/ChatGPT/Gemini 等摆脱同质化输出。"
+    },
+    {
+      "_id": "钛媒体_3",
+      "_source": "钛媒体",
+      "title": "微信 agent，到底能不能帮腾讯赚钱？",
+      "url": "https://www.tmtpost.com/8050426.html",
+      "time": "1h",
+      "published_at": "2026-07-02T10:12:37+00:00",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "summary_cn": "微信'小微'Agent 探路商业化，折射微信在 AI 时代'收税'与'中立'之间的两难豪赌。"
+    },
+    {
+      "_id": "The Verge_3",
+      "_source": "The Verge",
+      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "time": "1d",
+      "published_at": "2026-06-30T19:24:51+00:00",
+      "sources": [
+        "The Verge"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "summary_cn": "谷歌 NotebookLM 新增将笔记/研究总结为 TikTok 风格短视频的功能。"
+    },
+    {
+      "_id": "MIT Tech Review_8",
+      "_source": "MIT Tech Review",
+      "title": "AI agents are not your “coworkers”",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "time": "2d",
+      "published_at": "2026-06-29T18:00:00+00:00",
+      "sources": [
+        "MIT Tech Review"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.52,
+      "category": "行业动态",
+      "summary_cn": "MIT TR 探讨企业 AI 投入激增下'AI 同事'的现实边界，以及 Agent 在技术前沿的可信度问题（Gartner 称 2026 为'拐点年'）。"
+    },
+    {
+      "_id": "Latent Space_4",
+      "_source": "Latent Space",
+      "title": "🔬 The Coolest Diffusion Research Isn't in LLMs — Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
+      "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
+      "time": "21h",
+      "published_at": "2026-07-01T14:42:39+00:00",
+      "sources": [
+        "Latent Space"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.52,
+      "category": "研究技术",
+      "summary_cn": "前 Meta Llama 负责人转投药物发现：Genesis Molecular AI 的扩散模型 PEARL 拿下零样本 OpenBind 冠军，探讨扩散研究在 LLM 之外的前沿。"
+    },
+    {
+      "_id": "雷峰网_4",
+      "_source": "雷峰网",
+      "title": "从生成到交付，音视频 Agent 要有生产级开发套件",
+      "url": "https://www.leiphone.com/category/industrynews/bm5j7ZigtfWU5sL5.html",
+      "time": "8h",
+      "published_at": "2026-07-02T03:32:00+00:00",
       "sources": [
         "雷峰网"
       ],
       "source_count": 1,
+      "relevance_score": 0.52,
+      "category": "产品动态",
+      "summary_cn": "音视频 Agent 走向生产级：从生成到交付需配套开发套件，替代人工剪辑/切片/分发链路。"
+    },
+    {
+      "_id": "Reddit ML_13",
+      "_source": "Reddit ML",
+      "title": "A system-level approach to prompt injection: separating instruction and data channels in LLM agents [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukgwk1/a_systemlevel_approach_to_prompt_injection/",
+      "time": "1d",
+      "published_at": "2026-07-01T09:34:16+00:00",
+      "sources": [
+        "Reddit ML"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.52,
+      "category": "研究技术",
+      "summary_cn": "一项系统级方案通过在 LLM Agent 中分离'指令通道'与'数据通道'来抵御提示注入这一持续性失效模式。"
+    },
+    {
+      "_id": "arXiv AI_5",
+      "_source": "arXiv AI",
+      "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
+      "url": "https://arxiv.org/abs/2607.00147",
+      "time": "7h",
+      "published_at": "2026-07-02T04:00:00+00:00",
+      "sources": [
+        "arXiv"
+      ],
+      "source_count": 1,
       "relevance_score": 0.5,
-      "category": "行业动态",
-      "summary_cn": "走访 ICRA 2026 逾 30 家中国企业，梳理出具身智能产业三大趋势，认为机器人未来在中国。"
+      "category": "研究技术",
+      "summary_cn": "RareDxR1：面向罕见病鉴别诊断的自主医学推理框架，尝试超越人工标注瓶颈。"
+    },
+    {
+      "_id": "Product Hunt_8",
+      "_source": "Product Hunt",
+      "title": "Retrace",
+      "url": "https://www.producthunt.com/products/retrace-2",
+      "time": "19h",
+      "published_at": "2026-07-01T16:12:07+00:00",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "产品动态",
+      "summary_cn": "Retrace 上线：通过回放与分叉运行过程来调试 AI Agent。"
     },
     {
       "_id": "Import AI_0",
@@ -393,69 +661,69 @@
         "Import AI"
       ],
       "source_count": 1,
-      "relevance_score": 0.5,
+      "relevance_score": 0.48,
       "category": "行业动态",
-      "summary_cn": "Import AI 463 期综述自我改进机器人与一个万卡级中国 GPU 集群等前沿动态。"
+      "summary_cn": "Import AI 463 期综述：自我改进机器人、万卡级中国 GPU 集群及对'人类时代间歇期'的思考。"
     },
     {
-      "_id": "Product Hunt_13",
-      "_source": "Product Hunt",
-      "title": "Cursor for iOS",
-      "url": "https://www.producthunt.com/products/cursor",
-      "time": "2d",
-      "published_at": "2026-06-30T03:52:28+00:00",
+      "_id": "arXiv AI_15",
+      "_source": "arXiv AI",
+      "title": "Multi-scale Mixture of World Models for Embodied Agents in Evolving Environments",
+      "url": "https://arxiv.org/abs/2607.00457",
+      "time": "7h",
+      "published_at": "2026-07-02T04:00:00+00:00",
       "sources": [
-        "Product Hunt"
+        "arXiv"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.48,
+      "category": "研究技术",
+      "summary_cn": "提出多尺度世界模型混合方法，用于在演化环境中运行的具身智能体。"
+    },
+    {
+      "_id": "钛媒体_1",
+      "_source": "钛媒体",
+      "title": "硅胶娃娃+AI，优必选就想卖宅男88万",
+      "url": "https://www.tmtpost.com/8050479.html",
+      "time": "1h",
+      "published_at": "2026-07-02T10:21:24+00:00",
+      "sources": [
+        "钛媒体"
       ],
       "source_count": 1,
       "relevance_score": 0.45,
       "category": "产品动态",
-      "summary_cn": "Cursor 推出 iOS 版，让用户随时随地使用编码 Agent 开发。"
+      "summary_cn": "优必选推出售价高达 88 万元的'硅胶娃娃+AI'陪伴机器人，男款定价更高。"
     },
     {
-      "_id": "The Verge_2",
-      "_source": "The Verge",
-      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-      "time": "1d",
-      "published_at": "2026-06-30T19:24:51+00:00",
-      "sources": [
-        "The Verge"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.45,
-      "category": "产品动态",
-      "summary_cn": "Google NotebookLM 新增功能，可将研究笔记生成 TikTok 风格短视频。"
-    },
-    {
-      "_id": "Reddit ML_13",
+      "_id": "Reddit ML_4",
       "_source": "Reddit ML",
-      "title": "A system-level approach to prompt injection: separating instruction and data channels in LLM agents [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukgwk1/a_systemlevel_approach_to_prompt_injection/",
-      "time": "19h",
-      "published_at": "2026-07-01T09:34:16+00:00",
+      "title": "SentryCode: Real-time Auditor + Honeytokens for AI Coding Agents [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ul7ap2/sentrycode_realtime_auditor_honeytokens_for_ai/",
+      "time": "8h",
+      "published_at": "2026-07-02T03:48:58+00:00",
       "sources": [
         "Reddit ML"
       ],
       "source_count": 1,
       "relevance_score": 0.45,
       "category": "研究技术",
-      "summary_cn": "一项系统级方案通过在 LLM Agent 中分离指令通道与数据通道来防御提示注入。"
+      "summary_cn": "SentryCode：针对 AI 编码 Agent 的实时审计器与蜜标（honeytoken）方案，回应本地编码 Agent 的隐私/遥测担忧。"
     },
     {
-      "_id": "arXiv AI_5",
-      "_source": "arXiv AI",
-      "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
-      "url": "https://arxiv.org/abs/2607.00147",
-      "time": "47m",
-      "published_at": "2026-07-02T04:00:00+00:00",
+      "_id": "Product Hunt_2",
+      "_source": "Product Hunt",
+      "title": "Flowly",
+      "url": "https://www.producthunt.com/products/flowly-6",
+      "time": "2d",
+      "published_at": "2026-06-30T02:35:56+00:00",
       "sources": [
-        "arXiv AI"
+        "Product Hunt"
       ],
       "source_count": 1,
       "relevance_score": 0.45,
-      "category": "研究技术",
-      "summary_cn": "RareDxR1 提出面向罕见病诊断的自主医学推理方法，试图突破人工标注局限。"
+      "category": "产品动态",
+      "summary_cn": "Product Hunt 一批个人/桌面 AI Agent 新品集中上线（Flowly 桌面+iPhone 个人 Agent、Macuse、Macro、scritty 共享记忆、Needle GTM Agent 等）。"
     }
   ]
 }

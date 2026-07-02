@@ -1,43 +1,97 @@
 {
   "source": "Product Hunt",
   "layer": "news",
-  "updated": "2026-07-02T10:38:49+08:00",
+  "updated": "2026-07-02T19:55:36+08:00",
   "items": [
     {
-      "title": "Claude Sonnet 5",
-      "url": "https://www.producthunt.com/products/claude",
-      "summary": "AI that plans, acts, and gets work done Discussion | Link",
+      "title": "Macuse",
+      "url": "https://www.producthunt.com/products/macuse",
+      "summary": "Give Your AI Superpowers on macOS Discussion | Link",
       "source": "Product Hunt",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-06-30T18:30:12+00:00"
+      "published_at": "2026-07-01T09:26:16+00:00"
     },
     {
-      "title": "Sequence Agentic",
-      "url": "https://www.producthunt.com/products/sequence",
-      "summary": "Money movement for AI agents Discussion | Link",
+      "title": "Basedash Actions",
+      "url": "https://www.producthunt.com/products/basedash",
+      "summary": "The BI tool that does, not just reports. Discussion | Link",
       "source": "Product Hunt",
-      "time": "3d",
+      "time": "7h",
       "tags": [],
-      "published_at": "2026-06-28T14:09:49+00:00"
+      "published_at": "2026-07-02T04:14:53+00:00"
     },
     {
-      "title": "Ciaro Pro",
-      "url": "https://www.producthunt.com/products/ciaro-pro",
-      "summary": "AI filmmaking for visual storytellers Discussion | Link",
+      "title": "Flowly",
+      "url": "https://www.producthunt.com/products/flowly-6",
+      "summary": "A personal AI agent that runs on your desktop and iPhone Discussion | Link",
+      "source": "Product Hunt",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-06-30T02:35:56+00:00"
+    },
+    {
+      "title": "scritty",
+      "url": "https://www.producthunt.com/products/scritty",
+      "summary": "Shared, searchable memory for every AI coding agent Discussion | Link",
+      "source": "Product Hunt",
+      "time": "11h",
+      "tags": [],
+      "published_at": "2026-07-02T00:21:44+00:00"
+    },
+    {
+      "title": "PieterPost MCP",
+      "url": "https://www.producthunt.com/products/pieter-post",
+      "summary": "Connect your AI agent to postal mail Discussion | Link",
+      "source": "Product Hunt",
+      "time": "15h",
+      "tags": [],
+      "published_at": "2026-07-01T20:19:19+00:00"
+    },
+    {
+      "title": "Needle",
+      "url": "https://www.producthunt.com/products/needle-3",
+      "summary": "The proactive GTM agent in Slack and Teams Discussion | Link",
       "source": "Product Hunt",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-06-30T14:36:16+00:00"
+      "published_at": "2026-06-30T13:17:55+00:00"
     },
     {
-      "title": "Gemini Omni Flash",
-      "url": "https://www.producthunt.com/products/gemini-omni-flash",
-      "summary": "High-quality video generation and conversational editing Discussion | Link",
+      "title": "Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "summary": "One API to scrape, enrich, and extract the internet Discussion | Link",
       "source": "Product Hunt",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-06-30T20:22:29+00:00"
+      "published_at": "2026-07-01T03:33:28+00:00"
+    },
+    {
+      "title": "Macro",
+      "url": "https://www.producthunt.com/products/macro-workspace",
+      "summary": "Unifies your work into one app with shared memory Discussion | Link",
+      "source": "Product Hunt",
+      "time": "5d",
+      "tags": [],
+      "published_at": "2026-06-26T19:41:09+00:00"
+    },
+    {
+      "title": "Retrace",
+      "url": "https://www.producthunt.com/products/retrace-2",
+      "summary": "Debug AI agents by replaying and forking runs Discussion | Link",
+      "source": "Product Hunt",
+      "time": "19h",
+      "tags": [],
+      "published_at": "2026-07-01T16:12:07+00:00"
+    },
+    {
+      "title": "Solaris",
+      "url": "https://www.producthunt.com/products/build-club",
+      "summary": "Your company’s AI adoption and upskilling platform Discussion | Link",
+      "source": "Product Hunt",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-06-30T20:58:22+00:00"
     },
     {
       "title": "Mark by Airtop",
@@ -49,6 +103,15 @@
       "published_at": "2026-06-26T19:21:13+00:00"
     },
     {
+      "title": "Claude Sonnet 5",
+      "url": "https://www.producthunt.com/products/claude",
+      "summary": "AI that plans, acts, and gets work done Discussion | Link",
+      "source": "Product Hunt",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-06-30T18:30:12+00:00"
+    },
+    {
       "title": "Adam CAD Copilot",
       "url": "https://www.producthunt.com/products/adam-cad-copilot",
       "summary": "AI CAD inside Onshape and Fusion Discussion | Link",
@@ -56,51 +119,6 @@
       "time": "1d",
       "tags": [],
       "published_at": "2026-06-30T19:59:32+00:00"
-    },
-    {
-      "title": "Claude Science",
-      "url": "https://www.producthunt.com/products/claude-for-desktop",
-      "summary": "Your research partner for rigorous science Discussion | Link",
-      "source": "Product Hunt",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-06-30T18:19:10+00:00"
-    },
-    {
-      "title": "LightTwist",
-      "url": "https://www.producthunt.com/products/lighttwist",
-      "summary": "Record & stream your show in a realistic virtual studio Discussion | Link",
-      "source": "Product Hunt",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-06-29T19:38:13+00:00"
-    },
-    {
-      "title": "Livinity",
-      "url": "https://www.producthunt.com/products/livinity",
-      "summary": "Open-source homeserver OS with a built-in AI agent Discussion | Link",
-      "source": "Product Hunt",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-06-30T04:36:55+00:00"
-    },
-    {
-      "title": "Stigg 2.0",
-      "url": "https://www.producthunt.com/products/stigg",
-      "summary": "The usage runtime for AI products Discussion | Link",
-      "source": "Product Hunt",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-06-29T19:47:16+00:00"
-    },
-    {
-      "title": "Bamboo",
-      "url": "https://www.producthunt.com/products/bamboo-ai-markdown-notes",
-      "summary": "Markdown notes with AI under your control Discussion | Link",
-      "source": "Product Hunt",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-06-30T07:58:01+00:00"
     },
     {
       "title": "Clusy",
@@ -112,76 +130,13 @@
       "published_at": "2026-06-30T17:37:01+00:00"
     },
     {
-      "title": "Cursor for iOS",
-      "url": "https://www.producthunt.com/products/cursor",
-      "summary": "Build with coding agents from anywhere Discussion | Link",
-      "source": "Product Hunt",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-06-30T03:52:28+00:00"
-    },
-    {
-      "title": "Pluno",
-      "url": "https://www.producthunt.com/products/pluno",
-      "summary": "Browser agent that’s 10x faster than Claude Discussion | Link",
+      "title": "Bamboo",
+      "url": "https://www.producthunt.com/products/bamboo-ai-markdown-notes",
+      "summary": "Markdown notes with AI under your control Discussion | Link",
       "source": "Product Hunt",
       "time": "2d",
       "tags": [],
-      "published_at": "2026-06-29T16:54:09+00:00"
-    },
-    {
-      "title": "v0 Design Systems 2.0",
-      "url": "https://www.producthunt.com/products/v0",
-      "summary": "Build with your components, colors, fonts, and patterns Discussion | Link",
-      "source": "Product Hunt",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-06-29T22:07:44+00:00"
-    },
-    {
-      "title": "PMB",
-      "url": "https://www.producthunt.com/products/pmb-local-first-memory-for-ai",
-      "summary": "Stop re-explaining your project to AI coding agents Discussion | Link",
-      "source": "Product Hunt",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-06-28T04:10:11+00:00"
-    },
-    {
-      "title": "Agent Mode by Receiptor AI",
-      "url": "https://www.producthunt.com/products/receiptor-ai",
-      "summary": "Bookkeeping assistant that runs receipt workflows end-to-end Discussion | Link",
-      "source": "Product Hunt",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-06-27T12:16:36+00:00"
-    },
-    {
-      "title": "ClinePass",
-      "url": "https://www.producthunt.com/products/cline-4",
-      "summary": "Run the best open-weights models in Cline Discussion | Link",
-      "source": "Product Hunt",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-06-25T22:55:24+00:00"
-    },
-    {
-      "title": "Lyto",
-      "url": "https://www.producthunt.com/products/lyto",
-      "summary": "\"One AI agent across your browser, tools, and messages \" Discussion | Link",
-      "source": "Product Hunt",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-06-27T15:17:01+00:00"
-    },
-    {
-      "title": "Folio AI",
-      "url": "https://www.producthunt.com/products/folio-ai",
-      "summary": "Claude for PowerPoint, on steroids Discussion | Link",
-      "source": "Product Hunt",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-06-25T20:15:56+00:00"
+      "published_at": "2026-06-30T07:58:01+00:00"
     }
   ]
 }

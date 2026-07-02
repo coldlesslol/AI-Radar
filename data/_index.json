@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T12:53:58+08:00",
+  "updated": "2026-07-02T20:06:17+08:00",
   "files": {
     "rankings_openrouter": "rankings_openrouter.json",
     "news_techmeme": "news_techmeme.json",
@@ -27,10 +27,21 @@
     "news_tmtpost": "news_tmtpost.json",
     "news_geekpark": "news_geekpark.json",
     "news_benedict": "news_benedict.json",
-    "news_batch": "news_batch.json"
+    "news_batch": "news_batch.json",
+    "company_zhipu": "company_zhipu.json",
+    "company_kimi": "company_kimi.json",
+    "company_baidu": "company_baidu.json",
+    "company_doubao": "company_doubao.json",
+    "company_minimax": "company_minimax.json",
+    "company_mistral": "company_mistral.json",
+    "company_runway": "company_runway.json",
+    "company_cohere": "company_cohere.json",
+    "analysis_ark": "analysis_ark.json",
+    "analysis_inter": "analysis_inter.json",
+    "analysis_raschka": "analysis_raschka.json"
   },
   "stats": {
-    "total_items": 476,
+    "total_items": 583,
     "last_run_status": "ok",
     "errors": [
       {
@@ -47,6 +58,11 @@
         "file": "news_batch",
         "error": "404 Client Error: Not Found for url: https://www.deeplearning.ai/the-batch/feed",
         "at": "2026-07-02T12:47:49+08:00"
+      },
+      {
+        "file": "analysis_ark",
+        "error": "404 Client Error: Not Found for url: https://www.ark-invest.com/articles/feed",
+        "at": "2026-07-02T19:56:46+08:00"
       }
     ],
     "per_file": {
@@ -55,7 +71,7 @@
       "news_qbitai": 10,
       "community_hn": 20,
       "stocks": 12,
-      "digest": 29,
+      "digest": 46,
       "huggingface_trending": 15,
       "github_trending": 15,
       "news_jiqizhixin": 0,
@@ -70,13 +86,24 @@
       "news_semianalysis": 0,
       "news_producthunt": 15,
       "research_arxiv": 20,
-      "archive": 193,
+      "archive": 250,
       "news_ars": 12,
       "news_mit_tr": 10,
       "news_tmtpost": 15,
       "news_geekpark": 0,
       "news_benedict": 0,
-      "news_batch": 0
+      "news_batch": 0,
+      "company_zhipu": 8,
+      "company_kimi": 8,
+      "company_baidu": 0,
+      "company_doubao": 8,
+      "company_minimax": 0,
+      "company_mistral": 3,
+      "company_runway": 3,
+      "company_cohere": 1,
+      "analysis_ark": 0,
+      "analysis_inter": 1,
+      "analysis_raschka": 1
     }
   }
 }
