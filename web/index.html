@@ -674,19 +674,18 @@ function byTime(a, b) {
 function renderAll() {
   renderTicker();
 
-  // Tab 1: 近期要闻 — 按时间排序，最新在前
-  const feedItems = DIGEST.filter(x => catTab(x.category) === 'feed').sort(byTime).slice(0, 15);
+  // Tab 1-3: 按 relevance_score 降序（管线已排好，直接 filter+slice）
+  // 顺序 = 管线当日固定评分，不随实时动态变化
+  const feedItems   = DIGEST.filter(x => catTab(x.category) === 'feed').slice(0, 15);
   renderGrid('feedGrid', feedItems);
   document.getElementById('cntFeed').textContent = feedItems.length;
 
-  // Tab 2: 模型 & 研究 — 按时间排序
-  const modelItems = DIGEST.filter(x => catTab(x.category) === 'models').sort(byTime).slice(0, 15);
+  const modelItems  = DIGEST.filter(x => catTab(x.category) === 'models').slice(0, 15);
   renderGrid('modelGrid', modelItems);
   renderAllRankings('rankingsAll');
   document.getElementById('cntModels').textContent = modelItems.length;
 
-  // Tab 3: 投融资 & 二级 — 按时间排序
-  const investItems = DIGEST.filter(x => catTab(x.category) === 'invest').sort(byTime).slice(0, 15);
+  const investItems = DIGEST.filter(x => catTab(x.category) === 'invest').slice(0, 15);
   renderGrid('investGrid', investItems);
   document.getElementById('cntInvest').textContent = investItems.length + STOCKS.length;
 

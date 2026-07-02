@@ -50,6 +50,10 @@ PIN_DAYS           = 14    # 置顶条目保留天数
 ARCHIVE_MAX_DAYS   = 30   # archive.json 保留最近 30 天
 ARCHIVE_MAX_ITEMS  = 400  # 条目上限
 
+# digest.json（主面板三个 Tab）的过滤规则
+SOURCE_CAP       = 3     # 每个信源最多进 digest 3 条（按评分取最高的）
+DIGEST_MIN_SCORE = 0.40  # 低于此分值只进 archive，不进主面板
+
 
 def load_news_items() -> list[dict]:
     # 动态加载 data/ 下所有新闻/社区/研究类 JSON（非 digest/stocks/rankings/index）
@@ -91,6 +95,22 @@ def load_news_items() -> list[dict]:
             })
     log.info("过滤掉 %d 条超过 %d 天的旧条目", skipped_old, NEWS_MAX_AGE_DAYS)
     return items
+
+
+def apply_source_cap(enriched: list[dict]) -> list[dict]:
+    """信源限流：每个信源最多保留 SOURCE_CAP 条（enriched 须已按 relevance_score 降序）。"""
+    counts: dict[str, int] = {}
+    selected = []
+    for item in enriched:
+        src = item.get("_source", "")
+        if counts.get(src, 0) < SOURCE_CAP:
+            selected.append(item)
+            counts[src] = counts.get(src, 0) + 1
+    log.info(
+        "信源限流：保留 %d 条（过滤掉 %d 条低优先级）| 各源上限 %d",
+        len(selected), len(enriched) - len(selected), SOURCE_CAP,
+    )
+    return selected
 
 
 def update_archive(enriched: list[dict]) -> None:
@@ -289,17 +309,23 @@ def main() -> None:
 
     enriched.sort(key=lambda x: x["relevance_score"], reverse=True)
 
+    # archive + pinned 拿全量（不限流，全部历史可查）
     update_archive(enriched)
     update_pinned(enriched)
 
-    high       = sum(1 for x in enriched if x["relevance_score"] >= 0.8)
-    mid        = sum(1 for x in enriched if 0.5 <= x["relevance_score"] < 0.8)
-    low        = sum(1 for x in enriched if x["relevance_score"] < 0.5)
-    multi_src  = sum(1 for x in enriched if x["source_count"] >= 2)
+    # digest（主面板三个 Tab）：分数门槛 + 信源限流，结果固定为当次评分
+    candidates   = [x for x in enriched if x["relevance_score"] >= DIGEST_MIN_SCORE]
+    digest_items = apply_source_cap(candidates)
+    digest_items.sort(key=lambda x: x["relevance_score"], reverse=True)
+
+    high      = sum(1 for x in digest_items if x["relevance_score"] >= 0.8)
+    mid       = sum(1 for x in digest_items if 0.5 <= x["relevance_score"] < 0.8)
+    low       = sum(1 for x in digest_items if x["relevance_score"] < 0.5)
+    multi_src = sum(1 for x in digest_items if x["source_count"] >= 2)
 
     payload = {
-        "updated":    now_iso(),
-        "total":      len(enriched),
+        "updated":      now_iso(),
+        "total":        len(digest_items),
         "deduped_from": len(items),
         "stats": {
             "high_relevance": high,
@@ -307,13 +333,13 @@ def main() -> None:
             "low_relevance":  low,
             "multi_source":   multi_src,
         },
-        "items": enriched,
+        "items": digest_items,
     }
     write_json("digest.json", payload)
-    update_index("digest", "digest.json", len(enriched))
+    update_index("digest", "digest.json", len(digest_items))
     log.info(
-        "digest.json 完成：%d 条（去重自 %d）| 高相关 %d / 中 %d / 低 %d | 多信源 %d",
-        len(enriched), len(items), high, mid, low, multi_src,
+        "digest.json 完成：%d 条（去重自 %d，限流前 %d）| 高相关 %d / 中 %d / 低 %d | 多信源 %d",
+        len(digest_items), len(items), len(candidates), high, mid, low, multi_src,
     )
 
 

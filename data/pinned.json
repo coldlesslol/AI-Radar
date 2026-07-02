@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T02:44:24.002615+00:00",
+  "updated": "2026-07-02T04:38:49.767584+00:00",
   "items": [
     {
       "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
@@ -30,6 +30,62 @@
       "category": "模型发布",
       "pinned_at": "2026-07-02T02:44:24.002615+00:00",
       "expires_at": "2026-07-16T02:44:24.002615+00:00",
+      "auto": true
+    },
+    {
+      "title": "Sources: OpenAI has discussed giving a 5% stake to the US government as the company seeks to clear political obstacles by securing buy-in from the Trump admin (Financial Times)",
+      "url": "https://www.techmeme.com/260702/p1#a260702p1",
+      "summary_cn": "OpenAI 与美国政府展开初步讨论，提议向政府提供约5%股权，以换取特朗普政府对 AI 产业的政策支持并缓解监管阻力。",
+      "sources": [
+        "Techmeme",
+        "36氪"
+      ],
+      "relevance_score": 0.98,
+      "category": "行业动态",
+      "pinned_at": "2026-07-02T04:38:49.767584+00:00",
+      "expires_at": "2026-07-16T04:38:49.767584+00:00",
+      "auto": true
+    },
+    {
+      "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
+      "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
+      "summary_cn": "OpenAI 推出 GPT-5.6（Sol / Terra / Luna 分层版本），限于受信任合作伙伴使用，与 Anthropic 同日进行分级发布。",
+      "sources": [
+        "Latent Space",
+        "TLDR AI"
+      ],
+      "relevance_score": 0.98,
+      "category": "模型发布",
+      "pinned_at": "2026-07-02T04:38:49.767584+00:00",
+      "expires_at": "2026-07-16T04:38:49.767584+00:00",
+      "auto": true
+    },
+    {
+      "title": "Anthropic、OpenAI同一天落子AI4S赛道，巨头混战从「拼模型」转向「卡生态」",
+      "url": "https://www.leiphone.com/category/shengwuyiyao/5hR8USux68fILtr1.html",
+      "summary_cn": "Anthropic 与 OpenAI 同日布局 AI4S 科研赛道，Anthropic 推出科研智能体工作台 Claude Science，强调不依赖新模型而靠工作流整合现有能力，巨头竞争从拼模型转向卡生态。",
+      "sources": [
+        "雷峰网",
+        "Product Hunt"
+      ],
+      "relevance_score": 0.93,
+      "category": "产品动态",
+      "pinned_at": "2026-07-02T04:38:49.767584+00:00",
+      "expires_at": "2026-07-16T04:38:49.767584+00:00",
+      "auto": true
+    },
+    {
+      "title": "Reddit 上爆出大猛料，Claude 为何封号中国用户又快又准？",
+      "url": "https://www.leiphone.com/category/ai/rzmbSvqty7wRNC3N.html",
+      "summary_cn": "有 Reddit 爆料称 Anthropic 暗藏针对中国用户的检测/'监视'代码并快速精准封号，Claude Code 负责人回应称此举是为防止模型蒸馏，官方称将在更新中删除相关代码。",
+      "sources": [
+        "雷峰网",
+        "36氪"
+      ],
+      "relevance_score": 0.88,
+      "category": "行业动态",
+      "pinned_at": "2026-07-02T04:38:49.767584+00:00",
+      "expires_at": "2026-07-16T04:38:49.767584+00:00",
       "auto": true
     }
   ]
