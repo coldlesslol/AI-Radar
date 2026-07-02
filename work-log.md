@@ -114,3 +114,21 @@ date: 2026-06-29
 - 交付：`web/index.html`（待 push）；过程件 `work/20260702/`（字体试衣间/快照/预览×3/任务包）。
 - 待办：CD 确认后 git push 上线；后续 P2 候选见任务包第五节。
 - 经验：①设计 token 先行让后续每段改动自动级联；②"结构保真"类需求代码层做远优于生成画布；③分段验收节奏（骨架→卡片→细节）让 CD 每轮只判断一类问题。
+
+## 2026-07-02 CloseCheck（P1 收口）
+- 完成：全区扫描（root 干净/outputs 合规/work 分桶正常）；readme 焦点区重写至现状；CloseCheck 记录写入 Reviews/Inbox/2026-07-02/。
+- 待确认：design-brief.md 留 work/ 根（活规范例外）；并行 Code 会话与 Cowork 同改 index.html 需分时或分文件。
+- 未决：CD 本机 git push（7 commits）；push 后移动端实机验收。
+
+## 2026-07-03 信源扩展 + 投资 tab 重构 + 操作台 + 部署根治（Claude Code，均已 push 上线）
+- 完成：
+  - 信源 P1/P2/P3：企业监控 10 家（Google News RSS）/ SEC EDGAR 财报 8 家 / 研报 +McKinsey(`/insights/rss`) +腾讯研究院(`tisi.org/feed`)；analysis+newsletter 层时间窗口 7→30 天。
+  - 投资 tab：19 股（腾讯 0700/智谱 2513/MiniMax 0100/SpaceX SPCX，均已上市）+ 5 大盘指数（扁平卡）+ 财报两级下拉 + 研报时效×评分×中文加权分页（30 条/5 页）。
+  - 操作台：`config/user-config.json` + `pipeline/api_server.py`(:8766) + `lib/user_config.py`；各 `pull_*.py` 合并用户配置；devlog ⚙ tab 增删即存，加股票自动联动行情+RSS+财报+白名单。
+  - UI 修：canvas id 冲突（`renderIndices` 复用 `stockCardHTML` 硬编码 `sp${idx}`→与股票前 5 只 id 冲突→第一行趋势被画到大盘 canvas）；大盘扁平化；榜单 6 入口卡改右侧竖排小卡。
+- 关键教训（可复用）：
+  - **GitHub Pages "Timeout reached, aborting" 根因 = `github-pages` 环境的 protection rule**，让 deploy-pages 挂起等审批到超时。排查绕了 4 个错方向（cancel-in-progress / venv / artifact 体积 / Jekyll）才定位——删规则后部署状态链从 `waiting→queued→failure` 变 `in_progress→success`。
+  - **诊断法**：public repo 无需凭据即可查 `api.github.com/repos/{o}/{r}/actions/runs` 与 `/deployments?environment=github-pages` 的状态链，直接看卡在哪步；以后部署问题先查 API 别猜。
+  - 共用渲染组件必须参数化 element id（`getElementById` 只返首个，重复 id 静默出错）。
+  - 只在本地 preview 验证 ≠ 线上就绪；线上故障要拉线上 CDN/API 实证。
+- 未决：`api_server.py` 加 launchd 常驻；移动端实机验收；MiniMax/SPCX 新股历史补齐。

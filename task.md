@@ -8,11 +8,18 @@ date: 2026-06-29
 
 # task — 12-TechRadar
 
-## 当前：P1 视觉重设计（owner: CD + Cowork，2026-07-02）
-1. ✅ Claude Design 探索 3 轮（学习目的达成：附件锚定/画布锚定/文件vs截图三课）；风格资产沉淀，字体定稿 Fraunces，brief 升 v2
-2. ✅ Cowork 三段落地 `web/index.html`：纸墨 token / nameplate 报头 / 卡片系统 / 5 个 bug 全修 / 响应式补齐；CD 验收通过
-3. **⏳ 等 CD 确认 git push 上线**（GitHub Pages 数分钟生效，明日 10:00 管道照常）
-4. 后续成长路线（P2 文章页排版 / P3 动效）见任务包第五节；DISPATCH 区待终态阶段引入
+## 当前：信源扩展 + 投资 tab 重构 + 操作台（owner: Claude Code，2026-07-03，全部已上线）
+1. ✅ P1/P2/P3 信源：10 家企业 Google News 监控 / SEC EDGAR 财报 / 7 家深度研报（含 McKinsey、腾讯研究院）
+2. ✅ 投资 tab：19 股（腾讯/智谱/MiniMax/SpaceX 已上市纳入）+ 5 大盘指数扁平卡 + 财报下拉 + 研报时效排序分页
+3. ✅ 操作台：`config/user-config.json` + `api_server.py`(:8766) + devlog ⚙ tab，加股票/信源自动全链路联动
+4. ✅ 部署故障根治：删 `github-pages` protection rule（deploy-pages 超时根因）+ `.nojekyll` + `cancel-in-progress:false`
+5. ✅ UI 修复：股票 canvas id 冲突（第一行趋势）/ 大盘扁平化 / 榜单入口小卡竖排
+
+## 待办 / 待确认（2026-07-03）
+- 操作台 `api_server.py` 是否加入 launchd 常驻（现需手动启动才能在 devlog 存配置）
+- 移动端实机验收（响应式已写，未真机测）
+- 新股 MiniMax(0100)/SPCX 历史数据短，观察后续交易日是否自动补满 30 天
+- P1 视觉的 P2 文章页排版 / P3 动效（见 `work/20260702/风格DEMO任务包--RADAR--Prompt.md` 第五节）
 
 ## 历史阶段（已完成）
 1. ✅ 调研主报告 + 结构化提炼 + 看板方案 + 核心层汇总，全部齐备

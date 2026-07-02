@@ -21,10 +21,14 @@ date: 2026-06-29
 ## 与 100-Investment 的关系
 TechRadar = 信息流追踪（行业动态、产品、趋势）；100-Investment = 金融决策面板（二级市场标的、指标、交易）。两边互相引用，不互相混入。
 
-## 当前焦点
-- ✅ 调研已完成，主报告 + 蒸馏交付齐备。
-- 待 CD 确认 W1 落地清单（Inoreader Pro 注册、Twitter 列表、飞书 base 三张表）。
-- 看板形态选型已给出推荐：**混合方案 D**（飞书多维表入口 + Inoreader 扫描后端 + Readwise 深读 + Cowork artifact 早报 + wewe-rss 中文桥接）。
+## 当前焦点（2026-07-03）
+- ✅ **全部已上线**（GitHub Pages 部署已恢复正常）：https://coldlesslol.github.io/AI-Radar/web/index.html
+- ✅ 信源扩展 P1/P2/P3：企业动态监控（智谱/月之暗面/百度/字节/MiniMax/新智元/机器之心/Mistral/Runway/Cohere 共 10 家 Google News RSS）；SEC EDGAR 财报（8 家美股 10-K/10-Q）；深度分析研报（SemiAnalysis/Latent Space/Interconnects/Ahead of AI/Import AI/腾讯研究院/McKinsey）
+- ✅ 投资 tab 重构：19 只核心标的（含腾讯 0700 / 智谱 2513 / MiniMax 0100 / SpaceX SPCX，均已上市）+ 大盘行情 5 指数（扁平化卡片，含 QQQ）+ 财报两级下拉 + 研报分页（时效×评分×中文加权，最多 30 条 / 5 页）
+- ✅ 操作台（devlog ⚙）：本地 API（`pipeline/api_server.py`:8766）读写 `config/user-config.json`，加股票/信源自动联动行情+RSS+财报+打分白名单，无需改代码
+- ✅ 模型 & 榜单：3 数据大卡（OpenRouter/GitHub/HuggingFace）+ 6 入口小卡右侧竖排
+- ⚠️ 部署根因已记档：`github-pages` 环境的 protection rule 导致 `deploy-pages` 超时失败（Timeout aborting），已删除该规则；并加 `.nojekyll` + `cancel-in-progress:false` 加固
+- 后续：P2 文章页排版 / P3 动效；操作台 `api_server.py` 建议加入 launchd 常驻；新股 MiniMax/SPCX 历史数据短（1/14 天），随交易日累积自动补齐
 
 ## 最新交付
 - `outputs/调研前置brief--RADAR--Spec.md` —— Kimi Deep Research 任务书
