@@ -17,30 +17,39 @@
   --green: #16a34a;
   --amber: #d97706;
   --red: #dc2626;
+  --purple: #7c3aed;
 }
 * { box-sizing: border-box; }
 body { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", sans-serif; background: var(--bg); color: var(--text-primary); margin: 0; padding: 0; line-height: 1.6; -webkit-font-smoothing: antialiased; }
 a { color: var(--accent); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-.container { max-width: 900px; margin: 0 auto; padding: 24px 20px 80px; }
+.container { max-width: 960px; margin: 0 auto; padding: 24px 20px 80px; }
 
-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 32px; padding-bottom: 16px; border-bottom: 2px solid var(--text-primary); flex-wrap: wrap; gap: 10px; }
+header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; padding-bottom: 16px; border-bottom: 2px solid var(--text-primary); flex-wrap: wrap; gap: 10px; }
 .brand { font-size: 20px; font-weight: 700; }
 .brand-accent { color: var(--accent); }
 .brand-sub { font-size: 11px; font-weight: 500; letter-spacing: 2px; text-transform: uppercase; color: var(--text-muted); margin-top: 2px; }
 .private-badge { font-size: 10px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; background: #1c1917; color: #fff; padding: 3px 10px; border-radius: 3px; }
 
+/* Tabs */
+.tabs { display: flex; gap: 2px; margin-bottom: 24px; border-bottom: 1px solid var(--border); }
+.tab { padding: 9px 18px; cursor: pointer; font-size: 13px; font-weight: 500; color: var(--text-muted); border: none; background: none; border-bottom: 2px solid transparent; margin-bottom: -1px; font-family: inherit; transition: all 0.1s; white-space: nowrap; }
+.tab:hover { color: var(--text-primary); }
+.tab.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+.tab-panel { display: none; }
+.tab-panel.active { display: block; }
+
 /* Status bar */
-.status-bar { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 10px; margin-bottom: 32px; }
+.status-bar { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-bottom: 28px; }
 .stat { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 12px 16px; }
 .stat-label { font-size: 10px; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; color: var(--text-muted); margin-bottom: 4px; }
 .stat-val { font-size: 22px; font-weight: 700; color: var(--text-primary); line-height: 1; }
 .stat-sub { font-size: 11px; color: var(--text-secondary); margin-top: 3px; }
 
 /* Section */
-.section { margin-bottom: 36px; }
-.section-title { font-size: 13px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: var(--text-muted); margin: 0 0 14px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+.section { margin-bottom: 32px; }
+.section-title { font-size: 12px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: var(--text-muted); margin: 0 0 12px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
 
 /* Log entries */
 .log-entry { display: flex; gap: 16px; padding: 14px 0; border-bottom: 1px solid var(--border); }
@@ -59,19 +68,41 @@ header { display: flex; align-items: center; justify-content: space-between; mar
 .log-resp { font-size: 12px; color: var(--text-secondary); background: #f9fafb; border-left: 3px solid var(--border-strong); padding: 8px 12px; margin-top: 8px; border-radius: 0 4px 4px 0; }
 .log-resp strong { color: var(--text-primary); }
 
-/* Req table */
-.req-table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
-.req-table th { text-align: left; font-size: 10px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: var(--text-muted); padding: 6px 10px; border-bottom: 2px solid var(--border); }
-.req-table td { padding: 10px 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
-.req-table tr:last-child td { border-bottom: none; }
-.status-done    { color: var(--green); font-weight: 600; }
-.status-pending { color: var(--amber); font-weight: 600; }
-.status-wip     { color: var(--accent); font-weight: 600; }
+/* Tables */
+.data-table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+.data-table th { text-align: left; font-size: 10px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: var(--text-muted); padding: 7px 10px; border-bottom: 2px solid var(--border); white-space: nowrap; }
+.data-table td { padding: 10px 10px; border-bottom: 1px solid var(--border); vertical-align: top; line-height: 1.5; }
+.data-table tr:last-child td { border-bottom: none; }
+.data-table tr:hover td { background: #fafaf9; }
 
-/* Arch block */
+/* Status badges */
+.status-done    { color: var(--green); font-weight: 600; white-space: nowrap; }
+.status-pending { color: var(--amber); font-weight: 600; white-space: nowrap; }
+.status-wip     { color: var(--accent); font-weight: 600; white-space: nowrap; }
+.status-blocked { color: var(--red); font-weight: 600; white-space: nowrap; }
+
+/* Layer badges */
+.layer { display: inline-block; font-size: 9.5px; font-weight: 600; padding: 2px 6px; border-radius: 3px; white-space: nowrap; }
+.layer-scan     { background: #eff6ff; color: #1d4ed8; }
+.layer-letter   { background: #f5f3ff; color: #5b21b6; }
+.layer-community{ background: #f0fdf4; color: #15803d; }
+.layer-research { background: #ecfdf5; color: #065f46; }
+
+/* Rating stars */
+.stars { color: #f59e0b; letter-spacing: -2px; font-size: 13px; }
+.stars-grey { color: #d1d5db; letter-spacing: -2px; font-size: 13px; }
+
+/* Code / arch blocks */
 .arch { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 16px 18px; font-size: 12.5px; color: var(--text-secondary); }
 .arch code { font-family: monospace; font-size: 12px; background: #f3f4f6; padding: 1px 5px; border-radius: 3px; color: var(--text-primary); }
 .arch pre { background: #f3f4f6; border-radius: 6px; padding: 12px 14px; overflow-x: auto; font-size: 12px; line-height: 1.6; margin: 10px 0 0; color: var(--text-primary); }
+
+/* Callout */
+.callout { border-left: 3px solid; padding: 10px 14px; border-radius: 0 6px 6px 0; margin: 12px 0; font-size: 12.5px; }
+.callout-blue   { border-color: var(--accent); background: #eff6ff; color: #1e40af; }
+.callout-amber  { border-color: var(--amber); background: #fffbeb; color: #92400e; }
+.callout-green  { border-color: var(--green); background: #f0fdf4; color: #14532d; }
+.callout strong { font-weight: 700; }
 
 footer { margin-top: 40px; padding-top: 14px; border-top: 1px solid var(--border); font-size: 11px; color: var(--text-muted); text-align: center; }
 </style>
@@ -87,273 +118,605 @@ footer { margin-top: 40px; padding-top: 14px; border-top: 1px solid var(--border
   <span class="private-badge">🔒 Private</span>
 </header>
 
-<!-- Status -->
-<div class="status-bar">
-  <div class="stat">
-    <div class="stat-label">Sources</div>
-    <div class="stat-val">14</div>
-    <div class="stat-sub">Active RSS/API feeds</div>
-  </div>
-  <div class="stat">
-    <div class="stat-label">Items / run</div>
-    <div class="stat-val">~180</div>
-    <div class="stat-sub">After 7-day filter</div>
-  </div>
-  <div class="stat">
-    <div class="stat-label">Schedule</div>
-    <div class="stat-val">10:00</div>
-    <div class="stat-sub">Daily, launchd</div>
-  </div>
-  <div class="stat">
-    <div class="stat-label">Public URL</div>
-    <div class="stat-val" style="font-size:13px; padding-top:4px;"><a href="https://coldlesslol.github.io/AI-Radar/web/index.html" target="_blank">AI-Radar ↗</a></div>
-    <div class="stat-sub">GitHub Pages</div>
-  </div>
+<div class="tabs">
+  <button class="tab active" onclick="switchTab('log')">工程日志</button>
+  <button class="tab" onclick="switchTab('rules')">规则层</button>
 </div>
 
-<!-- Architecture -->
-<div class="section">
-  <div class="section-title">系统架构</div>
-  <div class="arch">
-    <p>本地 Python 管线每日 10:00 自动运行，数据写入 <code>data/</code>，推送到 GitHub，触发 Pages 部署。</p>
-    <pre>launchd 10:00
-  └── schedule/run_daily.sh
-        ├── pull_openrouter.py    → data/rankings_openrouter.json
-        ├── pull_rss.py (14源)   → data/news_*.json, community_*.json, research_*.json
-        ├── pull_stocks.py        → data/stocks.json
-        ├── pull_github_trending.py → data/github_trending.json
-        ├── pull_huggingface.py   → data/huggingface_trending.json
-        └── pull_score.py (claude -p)
-              → data/digest.json      (去重+打分+摘要)
-              → data/pinned.json      (高分自动置顶，≥0.88，保留14天)
-  └── git push → GitHub Actions → Pages 部署</pre>
-    <p style="margin-top:10px;"><strong>Python 环境：</strong><code>pipeline/.venv/bin/python</code>（3.9，有所有依赖）。系统 python3 是 3.14，没有依赖，不要用。</p>
-  </div>
-</div>
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- TAB 1: 工程日志                                                       -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<div class="tab-panel active" id="tab-log">
 
-<!-- Requirements -->
-<div class="section">
-  <div class="section-title">需求清单</div>
-  <table class="req-table">
-    <tr>
-      <th style="width:42%">需求</th>
-      <th style="width:12%">类型</th>
-      <th style="width:10%">状态</th>
-      <th>备注</th>
-    </tr>
-    <tr>
-      <td>GitHub Trending 真实数据（替换占位符）</td>
-      <td><span class="log-tag tag-feat">功能</span></td>
-      <td class="status-done">✓ 完成</td>
-      <td>BeautifulSoup 抓取，AI关键词过滤，前15条</td>
-    </tr>
-    <tr>
-      <td>HuggingFace Trending 真实数据</td>
-      <td><span class="log-tag tag-feat">功能</span></td>
-      <td class="status-done">✓ 完成</td>
-      <td>sort=likes7d（trending返回400，已修）</td>
-    </tr>
-    <tr>
-      <td>RSS 信源从3个扩展到14个</td>
-      <td><span class="log-tag tag-feat">功能</span></td>
-      <td class="status-done">✓ 完成</td>
-      <td>付费/不可达信源已剔除（Crunchbase等）</td>
-    </tr>
-    <tr>
-      <td>信源直达改成平铺 pill + ★ 数量</td>
-      <td><span class="log-tag tag-design">设计</span></td>
-      <td class="status-done">✓ 完成</td>
-      <td>flat pills，按 scan/letter/data/research 分色</td>
-    </tr>
-    <tr>
-      <td>榜单统一到一个网格</td>
-      <td><span class="log-tag tag-design">设计</span></td>
-      <td class="status-done">✓ 完成</td>
-      <td>rankingsAll 统一容器，OpenRouter+GH+HF+6入口卡</td>
-    </tr>
-    <tr>
-      <td>无API榜单增加入口卡（LMArena等6个）</td>
-      <td><span class="log-tag tag-feat">功能</span></td>
-      <td class="status-done">✓ 完成</td>
-      <td>LMArena, AA, OLM, PwC, SEAL, AlpacaEval</td>
-    </tr>
-    <tr>
-      <td>Techmeme URL 修复（链接到原文而非cluster页）</td>
-      <td><span class="log-tag tag-fix">修复</span></td>
-      <td class="status-done">✓ 完成</td>
-      <td>从 summary HTML 正则提取第一个 &lt;a href&gt;</td>
-    </tr>
-    <tr>
-      <td>GitHub Pages 部署（公开分享）</td>
-      <td><span class="log-tag tag-infra">基建</span></td>
-      <td class="status-done">✓ 完成</td>
-      <td>Pages source 需 API 设为 workflow，UI 设置不生效</td>
-    </tr>
-    <tr>
-      <td>每日 10:00 自动更新（launchd）</td>
-      <td><span class="log-tag tag-infra">基建</span></td>
-      <td class="status-done">✓ 完成</td>
-      <td>~/Library/LaunchAgents/com.techradar.daily.plist</td>
-    </tr>
-    <tr>
-      <td>新闻过滤 7 天以内</td>
-      <td><span class="log-tag tag-fix">修复</span></td>
-      <td class="status-done">✓ 完成</td>
-      <td>pull_rss.py + pull_score.py 双重过滤</td>
-    </tr>
-    <tr>
-      <td>重要新闻滚动 Ticker（自动置顶 14 天）</td>
-      <td><span class="log-tag tag-feat">功能</span></td>
-      <td class="status-done">✓ 完成</td>
-      <td>score≥0.88 自动入 pinned.json，ticker在header下方</td>
-    </tr>
-    <tr>
-      <td>品牌名改为 Coldless AI Radar</td>
-      <td><span class="log-tag tag-design">设计</span></td>
-      <td class="status-done">✓ 完成</td>
-      <td>title + header + meta 全部更新</td>
-    </tr>
-    <tr>
-      <td>COLDLESS 纹身水印背景</td>
-      <td><span class="log-tag tag-design">设计</span></td>
-      <td class="status-done">✓ 完成</td>
-      <td>mix-blend-mode: screen，opacity 0.22，header 右侧</td>
-    </tr>
-    <tr>
-      <td>HTML 实体乱码修复（&#8217; 等）</td>
-      <td><span class="log-tag tag-fix">修复</span></td>
-      <td class="status-done">✓ 完成</td>
-      <td>pull_rss.py 用 html.unescape()；JS 用 decodeHtml()</td>
-    </tr>
-    <tr>
-      <td>工程日志页面（本页）</td>
-      <td><span class="log-tag tag-feat">功能</span></td>
-      <td class="status-done">✓ 完成</td>
-      <td>web/devlog.html，不从主页链接，仅自用</td>
-    </tr>
-    <tr>
-      <td>完整视觉重设计（Coldless 黑曼巴风格）</td>
-      <td><span class="log-tag tag-design">设计</span></td>
-      <td class="status-wip">⏳ 规划中</td>
-      <td>Design Brief 已写，原型已出，待确认后动手</td>
-    </tr>
-    <tr>
-      <td>Dispatch 个人分析评论区</td>
-      <td><span class="log-tag tag-feat">功能</span></td>
-      <td class="status-pending">○ 待做</td>
-      <td>随完整重设计一起实现；内容由 Coldless 手写</td>
-    </tr>
-    <tr>
-      <td>入口卡描述文案（2句变1句）</td>
-      <td><span class="log-tag tag-fix">修复</span></td>
-      <td class="status-pending">○ 待做</td>
-      <td>OLM/PwC 等卡片 bullet 看起来像两个入口</td>
-    </tr>
-    <tr>
-      <td>HuggingFace [文本生成] 标签显示优化</td>
-      <td><span class="log-tag tag-fix">修复</span></td>
-      <td class="status-pending">○ 待做</td>
-      <td>pipeline_tag 显示为方括号中文，与模型ID截断混乱</td>
-    </tr>
-  </table>
-</div>
-
-<!-- Dev Log -->
-<div class="section">
-  <div class="section-title">开发日志</div>
-
-  <div class="log-entry">
-    <div class="log-date">2026-07-02</div>
-    <div class="log-body">
-      <span class="log-tag tag-fix">修复</span><span class="log-tag tag-feat">功能</span>
-      <div class="log-title">新闻 7 天过滤 + 重要新闻 Ticker + 水印 + 品牌改名</div>
-      <p class="log-detail">需求：过滤超过7天旧闻；顶部滚动条显示重要新闻保留2周；纹身水印装饰；改名 Coldless AI Radar；近期要闻；工程日志页面。</p>
-      <div class="log-resp"><strong>结果：</strong>180条有效（过滤42条过期）；pinned.json 自动置顶 score≥0.88 条目14天；COLDLESS 黑底纹身用 mix-blend-mode:screen 做水印；ticker 移到 header 下方；HTML 实体乱码一并修复（html.unescape + decodeHtml）。</div>
+  <div class="status-bar">
+    <div class="stat">
+      <div class="stat-label">Sources</div>
+      <div class="stat-val">14</div>
+      <div class="stat-sub">Active RSS/API feeds</div>
+    </div>
+    <div class="stat">
+      <div class="stat-label">Items / run</div>
+      <div class="stat-val">~180</div>
+      <div class="stat-sub">After 7-day filter</div>
+    </div>
+    <div class="stat">
+      <div class="stat-label">Schedule</div>
+      <div class="stat-val">10:00</div>
+      <div class="stat-sub">Daily, launchd</div>
+    </div>
+    <div class="stat">
+      <div class="stat-label">Public URL</div>
+      <div class="stat-val" style="font-size:13px;padding-top:4px;"><a href="https://coldlesslol.github.io/AI-Radar/web/index.html" target="_blank">AI-Radar ↗</a></div>
+      <div class="stat-sub">GitHub Pages</div>
     </div>
   </div>
 
-  <div class="log-entry">
-    <div class="log-date">2026-07-02</div>
-    <div class="log-body">
-      <span class="log-tag tag-design">设计</span>
-      <div class="log-title">Design Brief 完成 + 黑曼巴风格原型</div>
-      <p class="log-detail">用户提供三张纹身图（Kobe Sheath + COLDLESS 哥特字 + 腹部 Tribal），确定视觉语言：黑墨水印风，Blackletter 字体品牌标记，Cormorant Garamond 编辑衬线，JetBrains Mono 数字，无蓝紫科技色。网站定位从数据仪表盘进化为个人出版物，Dispatch（原创分析）为主位，情报聚合为副位。</p>
-      <div class="log-resp"><strong>产出：</strong>work/design-brief.md（完整设计规范），对话内交互原型（UnifrakturMaguntia 字体效果已验证）。</div>
+  <div class="section">
+    <div class="section-title">需求清单</div>
+    <table class="data-table">
+      <tr>
+        <th style="width:42%">需求</th>
+        <th style="width:10%">类型</th>
+        <th style="width:10%">状态</th>
+        <th>备注</th>
+      </tr>
+      <tr><td>GitHub Trending 真实数据</td><td><span class="log-tag tag-feat">功能</span></td><td class="status-done">✓ 完成</td><td>BeautifulSoup 抓取，AI关键词过滤，前15条</td></tr>
+      <tr><td>HuggingFace Trending 真实数据</td><td><span class="log-tag tag-feat">功能</span></td><td class="status-done">✓ 完成</td><td>sort=likes7d（trending返回400，已修）</td></tr>
+      <tr><td>RSS 信源从3个扩展到14个</td><td><span class="log-tag tag-feat">功能</span></td><td class="status-done">✓ 完成</td><td>付费/不可达信源剔除</td></tr>
+      <tr><td>信源直达改为平铺 pill + ★ 数量</td><td><span class="log-tag tag-design">设计</span></td><td class="status-done">✓ 完成</td><td>按 scan/letter/data/research 分色</td></tr>
+      <tr><td>榜单统一到单一网格</td><td><span class="log-tag tag-design">设计</span></td><td class="status-done">✓ 完成</td><td>rankingsAll 统一容器</td></tr>
+      <tr><td>无 API 榜单入口卡（6个）</td><td><span class="log-tag tag-feat">功能</span></td><td class="status-done">✓ 完成</td><td>LMArena, AA, OLM, PwC, SEAL, AlpacaEval</td></tr>
+      <tr><td>Techmeme URL 修复</td><td><span class="log-tag tag-fix">修复</span></td><td class="status-done">✓ 完成</td><td>从 summary HTML 正则提取原文链接</td></tr>
+      <tr><td>GitHub Pages 部署</td><td><span class="log-tag tag-infra">基建</span></td><td class="status-done">✓ 完成</td><td>Pages source 需 API 设为 workflow</td></tr>
+      <tr><td>每日 10:00 launchd 自动更新</td><td><span class="log-tag tag-infra">基建</span></td><td class="status-done">✓ 完成</td><td>~/Library/LaunchAgents/com.techradar.daily.plist</td></tr>
+      <tr><td>新闻 7 天时效过滤</td><td><span class="log-tag tag-fix">修复</span></td><td class="status-done">✓ 完成</td><td>pull_rss.py + pull_score.py 双重过滤</td></tr>
+      <tr><td>重要新闻 Ticker（自动置顶 14 天）</td><td><span class="log-tag tag-feat">功能</span></td><td class="status-done">✓ 完成</td><td>score≥0.88 自动入 pinned.json</td></tr>
+      <tr><td>品牌改名 Coldless AI Radar</td><td><span class="log-tag tag-design">设计</span></td><td class="status-done">✓ 完成</td><td>title + header 全部更新</td></tr>
+      <tr><td>COLDLESS 纹身水印背景</td><td><span class="log-tag tag-design">设计</span></td><td class="status-done">✓ 完成</td><td>mix-blend-mode:screen，opacity 0.22</td></tr>
+      <tr><td>HTML 实体乱码修复</td><td><span class="log-tag tag-fix">修复</span></td><td class="status-done">✓ 完成</td><td>html.unescape() + decodeHtml()</td></tr>
+      <tr><td>工程日志页面（本页）</td><td><span class="log-tag tag-feat">功能</span></td><td class="status-done">✓ 完成</td><td>web/devlog.html，不从主页链接</td></tr>
+      <tr><td>完整视觉重设计（黑曼巴风格）</td><td><span class="log-tag tag-design">设计</span></td><td class="status-wip">⏳ 规划中</td><td>Design Brief 已写（work/design-brief.md），原型已出</td></tr>
+      <tr><td>Dispatch 个人分析评论区</td><td><span class="log-tag tag-feat">功能</span></td><td class="status-pending">○ 待做</td><td>随完整重设计一起实现</td></tr>
+      <tr><td>入口卡描述文案（2句→1句）</td><td><span class="log-tag tag-fix">修复</span></td><td class="status-pending">○ 待做</td><td>OLM/PwC 等卡片 bullet 易误读为两个入口</td></tr>
+      <tr><td>HuggingFace [文本生成] 标签优化</td><td><span class="log-tag tag-fix">修复</span></td><td class="status-pending">○ 待做</td><td>pipeline_tag 方括号中文与截断模型ID混乱</td></tr>
+    </table>
+  </div>
+
+  <div class="section">
+    <div class="section-title">开发日志</div>
+    <div class="log-entry">
+      <div class="log-date">2026-07-02</div>
+      <div class="log-body">
+        <span class="log-tag tag-fix">修复</span><span class="log-tag tag-feat">功能</span>
+        <div class="log-title">新闻 7 天过滤 + Ticker + 水印 + 品牌改名 + 规则页</div>
+        <p class="log-detail">新闻超7天过滤（180条有效，去除42条过期）；pinned.json 自动置顶 score≥0.88 条目14天；COLDLESS 黑底纹身 mix-blend-mode:screen 水印；Ticker 移至 header 下方；HTML 实体修复；工程日志加规则层分页。</p>
+      </div>
+    </div>
+    <div class="log-entry">
+      <div class="log-date">2026-07-02</div>
+      <div class="log-body">
+        <span class="log-tag tag-design">设计</span>
+        <div class="log-title">Design Brief + 黑曼巴风格原型</div>
+        <p class="log-detail">三张纹身（Kobe Sheath + COLDLESS 哥特字 + 腹部 Tribal）确定视觉语言：黑墨水印，Blackletter 品牌标记，Cormorant Garamond 编辑衬线，JetBrains Mono 数字，无蓝紫科技色。网站定位：个人出版物，Dispatch 原创分析为主位。</p>
+        <div class="log-resp"><strong>产出：</strong>work/design-brief.md，对话内交互原型（UnifrakturMaguntia 字体）。</div>
+      </div>
+    </div>
+    <div class="log-entry">
+      <div class="log-date">2026-07-01</div>
+      <div class="log-body">
+        <span class="log-tag tag-infra">基建</span>
+        <div class="log-title">GitHub Pages 部署修复 + launchd 每日定时</div>
+        <p class="log-detail">Pages 首次部署失败：UI 选 GitHub Actions 不自动保存，API source 仍是 branch 模式。通过 PUT /pages 将 build_type 改为 workflow 后成功。launchd plist 配置 10:00 每日运行。</p>
+        <div class="log-resp"><strong>经验：</strong>GitHub Pages source 必须用 API 确认。PAT 已暴露，需到 github.com/settings/tokens 撤销重建。</div>
+      </div>
+    </div>
+    <div class="log-entry">
+      <div class="log-date">2026-07-01</div>
+      <div class="log-body">
+        <span class="log-tag tag-feat">功能</span>
+        <div class="log-title">数据管线：14 信源 + GitHub/HuggingFace Trending</div>
+        <p class="log-detail">pull_github_trending.py（BeautifulSoup 抓取）+ pull_huggingface.py（API sort=likes7d，trending 返回400已修）。pull_score.py 动态扫描 data/*.json，超时 600s。</p>
+      </div>
+    </div>
+    <div class="log-entry">
+      <div class="log-date">2026-07-01</div>
+      <div class="log-body">
+        <span class="log-tag tag-infra">基建</span>
+        <div class="log-title">项目初始化：Git 仓库 + 数据管线 v1</div>
+        <div class="log-resp"><strong>关键约束：</strong>Python 必须用 pipeline/.venv/bin/python（3.9）；系统 python3 是 3.14 无依赖不可用。claude -p 复用付费订阅，无需单独 API key。</div>
+      </div>
     </div>
   </div>
 
-  <div class="log-entry">
-    <div class="log-date">2026-07-01</div>
-    <div class="log-body">
-      <span class="log-tag tag-infra">基建</span>
-      <div class="log-title">GitHub Pages 部署修复 + launchd 每日定时</div>
-      <p class="log-detail">Pages 首次部署失败，原因：UI 里选 GitHub Actions 不自动保存，实际 source 仍是 branch 模式。通过 API PUT 将 build_type 改为 workflow 后触发 dispatch，成功部署。同步配置 launchd plist（10:00 每日，日志写 logs/daily.log）。</p>
-      <div class="log-resp"><strong>关键经验：</strong>GitHub Pages source 必须用 API 确认，不能信 UI 状态。PAT 已暴露在对话中，需到 github.com/settings/tokens 撤销重建。</div>
+  <div class="section">
+    <div class="section-title">关键问答</div>
+    <div class="log-entry">
+      <div class="log-date">Q</div>
+      <div class="log-body">
+        <div class="log-title">卡片黄色和白色是什么意思？</div>
+        <div class="log-resp"><strong>A：</strong>relevance_score ≥ 0.8 → 黄色背景，表示 Claude 评为重要且多源验证。&lt;0.8 → 白色普通。重设计后将改为信源角标+分数徽章。</div>
+      </div>
     </div>
-  </div>
-
-  <div class="log-entry">
-    <div class="log-date">2026-07-01</div>
-    <div class="log-body">
-      <span class="log-tag tag-feat">功能</span>
-      <div class="log-title">数据管线扩展：14 信源 + GitHub/HuggingFace Trending</div>
-      <p class="log-detail">用户要求所有可用免费信源全部接入（不要只看少数信源）。新增 pull_github_trending.py（BeautifulSoup 抓取）和 pull_huggingface.py（API sort=likes7d，trending 参数返回 400）。pull_score.py 动态扫描 data/*.json，超时从 180s 扩至 600s。</p>
-      <div class="log-resp"><strong>信源清单：</strong>Techmeme · 量子位 · 36氪 · 雷峰网 · VentureBeat · The Verge · HN · Reddit ML · TLDR AI · Import AI · Latent Space · SemiAnalysis · Product Hunt · arXiv AI</div>
+    <div class="log-entry">
+      <div class="log-date">Q</div>
+      <div class="log-body">
+        <div class="log-title">股票图表是日线还是月线？</div>
+        <div class="log-resp"><strong>A：</strong>yfinance period="30d"，拉约21个交易日日线收盘价，迷你折线图展示近一个月走势。</div>
+      </div>
     </div>
-  </div>
-
-  <div class="log-entry">
-    <div class="log-date">2026-07-01</div>
-    <div class="log-body">
-      <span class="log-tag tag-infra">基建</span>
-      <div class="log-title">项目初始化：Git 仓库 + 数据管线 v1</div>
-      <p class="log-detail">从零搭建：OpenRouter 榜单 → RSS 多源 → Claude 打分去重 → 股票数据 → 静态 HTML 展示。claude -p 模式复用付费订阅，无需单独 API key。</p>
-      <div class="log-resp"><strong>关键约束：</strong>Python 必须用 pipeline/.venv/bin/python（3.9）；系统 python3 是 3.14 无依赖不可用。</div>
+    <div class="log-entry">
+      <div class="log-date">Q</div>
+      <div class="log-body">
+        <div class="log-title">Ticker 1.00 是什么单位？</div>
+        <div class="log-resp"><strong>A：</strong>relevance_score 0.0→1.0 满分指数，Claude 打基础分后叠加多信源加权（+0.08/源，上限1.0）。Ticker 已改为显示信源名，不显示数字。</div>
+      </div>
+    </div>
+    <div class="log-entry">
+      <div class="log-date">Q</div>
+      <div class="log-body">
+        <div class="log-title">刷新按钮的作用？</div>
+        <div class="log-resp"><strong>A：</strong>重新从 data/*.json 读取文件并重绘页面（cache:'no-store'）。不触发 Python 管线，不联网抓取。用于 Pages 已重新部署后手动拿最新数据。日常走 launchd 自动，不需要手动点。</div>
+      </div>
+    </div>
+    <div class="log-entry">
+      <div class="log-date">Q</div>
+      <div class="log-body">
+        <div class="log-title">Ticker 显示哪些 Tab 的内容？</div>
+        <div class="log-resp"><strong>A：</strong>全部三个 Tab（近期要闻 + 模型&榜单 + 投融资&二级）的高分条目都会进 Ticker，不按分类过滤，只按 score ≥ 0.88 过滤。</div>
+      </div>
     </div>
   </div>
 </div>
 
-<!-- Q&A Log -->
-<div class="section">
-  <div class="section-title">问答记录（关键决策）</div>
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- TAB 2: 规则层                                                         -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<div class="tab-panel" id="tab-rules">
 
-  <div class="log-entry">
-    <div class="log-date">Q</div>
-    <div class="log-body">
-      <div class="log-title">卡片黄色和白色是什么意思？</div>
-      <div class="log-resp"><strong>A：</strong>relevance_score ≥ 0.8 显示黄色背景（#fefce8），表示 Claude 认为重要且多源验证；&lt;0.8 白色普通卡片。设计重构后此区分方式将改为信源角标+分数徽章。</div>
+  <!-- ── 1. 信源总览 ── -->
+  <div class="section">
+    <div class="section-title">已接入信源（14个）</div>
+    <table class="data-table">
+      <tr>
+        <th style="width:13%">信源</th>
+        <th style="width:10%">层级</th>
+        <th style="width:8%">权重</th>
+        <th style="width:12%">更新频率</th>
+        <th style="width:10%">抓取方式</th>
+        <th>定位与说明</th>
+      </tr>
+      <tr>
+        <td><strong>Techmeme</strong></td>
+        <td><span class="layer layer-scan">扫描</span></td>
+        <td><span class="stars">★★★★★</span></td>
+        <td>实时（编辑精选）</td>
+        <td>RSS</td>
+        <td>硅谷科技媒体聚合器，编辑人工筛选重要报道，是英文 AI 资讯的最高密度入口。每条链接到原文（非 Techmeme 集群页），已修 URL 提取逻辑。</td>
+      </tr>
+      <tr>
+        <td><strong>量子位</strong></td>
+        <td><span class="layer layer-scan">扫描</span></td>
+        <td><span class="stars">★★★★★</span></td>
+        <td>每日多篇</td>
+        <td>RSS</td>
+        <td>国内头部 AI 垂直媒体，覆盖国内外模型发布、产品动态、行业分析。用官方 RSS（www.qbitai.com/feed），比公共 RSSHub 更稳定。</td>
+      </tr>
+      <tr>
+        <td><strong>36氪</strong></td>
+        <td><span class="layer layer-scan">扫描</span></td>
+        <td><span class="stars">★★★★</span><span class="stars-grey">★</span></td>
+        <td>每日多篇</td>
+        <td>RSS</td>
+        <td>国内科技商业媒体，覆盖融资/并购/产品/行业动态。AI 内容与商业内容混杂，通过打分层过滤。</td>
+      </tr>
+      <tr>
+        <td><strong>雷峰网</strong></td>
+        <td><span class="layer layer-scan">扫描</span></td>
+        <td><span class="stars">★★★★</span><span class="stars-grey">★</span></td>
+        <td>每日多篇</td>
+        <td>RSS</td>
+        <td>国内 AI / 智能硬件垂直媒体，具身智能、芯片、机器人覆盖较好。</td>
+      </tr>
+      <tr>
+        <td><strong>VentureBeat</strong></td>
+        <td><span class="layer layer-scan">扫描</span></td>
+        <td><span class="stars">★★★★</span><span class="stars-grey">★</span></td>
+        <td>每日（AI 栏目）</td>
+        <td>RSS</td>
+        <td>美国科技商业媒体，AI 栏目分析质量高，兼顾企业应用与底层技术。URL 为 /category/ai/feed/（/ai/feed/ 为 404）。</td>
+      </tr>
+      <tr>
+        <td><strong>The Verge</strong></td>
+        <td><span class="layer layer-scan">扫描</span></td>
+        <td><span class="stars">★★★★</span><span class="stars-grey">★</span></td>
+        <td>每日</td>
+        <td>RSS</td>
+        <td>美国消费科技媒体，AI 专栏活跃，报道产品层和政策层，可读性强。</td>
+      </tr>
+      <tr>
+        <td><strong>HN</strong></td>
+        <td><span class="layer layer-community">社区</span></td>
+        <td><span class="stars">★★★★★</span></td>
+        <td>实时</td>
+        <td>RSS (hnrss.org)</td>
+        <td>Hacker News 前页，硅谷工程师/创业者视角，对技术深度和产品意见有很强参考价值。与 Techmeme 多源重叠可拉高评分。</td>
+      </tr>
+      <tr>
+        <td><strong>Reddit ML</strong></td>
+        <td><span class="layer layer-community">社区</span></td>
+        <td><span class="stars">★★★</span><span class="stars-grey">★★</span></td>
+        <td>每日</td>
+        <td>RSS</td>
+        <td>r/MachineLearning，学术/研究社区讨论。偏向论文和技术，噪音略高，但能捕捉研究圈热点。</td>
+      </tr>
+      <tr>
+        <td><strong>TLDR AI</strong></td>
+        <td><span class="layer layer-letter">通讯</span></td>
+        <td><span class="stars">★★★★</span><span class="stars-grey">★</span></td>
+        <td>每个工作日</td>
+        <td>RSS</td>
+        <td>每日 AI 新闻简报，条目密集，覆盖面广。RSS 带历史存档，需 7 天过滤。</td>
+      </tr>
+      <tr>
+        <td><strong>Import AI</strong></td>
+        <td><span class="layer layer-letter">通讯</span></td>
+        <td><span class="stars">★★★★★</span></td>
+        <td>每周</td>
+        <td>RSS (Substack)</td>
+        <td>Jack Clark（Anthropic 联创）亲写的 AI 周报，深度高，信号质量极佳。更新频率低，每次出现时 Claude 打分通常较高。</td>
+      </tr>
+      <tr>
+        <td><strong>Latent Space</strong></td>
+        <td><span class="layer layer-letter">通讯</span></td>
+        <td><span class="stars">★★★★★</span></td>
+        <td>不定期（2–4次/月）</td>
+        <td>RSS</td>
+        <td>AI 工程师社区深度技术分析，访谈质量高，覆盖前沿架构与系统设计。</td>
+      </tr>
+      <tr>
+        <td><strong>SemiAnalysis</strong></td>
+        <td><span class="layer layer-letter">通讯</span></td>
+        <td><span class="stars">★★★★★</span></td>
+        <td>不定期（1–2次/月）</td>
+        <td>RSS</td>
+        <td>芯片/半导体/AI 基础设施深度分析，是算力供应链最权威的公开分析来源之一。更新极慢，新文章一旦出现评分通常极高。</td>
+      </tr>
+      <tr>
+        <td><strong>Product Hunt</strong></td>
+        <td><span class="layer layer-scan">扫描</span></td>
+        <td><span class="stars">★★★</span><span class="stars-grey">★★</span></td>
+        <td>每日</td>
+        <td>RSS</td>
+        <td>AI 产品发布聚合，覆盖新工具/应用层动态。RSS 带 category=artificial-intelligence 过滤，仍有较多历史存档，依赖 7 天过滤。</td>
+      </tr>
+      <tr>
+        <td><strong>arXiv AI</strong></td>
+        <td><span class="layer layer-research">研究</span></td>
+        <td><span class="stars">★★★★</span><span class="stars-grey">★</span></td>
+        <td>每日（每个工作日大批量）</td>
+        <td>RSS (cs.AI)</td>
+        <td>cs.AI 方向预印本论文，每日几十篇，取前20条。多数论文相关度较低，高分条目通常是重大方法突破或被媒体同步报道的论文。</td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- ── 2. 信源评级方式 ── -->
+  <div class="section">
+    <div class="section-title">信源评级方式</div>
+    <div class="arch">
+      <p>信源按<strong>层级（Layer）</strong>和<strong>主观质量星级</strong>双维度评估。层级影响 Claude 打分时的信息密度预期，星级用于未来接入优先级判断。</p>
+      <table class="data-table" style="margin-top:12px;">
+        <tr>
+          <th style="width:15%">层级</th>
+          <th style="width:20%">特征</th>
+          <th>代表信源</th>
+          <th style="width:20%">对打分的影响</th>
+        </tr>
+        <tr>
+          <td><span class="layer layer-scan">扫描层</span></td>
+          <td>高频，广覆盖，编辑筛选</td>
+          <td>Techmeme, 量子位, 36氪, VentureBeat</td>
+          <td>条目多→基础噪音源，多源重叠时权重叠加</td>
+        </tr>
+        <tr>
+          <td><span class="layer layer-community">社区层</span></td>
+          <td>实时热度，工程师视角</td>
+          <td>HN, Reddit ML</td>
+          <td>与扫描层重叠时强力拉高评分（工程师+媒体=双重验证）</td>
+        </tr>
+        <tr>
+          <td><span class="layer layer-letter">通讯层</span></td>
+          <td>低频，深度，作者权威</td>
+          <td>Import AI, SemiAnalysis, Latent Space</td>
+          <td>出现即倾向高分，Claude 对深度分析稿件给分更高</td>
+        </tr>
+        <tr>
+          <td><span class="layer layer-research">研究层</span></td>
+          <td>学术前沿，批量预印本</td>
+          <td>arXiv AI</td>
+          <td>多数低分，被媒体/社区同步报道时分数大幅拉高</td>
+        </tr>
+      </table>
+      <p style="margin-top:12px;"><strong>星级定义（主观，基于信噪比）</strong>：★★★★★ 极高信噪比，每篇产出价值大 / ★★★★ 高质量，少量噪音 / ★★★ 中等，需依赖过滤 / ★★ 噪音较多</p>
     </div>
   </div>
 
-  <div class="log-entry">
-    <div class="log-date">Q</div>
-    <div class="log-body">
-      <div class="log-title">股票图表是日线还是月线？</div>
-      <div class="log-resp"><strong>A：</strong>用 yfinance period="30d" 拉取约21个交易日的日线收盘价，以迷你折线图展示，横轴为近一个月走势。</div>
+  <!-- ── 3. 新闻评分方式 ── -->
+  <div class="section">
+    <div class="section-title">新闻评分方式</div>
+    <div class="arch">
+      <p><strong>执行者：</strong><code>claude -p</code>（调用本地 Claude Code CLI，复用付费订阅），每日运行一次，处理约 180 条原始条目。</p>
+      <pre>输入格式：[ID|来源] 标题（摘要前100字）
+
+Claude 处理步骤：
+  Step 1 → 跨信源归组：同一事件的多信源报道合并为一组
+  Step 2 → 每组输出：
+              relevance_score  0.0–1.0（基础评分，不含多源加权）
+              category         模型发布 / 融资并购 / 产品动态 /
+                               研究技术 / 行业动态 / 算力供应链 / 社区信号
+              summary_cn       1–2句中文摘要，直接说事
+  Step 3 → 程序加权（不经过 Claude）：
+              +0.08 per extra source（上限 1.0）
+              最终 relevance_score = min(1.0, base + (sources-1) * 0.08)
+
+阈值说明：
+  ≥ 0.88  → 自动写入 pinned.json（Ticker 置顶，保留14天）
+  ≥ 0.80  → 前端显示黄色卡片（高相关标记）
+  ≥ 0.50  → 中等相关，正常展示
+  &lt; 0.50  → 低相关，展示但不优先（多为非AI内容）</pre>
+      <p style="margin-top:10px;"><strong>关注范围（高分区）：</strong>AI 模型/Agent/产品/融资/算力/行业应用。<br>
+      <strong>低分区（不删除）：</strong>与 AI 无关的科技新闻、政治事件、老技术话题。</p>
+    </div>
+    <div class="callout callout-amber" style="margin-top:12px;">
+      <strong>注意：</strong>评分是 Claude 的主观判断，同一事件在不同上下文中可能得分不同。多信源加权（+0.08/源）是程序硬规则，比 Claude 主观判断更稳定可靠。满分 1.0 通常意味着：Claude 认为极度相关 + 至少3个独立信源同时报道。
     </div>
   </div>
 
-  <div class="log-entry">
-    <div class="log-date">Q</div>
-    <div class="log-body">
-      <div class="log-title">Ticker 里 1.00 是什么单位？</div>
-      <div class="log-resp"><strong>A：</strong>relevance_score 是 0.0→1.0 的相关度指数（满分1.0），由 Claude 打基础分，再按多信源加权（每多一个信源 +0.08，上限1.0）。1.00 即满分，说明该条目极度相关且多源验证。Ticker 已改为显示信源列表而非分数——所有进入 Ticker 的条目已是 ≥0.88 的高分，不需要再显示数字。</div>
+  <!-- ── 4. 抓取与刷新机制 ── -->
+  <div class="section">
+    <div class="section-title">抓取与刷新机制</div>
+    <div class="arch">
+      <pre>触发机制（三种）：
+  1. 自动   launchd 10:00 每日（~/Library/LaunchAgents/com.techradar.daily.plist）
+            Mac 睡眠时触发时间会顺延至下次唤醒后立即执行
+  2. 手动   bash schedule/run_daily.sh（从项目根目录）
+  3. 部分   cd pipeline && .venv/bin/python pull_rss.py（单步调试）
+
+执行顺序：
+  1. pull_openrouter.py    → OpenRouter API（JSON，实时）
+  2. pull_rss.py          → 14个 RSS/Atom feed（feedparser）
+  3. pull_stocks.py       → yfinance（美股 + A股 + 港股）
+  4. pull_github_trending.py → GitHub trending HTML（BeautifulSoup）
+  5. pull_huggingface.py  → HuggingFace API（sort=likes7d）
+  6. pull_score.py        → claude -p 打分归组（超时 600s）
+                          → 更新 pinned.json（高分置顶）
+  7. git add data/ && git commit && git push
+     → 触发 GitHub Actions → Pages 重新部署（约2分钟）
+
+时效过滤：
+  - pull_rss.py 阶段：每条 entry 检查 published_parsed，> 7天跳过
+  - pull_score.py 阶段：读入时二次过滤 published_at，> 7天跳过
+  - 两层过滤确保即使个别 RSS 返回历史存档也不会进入 digest
+
+超时设置：
+  - 单个 RSS fetch：20s（含重试3次，指数退避）
+  - pull_score.py claude -p：600s（约180条条目，实测约5分钟）
+  - pull_stocks：每只股票独立请求，无全局超时
+
+前端刷新（浏览器端）：
+  - 点击"↻ 刷新数据"：重新 fetch data/*.json（cache:'no-store'）
+  - 不触发管线，只读取已有 JSON 文件
+  - GitHub Pages 有 CDN 缓存，新数据推送后约1–3分钟生效</pre>
     </div>
   </div>
 
-  <div class="log-entry">
-    <div class="log-date">Q</div>
-    <div class="log-body">
-      <div class="log-title">网站能给别人分享吗？</div>
-      <div class="log-resp"><strong>A：</strong>可以，公开地址 https://coldlesslol.github.io/AI-Radar/web/index.html。本 devlog 页面（/devlog.html）未从主页链接，知道 URL 才能访问，相当于"隐藏"的私人页面。</div>
+  <!-- ── 5. 调研推荐但未接入的信源 ── -->
+  <div class="section">
+    <div class="section-title">调研推荐但未接入的信源</div>
+    <table class="data-table">
+      <tr>
+        <th style="width:14%">信源</th>
+        <th style="width:12%">类型</th>
+        <th style="width:12%">未接入原因</th>
+        <th style="width:10%">接入难度</th>
+        <th>说明与建议</th>
+      </tr>
+      <tr>
+        <td><strong>机器之心</strong></td>
+        <td>国内 AI 媒体</td>
+        <td class="status-blocked">技术障碍</td>
+        <td>高</td>
+        <td>已切换 SPA（React），无可用 RSS feed，返回的 XML 实为空。需要 Playwright 模拟浏览器抓取，维护成本高。暂时保留为信源直达入口。</td>
+      </tr>
+      <tr>
+        <td><strong>钛媒体</strong></td>
+        <td>国内科技媒体</td>
+        <td class="status-pending">未验证</td>
+        <td>低</td>
+        <td>有 RSS 但未测试可用性。与36氪内容重叠度较高，优先级较低。</td>
+      </tr>
+      <tr>
+        <td><strong>极客公园</strong></td>
+        <td>国内 AI 媒体</td>
+        <td class="status-pending">未验证</td>
+        <td>低</td>
+        <td>有 RSS 未测试。内容质量中等，覆盖产品和商业层，与量子位重叠。</td>
+      </tr>
+      <tr>
+        <td><strong>Ars Technica</strong></td>
+        <td>英文技术媒体</td>
+        <td class="status-pending">未接入</td>
+        <td>低</td>
+        <td>有 AI 分类 RSS，深度技术内容质量高。可作为 VentureBeat 补充信源，随时可加。</td>
+      </tr>
+      <tr>
+        <td><strong>MIT Tech Review</strong></td>
+        <td>英文科技媒体</td>
+        <td class="status-pending">未验证</td>
+        <td>低</td>
+        <td>学术+产业交叉视角，AI 报道质量高。有公开 RSS，需验证。</td>
+      </tr>
+      <tr>
+        <td><strong>Benedict Evans</strong></td>
+        <td>英文 Newsletter</td>
+        <td class="status-pending">未接入</td>
+        <td>低</td>
+        <td>前 a16z 分析师，科技战略视角，有 Substack RSS。更新频率低但信号质量极高。</td>
+      </tr>
+      <tr>
+        <td><strong>The Batch (deeplearning.ai)</strong></td>
+        <td>英文 Newsletter</td>
+        <td class="status-pending">未接入</td>
+        <td>低</td>
+        <td>Andrew Ng 主编，AI 技术动态周报，权威但较偏教育向。有 RSS。</td>
+      </tr>
+      <tr>
+        <td><strong>Crunchbase News</strong></td>
+        <td>投融资数据媒体</td>
+        <td class="status-blocked">付费</td>
+        <td>—</td>
+        <td>API 需付费订阅（$29+/月）。融资数据可通过 36氪/量子位 间接覆盖。</td>
+      </tr>
+      <tr>
+        <td><strong>IT桔子</strong></td>
+        <td>国内投融资数据库</td>
+        <td class="status-blocked">付费</td>
+        <td>—</td>
+        <td>API 付费，无免费 RSS。国内融资数据覆盖好，但成本不符合当前阶段。</td>
+      </tr>
+      <tr>
+        <td><strong>Stratechery</strong></td>
+        <td>英文 Newsletter（付费）</td>
+        <td class="status-blocked">付费</td>
+        <td>—</td>
+        <td>Ben Thompson 战略分析，质量极高但需订阅。免费部分内容有限，不适合自动抓取。</td>
+      </tr>
+      <tr>
+        <td><strong>The Information</strong></td>
+        <td>英文科技媒体（付费）</td>
+        <td class="status-blocked">付费</td>
+        <td>—</td>
+        <td>独家报道质量高，全付费墙。</td>
+      </tr>
+    </table>
+    <div class="callout callout-blue" style="margin-top:12px;">
+      <strong>近期可接入（低成本）：</strong>Ars Technica、MIT Tech Review、Benedict Evans、The Batch 均有免费 RSS，三行配置即可接入。建议下一次迭代批量加入测试。
     </div>
   </div>
-</div>
+
+  <!-- ── 6. 数据榜单：已接入与未接入 ── -->
+  <div class="section">
+    <div class="section-title">数据榜单状态与数据口径</div>
+    <table class="data-table">
+      <tr>
+        <th style="width:16%">榜单</th>
+        <th style="width:10%">状态</th>
+        <th style="width:16%">指标 / 口径</th>
+        <th style="width:10%">来源</th>
+        <th style="width:10%">更新频率</th>
+        <th>说明</th>
+      </tr>
+      <tr>
+        <td><strong>OpenRouter 调用榜</strong></td>
+        <td class="status-done">✓ 实时数据</td>
+        <td>Token 使用量（单位：B = 十亿 token）</td>
+        <td>openrouter.ai/rankings</td>
+        <td>日更</td>
+        <td>反映各模型实际 API 调用量。DeepSeek 系主导。排名每日波动，是市场实际使用的最直接指标。</td>
+      </tr>
+      <tr>
+        <td><strong>GitHub Trending</strong></td>
+        <td class="status-done">✓ 实时数据</td>
+        <td>今日新增 star 数（+N）</td>
+        <td>github.com/trending?since=daily</td>
+        <td>日更</td>
+        <td>BeautifulSoup 抓取 trending 页 HTML，按 AI 关键词过滤（llm/agent/model等），取前15。反映工程师社区关注度，有时超前于媒体报道。</td>
+      </tr>
+      <tr>
+        <td><strong>HuggingFace Trending</strong></td>
+        <td class="status-done">✓ 实时数据</td>
+        <td>7天 likes 数（❤ N）</td>
+        <td>huggingface.co API</td>
+        <td>日更</td>
+        <td>API 参数 sort=likes7d，direction=-1，limit=20，取前15。注意：真正的 sort=trending 返回 400，likes7d 是代理指标，并非 HF 官方 trending 算法，但相关性高。</td>
+      </tr>
+      <tr>
+        <td><strong>股票行情</strong></td>
+        <td class="status-done">✓ 实时数据</td>
+        <td>近30日日线收盘价</td>
+        <td>yfinance</td>
+        <td>日更</td>
+        <td>覆盖美股（NVDA/MSFT/GOOGL/AMZN/META/AMD/AVGO/TSLA）+ A股（寒武纪/中际旭创/拓维信息）+ 港股（商汤-W）。period="30d" 约21个交易日，展示迷你折线图。仅供参考，非投资建议。</td>
+      </tr>
+      <tr>
+        <td><strong>LM Arena</strong></td>
+        <td class="status-blocked">⊘ 入口卡</td>
+        <td>人类偏好胜率（ELO 分）</td>
+        <td>lmarena.ai</td>
+        <td>实时（用户投票）</td>
+        <td>无公开 API；网页抓取技术可行但涉及法律风险。是最主流的人类偏好排名，支持方言比较。已做入口卡链接。</td>
+      </tr>
+      <tr>
+        <td><strong>Artificial Analysis</strong></td>
+        <td class="status-blocked">⊘ 入口卡</td>
+        <td>速度/质量/价格综合评分</td>
+        <td>artificialanalysis.ai</td>
+        <td>持续更新</td>
+        <td>API 付费（核心数据需订阅）；基础页可抓取但结构化数据受限。是性价比分析最权威的第三方来源。已做入口卡。</td>
+      </tr>
+      <tr>
+        <td><strong>Open LLM Leaderboard</strong></td>
+        <td class="status-blocked">⊘ 入口卡</td>
+        <td>IFEval/BBH/MATH/GPQA 等学术基准</td>
+        <td>huggingface.co/spaces/...open-llm-leaderboard</td>
+        <td>持续提交</td>
+        <td>API 可用但返回 4576+ 行，以 Qwen/Mistral 各种冷门 fine-tune 为主，实际可读价值低。筛选逻辑复杂（需过滤 base model vs instruction-tuned）。已做入口卡。</td>
+      </tr>
+      <tr>
+        <td><strong>PapersWithCode</strong></td>
+        <td class="status-blocked">⊘ 入口卡</td>
+        <td>SOTA 任务基准排行</td>
+        <td>paperswithcode.com</td>
+        <td>持续更新</td>
+        <td>/api/v1/papers/ 端点返回 HTML 而非 JSON（已验证）；无有效公开 API。论文+代码关联追踪，对研究人员最有价值。已做入口卡。</td>
+      </tr>
+      <tr>
+        <td><strong>Scale SEAL</strong></td>
+        <td class="status-blocked">⊘ 入口卡</td>
+        <td>企业级 AI 能力评测</td>
+        <td>scale.com/leaderboard</td>
+        <td>不定期</td>
+        <td>无公开 API；企业闭源测评。Focus 在代码/指令遵循/安全，是企业采购重要参考。已做入口卡。</td>
+      </tr>
+      <tr>
+        <td><strong>AlpacaEval</strong></td>
+        <td class="status-blocked">⊘ 入口卡</td>
+        <td>GPT-4 胜率 / LC 胜率</td>
+        <td>tatsu-lab.github.io/alpaca_eval</td>
+        <td>不定期</td>
+        <td>无 API；数据在 GitHub 仓库非结构化 JSON，需解析逻辑。指令遵循能力主观评测，与 LM Arena 方法不同（自动评估 vs 人类投票）。已做入口卡。</td>
+      </tr>
+    </table>
+    <div class="callout callout-green" style="margin-top:12px;">
+      <strong>潜力接入榜单：</strong>如果未来要扩充实时数据，优先级：① AlpacaEval（GitHub 数据可解析，低成本）② OpenAI Evals 公开结果 ③ 自建模型能力追踪表（基于公开论文数据）。
+    </div>
+  </div>
+
+</div><!-- /tab-rules -->
 
 <footer>
   Coldless AI Radar · Dev Log · <a href="index.html">← 返回主页</a>
 </footer>
 
-</div>
+</div><!-- /container -->
+
+<script>
+function switchTab(name) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+  document.querySelector(`[onclick="switchTab('${name}')"]`).classList.add('active');
+  document.getElementById('tab-' + name).classList.add('active');
+}
+</script>
 </body>
 </html>
