@@ -27,17 +27,23 @@ from lib.common import DATA_DIR, now_iso, setup_logging, write_json, update_inde
 log = setup_logging("score")
 
 SCOPE = """
-关注范围（高分区）：
+核心关注范围（0.70–1.0）：
 - AI 模型：大模型发布/更新/排名/能力突破（LLM、多模态、代码、推理）
 - AI Agent：自主 Agent、工作流自动化、MCP/工具调用、多 Agent 框架
 - AI 产品：消费级/企业级 AI 产品发布、重大功能更新、用户增长数据
 - 行业与商业：AI 公司融资/并购/IPO、AI 战略、监管政策、商业模式
-- 算力与供应链：芯片（英伟达/AMD/国产）、算力基础设施、机器人/具身智能、能源
-- 行业+AI 应用：AI 改变具体行业（医疗/金融/制造/教育/游戏/交通等）
+- 算力与供应链：芯片（英伟达/AMD/国产）、算力基础设施、机器人/具身智能
+- AI 落地：AI 改变具体行业（医疗/金融/制造/教育/游戏/交通）有数据支撑的报道
 
-低分区（不删除，保留全量）：
-- 与 AI 无关的科技新闻（版权纠纷、政治事件、人事变动等）
-- 纯技术社区话题（数据库版本、老编程语言、硬件怀旧等）
+边缘相关（0.30–0.69，信息量决定高低）：
+- AI 相关但事件影响面小的社区讨论、学术论文（无突破性）
+- 科技大公司的非 AI 核心业务动态
+
+严格低分（≤ 0.20，必须执行）：
+- 与 AI 产业链无直接关联的内容，无论该媒体/信源有多权威
+- 纯商业/政治/版权/法律纠纷（即使科技公司参与，若与AI无关则低分）
+- 纯生活科技、消费电子、游戏（非AI驱动）
+- 重复/空洞/标题党内容
 """.strip()
 
 CATEGORIES = "模型发布 / 融资并购 / 产品动态 / 研究技术 / 行业动态 / 算力供应链 / 社区信号"
@@ -52,7 +58,41 @@ ARCHIVE_MAX_ITEMS  = 400  # 条目上限
 
 # digest.json（主面板三个 Tab）的过滤规则
 SOURCE_CAP       = 3     # 每个信源最多进 digest 3 条（按评分取最高的）
-DIGEST_MIN_SCORE = 0.40  # 低于此分值只进 archive，不进主面板
+DIGEST_MIN_SCORE = 0.45  # 低于此分值只进 archive，不进主面板
+
+# ── AI 关键词预筛（送 Claude 之前过滤明显无关内容）─────────────────────────
+# 这些信源本身就是 AI 专属，所有条目直接通过，无需关键词检查
+_AI_DEDICATED = {
+    "TLDR AI", "Import AI", "Latent Space", "SemiAnalysis",
+    "arXiv AI", "Product Hunt", "VentureBeat", "The Verge",
+    "Techmeme", "Benedict Evans", "The Batch",
+}
+# 关键词（标题或摘要含任意一个即通过，小写匹配）
+_AI_KW = {
+    # 英文：技术/公司/概念
+    "ai", "llm", "gpt", "claude", "gemini", "openai", "anthropic", "deepmind",
+    "mistral", "meta ai", "llama", "chatgpt", "copilot", "sora", "midjourney",
+    "stable diffusion", "neural", "deep learning", "machine learning",
+    "transformer", "diffusion", "agi", "benchmark", "reasoning", "inference",
+    "multimodal", "agent", "autonomous", "robot", "chip", "gpu", "nvidia",
+    "amd", "tpu", "npu", "semiconductor", "datacenter", "compute",
+    # 中文：技术/公司/概念
+    "人工智能", "大模型", "语言模型", "机器学习", "深度学习", "神经网络",
+    "芯片", "算力", "推理", "训练", "多模态", "智能体", "自动驾驶",
+    "机器人", "具身智能", "英伟达", "英特尔", "华为昇腾",
+    "百度文心", "文心一言", "阿里通义", "通义千问", "腾讯混元",
+    "智谱", "kimi", "月之暗面", "商汤", "旷视", "科大讯飞",
+    "字节豆包", "豆包", "零一万物", "minimax", "阶跃星辰",
+    "开源模型", "闭源", "基座模型", "多智能体", "提示词",
+}
+
+
+def _is_ai_related(source_label: str, title: str, summary: str) -> bool:
+    """AI 专属信源直接通过；其余信源要求标题或摘要含 AI 关键词。"""
+    if source_label in _AI_DEDICATED:
+        return True
+    text = (title + " " + summary).lower()
+    return any(kw in text for kw in _AI_KW)
 
 
 def load_news_items() -> list[dict]:
@@ -83,17 +123,21 @@ def load_news_items() -> list[dict]:
                         continue
                 except Exception:
                     pass
+            title   = item.get("title", "")
+            summary = item.get("summary", "")
+            if not _is_ai_related(label, title, summary):
+                continue  # 预筛：非 AI 相关内容不送 Claude
             items.append({
                 "_id":          f"{label}_{i}",
                 "_source":      label,
-                "title":        item.get("title", ""),
+                "title":        title,
                 "url":          item.get("url", ""),
-                "summary":      item.get("summary", ""),
+                "summary":      summary,
                 "time":         item.get("time", ""),
                 "published_at": item.get("published_at", ""),
                 "tags":         item.get("tags", []),
             })
-    log.info("过滤掉 %d 条超过 %d 天的旧条目", skipped_old, NEWS_MAX_AGE_DAYS)
+    log.info("过滤掉 %d 条超过 %d 天的旧条目，预筛后 %d 条 AI 相关", skipped_old, NEWS_MAX_AGE_DAYS, len(items))
     return items
 
 
@@ -111,6 +155,56 @@ def apply_source_cap(enriched: list[dict]) -> list[dict]:
         len(selected), len(enriched) - len(selected), SOURCE_CAP,
     )
     return selected
+
+
+def review_candidates(candidates: list[dict]) -> list[dict]:
+    """第二轮 Claude 审核：对候选条目做 AI 相关性 + 质量把关，返回过滤后的列表。
+
+    这是质量门（quality gate）：防止低价值/非AI内容进入主面板。
+    如果 Claude 调用失败则降级返回原列表（不阻断管线）。
+    """
+    if not candidates:
+        return candidates
+
+    lines = []
+    for item in candidates:
+        text = (item.get("summary_cn") or item.get("title", ""))[:80]
+        lines.append(
+            f'[{item["_id"]}] {text} | {item.get("category","")} | {item.get("_source","")}'
+        )
+
+    prompt = f"""你是 AI 行业简报编辑，负责最终质量把关。
+
+以下是已评分的候选条目，请审核并告诉我**需要删除**哪些。
+
+删除标准（满足任意一条即删除）：
+1. 与 AI 产业链无直接关联——即便来自知名媒体，若内容不涉及 AI 技术/产品/投资/芯片/机器人，必须删除
+2. 质量低下：信息量为零的水文、标题党、重复炒冷饭
+3. 过度重复：同一事件已有更完整的条目（保留信息更全的那条）
+
+候选条目（格式：[ID] 摘要 | 分类 | 信源）：
+{chr(10).join(lines)}
+
+返回 JSON：{{"remove": ["id1", "id2", ...]}}
+若全部保留则返回 {{"remove": []}}
+不要有其他文字。"""
+
+    try:
+        log.info("第二轮审核：对 %d 条候选调用 claude -p...", len(candidates))
+        raw = call_claude(prompt)
+        s = raw.find("{")
+        e = raw.rfind("}") + 1
+        if s == -1 or e == 0:
+            log.warning("review 响应格式异常，跳过过滤")
+            return candidates
+        result     = json.loads(raw[s:e])
+        remove_ids = set(result.get("remove", []))
+        kept       = [x for x in candidates if x["_id"] not in remove_ids]
+        log.info("review 完成：删除 %d 条，保留 %d 条", len(remove_ids), len(kept))
+        return kept
+    except Exception as ex:
+        log.warning("review 调用失败，跳过此步骤: %s", ex)
+        return candidates  # 降级：不阻断管线
 
 
 def update_archive(enriched: list[dict]) -> None:
@@ -215,25 +309,27 @@ def build_prompt(items: list[dict]) -> str:
             text += f"（{item['summary'][:100]}）"
         lines.append(f'[{item["_id"]}|{item["_source"]}] {text}')
 
-    return f"""你是 AI 行业情报分析师。以下是今日来自 Techmeme、量子位、HN 三个信源的新闻条目。
-格式：[ID|来源] 标题（摘要）
+    return f"""你是 AI 行业情报分析师，负责为 Coldless AI Radar 筛选和整理每日情报。
+以下条目来自多个中英文信源，格式：[ID|来源] 标题（摘要）
 
 **第一步：按事件归组**
 同一事件在不同信源可能以不同语言/角度出现，需识别并归为一组。
-例：Techmeme 英文报道某模型发布，HN 也有该模型的讨论帖 → 同一事件。
+跨语言合并示例：Techmeme 英文报道某模型发布，量子位也有同一事件的中文报道 → 归一组。
 
 **第二步：每组输出一个 JSON 对象**
 
 字段说明：
-- id: 该组代表条目的 ID（选信息最全的那条）
-- sources: 覆盖该事件的所有信源列表，如 ["Techmeme", "HN"]
+- id: 该组代表条目的 ID（选信息最全/最权威的那条）
+- sources: 覆盖该事件的所有信源列表，如 ["Techmeme", "量子位"]
 - source_count: 信源数量（整数）
-- relevance_score: 0.0-1.0，与关注范围的基础相关度（不含多源加权，那步由程序做）
+- relevance_score: 0.0-1.0，严格按照下方关注范围打分（不含多源加权）
 - category: 从以下选一个：{CATEGORIES}
-- summary_cn: 1-2 句中文摘要，直接说事，不用"该文章"开头；若跨语言合并，综合两边信息写
+- summary_cn: 1-2 句中文摘要，直接说事，不用"该文章"开头；综合多信源信息写
 
-关注范围：
+评分规则（严格执行）：
 {SCOPE}
+
+⚠️ 评分纪律：与 AI 产业链无关的内容（即便来自权威媒体）必须评分 ≤ 0.20，不可因为该媒体权威就打高分。
 
 条目列表：
 {chr(10).join(lines)}
@@ -313,9 +409,10 @@ def main() -> None:
     update_archive(enriched)
     update_pinned(enriched)
 
-    # digest（主面板三个 Tab）：分数门槛 + 信源限流，结果固定为当次评分
+    # digest（主面板三个 Tab）：分数门槛 → 信源限流 → 质量审核
     candidates   = [x for x in enriched if x["relevance_score"] >= DIGEST_MIN_SCORE]
-    digest_items = apply_source_cap(candidates)
+    capped       = apply_source_cap(candidates)
+    digest_items = review_candidates(capped)   # 第二轮 Claude 质量把关
     digest_items.sort(key=lambda x: x["relevance_score"], reverse=True)
 
     high      = sum(1 for x in digest_items if x["relevance_score"] >= 0.8)
@@ -338,8 +435,8 @@ def main() -> None:
     write_json("digest.json", payload)
     update_index("digest", "digest.json", len(digest_items))
     log.info(
-        "digest.json 完成：%d 条（去重自 %d，限流前 %d）| 高相关 %d / 中 %d / 低 %d | 多信源 %d",
-        len(digest_items), len(items), len(candidates), high, mid, low, multi_src,
+        "digest.json 完成：%d 条（去重自 %d，限流前 %d，审核前 %d）| 高相关 %d / 中 %d / 低 %d | 多信源 %d",
+        len(digest_items), len(items), len(candidates), len(capped), high, mid, low, multi_src,
     )
 
 

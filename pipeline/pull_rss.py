@@ -21,26 +21,35 @@ MAX_AGE_DAYS = 7  # 超过此天数的条目直接跳过
 
 # 配置表：(输出键, 输出文件, 显示名, layer, url, max_items)
 FEEDS = [
-    # ── 扫描层 ──────────────────────────────────────────────────────────────
-    ("news_techmeme",    "news_techmeme.json",    "Techmeme",   "news",      "https://www.techmeme.com/feed.xml",                              30),
-    ("news_qbitai",      "news_qbitai.json",      "量子位",      "news",      "https://www.qbitai.com/feed",                                    30),
+    # ── 扫描层：国际 ──────────────────────────────────────────────────────────
+    ("news_techmeme",    "news_techmeme.json",    "Techmeme",      "news",       "https://www.techmeme.com/feed.xml",                                    20),
+    ("news_venturebeat", "news_venturebeat.json", "VentureBeat",   "news",       "https://venturebeat.com/category/ai/feed/",                           20),
+    ("news_verge_ai",    "news_verge_ai.json",    "The Verge",     "news",       "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",    20),
+    ("news_ars",         "news_ars.json",         "Ars Technica",  "news",       "https://arstechnica.com/ai/feed/",                                     15),
+    ("news_mit_tr",      "news_mit_tr.json",      "MIT Tech Review","news",      "https://www.technologyreview.com/feed/",                               15),
+    # ── 扫描层：国内 ──────────────────────────────────────────────────────────
+    ("news_qbitai",      "news_qbitai.json",      "量子位",         "news",       "https://www.qbitai.com/feed",                                          20),
     # 机器之心已切换 SPA，无可用 RSS feed，暂停
-    ("news_36kr",        "news_36kr.json",        "36氪",        "news",      "https://36kr.com/feed",                                          30),
-    ("news_leiphone",    "news_leiphone.json",    "雷峰网",      "news",      "https://www.leiphone.com/feed",                                  30),
-    ("news_venturebeat", "news_venturebeat.json", "VentureBeat", "news",     "https://venturebeat.com/category/ai/feed/",                      30),
-    ("news_verge_ai",    "news_verge_ai.json",    "The Verge",   "news",     "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", 30),
+    ("news_36kr",        "news_36kr.json",        "36氪",           "news",       "https://36kr.com/feed",                                                20),
+    ("news_leiphone",    "news_leiphone.json",    "雷峰网",         "news",       "https://www.leiphone.com/feed",                                        20),
+    ("news_tmtpost",     "news_tmtpost.json",     "钛媒体",         "news",       "https://www.tmtpost.com/feed",                                         15),
+    # 极客公园：SSL 握手失败（EOF），暂停，待确认可用 RSS URL
+    # ("news_geekpark", "news_geekpark.json", "极客公园", "news", "https://www.geekpark.net/rss", 15),
     # ── 社区 ─────────────────────────────────────────────────────────────────
-    ("community_hn",     "community_hn.json",     "HN",          "community", "https://hnrss.org/frontpage",                                    30),
-    ("community_reddit", "community_reddit.json", "Reddit ML",   "community", "https://www.reddit.com/r/MachineLearning/.rss",                  20),
+    ("community_hn",     "community_hn.json",     "HN",            "community",  "https://hnrss.org/frontpage",                                          25),
+    ("community_reddit", "community_reddit.json", "Reddit ML",     "community",  "https://www.reddit.com/r/MachineLearning/.rss",                        15),
     # ── Newsletter ───────────────────────────────────────────────────────────
-    ("news_tldr_ai",     "news_tldr_ai.json",     "TLDR AI",     "newsletter","https://tldr.tech/api/rss/ai",                                   20),
-    ("news_import_ai",   "news_import_ai.json",   "Import AI",   "newsletter","https://importai.substack.com/feed",                             10),
-    ("news_latent",      "news_latent.json",      "Latent Space","newsletter","https://www.latent.space/feed",                                   10),
-    ("news_semianalysis","news_semianalysis.json","SemiAnalysis", "newsletter","https://www.semianalysis.com/feed",                              10),
+    ("news_tldr_ai",     "news_tldr_ai.json",     "TLDR AI",       "newsletter", "https://tldr.tech/api/rss/ai",                                         20),
+    ("news_import_ai",   "news_import_ai.json",   "Import AI",     "newsletter", "https://importai.substack.com/feed",                                   10),
+    ("news_latent",      "news_latent.json",       "Latent Space",  "newsletter", "https://www.latent.space/feed",                                        10),
+    ("news_semianalysis","news_semianalysis.json","SemiAnalysis",   "newsletter", "https://www.semianalysis.com/feed",                                    10),
+    ("news_benedict",    "news_benedict.json",    "Benedict Evans", "newsletter", "https://www.ben-evans.com/benedictevans?format=rss",                   5),
+    # The Batch：deeplearning.ai 官方 RSS URL 待确认（404），暂停
+    # ("news_batch", "news_batch.json", "The Batch", "newsletter", "https://www.deeplearning.ai/the-batch/feed/", 5),
     # ── 产品发布 ─────────────────────────────────────────────────────────────
-    ("news_producthunt", "news_producthunt.json", "Product Hunt","news",      "https://www.producthunt.com/feed?category=artificial-intelligence", 20),
+    ("news_producthunt", "news_producthunt.json", "Product Hunt",  "news",       "https://www.producthunt.com/feed?category=artificial-intelligence",    15),
     # ── 研究 ─────────────────────────────────────────────────────────────────
-    ("research_arxiv",   "research_arxiv.json",   "arXiv AI",    "research",  "https://arxiv.org/rss/cs.AI",                                    20),
+    ("research_arxiv",   "research_arxiv.json",   "arXiv AI",      "research",   "https://arxiv.org/rss/cs.AI",                                          20),
 ]
 
 DEFAULT_MAX = 30

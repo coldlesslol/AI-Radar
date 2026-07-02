@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T12:38:49+08:00",
+  "updated": "2026-07-02T12:53:58+08:00",
   "files": {
     "rankings_openrouter": "rankings_openrouter.json",
     "news_techmeme": "news_techmeme.json",
@@ -21,16 +21,32 @@
     "news_semianalysis": "news_semianalysis.json",
     "news_producthunt": "news_producthunt.json",
     "research_arxiv": "research_arxiv.json",
-    "archive": "archive.json"
+    "archive": "archive.json",
+    "news_ars": "news_ars.json",
+    "news_mit_tr": "news_mit_tr.json",
+    "news_tmtpost": "news_tmtpost.json",
+    "news_geekpark": "news_geekpark.json",
+    "news_benedict": "news_benedict.json",
+    "news_batch": "news_batch.json"
   },
   "stats": {
-    "total_items": 439,
+    "total_items": 476,
     "last_run_status": "ok",
     "errors": [
       {
         "file": "rankings_openrouter",
         "error": "'window'",
         "at": "2026-06-30T22:33:20+08:00"
+      },
+      {
+        "file": "news_geekpark",
+        "error": "HTTPSConnectionPool(host='www.geekpark.net', port=443): Max retries exceeded with url: /rss (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))",
+        "at": "2026-07-02T12:47:19+08:00"
+      },
+      {
+        "file": "news_batch",
+        "error": "404 Client Error: Not Found for url: https://www.deeplearning.ai/the-batch/feed",
+        "at": "2026-07-02T12:47:49+08:00"
       }
     ],
     "per_file": {
@@ -39,22 +55,28 @@
       "news_qbitai": 10,
       "community_hn": 20,
       "stocks": 12,
-      "digest": 33,
+      "digest": 29,
       "huggingface_trending": 15,
       "github_trending": 15,
       "news_jiqizhixin": 0,
-      "news_36kr": 30,
+      "news_36kr": 20,
       "news_leiphone": 20,
       "news_venturebeat": 0,
       "news_verge_ai": 10,
-      "community_reddit": 20,
+      "community_reddit": 15,
       "news_tldr_ai": 4,
       "news_import_ai": 1,
       "news_latent": 10,
       "news_semianalysis": 0,
-      "news_producthunt": 20,
+      "news_producthunt": 15,
       "research_arxiv": 20,
-      "archive": 169
+      "archive": 193,
+      "news_ars": 12,
+      "news_mit_tr": 10,
+      "news_tmtpost": 15,
+      "news_geekpark": 0,
+      "news_benedict": 0,
+      "news_batch": 0
     }
   }
 }

@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-02T04:38:49.766177+00:00",
+  "updated": "2026-07-02T04:53:14.534287+00:00",
   "items": [
+    {
+      "title": "巨人网络参投VAST新一轮超10亿元融资，",
+      "summary_cn": "AI 3D 大模型与通用世界模型公司 VAST（三启万物）完成超 10 亿元 A3 战略轮融资，巨人网络参投，一个月内连续大额融资。",
+      "url": "https://36kr.com/newsflashes/3878007026249990?f=rss",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "融资并购",
+      "published_at": "2026-07-02T04:32:44+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
     {
       "title": "“光电子先导院”完成新一轮融资",
       "summary_cn": "'光电子先导院'完成新一轮融资，引入西安综改基金、国开科创、中科创星等，资金主要用于硅光工艺研发。",
@@ -433,6 +446,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "AI营销“引擎”已就位，但企业的“燃油泵”准备好了么？",
+      "summary_cn": "分析 AI 营销引擎已就位，但企业组织与流程尚未准备好把 AI 当作同事。",
+      "url": "https://www.tmtpost.com/8049807.html",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "行业动态",
+      "published_at": "2026-07-02T03:22:24+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
       "title": "恒生指数公司联同数码港推出主题指数探索计划，促进以人工智能驱动指数创新",
       "summary_cn": "恒生指数公司联合数码港推出主题指数探索计划，与创科公司共同开发 AI 解决方案加速主题指数设计。",
       "url": "https://36kr.com/newsflashes/3877929435082752?f=rss",
@@ -496,6 +522,19 @@
       "category": "行业动态",
       "published_at": "2026-07-02T02:52:47+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "精打细算的AI时代到来了",
+      "summary_cn": "前沿 AI 与「日常」AI 使用出现分化，AI 进入精打细算的时代。",
+      "url": "https://www.tmtpost.com/8049799.html",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "行业动态",
+      "published_at": "2026-07-02T02:47:08+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
     },
     {
       "title": "钉钉凭借悟空入选Gartner首份《企业AI助手市场指南》报告",
@@ -655,6 +694,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "踩着物理AI的风口，Momenta冲刺IPO",
+      "summary_cn": "自动驾驶公司 Momenta 踩着物理 AI 风口冲刺 IPO。",
+      "url": "https://www.tmtpost.com/8049748.html",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "融资并购",
+      "published_at": "2026-07-02T01:54:37+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
       "title": "ICML 2026前瞻：投稿翻倍背后，机器学习正在换挡",
       "summary_cn": "ICML 2026 前瞻：投稿量翻倍，机器学习正在换挡出现新方向，会议将在首尔举办。",
       "url": "https://www.leiphone.com/category/private/Nw1OlDVlsfqh1PJq.html",
@@ -718,6 +770,22 @@
       "category": "研究技术",
       "published_at": "2026-07-02T00:59:15+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "曝美国最强AI公司暗藏针对中国的「监视代码」，已持续3个月；优必选CEO：珍惜做牛马的时光，20年后全是机器人干活；iPhone17价格将迎调整",
+      "summary_cn": "Anthropic 被曝在 Claude 中暗藏针对中国用户的检测/封号代码（官方称为防模型蒸馏），并指控阿里巴巴用 2.5 万个账号、2880 万次对话实施最大规模 Claude 克隆，蒸馏之争从灰色地带升级为巨头全面博弈。",
+      "url": "https://www.leiphone.com/category/zaobao/8xIKNxdh5DASn0Tj.html",
+      "sources": [
+        "雷峰网",
+        "36氪",
+        "Ars Technica",
+        "钛媒体"
+      ],
+      "source_count": 4,
+      "relevance_score": 0.96,
+      "category": "行业动态",
+      "published_at": "2026-07-02T00:52:00+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
     },
     {
       "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
@@ -1071,6 +1139,23 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+      "summary_cn": "Anthropic 发布 Claude Sonnet 5，此前被美国政府叫停的 Fable 5 也在与特朗普政府完成安全测试谈判后获批解禁并面向全球开放，标志顶级闭源模型可获得性恢复。",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "sources": [
+        "Ars Technica",
+        "The Verge",
+        "Latent Space",
+        "TLDR AI",
+        "Product Hunt"
+      ],
+      "source_count": 5,
+      "relevance_score": 1.0,
+      "category": "模型发布",
+      "published_at": "2026-07-01T16:44:18+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
       "title": "How We Made IPFS Content Publishing 10x Faster",
       "summary_cn": "ProbeLab 分享如何将 IPFS 内容发布速度提升10倍的优化方案。",
       "url": "https://probelab.io/blog/optimistic-provide/",
@@ -1147,6 +1232,19 @@
       "category": "研究技术",
       "published_at": "2026-07-01T14:42:39+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "summary_cn": "一家初创试图解决大模型「群体思维」同质化输出的问题。",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "sources": [
+        "MIT Tech Review"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "研究技术",
+      "published_at": "2026-07-01T14:35:16+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
     },
     {
       "title": "Warp CEO Zach Lloyd on why software factories are the next phase of coding",
@@ -1592,6 +1690,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "阿里速卖通首次公布618中国品牌出海成交榜",
+      "summary_cn": "阿里速卖通首次公布 618 中国品牌出海成交榜，与 AI 无关。",
+      "url": "https://www.leiphone.com/category/industrynews/msCktbsfaiDztOrx.html",
+      "sources": [
+        "雷峰网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.12,
+      "category": "行业动态",
+      "published_at": "2026-07-01T05:00:00+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
       "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
       "summary_cn": "AI Engineer World's Fair 每日速递：周二会场热议 loops、agent 工程与软件工厂、前置部署工程师等主题。",
       "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
@@ -1738,6 +1849,21 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "summary_cn": "Anthropic 面向药企与科研人员推出旗舰产品 Claude Science 科研智能体工作台，强调不依赖新模型、以工作流整合现有能力，与 OpenAI 同日切入 AI4S 赛道。",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "sources": [
+        "MIT Tech Review",
+        "Product Hunt",
+        "雷峰网"
+      ],
+      "source_count": 3,
+      "relevance_score": 0.88,
+      "category": "产品动态",
+      "published_at": "2026-06-30T21:50:04+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
       "title": "Gemini Omni Flash",
       "summary_cn": "Gemini Omni Flash 发布：Google 高质量视频生成与对话式编辑能力。",
       "url": "https://www.producthunt.com/products/gemini-omni-flash",
@@ -1749,6 +1875,19 @@
       "category": "产品动态",
       "published_at": "2026-06-30T20:22:29+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "New attack provides one more reason why AI browsers are a bad idea",
+      "summary_cn": "新攻击显示只需告诉 LLM「2+2=5」即可诱导其执行被禁止指令，进一步暴露 AI 浏览器的安全隐患。",
+      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "sources": [
+        "Ars Technica"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "研究技术",
+      "published_at": "2026-06-30T20:03:14+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
     },
     {
       "title": "Adam CAD Copilot",
@@ -1816,6 +1955,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+      "summary_cn": "圆桌讨论长寿与「身体重编程」，与 AI 产业链无直接关联。",
+      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+      "sources": [
+        "MIT Tech Review"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.15,
+      "category": "行业动态",
+      "published_at": "2026-06-30T17:36:48+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
       "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
       "summary_cn": "Netflix 在其威利·旺卡真人秀中使用 AI 生成的 Gene Wilder（吉恩·怀尔德）声音，节目9月上线。",
       "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
@@ -1827,6 +1979,19 @@
       "category": "行业动态",
       "published_at": "2026-06-30T17:19:15+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
+      "summary_cn": "特朗普重设所有 .gov 网站的计划催生 AI 设计的糟糕成果，国家设计工作室推迟更新标准。",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
+      "sources": [
+        "Ars Technica"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.25,
+      "category": "行业动态",
+      "published_at": "2026-06-30T16:59:02+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
     },
     {
       "title": "Libby will filter out AI content, kind of",
@@ -1855,6 +2020,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "The Download: AI “coworkers” and stratospheric internet",
+      "summary_cn": "The Download 综述 AI「同事」与平流层互联网等话题。",
+      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+      "sources": [
+        "MIT Tech Review"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "行业动态",
+      "published_at": "2026-06-30T12:10:00+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
       "title": "Meet the lawyer who beat Elon Musk — twice",
       "summary_cn": "报道聚焦在 Musk v. Altman 案中两度击败马斯克的律师 Bill Savitt。",
       "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
@@ -1866,6 +2044,19 @@
       "category": "行业动态",
       "published_at": "2026-06-30T12:00:00+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "summary_cn": "农业已为 AI 做好准备，但其数据尚未就绪，行业需先补足数据基础。",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "sources": [
+        "MIT Tech Review"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "行业动态",
+      "published_at": "2026-06-30T12:00:00+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
     },
     {
       "title": "A map of the latest 11 million papers split by semantic similarity and time slices [P]",
@@ -1892,6 +2083,19 @@
       "category": "社区信号",
       "published_at": "2026-06-30T10:40:59+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "Building tech in the world’s secret R&D hub",
+      "summary_cn": "报道全球「秘密 R&D 中心」，苹果、Anthropic、英伟达、OpenAI 等均在此布局。",
+      "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+      "sources": [
+        "MIT Tech Review"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "行业动态",
+      "published_at": "2026-06-30T10:23:30+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
     },
     {
       "title": "Bamboo",
@@ -1972,6 +2176,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "summary_cn": "韩国计划投入约 1 万亿美元扩产存储芯片并发展人形机器人，目标 2028 年前实现物理 AI 领先与商用人形机器人。",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "sources": [
+        "Ars Technica"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.65,
+      "category": "算力供应链",
+      "published_at": "2026-06-29T21:09:43+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
       "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
       "summary_cn": "Tidal 公布 AI 音乐新政策：不为 AI 生成音乐支付版税，但也不完全禁止。",
       "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
@@ -2024,6 +2241,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "AI agents are not your “coworkers”",
+      "summary_cn": "文章反驳「AI Agent 是你的同事」这一说法，探讨其真实定位。",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "sources": [
+        "MIT Tech Review"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "行业动态",
+      "published_at": "2026-06-29T18:00:00+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
       "title": "Pluno",
       "summary_cn": "Pluno 发布：号称比 Claude 快10倍的浏览器 Agent。",
       "url": "https://www.producthunt.com/products/pluno",
@@ -2050,6 +2280,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "Agent confidence on the technical frontier",
+      "summary_cn": "企业 AI 投资高涨，Gartner 称 2026 年为组织落地 AI 的「拐点年」，探讨技术前沿的 Agent 可信度问题。",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "sources": [
+        "MIT Tech Review"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "行业动态",
+      "published_at": "2026-06-29T14:44:01+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
       "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
       "summary_cn": "Import AI 第463期综述自我改进机器人、一个1万卡规模的中国 GPU 集群，以及一篇关于人类时代的挽歌式随笔。",
       "url": "https://importai.substack.com/p/import-ai-463-self-improving-robots",
@@ -2061,6 +2304,19 @@
       "category": "行业动态",
       "published_at": "2026-06-29T13:03:27+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "The Download: metric weaknesses and AI elephant warnings",
+      "summary_cn": "The Download 综述指标度量缺陷与 AI 对大象保护的预警等话题。",
+      "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+      "sources": [
+        "MIT Tech Review"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "行业动态",
+      "published_at": "2026-06-29T12:10:00+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
     },
     {
       "title": "Cerebras OpenAI deal capacity has effectively killed the waitlist for everyone else [D]",
@@ -2157,6 +2413,32 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "South Korea plans to train entire military as \"drone warriors\"",
+      "summary_cn": "韩国计划将全军训练为「无人机战士」，把无人机作为通用作战工具。",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
+      "sources": [
+        "Ars Technica"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.2,
+      "category": "行业动态",
+      "published_at": "2026-06-26T22:19:05+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "summary_cn": "纽约时报在最高法院不利判决后调整对微软/OpenAI 的版权指控，抨击微软为 OpenAI 建「侵权超算」。",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "sources": [
+        "Ars Technica"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.2,
+      "category": "行业动态",
+      "published_at": "2026-06-26T20:04:55+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
       "title": "Mark by Airtop",
       "summary_cn": "Airtop 推出 Mark：面向个人营销者的'氛围式'自动化工具。",
       "url": "https://www.producthunt.com/products/airtop",
@@ -2207,6 +2489,45 @@
       "category": "产品动态",
       "published_at": "2026-06-25T20:15:56+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "summary_cn": "Notion 关停受 Skiff 启发的邮件应用，转向「全力用 Agent 管理收件箱」。",
+      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "sources": [
+        "Ars Technica"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "产品动态",
+      "published_at": "2026-06-25T19:04:57+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
+      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+      "summary_cn": "谷歌时隔 20 年终于推出 Finance 安卓应用，与 AI 关联有限。",
+      "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+      "sources": [
+        "Ars Technica"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.15,
+      "category": "产品动态",
+      "published_at": "2026-06-25T18:38:51+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
+    },
+    {
+      "title": "IBM claims world’s first sub-1 nanometer chip technology",
+      "summary_cn": "IBM 宣称实现全球首个亚 1 纳米芯片技术，其 nanostack 晶体管有望提升芯片性能或能效。",
+      "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
+      "sources": [
+        "Ars Technica"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "算力供应链",
+      "published_at": "2026-06-25T10:00:55+00:00",
+      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
     }
   ]
 }

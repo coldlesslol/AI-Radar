@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T04:38:49.767584+00:00",
+  "updated": "2026-07-02T04:53:14.537526+00:00",
   "items": [
     {
       "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
@@ -33,6 +33,23 @@
       "auto": true
     },
     {
+      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "summary_cn": "Anthropic 发布 Claude Sonnet 5，此前被美国政府叫停的 Fable 5 也在与特朗普政府完成安全测试谈判后获批解禁并面向全球开放，标志顶级闭源模型可获得性恢复。",
+      "sources": [
+        "Ars Technica",
+        "The Verge",
+        "Latent Space",
+        "TLDR AI",
+        "Product Hunt"
+      ],
+      "relevance_score": 1.0,
+      "category": "模型发布",
+      "pinned_at": "2026-07-02T04:53:14.537526+00:00",
+      "expires_at": "2026-07-16T04:53:14.537526+00:00",
+      "auto": true
+    },
+    {
       "title": "Sources: OpenAI has discussed giving a 5% stake to the US government as the company seeks to clear political obstacles by securing buy-in from the Trump admin (Financial Times)",
       "url": "https://www.techmeme.com/260702/p1#a260702p1",
       "summary_cn": "OpenAI 与美国政府展开初步讨论，提议向政府提供约5%股权，以换取特朗普政府对 AI 产业的政策支持并缓解监管阻力。",
@@ -61,6 +78,22 @@
       "auto": true
     },
     {
+      "title": "曝美国最强AI公司暗藏针对中国的「监视代码」，已持续3个月；优必选CEO：珍惜做牛马的时光，20年后全是机器人干活；iPhone17价格将迎调整",
+      "url": "https://www.leiphone.com/category/zaobao/8xIKNxdh5DASn0Tj.html",
+      "summary_cn": "Anthropic 被曝在 Claude 中暗藏针对中国用户的检测/封号代码（官方称为防模型蒸馏），并指控阿里巴巴用 2.5 万个账号、2880 万次对话实施最大规模 Claude 克隆，蒸馏之争从灰色地带升级为巨头全面博弈。",
+      "sources": [
+        "雷峰网",
+        "36氪",
+        "Ars Technica",
+        "钛媒体"
+      ],
+      "relevance_score": 0.96,
+      "category": "行业动态",
+      "pinned_at": "2026-07-02T04:53:14.537526+00:00",
+      "expires_at": "2026-07-16T04:53:14.537526+00:00",
+      "auto": true
+    },
+    {
       "title": "Anthropic、OpenAI同一天落子AI4S赛道，巨头混战从「拼模型」转向「卡生态」",
       "url": "https://www.leiphone.com/category/shengwuyiyao/5hR8USux68fILtr1.html",
       "summary_cn": "Anthropic 与 OpenAI 同日布局 AI4S 科研赛道，Anthropic 推出科研智能体工作台 Claude Science，强调不依赖新模型而靠工作流整合现有能力，巨头竞争从拼模型转向卡生态。",
@@ -86,6 +119,21 @@
       "category": "行业动态",
       "pinned_at": "2026-07-02T04:38:49.767584+00:00",
       "expires_at": "2026-07-16T04:38:49.767584+00:00",
+      "auto": true
+    },
+    {
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "summary_cn": "Anthropic 面向药企与科研人员推出旗舰产品 Claude Science 科研智能体工作台，强调不依赖新模型、以工作流整合现有能力，与 OpenAI 同日切入 AI4S 赛道。",
+      "sources": [
+        "MIT Tech Review",
+        "Product Hunt",
+        "雷峰网"
+      ],
+      "relevance_score": 0.88,
+      "category": "产品动态",
+      "pinned_at": "2026-07-02T04:53:14.537526+00:00",
+      "expires_at": "2026-07-16T04:53:14.537526+00:00",
       "auto": true
     }
   ]
