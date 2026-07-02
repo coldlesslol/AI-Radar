@@ -996,8 +996,12 @@ Claude 处理步骤：
       </tr>
     </table>
 
-    <div class="callout callout-green" style="margin-top:14px;">
-      <strong>务实方案：</strong>新智元（xinzhiyuan.com）和机器之心（jiqizhixin.com）都有官方网站并可能提供 RSS——这是接入微信头部 AI 账号内容的正确路径，无需 WeChat 登录态。建议先验证这两个网站的 RSS 可用性，可用则直接加入 pull_rss.py，3行配置即可。
+    <div class="callout callout-amber" style="margin-top:14px;">
+      <strong>实测结论（2026-07-02）：</strong><br>
+      • <strong>新智元</strong>（xinzhiyuan.com）：域名解析到 198.18.1.253（IANA 保留地址），网站实际不可访问，无 RSS。<br>
+      • <strong>机器之心</strong>（jiqizhixin.com）：SPA 架构，/rss、/feed 均返回 HTML 页，无有效 RSS；已在「未接入」表中注明。<br>
+      • <strong>RSSHub 公共实例</strong>：两个站点路由均返回 403（公共实例限流），需自建 RSSHub 才能解锁。<br><br>
+      <strong>实际可行替代方案：用 Google News RSS 捕获来自这些账号的被转载内容</strong>——搜索词 <code style="font-size:11px;">新智元 AI</code> 和 <code style="font-size:11px;">机器之心 AI</code> 可获得 Google 索引的相关报道，配置方式与 P1 企业监控完全相同，3 行代码即可接入。
     </div>
   </div>
 
