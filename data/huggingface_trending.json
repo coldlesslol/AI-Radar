@@ -2,41 +2,41 @@
   "key": "huggingface_trending",
   "title": "HuggingFace Trending 模型",
   "freq": "daily",
-  "updated": "2026-07-02T10:39:07+08:00",
+  "updated": "2026-07-03T22:01:23+08:00",
   "url": "https://huggingface.co/models?sort=trending",
   "items": [
     {
       "rank": 1,
-      "model_id": "baidu/Unlimited-OCR",
-      "author": "baidu",
-      "name": "Unlimited-OCR",
-      "pipeline_tag": "image-text-to-text",
-      "pipeline_label": "image text to text",
-      "likes": 1580,
-      "downloads": 630246,
-      "url": "https://huggingface.co/baidu/Unlimited-OCR"
-    },
-    {
-      "rank": 2,
       "model_id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "author": "empero-ai",
       "name": "Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "pipeline_tag": "image-text-to-text",
       "pipeline_label": "image text to text",
-      "likes": 1163,
-      "downloads": 1113871,
+      "likes": 1323,
+      "downloads": 1366360,
       "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "model_id": "zai-org/GLM-5.2",
       "author": "zai-org",
       "name": "GLM-5.2",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 3172,
-      "downloads": 159967,
+      "likes": 3310,
+      "downloads": 191462,
       "url": "https://huggingface.co/zai-org/GLM-5.2"
+    },
+    {
+      "rank": 3,
+      "model_id": "baidu/Unlimited-OCR",
+      "author": "baidu",
+      "name": "Unlimited-OCR",
+      "pipeline_tag": "image-text-to-text",
+      "pipeline_label": "image text to text",
+      "likes": 1672,
+      "downloads": 885040,
+      "url": "https://huggingface.co/baidu/Unlimited-OCR"
     },
     {
       "rank": 4,
@@ -45,20 +45,20 @@
       "name": "Ornith-1.0-35B-GGUF",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 613,
-      "downloads": 233701,
+      "likes": 669,
+      "downloads": 322780,
       "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF"
     },
     {
       "rank": 5,
-      "model_id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
-      "author": "deepreinforce-ai",
-      "name": "Ornith-1.0-9B-GGUF",
+      "model_id": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+      "author": "deepseek-ai",
+      "name": "DeepSeek-V4-Pro-DSpark",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 368,
-      "downloads": 191409,
-      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF"
+      "likes": 321,
+      "downloads": 9388,
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark"
     },
     {
       "rank": 6,
@@ -67,20 +67,20 @@
       "name": "gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 920,
-      "downloads": 288741,
+      "likes": 977,
+      "downloads": 329391,
       "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF"
     },
     {
       "rank": 7,
-      "model_id": "Qwen/Qwen-AgentWorld-35B-A3B",
-      "author": "Qwen",
-      "name": "Qwen-AgentWorld-35B-A3B",
+      "model_id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+      "author": "deepreinforce-ai",
+      "name": "Ornith-1.0-9B-GGUF",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 498,
-      "downloads": 34371,
-      "url": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B"
+      "likes": 405,
+      "downloads": 287942,
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF"
     },
     {
       "rank": 8,
@@ -89,8 +89,8 @@
       "name": "Ornith-1.0-9B",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 333,
-      "downloads": 46677,
+      "likes": 358,
+      "downloads": 64051,
       "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B"
     },
     {
@@ -100,75 +100,75 @@
       "name": "Ornith-1.0-35B",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 293,
-      "downloads": 135452,
+      "likes": 316,
+      "downloads": 211406,
       "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B"
     },
     {
       "rank": 10,
+      "model_id": "Qwen/Qwen-AgentWorld-35B-A3B",
+      "author": "Qwen",
+      "name": "Qwen-AgentWorld-35B-A3B",
+      "pipeline_tag": "text-generation",
+      "pipeline_label": "文本生成",
+      "likes": 519,
+      "downloads": 45455,
+      "url": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B"
+    },
+    {
+      "rank": 11,
       "model_id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
       "author": "empero-ai",
       "name": "Qwythos-9B-Claude-Mythos-5-1M",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 619,
-      "downloads": 114499,
+      "likes": 652,
+      "downloads": 131323,
       "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M"
     },
     {
-      "rank": 11,
-      "model_id": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
-      "author": "deepseek-ai",
-      "name": "DeepSeek-V4-Pro-DSpark",
+      "rank": 12,
+      "model_id": "nvidia/Qwen3.6-27B-NVFP4",
+      "author": "nvidia",
+      "name": "Qwen3.6-27B-NVFP4",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 278,
-      "downloads": 7629,
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark"
+      "likes": 220,
+      "downloads": 94465,
+      "url": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4"
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "model_id": "InternScience/Agents-A1",
+      "author": "InternScience",
+      "name": "Agents-A1",
+      "pipeline_tag": "text-generation",
+      "pipeline_label": "文本生成",
+      "likes": 195,
+      "downloads": 3530,
+      "url": "https://huggingface.co/InternScience/Agents-A1"
+    },
+    {
+      "rank": 14,
+      "model_id": "nvidia/LocateAnything-3B",
+      "author": "nvidia",
+      "name": "LocateAnything-3B",
+      "pipeline_tag": "image-text-to-text",
+      "pipeline_label": "image text to text",
+      "likes": 2583,
+      "downloads": 1108586,
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B"
+    },
+    {
+      "rank": 15,
       "model_id": "krea/Krea-2-Turbo",
       "author": "krea",
       "name": "Krea-2-Turbo",
       "pipeline_tag": "text-to-image",
       "pipeline_label": "文生图",
-      "likes": 438,
-      "downloads": 56953,
+      "likes": 471,
+      "downloads": 84006,
       "url": "https://huggingface.co/krea/Krea-2-Turbo"
-    },
-    {
-      "rank": 13,
-      "model_id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "author": "yuxinlu1",
-      "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "pipeline_tag": "text-generation",
-      "pipeline_label": "文本生成",
-      "likes": 2554,
-      "downloads": 597090,
-      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF"
-    },
-    {
-      "rank": 14,
-      "model_id": "nvidia/GLM-5.2-NVFP4",
-      "author": "nvidia",
-      "name": "GLM-5.2-NVFP4",
-      "pipeline_tag": "text-generation",
-      "pipeline_label": "文本生成",
-      "likes": 200,
-      "downloads": 136933,
-      "url": "https://huggingface.co/nvidia/GLM-5.2-NVFP4"
-    },
-    {
-      "rank": 15,
-      "model_id": "deepreinforce-ai/Ornith-1.0-397B",
-      "author": "deepreinforce-ai",
-      "name": "Ornith-1.0-397B",
-      "pipeline_tag": "text-generation",
-      "pipeline_label": "文本生成",
-      "likes": 186,
-      "downloads": 5792,
-      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-397B"
     }
   ]
 }

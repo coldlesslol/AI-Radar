@@ -1,14 +1,14 @@
 {
   "source": "Reddit ML",
   "layer": "community",
-  "updated": "2026-07-02T23:24:12+08:00",
+  "updated": "2026-07-03T22:00:41+08:00",
   "items": [
     {
       "title": "[D] Self-Promotion Thread",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "source": "Reddit ML",
-      "time": "13h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T02:15:27+00:00"
     },
@@ -17,61 +17,97 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uk949b/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
       "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-01T02:30:09+00:00"
+    },
+    {
+      "title": "Books/Resources to improve mathematical foundations for ML research [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulmy9g/booksresources_to_improve_mathematical/",
+      "summary": "I am a mid to late stage PhD student in ML. I've known this before, but only recently I started feeling this urgently: my mathematical foundations are shaky, because I kept &quot;learning-things-as-I-",
+      "source": "Reddit ML",
+      "time": "21h",
+      "tags": [],
+      "published_at": "2026-07-02T16:24:23+00:00"
     },
     {
       "title": "What do you think about paper fishing? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ulgunh/what_do_you_think_about_paper_fishing_d/",
       "summary": "I am working in a research group in Germany, not that well known but in general good output. I have one colleague who does nothing in his PhD. He does not want to work, or he is not able to do any goo",
       "source": "Reddit ML",
-      "time": "2h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T12:26:55+00:00"
+    },
+    {
+      "title": "BMVC 2026 Review Discussion Thread [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulnp4d/bmvc_2026_review_discussion_thread_d/",
+      "summary": "BMVC reviews will be out tomorrow. Making this parent thread for discussion. All the best everyone! &#32; submitted by &#32; /u/Hot_Version_6403 [link] &#32; [comments]",
+      "source": "Reddit ML",
+      "time": "21h",
+      "tags": [],
+      "published_at": "2026-07-02T16:52:04+00:00"
+    },
+    {
+      "title": "What does \"Safe AI\" look like? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1um9bs7/what_does_safe_ai_look_like_d/",
+      "summary": "&#x200b; For open-weight LLMs, how practical is it to study defenses against post-release fine-tuning that weakens refusal or safety behavior? I've been seeing “uncensored” or “heretic” variants of ne",
+      "source": "Reddit ML",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-03T09:07:26+00:00"
+    },
+    {
+      "title": "How papers are selected for Best Paper, Oral, or Highlight presentation at major ML/CV conferences such as CVPR, ICCV, ECCV, NeurIPS, and ICLR? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulnstb/how_papers_are_selected_for_best_paper_oral_or/",
+      "summary": "From what I understand, reviewers usually do not directly vote for these categories or nominate papers themselves. So how does the selection process typically work? Here are specific questions I wonde",
+      "source": "Reddit ML",
+      "time": "21h",
+      "tags": [],
+      "published_at": "2026-07-02T16:55:53+00:00"
     },
     {
       "title": "Hamiltonian Neural Networks from a Differential Geometry Perspective [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ukzdnj/hamiltonian_neural_networks_from_a_differential/",
       "summary": "This is a write-up on our company blog that I wrote, sharing our perspective into Hamiltonian Neural Networks (Greydanus et al., 2019) from a differential-geometry angle rather than the usual &quot;he",
       "source": "Reddit ML",
-      "time": "17h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T21:55:58+00:00"
     },
     {
-      "title": "IN 2026 ML BOOK OUTDATED? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulk5cd/in_2026_ml_book_outdated_d/",
-      "summary": "Hello everyone. I wanted to ask if the below book is a good source of machine learning in 2026 or if it is now outdated and if there are better options. Hands-on Machine Learning with. Scikit-Learn, K",
+      "title": "Improving machine-translated novels via style transfer — looking for advice on the faithfulness/fluency tradeoff [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulrdw9/improving_machinetranslated_novels_via_style/",
+      "summary": "Hey all. I recently started working on a project to improve machine-translated webnovels via style transfer. The basic idea is to take the clunky translated prose and rewrite it to something that read",
       "source": "Reddit ML",
-      "time": "43m",
+      "time": "18h",
       "tags": [],
-      "published_at": "2026-07-02T14:40:27+00:00"
+      "published_at": "2026-07-02T19:04:50+00:00"
     },
     {
       "title": "On July 1, 2026, arXiv will spin out from Cornell University, its home for the past 25 years, to become an independent nonprofit organization. Major funding support from Simons Foundation and Schmidt Sciences. Ditching the red for their website. [N]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ukjtlm/on_july_1_2026_arxiv_will_spin_out_from_cornell/",
       "summary": "arXiv’s next chapter: Updates on our spin out from Cornell University: https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/ &#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-01T12:07:43+00:00"
     },
     {
-      "title": "SentryCode: Real-time Auditor + Honeytokens for AI Coding Agents [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ul7ap2/sentrycode_realtime_auditor_honeytokens_for_ai/",
-      "summary": "In light of recent privacy concerns arising from local AI coding agents performing telemetry, environmental scanning, and hidden cue fingerprinting, I've open-sourced SentryCode—a kernel-level behavio",
+      "title": "Has anyone tried this approach with Fast Byte Latent Transformers ? [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulngy8/has_anyone_tried_this_approach_with_fast_byte/",
+      "summary": "Paper Referred:- https://arxiv.org/pdf/2412.09871v1 Has anyone switched the transformer in the entropy model here to a Mamba model ? What could be the possible changes ? Just a ML fresher asking a gen",
       "source": "Reddit ML",
-      "time": "11h",
+      "time": "21h",
       "tags": [],
-      "published_at": "2026-07-02T03:48:58+00:00"
+      "published_at": "2026-07-02T16:43:33+00:00"
     },
     {
       "title": "New PyMuPDF release, supports Markdown [N]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ukyciw/new_pymupdf_release_supports_markdown_n/",
       "summary": "https://pymupdf.io/blog/markdown-in-pymupdf-1-28 PyMuPDF 1.28 release, introduces Markdown as a first class document in PyMuPDF. Seems useful for a variety of workflows. You can create PDFs from Markd",
       "source": "Reddit ML",
-      "time": "18h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T21:15:56+00:00"
     },
@@ -80,63 +116,27 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ukotww/p_mothretrieval_graphfree_multihop_retrieval_via/",
       "summary": "We just open-sourced MOTHRAG, a multi-hop RAG framework that skips the knowledge graph entirely. We kept hitting the same wall building multi-hop RAG: the systems with the best accuracy (GraphRAG, Hip",
       "source": "Reddit ML",
-      "time": "23h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T15:26:53+00:00"
-    },
-    {
-      "title": "Making Optimization Work When Labels Are Scarce [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ul3ohk/making_optimization_work_when_labels_are_scarce_r/",
-      "summary": "https://www.gnosyslabs.com/case-studies/safety-classifier-sparse-labels Gnosys is an autonomous model engineer: it improves prompts and classifiers when ground truth is too sparse for conventional opt",
-      "source": "Reddit ML",
-      "time": "14h",
-      "tags": [],
-      "published_at": "2026-07-02T00:59:15+00:00"
     },
     {
       "title": "ACL ARR May 2026[D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ukud96/acl_arr_may_2026d/",
       "summary": "Hi everyone. Do the ACL arr may 2026 reviews come out of July 2nd or do they come out on July 7 th?? How much does one need to get into Main or Findings? I am a bit new to this. Thanks a lot folks. &#",
       "source": "Reddit ML",
-      "time": "20h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T18:48:58+00:00"
     },
     {
-      "title": "[D] Simple Questions Thread",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uko3x6/d_simple_questions_thread/",
-      "summary": "Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead! Thread will stay alive until next one so keep posting after ",
+      "title": "Making Optimization Work When Labels Are Scarce [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ul3ohk/making_optimization_work_when_labels_are_scarce_r/",
+      "summary": "https://www.gnosyslabs.com/case-studies/safety-classifier-sparse-labels Gnosys is an autonomous model engineer: it improves prompts and classifiers when ground truth is too sparse for conventional opt",
       "source": "Reddit ML",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-01T15:00:27+00:00"
-    },
-    {
-      "title": "A map of the latest 11 million papers split by semantic similarity and time slices [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ujn3u5/a_map_of_the_latest_11_million_papers_split_by/",
-      "summary": "I am building alternative ways explore scientifc literature. The goal was to make the large number of papers published daily easier to keep up with by visualising the macro scopic trend. It is free to",
-      "source": "Reddit ML",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-06-30T11:55:44+00:00"
-    },
-    {
-      "title": "ICML qr code visible [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukjh6y/icml_qr_code_visible_d/",
-      "summary": "Hi everyone, The check in QR code is visible at my profile despite that my card isn’t accepting the payment transaction. What does that even mean? Thanks! &#32; submitted by &#32; /u/misplacedlion [li",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-01T11:52:13+00:00"
-    },
-    {
-      "title": "How to describe a model that has higher accuracy with fewer #param and FLOPs? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukv9x5/how_to_describe_a_model_that_has_higher_accuracy/",
-      "summary": "Hello, My supervisor is nowhere to be found so I am turning to the internet for my naive questions. &#32; submitted by &#32; /u/obliviousphoenix2003 [link] &#32; [comments]",
-      "source": "Reddit ML",
-      "time": "20h",
-      "tags": [],
-      "published_at": "2026-07-01T19:21:38+00:00"
+      "published_at": "2026-07-02T00:59:15+00:00"
     }
   ]
 }

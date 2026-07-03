@@ -1,14 +1,50 @@
 {
   "source": "雷峰网",
   "layer": "news",
-  "updated": "2026-07-02T23:24:02+08:00",
+  "updated": "2026-07-03T22:00:37+08:00",
   "items": [
+    {
+      "title": "场景至上，实效为王：NAVIAI 人形机器人多领域应用场景领跑！",
+      "url": "https://www.leiphone.com/category/industrynews/CBx8Wb28sANFCEO5.html",
+      "summary": "2026年被业界广泛称为人形机器人“商业化落地元年”，而我们认为，真正跑通的应用场景才是打破“伪落地”质疑的唯一标尺。浙江人形凭借全栈自主可控的产品体系，已让领航者NAVIAI人形机器人在工业、服务、教育、数采等多领域真正“上手干活”，率先实现了从实验室技术验证到多领域规模化商用的关键跨越。应用领域&nbsp;01——工业制造中的“精工巧匠”浙江人形深耕真实场景，以多源、高质数据体系筑基，自研可泛",
+      "source": "雷峰网",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-03T09:52:00+00:00"
+    },
+    {
+      "title": "AI基础设施的下一个千亿市场，为何藏在网络里？",
+      "url": "https://www.leiphone.com/category/chips/hNKPixxr0fUhIr0E.html",
+      "summary": "过去六年，国产GPU公司一路站上AI风口，估值不断刷新，DPU却被忽略了。这并不符合产业现实。2020年英伟达完成收购Mellanox后，就已经明确了“GPU+CPU+DPU”的三芯战略。过去几年，英伟达也持续强化网络能力，黄仁勋在2026年CES展示“六芯组合”时，其中四款都与网络相关。一个越来越清晰的趋势开始浮出水面：AI基础设施的瓶颈，正在从算力本身转向网络与调度。尤其Agent时代到来后，",
+      "source": "雷峰网",
+      "time": "7h",
+      "tags": [],
+      "published_at": "2026-07-03T06:35:00+00:00"
+    },
+    {
+      "title": "算力之外的博弈：ICML 2026 透露了哪些学术硬通货？",
+      "url": "https://www.leiphone.com/category/private/AvP8p11JWo0fiWEl.html",
+      "summary": "告别盲目刷榜，28页 PPT 带你摸透 ICML 新风向。&nbsp; &nbsp; 作者丨陈淑瑜&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+      "source": "雷峰网",
+      "time": "7h",
+      "tags": [],
+      "published_at": "2026-07-03T06:31:00+00:00"
+    },
+    {
+      "title": "矿卡智驾是不是好生意？三年亏损12.4亿元，易控智驾仍未甩掉「重资产」的包袱",
+      "url": "https://www.leiphone.com/category/transportation/MUVKjPPs0O7fc4PW.html",
+      "summary": "成立八年的易控智驾，终于发起上市冲刺。近日，易控智驾向港交所递交招股书，第一次系统展示了这家无人矿卡公司的真实账本。可喜的是，这家公司在过去三年里跑出了惊人的加速度。截至2025年底，全国11个单矿超百辆的超级无人驾驶项目中，易控智驾拿下9个；其单矿部署车队规模突破500辆，成为全球最大的单矿无人驾驶车队。但忧的是，站在全球最大单矿无人驾驶车队背后的易控智驾，依然没有摆脱持续亏损。招股书显示，20",
+      "source": "雷峰网",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-03T03:41:00+00:00"
+    },
     {
       "title": "Claude Sonnet 5 上线一日差评刷屏：打不过千问和 Minimax，性价比全面翻车",
       "url": "https://www.leiphone.com/category/yanxishe/GLDTfDIWau83OKGC.html",
       "summary": "一张中文测评图把Claude Sonnet 5送上风口浪尖。&nbsp; &nbsp; 作者丨高允毅&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs",
       "source": "雷峰网",
-      "time": "4h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T11:22:00+00:00"
     },
@@ -17,7 +53,7 @@
       "url": "https://www.leiphone.com/category/ai/24ZpHMxxsean7Pmy.html",
       "summary": "大语言模型正在成为公众获取、理解和使用科技知识的重要工具，但是，它们能辨善恶吗？能否识别用户意图、理解具体语境、控制输出粒度，并在有用性与安全性之间保持稳定边界？7月2日于北京举行的2026全球数字经济大会云智算安全论坛上，《全球大语言模型安全防范能力测评报告（2026）》正式发布，该报告依据一套中国机构自主研发的科学测评方法体系，对全球主要大语言模型进行了一次统一标准的“体检”，作出了回答。（雷",
       "source": "雷峰网",
-      "time": "4h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T10:46:00+00:00"
     },
@@ -26,7 +62,7 @@
       "url": "https://www.leiphone.com/category/industrynews/97E4ZK92EoOpU0BY.html",
       "summary": "自变量机器人发布跨模态具身动作分词器 X-Tokenizer，将 VLA 中的动作离散化从单一的“压缩-重建”问题，重新定义为“多模态推理与动作之间的语义接口学习”问题。动作分词器决定了拆分出的动作 Token 是否具有语义，是否能加速预训练模型的收敛，从而最终影响了 VLA 模型输出连续动作的性能。这是自变量机器人的最新发现。具身智能的 VLA 模型（视觉-语言-动作模型）是将预训练的 VLM ",
       "source": "雷峰网",
-      "time": "4h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T10:32:00+00:00"
     },
@@ -35,7 +71,7 @@
       "url": "https://www.leiphone.com/category/industrynews/bn6JrENVQGf1G9tU.html",
       "summary": "雷峰网获悉，6月30日，影智XBOT“2026 XBOT通用餐饮具身机器人发布会”在北京举行，以产品、平台、商业闭环、生态开放为关键节点，正式发布自研具身操作系统XOS 3.0、AI Agent产品“爱宝店长”，以及三款覆盖咖啡、冰淇淋、全场景服务的通用餐饮具身机器人新品。 三者共同构成“一脑多形”的完整智能体系。XOS 3.0：为“一脑多形”而生的具身操作系统作为爱宝店长背后的技术底座，XOS ",
       "source": "雷峰网",
-      "time": "5h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T10:09:00+00:00"
     },
@@ -44,7 +80,7 @@
       "url": "https://www.leiphone.com/category/ai/Kt66f2aNWvTzcMod.html",
       "summary": "2026年6月25日，美国联邦贸易委员会（FTC）在一份例行公告中，批准了马斯克对一家名为 Mesh Optical Technologies 初创公司的收购。Mesh此前在科技圈几乎无人知晓。这家总部位于洛杉矶的公司2025年创立，直到2026年2月Thrive Capital领投5000万美元A轮融资时才首次对外亮相，公开“存在感”仅4个月。但Mesh的三位创始人却是马斯克的“老熟人”。特拉维",
       "source": "雷峰网",
-      "time": "5h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T09:32:00+00:00"
     },
@@ -53,7 +89,7 @@
       "url": "https://www.leiphone.com/category/yanxishe/w6us4wphPrRD8x6g.html",
       "summary": "连 AI 的 “外壳” 都学会自我迭代了&nbsp; &nbsp; 作者丨高允毅&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
       "source": "雷峰网",
-      "time": "8h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T07:10:00+00:00"
     },
@@ -62,7 +98,7 @@
       "url": "https://www.leiphone.com/category/chips/EAd6eTSPIeOOy4j7.html",
       "summary": "6月，在德国汉堡ISC高性能计算大会的展台上，GPU、液冷、量子计算的声浪依旧汹涌，但今年，会场的主角悄悄换了人。IO500榜单——全球高性能计算存储领域最权威的评测体系——公布了最新一期结果：中科曙光ParaStor F9000分布式全闪存储系统，同时拿下生产型全节点和10节点两大榜单的第一名。在这一榜单近十年的历史中，能够同时统领这两个维度的，此前只有少数几家美国厂商，中科曙光成为首家达成此成",
       "source": "雷峰网",
-      "time": "9h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T06:16:00+00:00"
     },
@@ -71,7 +107,7 @@
       "url": "https://www.leiphone.com/category/private/sADR0wFJaCQinCZr.html",
       "summary": "作者｜吴思梦编辑｜岑峰&nbsp;引言：&nbsp;2016年6月，纽约。David Silver站到了ICML的讲台上，用66页幻灯片，从Q-Learning一路推到AlphaGo。他传递出一种信念：把深度网络嫁接到强化学习上，通用智能的涌现就只是算力和工程问题。彼时距AlphaGo在首尔4∶1击败李世石仅三个月。&nbsp;十年后的2025年7月，温哥华。Anca Dragan——Google",
       "source": "雷峰网",
-      "time": "9h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T05:36:00+00:00"
     },
@@ -80,7 +116,7 @@
       "url": "https://www.leiphone.com/category/industrynews/bm5j7ZigtfWU5sL5.html",
       "summary": "过去足球赛场上的高光瞬间回顾，往往需要剪辑师回看素材，找到进球、庆祝、慢动作回放和观众反应，再切片、包装、加字幕，最后分发到不同平台。链路长，人工重，能不能接到热点爆发的流量，考验的是人的经验和手速。现在这条链路被拆开重组，开始由模型和工具链来接管赛事高光视频的完整生产流程。在新的链路中，AI 已经可以实时理解直播流，识别镜头切换、音频变化、球员庆祝、裁判哨音等信号，在关键事件发生后快速返回高光片",
       "source": "雷峰网",
-      "time": "11h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T03:32:00+00:00"
     },
@@ -89,7 +125,7 @@
       "url": "https://www.leiphone.com/category/shengwuyiyao/5hR8USux68fILtr1.html",
       "summary": "6月30日，Anthropic和OpenAI同时在AI4S赛道投下了各自的筹码。Anthropic发布了科研智能体工作台Claude Science，明确表态“不依赖新模型”，通过工作流整合现有能力来承包科学家的日常研究流程。OpenAI推出了GeneBench-Pro，一套覆盖基因组学、定量生物学等10个领域的评测基准，其测试数据显示，在129个真实科研workflow题目中，即便是最强的GPT",
       "source": "雷峰网",
-      "time": "13h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T02:11:00+00:00"
     },
@@ -98,7 +134,7 @@
       "url": "https://www.leiphone.com/category/private/Nw1OlDVlsfqh1PJq.html",
       "summary": "首尔见，ICML见，新方向见。&nbsp; &nbsp; 作者丨吴思梦&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
       "source": "雷峰网",
-      "time": "13h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T01:48:00+00:00"
     },
@@ -107,7 +143,7 @@
       "url": "https://www.leiphone.com/category/zaobao/8xIKNxdh5DASn0Tj.html",
       "summary": "要闻提示1.美国最强AI公司被曝暗藏针对中国的“监视代码”，官方回应：将在更新中删除2.优必选CEO：珍惜做牛马的时光吧，20年后全是机器人干活3.小米人事调整：中国区总裁王晓雁不再兼任销售运营一部总经理，陈幕楠接任4.山姆砍单多个苹果涨价前已付款订单，转头加价600元新上架遭质疑5.百度持续加码AI技术投入：再次引入年轻技术人才6.消息称iPhone17价格即将迎来调整7.“家电不换成格力，凭什",
       "source": "雷峰网",
-      "time": "14h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T00:52:00+00:00"
     },
@@ -125,7 +161,7 @@
       "url": "https://www.leiphone.com/category/industrynews/IUJkaiRJfWAKK6uy.html",
       "summary": "7月1日，赛力斯发布6月产销快报。6月问界交付新车30,199台，上半年累计交付同比增长10.2%。今年上半年，问界新品持续迭代升级，产品矩阵进一步丰富，迎来新一轮新品强周期。&nbsp;问界持续巩固高端市场地位 全新M9大定超4.2万二季度以来，问界高端产品结构优化升级，核心竞争力持续提升，市场反响热烈。全新一代问界M9系列上市一个月大定突破42000台；问界M6上市54天，累计交付超30000",
       "source": "雷峰网",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-01T13:13:00+00:00"
     },
@@ -134,7 +170,7 @@
       "url": "https://www.leiphone.com/category/industrynews/uUmZypOBARMHYx3W.html",
       "summary": "2026年6月23日，法国昂西国际动画电影节期间，由即梦AI与Dreamina AI主办的“AI动画国际峰会”在MIFA市场举行。这场以“技术与艺术的融合”为主题的峰会，汇聚了来自全球的获奖创作者、资深动画制片人与行业专家，通过作品展映与深度对谈，共同探索AI时代动画创作的新可能。今年5月，即梦AI和Dreamina AI面向全球发起AI动画作品及项目征集，共收到来自40多个国家和地区的近3000",
       "source": "雷峰网",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-01T10:42:00+00:00"
     },
@@ -143,45 +179,9 @@
       "url": "https://www.leiphone.com/category/ai/rzmbSvqty7wRNC3N.html",
       "summary": "Claude Code 负责人已回应：只是为了防止模型蒸馏！&nbsp; &nbsp; 作者丨樊天骄&nbsp; &nbsp; 编辑丨郑佳美&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs",
       "source": "雷峰网",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-01T10:37:00+00:00"
-    },
-    {
-      "title": "感知、控制与数据：ICRA 2026 中国企业报告的三个交汇点",
-      "url": "https://www.leiphone.com/category/robot/lfPVjqvr7wegDtRI.html",
-      "summary": "感知要融合，操作要柔顺，数据、模型要闭环。&nbsp; &nbsp; 作者丨向欣&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-01T09:46:00+00:00"
-    },
-    {
-      "title": "走访 ICRA 30+中国企业，我们发现具身智能产业三大趋势 | ICRA 2026",
-      "url": "https://www.leiphone.com/category/private/fDotgIuCGA028lZJ.html",
-      "summary": "「机器人的未来在中国。」&nbsp; &nbsp; 作者丨向欣 张贤&nbsp; &nbsp; 编辑丨高景辉&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-01T09:07:00+00:00"
-    },
-    {
-      "title": "英伟达为什么选了 Sharpa 的手？ICRA 2026现场我们找到了答案",
-      "url": "https://www.leiphone.com/category/robot/JFHcks3RY28319Mb.html",
-      "summary": "Sharpa技术布局拓展，正在自研数据采集方案。&nbsp; &nbsp; 作者丨向 &nbsp; 欣&nbsp; &nbsp; 编辑丨高景辉&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-01T08:58:00+00:00"
-    },
-    {
-      "title": "独家丨世界模型企业知天下完成天使轮融资，要做「中国版World Labs」",
-      "url": "https://www.leiphone.com/category/robot/f6tUYpkNfttVSBf3.html",
-      "summary": "通向世界模型之路：生成式3DGS基模。&nbsp; &nbsp; 作者丨向 &nbsp; 欣&nbsp; &nbsp; 编辑丨高景辉&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-01T08:53:00+00:00"
     }
   ]
 }

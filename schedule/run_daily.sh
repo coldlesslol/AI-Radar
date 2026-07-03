@@ -3,7 +3,9 @@
 # 顺序：OpenRouter 榜单 → RSS 新闻 → 股票 → SEC 财报 → Claude 打分摘要
 # 用法：bash schedule/run_daily.sh（从项目根目录执行）
 
-set -euo pipefail
+# 注意：不用 set -e。单个信源的瞬时网络抖动不应中止整条管线
+# （2026-07-03 openrouter DNS 失败曾导致整天零更新）。每步独立容错。
+set -uo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
@@ -12,24 +14,19 @@ PIPELINE="$PROJECT_DIR/pipeline"
 
 log() { echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*"; }
 
+# 单步容错：失败只记警告并继续，不中止后续信源
+step() { "$PYTHON" "$1" || log "警告：$1 失败（$?），跳过，继续后续步骤"; }
+
 log "=== TechRadar 每日更新开始 ==="
+cd "$PIPELINE"
 
-log "1/4 OpenRouter 榜单..."
-cd "$PIPELINE" && "$PYTHON" pull_openrouter.py
-
-log "2/4 RSS 新闻（Techmeme / 量子位 / HN）..."
-"$PYTHON" pull_rss.py
-
-log "3/4 股票数据..."
-"$PYTHON" pull_stocks.py
-
-log "4/5 GitHub Trending + HuggingFace + SEC 财报..."
-"$PYTHON" pull_github_trending.py
-"$PYTHON" pull_huggingface.py
-"$PYTHON" pull_filings.py
-
-log "5/5 Claude 打分 + 中文摘要..."
-"$PYTHON" pull_score.py
+log "1/7 OpenRouter 榜单...";            step pull_openrouter.py
+log "2/7 RSS 新闻（含企业/研报）...";      step pull_rss.py
+log "3/7 股票数据...";                    step pull_stocks.py
+log "4/7 GitHub Trending...";            step pull_github_trending.py
+log "5/7 HuggingFace Trending...";       step pull_huggingface.py
+log "6/7 SEC 财报...";                    step pull_filings.py
+log "7/7 Claude 打分 + 中文摘要...";       step pull_score.py
 
 log "=== 完成 ==="
 

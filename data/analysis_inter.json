@@ -1,14 +1,14 @@
 {
   "source": "Interconnects",
   "layer": "analysis",
-  "updated": "2026-07-02T23:25:16+08:00",
+  "updated": "2026-07-03T22:01:07+08:00",
   "items": [
     {
       "title": "Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
       "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
       "summary": "An assessment of the open ecosystem and the motivations behind releasing models",
       "source": "Interconnects",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-06-28T17:03:07+00:00"
     },
@@ -26,7 +26,7 @@
       "url": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
       "summary": "This post was originally an op-ed co-authored with Kevin Xu of Interconnected for a general, non-technical audience.",
       "source": "Interconnects",
-      "time": "13d",
+      "time": "14d",
       "tags": [],
       "published_at": "2026-06-19T13:02:47+00:00"
     },
@@ -44,7 +44,7 @@
       "url": "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
       "summary": "\"Interview\" #18",
       "source": "Interconnects",
-      "time": "16d",
+      "time": "17d",
       "tags": [],
       "published_at": "2026-06-16T13:29:30+00:00"
     }

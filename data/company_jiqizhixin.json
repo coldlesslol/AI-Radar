@@ -1,34 +1,25 @@
 {
   "source": "机器之心",
   "layer": "company",
-  "updated": "2026-07-02T23:25:04+08:00",
+  "updated": "2026-07-03T22:01:03+08:00",
   "items": [
     {
-      "title": "AI圈刚开始谈Loop Engineering，两位95后博士已经盯上了人类闭环数据 - qq.com",
+      "title": "AI圈刚开始谈Loop Engineering，两位95后博士已经盯上了人类闭环数据 - 腾讯新闻",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hOTM2T1lBLXIxaFdfZ29BWmlCUE5wdFBfZHZxZUx3X05BU3NRc2dvVUNFNFZsSVppbHB3M3ZqNFNINGg1Y0k0ZDRidllGX3Ixc1RVbFlB?oc=5",
-      "summary": "AI圈刚开始谈Loop Engineering，两位95后博士已经盯上了人类闭环数据&nbsp;&nbsp;qq.com",
+      "summary": "AI圈刚开始谈Loop Engineering，两位95后博士已经盯上了人类闭环数据&nbsp;&nbsp;腾讯新闻",
       "source": "机器之心",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-06-30T04:02:00+00:00"
     },
     {
-      "title": "实锤了：Claude Code偷查用户，时区、中国AI实验室全是关键词 - qq.com",
+      "title": "实锤了：Claude Code偷查用户，时区、中国AI实验室全是关键词 - 腾讯新闻",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yanZuanozZjJSemZDOWdSX2RUTm1xb3ByNUVRcnpLWGNZbXNVbHM4OFBQb096NzhoVHBta0lkTWo1bURnOFg1OXRzWFhxV2NLTmc4Y3Nn?oc=5",
-      "summary": "实锤了：Claude Code偷查用户，时区、中国AI实验室全是关键词&nbsp;&nbsp;qq.com",
+      "summary": "实锤了：Claude Code偷查用户，时区、中国AI实验室全是关键词&nbsp;&nbsp;腾讯新闻",
       "source": "机器之心",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-01T02:51:00+00:00"
-    },
-    {
-      "title": "国产AI高考708分，这款模型靠什么成为「屏蔽生」？ - qq.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SOWdqYldjUU5tejZ3dm1CQkhTYXdCWkRxYWRhQzFfVnlSUXpLRGl3cEd6N3U2Q1JDVTBtWDlZOWJzZktVaVNjdzJSWllia0pYR3F5VXJ3?oc=5",
-      "summary": "国产AI高考708分，这款模型靠什么成为「屏蔽生」？&nbsp;&nbsp;qq.com",
-      "source": "机器之心",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-06-26T06:58:00+00:00"
     }
   ]
 }

@@ -1,14 +1,41 @@
 {
   "source": "Latent Space",
   "layer": "newsletter",
-  "updated": "2026-07-02T23:24:21+08:00",
+  "updated": "2026-07-03T22:00:44+08:00",
   "items": [
+    {
+      "title": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+      "summary": "The AI Engineer World&#8217;s Fair ended with a debate about loops, a report on the state of AI engineering, and closing keynotes focused on what to build next.",
+      "source": "Latent Space",
+      "time": "8h",
+      "tags": [],
+      "published_at": "2026-07-03T05:11:43+00:00"
+    },
+    {
+      "title": "Vercel's Andrew Qu on why agents are a new kind of software",
+      "url": "https://www.latent.space/p/vercel-agents-new-software",
+      "summary": "The Vercel Chief of Software explains how its agent framework, eve, was created &#8212; and why skills, sandboxes and agent-readable websites now matter.",
+      "source": "Latent Space",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-07-03T00:08:18+00:00"
+    },
+    {
+      "title": "The website of the future may assemble itself for every visitor",
+      "url": "https://www.latent.space/p/the-website-of-the-future",
+      "summary": "Adobe is experimenting with &#8220;agentic sites&#8221; that generate pages around an individual user&#8217;s intent. At AIEWF, we talked to Carlos Sanchez about the Web's future.",
+      "source": "Latent Space",
+      "time": "16h",
+      "tags": [],
+      "published_at": "2026-07-02T21:25:14+00:00"
+    },
     {
       "title": "Skill engineering and the case against one-shot AI design",
       "url": "https://www.latent.space/p/skill-engineering-design",
       "summary": "Paul Bakaus talks to us about Impeccable, human judgment in a 'loopmaxxing' era, and why agents still need people to steer them.",
       "source": "Latent Space",
-      "time": "48m",
+      "time": "23h",
       "tags": [],
       "published_at": "2026-07-02T14:36:05+00:00"
     },
@@ -17,7 +44,7 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-900",
       "summary": "another quiet day.",
       "source": "Latent Space",
-      "time": "8h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T07:10:14+00:00"
     },
@@ -26,7 +53,7 @@
       "url": "https://www.latent.space/p/aiewf-daily-dispatch-agency",
       "summary": "The software factory vision met resistance today from speakers defending human understanding and control.",
       "source": "Latent Space",
-      "time": "9h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T06:13:49+00:00"
     },
@@ -35,7 +62,7 @@
       "url": "https://www.latent.space/p/autoresearch-introspection",
       "summary": "Introspection co-founder Roland Gavrilescu explains autoresearch, agent &#8220;recipes,&#8221; self-improving loops, and why humans remain central to the software factory.",
       "source": "Latent Space",
-      "time": "15h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T23:52:30+00:00"
     },
@@ -44,7 +71,7 @@
       "url": "https://www.latent.space/p/cursor-forward-deployed-engineers",
       "summary": "Cursor's Pauline Brunet explains how her team of Forward Deployed Engineers help organizations implement agents &#8212; essentially setting up software factories.",
       "source": "Latent Space",
-      "time": "20h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T19:03:44+00:00"
     },
@@ -65,33 +92,6 @@
       "time": "1d",
       "tags": [],
       "published_at": "2026-07-01T14:28:23+00:00"
-    },
-    {
-      "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
-      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
-      "summary": "On Tuesday at the AI Engineer World's Fair, there was a lot of talk about loops, agent engineering, and the emergence of software factories. Also a hot topic: open models.",
-      "source": "Latent Space",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-01T04:46:21+00:00"
-    },
-    {
-      "title": "[AINews] Sonnet 5 today, and Fable 5 tomorrow",
-      "url": "https://www.latent.space/p/ainews-sonnet-5-today-and-fable-5",
-      "summary": "Everything is open again!",
-      "source": "Latent Space",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-01T03:01:09+00:00"
-    },
-    {
-      "title": "Forward Deployed Engineers and the future of software engineering",
-      "url": "https://www.latent.space/p/forward-deployed-engineers-aiewf",
-      "summary": "Sierra's Natalie Meurer on why product engineers and forward deployed engineers are starting to converge.",
-      "source": "Latent Space",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-01T00:20:18+00:00"
     }
   ]
 }

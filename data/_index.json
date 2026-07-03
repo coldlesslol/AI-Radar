@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T23:32:44+08:00",
+  "updated": "2026-07-03T22:01:23+08:00",
   "files": {
     "rankings_openrouter": "rankings_openrouter.json",
     "news_techmeme": "news_techmeme.json",
@@ -45,7 +45,7 @@
     "analysis_mckinsey": "analysis_mckinsey.json"
   },
   "stats": {
-    "total_items": 699,
+    "total_items": 694,
     "last_run_status": "ok",
     "errors": [
       {
@@ -67,6 +67,11 @@
         "file": "analysis_ark",
         "error": "404 Client Error: Not Found for url: https://www.ark-invest.com/articles/feed",
         "at": "2026-07-02T19:56:46+08:00"
+      },
+      {
+        "file": "rankings_openrouter",
+        "error": "HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/frontend/v1/rankings/models (Caused by NameResolutionError(\"HTTPSConnection(host='openrouter.ai', port=443): Failed to resolve 'openrouter.ai' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-03T10:17:22+08:00"
       }
     ],
     "per_file": {
@@ -91,7 +96,7 @@
       "news_producthunt": 15,
       "research_arxiv": 20,
       "archive": 308,
-      "news_ars": 14,
+      "news_ars": 11,
       "news_mit_tr": 10,
       "news_tmtpost": 15,
       "news_geekpark": 0,
@@ -104,12 +109,12 @@
       "company_minimax": 0,
       "company_mistral": 4,
       "company_runway": 2,
-      "company_cohere": 2,
+      "company_cohere": 1,
       "analysis_ark": 0,
       "analysis_inter": 5,
       "analysis_raschka": 2,
       "company_xinzhiyuan": 8,
-      "company_jiqizhixin": 3,
+      "company_jiqizhixin": 2,
       "analysis_tisi": 0,
       "analysis_mckinsey": 10
     }

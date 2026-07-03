@@ -1,14 +1,14 @@
 {
   "source": "Ahead of AI",
   "layer": "analysis",
-  "updated": "2026-07-02T23:25:24+08:00",
+  "updated": "2026-07-03T22:01:09+08:00",
   "items": [
     {
       "title": "Using Local Coding Agents",
       "url": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
       "summary": "Using Open-Weight Models in Local Coding Harnesses as an Alternative to Claude Code and Codex Subscriptions",
       "source": "Ahead of AI",
-      "time": "5d",
+      "time": "6d",
       "tags": [],
       "published_at": "2026-06-27T11:21:58+00:00"
     },
@@ -17,7 +17,7 @@
       "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
       "summary": "A curated roundup of notable LLM research papers that came out this year",
       "source": "Ahead of AI",
-      "time": "26d",
+      "time": "27d",
       "tags": [],
       "published_at": "2026-06-06T11:16:22+00:00"
     }
