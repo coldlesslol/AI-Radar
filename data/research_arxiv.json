@@ -1,14 +1,14 @@
 {
   "source": "arXiv AI",
   "layer": "research",
-  "updated": "2026-07-03T22:00:51+08:00",
+  "updated": "2026-07-04T10:00:52+08:00",
   "items": [
     {
       "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
       "url": "https://arxiv.org/abs/2607.01306",
       "summary": "arXiv:2607.01306v1 Announce Type: new Abstract: Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -17,7 +17,7 @@
       "url": "https://arxiv.org/abs/2607.01366",
       "summary": "arXiv:2607.01366v1 Announce Type: new Abstract: Federated learning (FL) research often depends on many small but consequential algorithmic choices: optimizer variants, server aggregation rules, local ",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -26,7 +26,7 @@
       "url": "https://arxiv.org/abs/2607.01394",
       "summary": "arXiv:2607.01394v1 Announce Type: new Abstract: We present Wiola, a fully original Small Language Model (SLM) architecture built from first principles, sharing no structural lineage with any existing ",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -35,7 +35,7 @@
       "url": "https://arxiv.org/abs/2607.01425",
       "summary": "arXiv:2607.01425v1 Announce Type: new Abstract: Understanding large, complex codebases, especially those with obfuscated structures and incomplete documentation, remains a significant challenge. Exist",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -44,7 +44,7 @@
       "url": "https://arxiv.org/abs/2607.01426",
       "summary": "arXiv:2607.01426v1 Announce Type: new Abstract: Autonomous customer-service agents are shifting from conversational interfaces toward operational execution roles: they retrieve firm records, apply ser",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -53,7 +53,7 @@
       "url": "https://arxiv.org/abs/2607.01433",
       "summary": "arXiv:2607.01433v1 Announce Type: new Abstract: Divergent thinking is a crucial aspect of creativity, yet large language models (LLMs) tend to consistently generate similar responses to open-ended que",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -62,7 +62,7 @@
       "url": "https://arxiv.org/abs/2607.01436",
       "summary": "arXiv:2607.01436v1 Announce Type: new Abstract: Diffusion language models, which generate text by denoising a token canvas bidirectionally instead of emitting tokens left to right, have become competi",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -71,7 +71,7 @@
       "url": "https://arxiv.org/abs/2607.01465",
       "summary": "arXiv:2607.01465v1 Announce Type: new Abstract: Large language models are trained to predict the next token, not to act inside a specific API. In niche enterprise SaaS workflows -- where success means",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -80,7 +80,7 @@
       "url": "https://arxiv.org/abs/2607.01470",
       "summary": "arXiv:2607.01470v1 Announce Type: new Abstract: Clinical protocol-execution tasks -- checking a lab value, applying a threshold, placing a correctly structured FHIR order -- are natural candidates for",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -89,7 +89,7 @@
       "url": "https://arxiv.org/abs/2607.01480",
       "summary": "arXiv:2607.01480v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR), along with recent selfdistillation variants such as SDPO, evaluates each rollout against a verifi",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -98,7 +98,7 @@
       "url": "https://arxiv.org/abs/2607.01507",
       "summary": "arXiv:2607.01507v1 Announce Type: new Abstract: Empirical research rarely admits a unique analysis. Different analytical choices can lead to different conclusions from the same data, yet these hidden ",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -107,7 +107,7 @@
       "url": "https://arxiv.org/abs/2607.01510",
       "summary": "arXiv:2607.01510v1 Announce Type: new Abstract: AI agents that autonomously execute tool calls on a user's behalf raise pressing questions about permission management: what role could users play, and ",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -116,7 +116,7 @@
       "url": "https://arxiv.org/abs/2607.01511",
       "summary": "arXiv:2607.01511v1 Announce Type: new Abstract: Chain-of-thought (CoT) reasoning has emerged as an effective approach for activating latent reasoning capabilities in large language models. However, mo",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -125,7 +125,7 @@
       "url": "https://arxiv.org/abs/2607.01531",
       "summary": "arXiv:2607.01531v1 Announce Type: new Abstract: Learning how an environment behaves from interaction is central to building agents that adapt to unfamiliar tasks. World models learned with deep networ",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -134,7 +134,7 @@
       "url": "https://arxiv.org/abs/2607.01567",
       "summary": "arXiv:2607.01567v1 Announce Type: new Abstract: Deceptive behavior in LLMs is costly to monitor and prevent, motivating approaches such as Scalable Oversight via Lie Detectors (SOLiD) (Cundy & Gleave,",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -143,7 +143,7 @@
       "url": "https://arxiv.org/abs/2607.01584",
       "summary": "arXiv:2607.01584v1 Announce Type: new Abstract: Large language models have recently been explored for scientific hypothesis generation, but most prior work relies on unstructured literature and free-f",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -152,7 +152,7 @@
       "url": "https://arxiv.org/abs/2607.01590",
       "summary": "arXiv:2607.01590v1 Announce Type: new Abstract: Developing high-performance kernels for Neural Processing Units (NPUs) is a critical industry bottleneck, requiring developers to manually navigate impl",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -161,7 +161,7 @@
       "url": "https://arxiv.org/abs/2607.01595",
       "summary": "arXiv:2607.01595v1 Announce Type: new Abstract: As the scale and complexity of cloud-based AI systems continue to escalate, ensuring service reliability through rapid fault detection and adaptive reco",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -170,7 +170,7 @@
       "url": "https://arxiv.org/abs/2607.01601",
       "summary": "arXiv:2607.01601v1 Announce Type: new Abstract: Large scale document deduplication must preserve semantic equivalence while remaining efficient over massive corpora. We present SemHash LLM, a multi gr",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     },
@@ -179,7 +179,7 @@
       "url": "https://arxiv.org/abs/2607.01610",
       "summary": "arXiv:2607.01610v1 Announce Type: new Abstract: Counterfactual explanation (CE) is widely used to enhance the interpretability of machine learning models and support data-driven decision-making based ",
       "source": "arXiv AI",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T04:00:00+00:00"
     }

@@ -2,83 +2,83 @@
   "key": "openrouter",
   "title": "OpenRouter 模型使用榜（按 token 用量）",
   "freq": "daily",
-  "updated": "2026-07-02",
+  "updated": "2026-07-03",
   "url": "https://openrouter.ai/rankings",
   "items": [
     {
       "rank": 1,
       "name": "Deepseek: Deepseek V4 Flash",
-      "value": "5077.8B"
+      "value": "5279.7B"
     },
     {
       "rank": 2,
       "name": "Xiaomi: Mimo V2.5",
-      "value": "4183.9B"
+      "value": "4198.4B"
     },
     {
       "rank": 3,
       "name": "Minimax: Minimax M3",
-      "value": "3701.3B"
+      "value": "3898.9B"
     },
     {
       "rank": 4,
       "name": "Tencent: Hy3 Preview",
-      "value": "3679.2B"
+      "value": "3544.4B"
     },
     {
       "rank": 5,
       "name": "Z-ai: Glm 5.2",
-      "value": "2398.9B"
+      "value": "2438.1B"
     },
     {
       "rank": 6,
       "name": "Deepseek: Deepseek V4 Pro",
-      "value": "2212.9B"
+      "value": "2232.9B"
     },
     {
       "rank": 7,
       "name": "Anthropic: Claude 4.8 Opus",
-      "value": "2072.8B"
+      "value": "2074.4B"
     },
     {
       "rank": 8,
       "name": "Anthropic: Claude 4.7 Opus",
-      "value": "1838.4B"
+      "value": "1934.9B"
     },
     {
       "rank": 9,
       "name": "Stepfun: Step 3.7 Flash",
-      "value": "1534.9B"
+      "value": "1564.4B"
     },
     {
       "rank": 10,
       "name": "Anthropic: Claude 4.6 Sonnet",
-      "value": "1503.0B"
+      "value": "1471.6B"
     },
     {
       "rank": 11,
       "name": "Openai: Gpt 5.5",
-      "value": "1174.7B"
+      "value": "1163.5B"
     },
     {
       "rank": 12,
       "name": "Nvidia: Nemotron 3 Ultra 550b A55b",
-      "value": "959.4B"
+      "value": "1019.3B"
     },
     {
       "rank": 13,
       "name": "Google: Gemini 3 Flash Preview",
-      "value": "938.8B"
+      "value": "939.6B"
     },
     {
       "rank": 14,
       "name": "Poolside: Laguna M.1",
-      "value": "814.4B"
+      "value": "816.2B"
     },
     {
       "rank": 15,
       "name": "Google: Gemini 2.5 Flash Lite",
-      "value": "595.3B"
+      "value": "613.4B"
     }
   ]
 }

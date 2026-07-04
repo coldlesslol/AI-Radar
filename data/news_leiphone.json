@@ -1,14 +1,41 @@
 {
   "source": "雷峰网",
   "layer": "news",
-  "updated": "2026-07-03T22:00:37+08:00",
+  "updated": "2026-07-04T10:00:30+08:00",
   "items": [
+    {
+      "title": "谷歌为什么做不好「AI 编程」？",
+      "url": "https://www.leiphone.com/category/industrynews/Sq0Kbi3YMIFYEPXn.html",
+      "summary": "谷歌，去年凭借大模型能力反超逆袭，出尽了风头，甚至一度被投资人喊出“市值能到10万亿”。但奇怪的是，谷歌在AI编程这一关键领域一直籍籍无名。强大如谷歌，为何在AI coding（AI 编程）上瘸了腿？更令人惊讶的是，不止谷歌。纵观中美互联网巨头，在AI编程上都表现平平。Cursor、Claude Code、Codex、智谱、MiniMax……这些程序员圈子里耳熟能详的产品中，来自互联网大厂的寥寥无",
+      "source": "雷峰网",
+      "time": "11h",
+      "tags": [],
+      "published_at": "2026-07-03T14:16:00+00:00"
+    },
+    {
+      "title": "独家丨猛士下款新车将进军泛越野，预计售价20-25万",
+      "url": "https://www.leiphone.com/category/transportation/UQkXlB0ztZlFxtta.html",
+      "summary": "7月3日，雷峰网从多方获悉，猛士汽车在打造一款全新车型，内部代号为“U”系列。新车将对标方程豹钛7，采用承载式车身（无大梁），主打&quot;泛越野&quot;概念，车身尺寸在4.9米左右，电机功率会比现有车型略低，定价区间主要锁定在20万-25万元，顶配车型或搭载2.0T电机，但定价不超过27万元。这意味着，猛士将首次从硬派越野赛道杀入城市SUV市场，而新车交付时间定在今年Q4。猛士汽车现有2款",
+      "source": "雷峰网",
+      "time": "12h",
+      "tags": [],
+      "published_at": "2026-07-03T13:04:00+00:00"
+    },
+    {
+      "title": "生数科技发布 Vidu S1，推动视频生成迈向“实时交互”新时代",
+      "url": "https://www.leiphone.com/category/industrynews/6GlFzI5hMwcfRoGZ.html",
+      "summary": "7月3日，在2026全球数字经济大会人工智能融合应用发展论坛，生数科技创始人朱军发表题为《通用世界模型，推动数字世界与物理世界统一的新范式》的主题演讲，并正式发布面向实时交互场景的新一代模型——Vidu S1 实时交互模型。大会期间，北京软件和信息服务业协会（BSIA）正式发布《2025年北京市数字经济标杆企业评价报告》，生数科技凭借在技术创新与产业应用方面的突出表现，成功入选“新模式新应用标杆企",
+      "source": "雷峰网",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-07-03T12:48:00+00:00"
+    },
     {
       "title": "场景至上，实效为王：NAVIAI 人形机器人多领域应用场景领跑！",
       "url": "https://www.leiphone.com/category/industrynews/CBx8Wb28sANFCEO5.html",
       "summary": "2026年被业界广泛称为人形机器人“商业化落地元年”，而我们认为，真正跑通的应用场景才是打破“伪落地”质疑的唯一标尺。浙江人形凭借全栈自主可控的产品体系，已让领航者NAVIAI人形机器人在工业、服务、教育、数采等多领域真正“上手干活”，率先实现了从实验室技术验证到多领域规模化商用的关键跨越。应用领域&nbsp;01——工业制造中的“精工巧匠”浙江人形深耕真实场景，以多源、高质数据体系筑基，自研可泛",
       "source": "雷峰网",
-      "time": "4h",
+      "time": "16h",
       "tags": [],
       "published_at": "2026-07-03T09:52:00+00:00"
     },
@@ -17,7 +44,7 @@
       "url": "https://www.leiphone.com/category/chips/hNKPixxr0fUhIr0E.html",
       "summary": "过去六年，国产GPU公司一路站上AI风口，估值不断刷新，DPU却被忽略了。这并不符合产业现实。2020年英伟达完成收购Mellanox后，就已经明确了“GPU+CPU+DPU”的三芯战略。过去几年，英伟达也持续强化网络能力，黄仁勋在2026年CES展示“六芯组合”时，其中四款都与网络相关。一个越来越清晰的趋势开始浮出水面：AI基础设施的瓶颈，正在从算力本身转向网络与调度。尤其Agent时代到来后，",
       "source": "雷峰网",
-      "time": "7h",
+      "time": "19h",
       "tags": [],
       "published_at": "2026-07-03T06:35:00+00:00"
     },
@@ -26,7 +53,7 @@
       "url": "https://www.leiphone.com/category/private/AvP8p11JWo0fiWEl.html",
       "summary": "告别盲目刷榜，28页 PPT 带你摸透 ICML 新风向。&nbsp; &nbsp; 作者丨陈淑瑜&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
       "source": "雷峰网",
-      "time": "7h",
+      "time": "19h",
       "tags": [],
       "published_at": "2026-07-03T06:31:00+00:00"
     },
@@ -35,7 +62,7 @@
       "url": "https://www.leiphone.com/category/transportation/MUVKjPPs0O7fc4PW.html",
       "summary": "成立八年的易控智驾，终于发起上市冲刺。近日，易控智驾向港交所递交招股书，第一次系统展示了这家无人矿卡公司的真实账本。可喜的是，这家公司在过去三年里跑出了惊人的加速度。截至2025年底，全国11个单矿超百辆的超级无人驾驶项目中，易控智驾拿下9个；其单矿部署车队规模突破500辆，成为全球最大的单矿无人驾驶车队。但忧的是，站在全球最大单矿无人驾驶车队背后的易控智驾，依然没有摆脱持续亏损。招股书显示，20",
       "source": "雷峰网",
-      "time": "10h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-03T03:41:00+00:00"
     },
@@ -134,7 +161,7 @@
       "url": "https://www.leiphone.com/category/private/Nw1OlDVlsfqh1PJq.html",
       "summary": "首尔见，ICML见，新方向见。&nbsp; &nbsp; 作者丨吴思梦&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
       "source": "雷峰网",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-02T01:48:00+00:00"
     },
@@ -143,7 +170,7 @@
       "url": "https://www.leiphone.com/category/zaobao/8xIKNxdh5DASn0Tj.html",
       "summary": "要闻提示1.美国最强AI公司被曝暗藏针对中国的“监视代码”，官方回应：将在更新中删除2.优必选CEO：珍惜做牛马的时光吧，20年后全是机器人干活3.小米人事调整：中国区总裁王晓雁不再兼任销售运营一部总经理，陈幕楠接任4.山姆砍单多个苹果涨价前已付款订单，转头加价600元新上架遭质疑5.百度持续加码AI技术投入：再次引入年轻技术人才6.消息称iPhone17价格即将迎来调整7.“家电不换成格力，凭什",
       "source": "雷峰网",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-02T00:52:00+00:00"
     },
@@ -152,36 +179,9 @@
       "url": "https://www.leiphone.com/category/industrynews/CpoGYmsPl9BAuO0W.html",
       "summary": "过去一年，几乎所有人都在追问同一个问题： AI 大模型还能变得多聪明？Agent、多模态、端侧部署，构成了 AI 产业最热闹的叙事。但当 AI 开始进入眼镜、汽车、机器人、摄像头这些物理载体，开始在道路、工厂、家庭和人类交互之后，我们发现，现实世界和 AI 大模型之间，还有最后一公里的路没有打通。AI 眼镜要识别眼前的文字，Robotaxi 要判断周围路况，机器人要决定下一步动作。它们依赖的不只是",
       "source": "雷峰网",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-01T14:05:00+00:00"
-    },
-    {
-      "title": "赛力斯发布6月产销快报 1-6月问界累计交付同比增长10.2%",
-      "url": "https://www.leiphone.com/category/industrynews/IUJkaiRJfWAKK6uy.html",
-      "summary": "7月1日，赛力斯发布6月产销快报。6月问界交付新车30,199台，上半年累计交付同比增长10.2%。今年上半年，问界新品持续迭代升级，产品矩阵进一步丰富，迎来新一轮新品强周期。&nbsp;问界持续巩固高端市场地位 全新M9大定超4.2万二季度以来，问界高端产品结构优化升级，核心竞争力持续提升，市场反响热烈。全新一代问界M9系列上市一个月大定突破42000台；问界M6上市54天，累计交付超30000",
-      "source": "雷峰网",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-01T13:13:00+00:00"
-    },
-    {
-      "title": "即梦AI携创作者亮相法国昂西动画节，3000份全球投稿勾勒AI动画创作新图景",
-      "url": "https://www.leiphone.com/category/industrynews/uUmZypOBARMHYx3W.html",
-      "summary": "2026年6月23日，法国昂西国际动画电影节期间，由即梦AI与Dreamina AI主办的“AI动画国际峰会”在MIFA市场举行。这场以“技术与艺术的融合”为主题的峰会，汇聚了来自全球的获奖创作者、资深动画制片人与行业专家，通过作品展映与深度对谈，共同探索AI时代动画创作的新可能。今年5月，即梦AI和Dreamina AI面向全球发起AI动画作品及项目征集，共收到来自40多个国家和地区的近3000",
-      "source": "雷峰网",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-01T10:42:00+00:00"
-    },
-    {
-      "title": "Reddit 上爆出大猛料，Claude 为何封号中国用户又快又准？",
-      "url": "https://www.leiphone.com/category/ai/rzmbSvqty7wRNC3N.html",
-      "summary": "Claude Code 负责人已回应：只是为了防止模型蒸馏！&nbsp; &nbsp; 作者丨樊天骄&nbsp; &nbsp; 编辑丨郑佳美&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs",
-      "source": "雷峰网",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-01T10:37:00+00:00"
     }
   ]
 }

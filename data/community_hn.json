@@ -1,187 +1,187 @@
 {
   "source": "HN",
   "layer": "community",
-  "updated": "2026-07-03T22:00:39+08:00",
+  "updated": "2026-07-04T10:00:39+08:00",
   "items": [
     {
-      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
-      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
-      "summary": "Article URL: https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/ Comments URL: https://news.ycombinator.com/item?id=48774518 Points: 50 # C",
-      "source": "HN",
-      "time": "58m",
-      "tags": [],
-      "published_at": "2026-07-03T13:01:49+00:00"
-    },
-    {
-      "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit",
-      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-      "summary": "Article URL: https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit Comments URL: https://news.ycombinator.com/item?id=48774509 Points: 20 # Comments: 2",
+      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+      "url": "https://mrbruh.com/msicenter/",
+      "summary": "Article URL: https://mrbruh.com/msicenter/ Comments URL: https://news.ycombinator.com/item?id=48781688 Points: 20 # Comments: 5",
       "source": "HN",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-03T13:00:31+00:00"
+      "published_at": "2026-07-04T00:57:44+00:00"
     },
     {
-      "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective",
-      "url": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
-      "summary": "Article URL: https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html Comments URL: https://news.ycombinator.com/item?id=48774454 Points: 54 # Comments: 24",
+      "title": "Soatok's Informal Guide to Threat Models",
+      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+      "summary": "Article URL: https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/ Comments URL: https://news.ycombinator.com/item?id=48781597 Points: 28 # Comments: 2",
       "source": "HN",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-03T12:54:53+00:00"
+      "published_at": "2026-07-04T00:35:49+00:00"
     },
     {
-      "title": "Gemini Code Assist will be shut down on July 17",
-      "url": "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code",
-      "summary": "Article URL: https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code Comments URL: https://news.ycombinator.com/item?id=48774429 Points: 8 # Comments: 0",
+      "title": "What does privatization of the US Postal Service mean?",
+      "url": "https://phenomenalworld.org/analysis/unstitching-america/",
+      "summary": "Article URL: https://phenomenalworld.org/analysis/unstitching-america/ Comments URL: https://news.ycombinator.com/item?id=48781433 Points: 32 # Comments: 35",
       "source": "HN",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-03T12:52:48+00:00"
+      "published_at": "2026-07-04T00:01:18+00:00"
     },
     {
-      "title": "Please stop the AI confidence theater",
-      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 67 # Comments: 33",
+      "title": "Scientists discover guidance system for migratory songbirds",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/",
+      "summary": "Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/ Comments URL: https://news.ycombinator.com/item?id=487812",
       "source": "HN",
-      "time": "1h",
+      "time": "2h",
       "tags": [],
-      "published_at": "2026-07-03T12:51:17+00:00"
+      "published_at": "2026-07-03T23:36:46+00:00"
     },
     {
-      "title": "Goodebye Forever Probably: Why I’m leaving developer relations",
-      "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
-      "summary": "Article URL: https://whitep4nth3r.com/blog/goodbye-forever-probably/ Comments URL: https://news.ycombinator.com/item?id=48774195 Points: 5 # Comments: 2",
+      "title": "The circuit that lets your brain think and see",
+      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
+      "summary": "Article URL: https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see Comments URL: https://news.ycombinator.com/item?id=48780996 Points: 35 # Comments: 4",
       "source": "HN",
-      "time": "1h",
+      "time": "3h",
       "tags": [],
-      "published_at": "2026-07-03T12:27:23+00:00"
+      "published_at": "2026-07-03T22:56:17+00:00"
     },
     {
-      "title": "Commodore 64 Basic for PostgreSQL",
-      "url": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
-      "summary": "Article URL: https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html Comments URL: https://news.ycombinator.com/item?id=48772717 Points: 26 # Comments: 6",
+      "title": "Amsterdam invented the fire department",
+      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
+      "summary": "Article URL: https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/ Comments URL: https://news.ycombinator.com/item?id=48780913 Points: 37 # Comments: 9",
+      "source": "HN",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-03T22:46:18+00:00"
+    },
+    {
+      "title": "Giant trees have no trouble pumping water to top branches",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+      "summary": "Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/ Comments URL: https://news.ycombinator.com/item?id=48780870",
+      "source": "HN",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-03T22:40:29+00:00"
+    },
+    {
+      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
+      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+      "summary": "Article URL: https://github.com/FossPrime/Steam-Controller-Auto-Charge Comments URL: https://news.ycombinator.com/item?id=48780865 Points: 65 # Comments: 11",
+      "source": "HN",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-03T22:39:50+00:00"
+    },
+    {
+      "title": "Dispersion loss counteracts embedding condensation in small language models",
+      "url": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
+      "summary": "Article URL: https://chenliu-1996.github.io/projects/LM-Dispersion/ Comments URL: https://news.ycombinator.com/item?id=48780826 Points: 21 # Comments: 5",
+      "source": "HN",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-03T22:35:47+00:00"
+    },
+    {
+      "title": "GitFut – Your GitHub stats turned into a World-Cup-style player card",
+      "url": "https://gitfut.com",
+      "summary": "Article URL: https://gitfut.com Comments URL: https://news.ycombinator.com/item?id=48780812 Points: 16 # Comments: 9",
+      "source": "HN",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-03T22:34:16+00:00"
+    },
+    {
+      "title": "Leanstral 1.5: Proof Abundance for All",
+      "url": "https://mistral.ai/news/leanstral-1-5/",
+      "summary": "Article URL: https://mistral.ai/news/leanstral-1-5/ Comments URL: https://news.ycombinator.com/item?id=48780801 Points: 80 # Comments: 19",
+      "source": "HN",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-03T22:33:10+00:00"
+    },
+    {
+      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "summary": "Article URL: https://www.wafer.ai/blog/glm52-amd Comments URL: https://news.ycombinator.com/item?id=48780417 Points: 85 # Comments: 20",
       "source": "HN",
       "time": "4h",
       "tags": [],
-      "published_at": "2026-07-03T09:08:14+00:00"
+      "published_at": "2026-07-03T21:49:06+00:00"
     },
     {
-      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
-      "url": "https://wordgard.net/",
-      "summary": "Article URL: https://wordgard.net/ Comments URL: https://news.ycombinator.com/item?id=48772573 Points: 88 # Comments: 44",
+      "title": "Software, from First Principles",
+      "url": "https://fazamhd.com/mental-models/software/",
+      "summary": "Article URL: https://fazamhd.com/mental-models/software/ Comments URL: https://news.ycombinator.com/item?id=48780224 Points: 32 # Comments: 7",
+      "source": "HN",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-03T21:28:55+00:00"
+    },
+    {
+      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "summary": "Article URL: https://epoch.ai/data-insights/cve-severity-spike Comments URL: https://news.ycombinator.com/item?id=48780056 Points: 44 # Comments: 8",
+      "source": "HN",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-03T21:16:16+00:00"
+    },
+    {
+      "title": "Africans Are Turning to Starlink",
+      "url": "https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink",
+      "summary": "Article URL: https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink Comments URL: https://news.ycombinator.com/item?id=48779977 Points: 107 # Comments: 107",
+      "source": "HN",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-03T21:08:37+00:00"
+    },
+    {
+      "title": "Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left",
+      "url": "https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead",
+      "summary": "Article URL: https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead Comments URL: https://news.ycombinator.com/item?id=48779906 Points: 0 # Comments: 0",
+      "source": "HN",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-03T21:00:50+00:00"
+    },
+    {
+      "title": "Applied Category Theory Course (2018)",
+      "url": "https://math.ucr.edu/home/baez/act_course/index.html",
+      "summary": "Article URL: https://math.ucr.edu/home/baez/act_course/index.html Comments URL: https://news.ycombinator.com/item?id=48779723 Points: 52 # Comments: 7",
       "source": "HN",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-03T08:50:47+00:00"
+      "published_at": "2026-07-03T20:42:00+00:00"
     },
     {
-      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-      "summary": "Article URL: https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/ Comments URL: https://news.ycombinator.com/item?id=48772443 Point",
+      "title": "Espionage Against the European Parliament",
+      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+      "summary": "Article URL: https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/ Comments URL: https://news.ycombinator.com/item?id=48779683 Points: 272 # Comments: 67",
       "source": "HN",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-03T08:31:37+00:00"
+      "published_at": "2026-07-03T20:38:26+00:00"
     },
     {
-      "title": "Half-Baked Product",
-      "url": "https://weli.dev/blog/half-baked-product/",
-      "summary": "Article URL: https://weli.dev/blog/half-baked-product/ Comments URL: https://news.ycombinator.com/item?id=48772388 Points: 553 # Comments: 151",
+      "title": "SearXNG: A free internet metasearch engine",
+      "url": "https://github.com/searxng/searxng",
+      "summary": "Article URL: https://github.com/searxng/searxng Comments URL: https://news.ycombinator.com/item?id=48779454 Points: 131 # Comments: 40",
       "source": "HN",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-03T08:23:32+00:00"
+      "published_at": "2026-07-03T20:15:49+00:00"
     },
     {
-      "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
-      "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
-      "summary": "Article URL: https://manticoresearch.com/blog/onnx-embeddings-speedup/ Comments URL: https://news.ycombinator.com/item?id=48770477 Points: 72 # Comments: 12",
+      "title": "FreeBSD ate my RAM",
+      "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
+      "summary": "Article URL: https://crocidb.com/post/freebsd-ate-my-ram/ Comments URL: https://news.ycombinator.com/item?id=48778757 Points: 86 # Comments: 38",
       "source": "HN",
-      "time": "10h",
+      "time": "6h",
       "tags": [],
-      "published_at": "2026-07-03T03:49:47+00:00"
-    },
-    {
-      "title": "The Safari MCP server for web developers",
-      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-      "summary": "Article URL: https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/ Comments URL: https://news.ycombinator.com/item?id=48769639 Points: 143 # Comments: 38",
-      "source": "HN",
-      "time": "12h",
-      "tags": [],
-      "published_at": "2026-07-03T01:37:11+00:00"
-    },
-    {
-      "title": "CarPlay Is Additive",
-      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-      "summary": "Article URL: https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts Comments URL: https://news.ycombinator.com/item?id=48769397 Points: 415 # Comments: 557",
-      "source": "HN",
-      "time": "12h",
-      "tags": [],
-      "published_at": "2026-07-03T01:02:45+00:00"
-    },
-    {
-      "title": "An American Privacy Emergency",
-      "url": "https://scottaaronson.blog/?p=9902",
-      "summary": "Recent and related:Noise infusion banned from statistical products published by Census Bureau - https://news.ycombinator.com/item?id=48517377 - June 2026 (604 comments) Comments URL: https://news.ycom",
-      "source": "HN",
-      "time": "13h",
-      "tags": [],
-      "published_at": "2026-07-03T00:01:06+00:00"
-    },
-    {
-      "title": "Right to Local Intelligence",
-      "url": "https://righttointelligence.org/",
-      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 350 # Comments: 119",
-      "source": "HN",
-      "time": "14h",
-      "tags": [],
-      "published_at": "2026-07-02T23:54:03+00:00"
-    },
-    {
-      "title": "crustc: entirety of `rustc`, translated to C",
-      "url": "https://github.com/FractalFir/crustc",
-      "summary": "Article URL: https://github.com/FractalFir/crustc Comments URL: https://news.ycombinator.com/item?id=48768464 Points: 326 # Comments: 62",
-      "source": "HN",
-      "time": "15h",
-      "tags": [],
-      "published_at": "2026-07-02T22:57:35+00:00"
-    },
-    {
-      "title": "Virginia bans sale of geolocation data",
-      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-      "summary": "Article URL: https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data Comments URL: https://news.ycombinator.com/item?id=48767347 Points: 887 # Comments: 132",
-      "source": "HN",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-02T21:03:45+00:00"
-    },
-    {
-      "title": "The short leash AI coding method for beating Fable",
-      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 158 # Comments: 199",
-      "source": "HN",
-      "time": "18h",
-      "tags": [],
-      "published_at": "2026-07-02T19:11:57+00:00"
-    },
-    {
-      "title": "Exapunks (2018)",
-      "url": "https://www.zachtronics.com/exapunks/",
-      "summary": "Article URL: https://www.zachtronics.com/exapunks/ Comments URL: https://news.ycombinator.com/item?id=48765663 Points: 306 # Comments: 106",
-      "source": "HN",
-      "time": "19h",
-      "tags": [],
-      "published_at": "2026-07-02T18:41:19+00:00"
-    },
-    {
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "summary": "Article URL: https://mathstodon.xyz/@iblech/116769502749142438 Comments URL: https://news.ycombinator.com/item?id=48763035 Points: 505 # Comments: 215",
-      "source": "HN",
-      "time": "22h",
-      "tags": [],
-      "published_at": "2026-07-02T15:25:16+00:00"
+      "published_at": "2026-07-03T19:08:31+00:00"
     }
   ]
 }

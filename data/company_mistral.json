@@ -1,16 +1,34 @@
 {
   "source": "Mistral",
   "layer": "company",
-  "updated": "2026-07-03T22:01:04+08:00",
+  "updated": "2026-07-04T10:01:00+08:00",
   "items": [
+    {
+      "title": "Leanstral 1.5: Proof Abundance for All - mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12TlFuT3dEdGtDSGd1VUZVbXpUTGNaVjRtQThwZTJoMWZFQzJhVUtHTXAxLXZzSi0wd1A1azhCWU5hZEFfOUR3NGlNODVwRXc?oc=5",
+      "summary": "Leanstral 1.5: Proof Abundance for All&nbsp;&nbsp;mistral.ai",
+      "source": "Mistral",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-02T07:00:00+00:00"
+    },
     {
       "title": "BMW Group and Mistral AI collaborate to advance AI in crash simulation - Engineer Live",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTE9ZeTJDT1hvUEhTWTZLVnR4eDlkUTROYVJDYjFmV2dkRlVEYXQ1XzBvMVFXZEVSZWtoRjhneUo2b2s4X1NpR3hKeS1la3B4U2tuZnE2R256SFNFQzJrekxyQ0FDQ2ZpYU0xeF8yM295ZmVQYzg3Vno5NGxiVU9ERGtmenZuR3hxWHdOcjJhbXU2RUdu?oc=5",
       "summary": "BMW Group and Mistral AI collaborate to advance AI in crash simulation&nbsp;&nbsp;Engineer Live",
       "source": "Mistral",
-      "time": "1d",
+      "time": "15h",
       "tags": [],
-      "published_at": "2026-07-02T10:08:23+00:00"
+      "published_at": "2026-07-03T10:34:25+00:00"
+    },
+    {
+      "title": "Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems - MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdnJkSTA0NDFkUnpDaWZTYjdKVmROaEdNNVNON3RrNTctMlBBdmZRanl0VHZmLXpZaXJRYnBFVF9haEI1eVhORFFnLTFBenJZQ3VzWE5BT25FMGtHcWJ5MVNkTnpIUDVUcFBYQk5SdE5oc2haVW1OWVd2aUJvR0taamd4N3Jpd3BXbkN3RHNXQWhrYXg2WXVzM1NvV181RHh4WVFVdl9ibDQ2UnpzTUVhRTBFTTJHY0RlaVVpWkVwczdRZXZHdENSQXo3Y0FnQkU1cFk5YVNZWHVNdFQwN2t5VFh3ZDRTOFU?oc=5",
+      "summary": "Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems&nbsp;&nbsp;MarkTechPost",
+      "source": "Mistral",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-03T22:20:26+00:00"
     },
     {
       "title": "Portugal Launches Amália, Its First Open-Source AI Model - Technology Org",
@@ -29,15 +47,6 @@
       "time": "2d",
       "tags": [],
       "published_at": "2026-07-01T07:05:00+00:00"
-    },
-    {
-      "title": "Portugal launches first open-source AI model, joining Europe’s sovereignty push - KELO-AM",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdklCTGxub2FrT3dQZjZrXzR1RVFGY0s5blN5YUpCYjVUNldoeFMycHRkOXhNOUw4ZnVXLTlZQjhXV1pGU25OZUR4Z1llaG42ZFUxcmZoQWdXUm5ZWnp3T0o0RlA1TlJmTk0yWGRZZTc1bUNBZnZLclZWYS1jOE1Zajk0c3hycllRd2NjWm9kRVYtd0tFNHE1NVRUaHZTWGpoMXZJeW9rYlhPUQ?oc=5",
-      "summary": "Portugal launches first open-source AI model, joining Europe’s sovereignty push&nbsp;&nbsp;KELO-AM",
-      "source": "Mistral",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-01T16:34:04+00:00"
     }
   ]
 }

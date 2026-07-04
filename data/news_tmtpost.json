@@ -1,23 +1,59 @@
 {
   "source": "钛媒体",
   "layer": "news",
-  "updated": "2026-07-03T22:00:38+08:00",
+  "updated": "2026-07-04T10:00:31+08:00",
   "items": [
+    {
+      "title": "Momenta上市：600 亿市值、三年营收45亿与物理AI",
+      "url": "https://www.tmtpost.com/8052365.html",
+      "summary": "增长、代价与新叙事",
+      "source": "钛媒体",
+      "time": "32m",
+      "tags": [],
+      "published_at": "2026-07-04T01:28:15+00:00"
+    },
+    {
+      "title": "为什么英伟达必须更像苹果，才能继续坐稳全球市值第一",
+      "url": "https://www.tmtpost.com/8052689.html",
+      "summary": "在争夺全球市值最高公司的竞争中，英伟达正逐渐被苹果甩开。",
+      "source": "钛媒体",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-04T00:03:07+00:00"
+    },
+    {
+      "title": "可灵AI两部作品同时拿下戛纳金狮，视频大模型闯进商业创意主战场",
+      "url": "https://www.tmtpost.com/8052433.html",
+      "summary": "当2026年的夏天，AI不再只做隐藏在制作流程里的工具，它便打开了一个比技术参数更大的商业空间。",
+      "source": "钛媒体",
+      "time": "11h",
+      "tags": [],
+      "published_at": "2026-07-03T14:23:57+00:00"
+    },
     {
       "title": "165 Days: Pitfalls and Profits in Latin America Cross-Border E-Commerce",
       "url": "https://www.tmtpost.com/8052542.html",
       "summary": "",
       "source": "钛媒体",
-      "time": "1h",
+      "time": "13h",
       "tags": [],
       "published_at": "2026-07-03T12:20:06+00:00"
+    },
+    {
+      "title": "出现“严重信用风险”，这家银行被监管实施接管",
+      "url": "https://www.tmtpost.com/8052538.html",
+      "summary": "众邦银行接管组就存款和同业负债保障安排发布专项公告，明确个人存款本息全额保障，对公存款和同业负债按5000万元为界实施差异化保障。",
+      "source": "钛媒体",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-07-03T12:15:42+00:00"
     },
     {
       "title": "Alibaba Bans Employees From Using Claude Code",
       "url": "https://www.tmtpost.com/8052531.html",
       "summary": "",
       "source": "钛媒体",
-      "time": "1h",
+      "time": "13h",
       "tags": [],
       "published_at": "2026-07-03T12:04:02+00:00"
     },
@@ -26,7 +62,7 @@
       "url": "https://www.tmtpost.com/8051218.html",
       "summary": "大秦数能的“灵魂”人物柳扬，曾在比亚迪工作了18年之久。",
       "source": "钛媒体",
-      "time": "3h",
+      "time": "15h",
       "tags": [],
       "published_at": "2026-07-03T10:49:50+00:00"
     },
@@ -35,7 +71,7 @@
       "url": "https://www.tmtpost.com/8050640.html",
       "summary": "冷暖没有同温层。",
       "source": "钛媒体",
-      "time": "3h",
+      "time": "15h",
       "tags": [],
       "published_at": "2026-07-03T10:49:37+00:00"
     },
@@ -44,7 +80,7 @@
       "url": "https://www.tmtpost.com/8052229.html",
       "summary": "成立5年，Anthropic准备要主导AI芯片了。",
       "source": "钛媒体",
-      "time": "3h",
+      "time": "15h",
       "tags": [],
       "published_at": "2026-07-03T10:49:21+00:00"
     },
@@ -53,7 +89,7 @@
       "url": "https://www.tmtpost.com/8050932.html",
       "summary": "coming soon.",
       "source": "钛媒体",
-      "time": "3h",
+      "time": "15h",
       "tags": [],
       "published_at": "2026-07-03T10:49:14+00:00"
     },
@@ -62,7 +98,7 @@
       "url": "https://www.tmtpost.com/8052280.html",
       "summary": "值得我们学的，是找线索。",
       "source": "钛媒体",
-      "time": "3h",
+      "time": "15h",
       "tags": [],
       "published_at": "2026-07-03T10:49:08+00:00"
     },
@@ -71,7 +107,7 @@
       "url": "https://www.tmtpost.com/8052295.html",
       "summary": "印度人统治了硅谷和美国，唯独没拯救印度AI。",
       "source": "钛媒体",
-      "time": "3h",
+      "time": "15h",
       "tags": [],
       "published_at": "2026-07-03T10:49:03+00:00"
     },
@@ -80,7 +116,7 @@
       "url": "https://www.tmtpost.com/8052275.html",
       "summary": "近日，沙特电力采购公司（SPPC）第二批储能电池系统项目资格预审结果公布，共计27家企业入围，其中中国企业共7家。",
       "source": "钛媒体",
-      "time": "3h",
+      "time": "15h",
       "tags": [],
       "published_at": "2026-07-03T10:48:59+00:00"
     },
@@ -89,7 +125,7 @@
       "url": "https://www.tmtpost.com/8052222.html",
       "summary": "都以为老王在屋里凉了。",
       "source": "钛媒体",
-      "time": "3h",
+      "time": "15h",
       "tags": [],
       "published_at": "2026-07-03T10:48:55+00:00"
     },
@@ -98,45 +134,9 @@
       "url": "https://www.tmtpost.com/8052243.html",
       "summary": "阿维塔急需爆款车型。",
       "source": "钛媒体",
-      "time": "4h",
+      "time": "16h",
       "tags": [],
       "published_at": "2026-07-03T09:56:21+00:00"
-    },
-    {
-      "title": "石药创新大涨背后，医药“下一次浪潮”正在涌来",
-      "url": "https://www.tmtpost.com/8052230.html",
-      "summary": "一次BD合作，点燃了投资者对于石药创新的期待。",
-      "source": "钛媒体",
-      "time": "4h",
-      "tags": [],
-      "published_at": "2026-07-03T09:56:14+00:00"
-    },
-    {
-      "title": "向碧桂园学习，佳兆业也想搞出一个“长鑫存储”",
-      "url": "https://www.tmtpost.com/8052136.html",
-      "summary": "钱从哪里来?",
-      "source": "钛媒体",
-      "time": "4h",
-      "tags": [],
-      "published_at": "2026-07-03T09:56:07+00:00"
-    },
-    {
-      "title": "2026上半年，内容行业进入权力真空期",
-      "url": "https://www.tmtpost.com/8052210.html",
-      "summary": "牌桌上的也未必坐稳了。",
-      "source": "钛媒体",
-      "time": "4h",
-      "tags": [],
-      "published_at": "2026-07-03T09:56:02+00:00"
-    },
-    {
-      "title": "中国AI，集体向“钱”看？",
-      "url": "https://www.tmtpost.com/8052227.html",
-      "summary": "游戏规则正在改写。",
-      "source": "钛媒体",
-      "time": "4h",
-      "tags": [],
-      "published_at": "2026-07-03T09:55:57+00:00"
     }
   ]
 }

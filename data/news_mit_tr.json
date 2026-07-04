@@ -1,14 +1,23 @@
 {
   "source": "MIT Tech Review",
   "layer": "news",
-  "updated": "2026-07-03T22:00:28+08:00",
+  "updated": "2026-07-04T10:00:07+08:00",
   "items": [
+    {
+      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the n",
+      "source": "MIT Tech Review",
+      "time": "8h",
+      "tags": [],
+      "published_at": "2026-07-03T17:34:37+00:00"
+    },
     {
       "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
       "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. ",
       "source": "MIT Tech Review",
-      "time": "1h",
+      "time": "13h",
       "tags": [],
       "published_at": "2026-07-03T12:10:00+00:00"
     },
@@ -17,7 +26,7 @@
       "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
       "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework",
       "source": "MIT Tech Review",
-      "time": "5h",
+      "time": "17h",
       "tags": [],
       "published_at": "2026-07-03T09:00:00+00:00"
     },
@@ -26,7 +35,7 @@
       "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
       "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Le",
       "source": "MIT Tech Review",
-      "time": "22h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-02T15:37:08+00:00"
     },
@@ -62,7 +71,7 @@
       "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
       "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll",
       "source": "MIT Tech Review",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-01T14:35:16+00:00"
     },
@@ -80,18 +89,9 @@
       "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
       "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way",
       "source": "MIT Tech Review",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-06-30T21:50:04+00:00"
-    },
-    {
-      "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
-      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
-      "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimenta",
-      "source": "MIT Tech Review",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-06-30T17:36:48+00:00"
     }
   ]
 }
