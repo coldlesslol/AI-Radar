@@ -7,6 +7,10 @@
 # （2026-07-03 openrouter DNS 失败曾导致整天零更新）。每步独立容错。
 set -uo pipefail
 
+# launchd 的 PATH 极精简，默认找不到 ~/.local/bin 里的 claude CLI，
+# 导致 pull_score 的 shutil.which("claude") 失败。显式补上。
+export PATH="$HOME/.local/bin:/opt/homebrew/bin:$PATH"
+
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
 PYTHON="$PROJECT_DIR/pipeline/.venv/bin/python"

@@ -1,6 +1,1135 @@
 {
-  "updated": "2026-07-02T15:31:22.483469+00:00",
+  "updated": "2026-07-04T14:31:18.556185+00:00",
   "items": [
+    {
+      "title": "蜂巢能源1-5月全球动力电池装车量12.1GWh，连续两月蝉联全球第九",
+      "summary_cn": "蜂巢能源 1-5 月全球动力电池装车量 12.1GWh 蝉联全球第九，与 AI 无关。",
+      "url": "https://36kr.com/newsflashes/3880684542963721?f=rss",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.1,
+      "category": "行业动态",
+      "published_at": "2026-07-04T01:56:27+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Momenta上市：600 亿市值、三年营收45亿与物理AI",
+      "summary_cn": "自动驾驶 AI 公司 Momenta 上市，市值约 600 亿、三年营收 45 亿，以'物理 AI'叙事讲述增长与代价。",
+      "url": "https://www.tmtpost.com/8052365.html",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.65,
+      "category": "融资并购",
+      "published_at": "2026-07-04T01:28:15+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Midjourney wants Disney, Universal, and Warner Bros. to reveal in court how they use AI across their companies; studios sued Midjourney in 2025 for infringement (Gene Maddaus/Variety)",
+      "summary_cn": "Midjourney 在与迪士尼、环球、华纳的侵权诉讼中，反要求各制片厂当庭披露其内部如何使用 AI。",
+      "url": "https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/",
+      "sources": [
+        "Techmeme",
+        "Variety"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "行业动态",
+      "published_at": "2026-07-04T01:20:01+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+      "summary_cn": "36 氪热点导览：微软砸 25 亿美元组建 6000 人 AI 新公司、三星传获 Meta 超 10 万亿韩元 AI 芯片代工订单、Meta 拟出售富余算力等。",
+      "url": "https://36kr.com/p/3880629882679301?f=rss",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "行业动态",
+      "published_at": "2026-07-04T01:03:44+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+      "summary_cn": "硅基光电子集成芯片研发商光引科技完成 1 亿元 Pre-A 轮融资，剑桥副教授创业、已合作欧莱雅与华为。",
+      "url": "https://36kr.com/p/3879991356157952?f=rss",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "算力供应链",
+      "published_at": "2026-07-04T01:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+      "summary_cn": "MSI Center 漏洞可在数秒内获取 SYSTEM 权限，与 AI 无关的安全议题。",
+      "url": "https://mrbruh.com/msicenter/",
+      "sources": [
+        "HN"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.1,
+      "category": "行业动态",
+      "published_at": "2026-07-04T00:57:44+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "为什么英伟达必须更像苹果，才能继续坐稳全球市值第一",
+      "summary_cn": "评论认为英伟达需更像苹果构建生态与服务，才能守住全球市值第一，其市值正逐渐被苹果拉开。",
+      "url": "https://www.tmtpost.com/8052689.html",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "算力供应链",
+      "published_at": "2026-07-04T00:03:07+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "The circuit that lets your brain think and see",
+      "summary_cn": "哥伦比亚工程学院报道大脑中让思考与视觉协同的神经回路，属神经科学而非 AI。",
+      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
+      "sources": [
+        "HN"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.15,
+      "category": "研究技术",
+      "published_at": "2026-07-03T22:56:17+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Leanstral 1.5: Proof Abundance for All",
+      "summary_cn": "Mistral 发布 Apache-2.0 授权的 Lean 4 定理证明代码智能体 Leanstral 1.5，在 PutnamBench 672 道题中解出 587 道，主打自动化数学证明能力。",
+      "url": "https://mistral.ai/news/leanstral-1-5/",
+      "sources": [
+        "Mistral",
+        "HN",
+        "MarkTechPost",
+        "GIGAZINE"
+      ],
+      "source_count": 4,
+      "relevance_score": 1.0,
+      "category": "模型发布",
+      "published_at": "2026-07-03T22:33:10+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "A look at the quant fund frenzy in China, as assets under management have more than doubled to ~$384B in less than a year amid rapid AI adoption (Bloomberg)",
+      "summary_cn": "受 AI 快速普及推动，中国量化基金规模不到一年翻倍至约 3840 亿美元。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-quant-funds-draw-billions-as-ai-trounces-human-traders",
+      "sources": [
+        "Techmeme",
+        "Bloomberg"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "行业动态",
+      "published_at": "2026-07-03T22:20:01+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+      "summary_cn": "GLM-5.2 在 AMD MI355X 上跑出 2626 tok/s/node，成本较英伟达 Blackwell 低一倍以上，凸显 AMD 在大模型推理性价比上的竞争力。",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "sources": [
+        "HN",
+        "wafer.ai"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.65,
+      "category": "算力供应链",
+      "published_at": "2026-07-03T21:49:06+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "H64LM: A 249M-parameter Mixture-of-Experts Transformer built from scratch in PyTorch [P]",
+      "summary_cn": "开发者从零用 PyTorch 实现 249M 参数的 MoE Transformer H64LM，作为理解现代 LLM 的研究项目。",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1umqfd2/h64lm_a_249mparameter_mixtureofexperts/",
+      "sources": [
+        "Reddit ML"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "社区信号",
+      "published_at": "2026-07-03T21:18:10+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Tom Yeh's AI by hand? is it worth it? [D]",
+      "summary_cn": "讨论 Tom Yeh 的 'AI by hand' 付费课程是否值得订阅学习。",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1umqf58/tom_yehs_ai_by_hand_is_it_worth_it_d/",
+      "sources": [
+        "Reddit ML"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.2,
+      "category": "社区信号",
+      "published_at": "2026-07-03T21:17:55+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "summary_cn": "Epoch AI 数据显示，在 Claude Mythos Preview 发布前后，新披露的严重安全漏洞数量出现明显尖峰，引发对前沿模型辅助漏洞挖掘的关注。",
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "sources": [
+        "HN",
+        "Epoch AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "研究技术",
+      "published_at": "2026-07-03T21:16:16+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Espionage Against the European Parliament",
+      "summary_cn": "公民实验室披露欧洲议会某间谍软件调查委员会成员遭 Pegasus 攻击，与 AI 无关。",
+      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+      "sources": [
+        "HN"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.1,
+      "category": "行业动态",
+      "published_at": "2026-07-03T20:38:26+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Meta could use its compute for its own models, ad scaling, SpaceX-like neocloud deals, and hosting 3rd-party models; it may be close to an Anthropic deal (Jeremie Eliahou Ontiveros/SemiAnalysis)",
+      "summary_cn": "Meta 加速进入云业务，可将自有算力用于自研模型、广告扩张、类 SpaceX neocloud 交易及托管第三方模型，并可能接近与 Anthropic 达成合作；市场一度因担忧算力过剩而波动，业内称系误读。",
+      "url": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be?triedRedirect=true",
+      "sources": [
+        "Techmeme",
+        "36氪",
+        "TLDR AI"
+      ],
+      "source_count": 3,
+      "relevance_score": 0.86,
+      "category": "算力供应链",
+      "published_at": "2026-07-03T19:30:03+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Contrastive Decoding Diffing (CDD): recovering verbatim finetuning data from logits alone, no weight access needed[R]",
+      "summary_cn": "研究者提出对比解码差分（CDD）模型 diffing 方法，仅凭 logits、无需权重访问即可从窄域微调 LLM 中恢复逐字微调数据。",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1umn2dk/contrastive_decoding_diffing_cdd_recovering/",
+      "sources": [
+        "Reddit ML"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "研究技术",
+      "published_at": "2026-07-03T19:01:48+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Small Language Model SLM [D]",
+      "summary_cn": "求助帖：为校园实习准备小语言模型（SLM）及其软件部分。",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1umissr/small_language_model_slm_d/",
+      "sources": [
+        "Reddit ML"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.25,
+      "category": "社区信号",
+      "published_at": "2026-07-03T16:17:27+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Instagram has been running ads promoting child sexual abuse material in India, with terms like \"rape video\" and \"child video\" and linking to Telegram channels (Divya Arya/BBC)",
+      "summary_cn": "Instagram 在印度投放推广儿童性虐待内容的广告，属平台内容监管问题，与 AI 无关。",
+      "url": "https://www.bbc.com/news/articles/cvgm4e0316zo",
+      "sources": [
+        "Techmeme",
+        "BBC"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.1,
+      "category": "行业动态",
+      "published_at": "2026-07-03T16:10:01+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "An interview with Sriram Krishnan, who says \"there will not be an FDA for AI\" under Trump, blames the AI backlash on the industry's \"doomer\" messaging, and more (Financial Times)",
+      "summary_cn": "Sriram Krishnan 受访称特朗普治下'不会有 AI 版 FDA'监管机构，并将 AI 反弹归咎于行业的'末日论'叙事。",
+      "url": "https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed",
+      "sources": [
+        "Techmeme",
+        "Financial Times"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "行业动态",
+      "published_at": "2026-07-03T15:30:01+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+      "summary_cn": "中国团队将 JEPA/世界模型架构从 LLM 搬进细胞内部，用于理解细胞行为，并称第三方测评超越 GPT-5.6，把黄仁勋所说的 Physical AI 带入生命科学实验室。",
+      "url": "https://www.qbitai.com/2026/07/442746.html",
+      "sources": [
+        "量子位"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "published_at": "2026-07-03T14:28:38+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "可灵AI两部作品同时拿下戛纳金狮，视频大模型闯进商业创意主战场",
+      "summary_cn": "可灵 AI 两部作品同时拿下戛纳金狮，视频大模型正从制作流程工具走向商业创意主战场。",
+      "url": "https://www.tmtpost.com/8052433.html",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "published_at": "2026-07-03T14:23:57+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "谷歌为什么做不好「AI 编程」？",
+      "summary_cn": "分析谷歌尽管大模型能力强大，却在 AI 编程（AI coding）关键赛道长期籍籍无名、表现落后的原因。",
+      "url": "https://www.leiphone.com/category/industrynews/Sq0Kbi3YMIFYEPXn.html",
+      "sources": [
+        "雷峰网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "行业动态",
+      "published_at": "2026-07-03T14:16:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Texas Attorney General Ken Paxton opens an investigation into StubHub following complaints of last-minute ticket cancellations for FIFA World Cup 2026 matches (Giles Turner/Bloomberg)",
+      "summary_cn": "得州总检察长就世界杯门票临时取消投诉调查 StubHub，与 AI 无关。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/stubhub-probed-by-texas-over-fifa-world-cup-ticket-cancellations",
+      "sources": [
+        "Techmeme",
+        "Bloomberg"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.05,
+      "category": "行业动态",
+      "published_at": "2026-07-03T14:15:01+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "生数科技发布 Vidu S1，推动视频生成迈向“实时交互”新时代",
+      "summary_cn": "生数科技在 2026 全球数字经济大会发布面向实时交互场景的新一代视频生成模型 Vidu S1，创始人朱军提出通用世界模型统一数字与物理世界的范式。",
+      "url": "https://www.leiphone.com/category/industrynews/6GlFzI5hMwcfRoGZ.html",
+      "sources": [
+        "雷峰网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "产品动态",
+      "published_at": "2026-07-03T12:48:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线",
+      "summary_cn": "巴塞罗那成创新药出海欧洲枢纽，阿斯利康重押 13 亿欧元，与 AI 无直接关联。",
+      "url": "https://36kr.com/p/3879807100023040?f=rss",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.15,
+      "category": "行业动态",
+      "published_at": "2026-07-03T12:28:30+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "How Jeff Bezos' changing relationship with President Trump has helped Amazon and Blue Origin, such as more federal contracts awarded during Trump's second term (Wall Street Journal)",
+      "summary_cn": "报道贝索斯与特朗普关系变化如何助力亚马逊与蓝色起源获取联邦合同，与 AI 无关。",
+      "url": "https://www.wsj.com/business/jeff-bezos-donald-trump-relationship-7e6a742e?st=SHNRtW&amp;reflink=article_copyURL_share",
+      "sources": [
+        "Techmeme",
+        "WSJ"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.05,
+      "category": "行业动态",
+      "published_at": "2026-07-03T12:25:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "summary_cn": "MIT Tech Review 每日简报，含'终局'吸烟报道与短篇小说，与 AI 无关。",
+      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "sources": [
+        "MIT Tech Review"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.1,
+      "category": "行业动态",
+      "published_at": "2026-07-03T12:10:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "summary_cn": "Midjourney 展示更多其未来主义医疗扫描仪细节，但仍未拿出足够证据证明其真正有效，留下诸多疑问。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "sources": [
+        "The Verge"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "产品动态",
+      "published_at": "2026-07-03T11:49:10+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "对话Kimi B端负责人黄震昕：把国产大模型搬上亚马逊云科技，未来与海外“御三家”掰手腕 - 新浪财经",
+      "summary_cn": "Kimi B 端负责人黄震昕称将把国产大模型搬上亚马逊云科技，与海外御三家掰手腕，并预计中国模型有望年内达到 Fable 级水平。",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVjhYNVg4OXdBMGN0S2Q4RGRSUEFzbU1hWVZRX2oydnRMWHZ1UHdLX3JjbkFZenJXRGRGNGRQU1FIYnNpWG5Qalg3Q2EwZWRPaFhHTU83ZWdvbk5HSDhhMlVneE1GQWQ4Q29Xc3Etbk9Yc2sxSnBLODlXZTRiUVVBVEhBaUpKSzFPZWFLSzhHT2UxQ1Byby1DbGdSalpzV3d4NHd3SnZsQQ?oc=5",
+      "sources": [
+        "新浪财经"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "行业动态",
+      "published_at": "2026-07-03T11:45:15+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "唐国强AI首秀，Seedance让诸葛亮走进课堂 - 新浪财经",
+      "summary_cn": "字节 Seedance 让唐国强 AI 首秀，以 AI 生成让诸葛亮'走进课堂'，展示视频生成落地教育场景。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT0hMSUZYcEN2N2xpaFo3dTBfVjVjbENKdEhZRTc0RzlmbThPWkpUcEFSbVBHaUdfNzNGMkJsanZ0a0lUM2M4TGsxcjZZWFY3bk00dTRFTXNtX3JfQmVrRXdzX2ZzbnhWMTdxd1gzYl81ZGdUY2UwQmxmd1JxYXAyUGNUUmhWZw?oc=5",
+      "sources": [
+        "新浪财经"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "产品动态",
+      "published_at": "2026-07-03T11:24:51+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
+      "summary_cn": "袁进辉的新公司（硅基流动）成立不到三年即冲刺港股 IPO，AI 大爆发下更多 AI 公司走向资本市场。",
+      "url": "https://36kr.com/p/3879814941437956?f=rss",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "融资并购",
+      "published_at": "2026-07-03T11:12:32+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Filing: GoDaddy challenges a New Delhi court ruling requiring domain sellers to stop offering privacy by default, saying it could expose website owners globally (Reuters)",
+      "summary_cn": "GoDaddy 就新德里法院要求域名商停止默认隐私保护的裁定提出挑战，与 AI 无关。",
+      "url": "https://www.reuters.com/world/worlds-biggest-domain-seller-fears-indias-fake-site-crackdown-could-damage-2026-07-03/",
+      "sources": [
+        "Techmeme",
+        "Reuters"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.05,
+      "category": "行业动态",
+      "published_at": "2026-07-03T10:51:01+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "阿莫迪，你比张无忌还厉害",
+      "summary_cn": "成立五年的 Anthropic 意图主导 AI 芯片布局，被指野心极大。",
+      "url": "https://www.tmtpost.com/8052229.html",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "算力供应链",
+      "published_at": "2026-07-03T10:49:21+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "LongCat-2.0：美团咋卖上开源AI期房了？",
+      "summary_cn": "美团发布开源大模型 LongCat-2.0（预告 coming soon），以'开源期房'方式提前造势。",
+      "url": "https://www.tmtpost.com/8050932.html",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "模型发布",
+      "published_at": "2026-07-03T10:49:14+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "苹果在印度成了“开源手机”，但印度AI为什么还是扶不起来？",
+      "summary_cn": "探讨印度 AI 为何始终难以崛起，即便印度裔在硅谷影响力巨大。",
+      "url": "https://www.tmtpost.com/8052295.html",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "行业动态",
+      "published_at": "2026-07-03T10:49:03+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "理想组织再动刀：去中间环节，整车和智驾产品回归研发｜36氪独家",
+      "summary_cn": "理想汽车再度组织架构调整，去中间环节、整车与智驾产品回归研发，属车企组织变动。",
+      "url": "https://36kr.com/p/3877919172047111?f=rss",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.2,
+      "category": "行业动态",
+      "published_at": "2026-07-03T10:45:12+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "India's IT secretary said the country is investigating a data breach at Apple supplier Tata, which exposed files that included photos of iPhone 18 Pro models (Reuters)",
+      "summary_cn": "印度调查苹果供应商塔塔数据泄露，涉及 iPhone 18 Pro 照片，与 AI 无关。",
+      "url": "https://www.reuters.com/world/india/india-investigating-tata-data-leak-that-exposed-apple-iphone-secrets-2026-07-03/",
+      "sources": [
+        "Techmeme",
+        "Reuters"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.1,
+      "category": "行业动态",
+      "published_at": "2026-07-03T10:10:01+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Pitch document: Chris Larsen, Palmer Luckey, and others invested undisclosed amounts in APEC, a derivatives exchange founded by Senator Kirsten Gillibrand's son (Declan Harty/Politico)",
+      "summary_cn": "Chris Larsen、Palmer Luckey 等投资参议员之子创办的衍生品交易所 APEC，与 AI 无关。",
+      "url": "https://www.politico.com/news/2026/07/02/gillibrand-son-crypto-fund-investors-00985811",
+      "sources": [
+        "Techmeme",
+        "Politico"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.05,
+      "category": "行业动态",
+      "published_at": "2026-07-03T10:06:02+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "微软GitHub Copilot接入首个开源模型Kimi K2.7 Code - 凤凰网",
+      "summary_cn": "微软 GitHub Copilot 接入首个开源模型 Kimi K2.7 Code。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zRUdUX0ZUd1k4b3FJZ2Vna3pDQzJPLWdSN1Eya0JZT2JYQ1J6VVRObk1JMnJGVXQzUGtFSUZOZ2EzcC1NSmlRWA?oc=5",
+      "sources": [
+        "凤凰网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "产品动态",
+      "published_at": "2026-07-03T09:55:30+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "场景至上，实效为王：NAVIAI 人形机器人多领域应用场景领跑！",
+      "summary_cn": "浙江人形以全栈自主可控体系，让 NAVIAI 人形机器人在工业、服务等多领域应用场景落地。",
+      "url": "https://www.leiphone.com/category/industrynews/CBx8Wb28sANFCEO5.html",
+      "sources": [
+        "雷峰网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "行业动态",
+      "published_at": "2026-07-03T09:52:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Sources: Alibaba banned Claude Code internally and asked its employees to remove all Claude models from their work computers due to Anthropic security concerns (The Information)",
+      "summary_cn": "阿里巴巴以安全担忧为由内部全面禁用 Claude Code 并要求员工从工作电脑删除所有 Claude 模型；此前有报道称该 AI 公司代码中暗藏针对中国（时区、中国 AI 实验室等关键词）的疑似监视代码，官方回应将在更新中删除。",
+      "url": "https://www.techmeme.com/260703/p4#a260703p4",
+      "sources": [
+        "Techmeme",
+        "钛媒体",
+        "36氪",
+        "机器之心",
+        "雷峰网"
+      ],
+      "source_count": 5,
+      "relevance_score": 1.0,
+      "category": "行业动态",
+      "published_at": "2026-07-03T09:45:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "What does \"Safe AI\" look like? [D]",
+      "summary_cn": "社区讨论'安全 AI'的实际含义，聚焦开源权重 LLM 抵御发布后微调攻击的防御可行性。",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1um9bs7/what_does_safe_ai_look_like_d/",
+      "sources": [
+        "Reddit ML"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "研究技术",
+      "published_at": "2026-07-03T09:07:26+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "summary_cn": "评论英国代际禁烟令，与 AI 无关。",
+      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+      "sources": [
+        "MIT Tech Review"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.05,
+      "category": "行业动态",
+      "published_at": "2026-07-03T09:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
+      "summary_cn": "AI 仅用 28 个 GPU 时便发现 4 种人类此前完全未知的全新超导体，效率远超以往人类超导体发现。",
+      "url": "https://www.qbitai.com/2026/07/442452.html",
+      "sources": [
+        "量子位"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "研究技术",
+      "published_at": "2026-07-03T07:35:58+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "AI基础设施的下一个千亿市场，为何藏在网络里？",
+      "summary_cn": "探讨 AI 基础设施的下一个千亿市场藏在网络（DPU）里，英伟达收购 Mellanox 后确立 GPU+CPU+DPU 三芯战略，国产 DPU 被低估。",
+      "url": "https://www.leiphone.com/category/chips/hNKPixxr0fUhIr0E.html",
+      "sources": [
+        "雷峰网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "算力供应链",
+      "published_at": "2026-07-03T06:35:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "算力之外的博弈：ICML 2026 透露了哪些学术硬通货？",
+      "summary_cn": "ICML 2026 前瞻，以 28 页 PPT 梳理算力之外的机器学习学术新风向。",
+      "url": "https://www.leiphone.com/category/private/AvP8p11JWo0fiWEl.html",
+      "sources": [
+        "雷峰网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "社区信号",
+      "published_at": "2026-07-03T06:31:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "A look back at BitTorrent, launched by Bram Cohen 25 years ago, and how media piracy fueled its growth while its architecture shielded it from legal liability (Janko Roettgers/The Verge)",
+      "summary_cn": "回顾 BitTorrent 诞生 25 周年及其架构如何规避法律责任，与 AI 无关。",
+      "url": "https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy",
+      "sources": [
+        "Techmeme",
+        "The Verge"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.05,
+      "category": "行业动态",
+      "published_at": "2026-07-03T06:25:01+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Sources: Anthropic moves to close loopholes that let Chinese companies like Ant use its models via workarounds such as cloud providers and overseas subsidiaries (Financial Times)",
+      "summary_cn": "Anthropic 着手封堵蚂蚁等中国公司通过云厂商、海外子公司等绕道使用其模型的漏洞。",
+      "url": "https://www.ft.com/content/ad033063-60f9-4c0c-8d8a-9193a83e6f60",
+      "sources": [
+        "Techmeme",
+        "Financial Times"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "行业动态",
+      "published_at": "2026-07-03T05:15:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
+      "summary_cn": "AI 工程师世界博览会以一场关于'循环（loops）'的辩论收尾，并发布 AI 工程现状报告。",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+      "sources": [
+        "Latent Space"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "社区信号",
+      "published_at": "2026-07-03T05:11:43+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Blackstone's QTS abandons plans to build its portion of a 2,100-acre data center campus in Virginia, after years of organized opposition and legal challenges (Dawn Lim/Bloomberg)",
+      "summary_cn": "黑石旗下 QTS 在多年组织化反对与法律挑战后，放弃在弗吉尼亚建设其 2100 英亩数据中心园区的部分计划。",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/blackstone-s-qts-abandons-massive-data-center-in-virginia",
+      "sources": [
+        "Techmeme",
+        "Bloomberg"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "算力供应链",
+      "published_at": "2026-07-03T04:00:15+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Beyond Next-Token Prediction: An RLVR Proof of Concept for Tool-Use Agents on Atlassian Workflows",
+      "summary_cn": "论文以 Atlassian 工作流为例，提出面向工具调用智能体、超越下一 token 预测的 RLVR 概念验证。",
+      "url": "https://arxiv.org/abs/2607.01465",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Procedural Memory Distillation: Online Reflection for Self-Improving Language Models",
+      "summary_cn": "提出'程序性记忆蒸馏'：通过在线反思实现语言模型的自我改进（基于 RLVR）。",
+      "url": "https://arxiv.org/abs/2607.01480",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "The Wiola Architecture for Efficient Small Language Models",
+      "summary_cn": "提出高效小语言模型架构 Wiola，一种完全原创的 SLM 设计。",
+      "url": "https://arxiv.org/abs/2607.01394",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Hawk: Harnessing Hardware-Aware Knowledge for High-Performance NPU Kernel Generation",
+      "summary_cn": "Hawk：利用硬件感知知识生成高性能 NPU 内核。",
+      "url": "https://arxiv.org/abs/2607.01590",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Scaling Trends for Lie Detector Oversight in Preference Learning",
+      "summary_cn": "研究偏好学习中'测谎'监督的扩展规律，用于监控 LLM 的欺骗行为。",
+      "url": "https://arxiv.org/abs/2607.01567",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Revisiting Chain-of-Thought Reasoning under Limited Supervision: Semi-supervised Chain-of-Thought Learning",
+      "summary_cn": "在有限监督下重审思维链推理，提出半监督思维链学习方法。",
+      "url": "https://arxiv.org/abs/2607.01511",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
+      "summary_cn": "Agent4cs：面向大型分层代码库代码摘要的多智能体系统。",
+      "url": "https://arxiv.org/abs/2607.01425",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
+      "summary_cn": "研究自主客服智能体何时应重新考虑决策，提出难度路由的控制方法。",
+      "url": "https://arxiv.org/abs/2607.01426",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Janus: a Playground for User-Involved Agentic Permission Management",
+      "summary_cn": "Janus：面向用户参与式智能体权限管理的实验平台。",
+      "url": "https://arxiv.org/abs/2607.01510",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "World Feedback for Clinical Agents: Diagnosing RL in FHIR Environments",
+      "summary_cn": "面向临床智能体的世界反馈：在 FHIR 环境中诊断强化学习。",
+      "url": "https://arxiv.org/abs/2607.01470",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
+      "summary_cn": "用离散扩散语言模型进行交互式放射学报告起草。",
+      "url": "https://arxiv.org/abs/2607.01436",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
+      "summary_cn": "EO-Agents：面向地球观测假设生成的三智能体 LLM 流水线。",
+      "url": "https://arxiv.org/abs/2607.01584",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Safe and Adaptive Cloud Healing: Verifying LLM-Generated Recovery Plans with a Neural-Symbolic World Model",
+      "summary_cn": "用神经-符号世界模型验证 LLM 生成的云端恢复计划，实现安全自适应的云自愈。",
+      "url": "https://arxiv.org/abs/2607.01595",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse",
+      "summary_cn": "CreativityNeuro：通过引导语言模型权重提升发散思维、减少模式坍缩。",
+      "url": "https://arxiv.org/abs/2607.01433",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+      "summary_cn": "Auto-FL-Research：面向联邦学习算法的智能体式搜索。",
+      "url": "https://arxiv.org/abs/2607.01366",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration",
+      "summary_cn": "OPINE-World：以本体错误优先的交互式探索进行程序化世界建模。",
+      "url": "https://arxiv.org/abs/2607.01531",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "SemHash-LLM: A Multi-Granularity Semantic Hashing Framework for Document Deduplication",
+      "summary_cn": "SemHash-LLM：面向文档去重的多粒度语义哈希框架。",
+      "url": "https://arxiv.org/abs/2607.01601",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+      "summary_cn": "PACE：面向可信可行反事实解释的神经-符号框架。",
+      "url": "https://arxiv.org/abs/2607.01306",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "The Agentic Garden of Forking Paths",
+      "summary_cn": "《智能体的分岔花园》：探讨经验研究中分析路径的不唯一性。",
+      "url": "https://arxiv.org/abs/2607.01507",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Profit-Based Counterfactual Explanations for Product Improvement: A Case Study of Manga Sales in Japan",
+      "summary_cn": "基于利润的反事实解释用于产品改进：以日本漫画销量为案例。",
+      "url": "https://arxiv.org/abs/2607.01610",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "研究技术",
+      "published_at": "2026-07-03T04:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+      "summary_cn": "WAIC 2026 前瞻算力议题：超节点与光互连能否绕过单芯片的物理天花板。",
+      "url": "https://www.qbitai.com/2026/07/442167.html",
+      "sources": [
+        "量子位"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "算力供应链",
+      "published_at": "2026-07-03T03:36:19+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Vox",
+      "summary_cn": "Vox：基于 GitHub Copilot 的语音输入输出交互工具。",
+      "url": "https://www.producthunt.com/products/vox-5",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "产品动态",
+      "published_at": "2026-07-03T00:08:51+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Vercel's Andrew Qu on why agents are a new kind of software",
+      "summary_cn": "Vercel 软件负责人 Andrew Qu 讲述其智能体框架 eve 的诞生，及为何 agent 是一种新型软件。",
+      "url": "https://www.latent.space/p/vercel-agents-new-software",
+      "sources": [
+        "Latent Space"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "社区信号",
+      "published_at": "2026-07-03T00:08:18+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
+      "summary_cn": "'具身智能第一股'宇树科技科创板 IPO 申请获证监会同意注册，机器人企业加速登陆资本市场。",
+      "url": "https://36kr.com/p/3879158039834629?f=rss",
+      "sources": [
+        "36氪"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.78,
+      "category": "融资并购",
+      "published_at": "2026-07-03T00:06:38+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Meta Watermelon 🍉, Anthropic Samsung chips 🤝, autoresearch in practice 📈",
+      "summary_cn": "TLDR AI 简报：Meta Watermelon、Anthropic 采用三星芯片、autoresearch 实践等。",
+      "url": "https://tldr.tech/ai/2026-07-03",
+      "sources": [
+        "TLDR AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "社区信号",
+      "published_at": "2026-07-03T00:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "A dual transformation agenda for Europe’s chemicals industry",
+      "summary_cn": "麦肯锡分析欧洲化工行业双重转型议程，与 AI 无关。",
+      "url": "https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry",
+      "sources": [
+        "McKinsey"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.15,
+      "category": "行业动态",
+      "published_at": "2026-07-03T00:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Osloq",
+      "summary_cn": "Osloq：一款能自动为你复现 GitHub issue 的 AI 智能体。",
+      "url": "https://www.producthunt.com/products/osloq",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "产品动态",
+      "published_at": "2026-07-02T22:37:18+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "The website of the future may assemble itself for every visitor",
+      "summary_cn": "Adobe 试验'智能体站点'，网页可为每位访客实时自动组装生成。",
+      "url": "https://www.latent.space/p/the-website-of-the-future",
+      "sources": [
+        "Latent Space"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "产品动态",
+      "published_at": "2026-07-02T21:25:14+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Improving machine-translated novels via style transfer — looking for advice on the faithfulness/fluency tradeoff [P]",
+      "summary_cn": "开发者用风格迁移改进机器翻译网络小说，讨论忠实度与流畅度之间的权衡。",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulrdw9/improving_machinetranslated_novels_via_style/",
+      "sources": [
+        "Reddit ML"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "研究技术",
+      "published_at": "2026-07-02T19:04:50+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Has anyone tried this approach with Fast Byte Latent Transformers ? [R]",
+      "summary_cn": "社区探讨将熵模型中的 Transformer 替换为 Fast Byte Latent Transformers 的可行性。",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulngy8/has_anyone_tried_this_approach_with_fast_byte/",
+      "sources": [
+        "Reddit ML"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "研究技术",
+      "published_at": "2026-07-02T16:43:33+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Glaze by Raycast",
+      "summary_cn": "Glaze by Raycast：通过与 AI 对话创建自己的 Mac 应用。",
+      "url": "https://www.producthunt.com/products/glaze-4",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "产品动态",
+      "published_at": "2026-07-02T15:57:02+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Achieving operational excellence with AI",
+      "summary_cn": "探讨如何借助 AI 结合精益六西格玛、BPM 等框架实现运营卓越。",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "sources": [
+        "MIT Tech Review"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.4,
+      "category": "行业动态",
+      "published_at": "2026-07-02T15:37:08+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
+      "summary_cn": "OpenAI 与特朗普政府磋商，提出向美国政府让渡约 5% 股权以缓和紧张关系，该比例远低于桑德斯主张的目标。",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+      "sources": [
+        "Ars Technica",
+        "The Verge"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.73,
+      "category": "行业动态",
+      "published_at": "2026-07-02T15:12:25+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "智谱(02513)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
+      "summary_cn": "智谱（02513）股票行情与财报数据页面。",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1jN29MUTZrX3piT2syV1hFM1llaEdMX3FJYUNrcUMwb1NORjAwLUQzNUhHQnJSVjVsdXptSVVRQQ?oc=5",
+      "sources": [
+        "雪球"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.2,
+      "category": "行业动态",
+      "published_at": "2026-07-02T14:58:40+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
     {
       "title": "IN 2026 ML BOOK OUTDATED? [D]",
       "summary_cn": "网友讨论某本机器学习书籍在2026年是否已过时。",
@@ -385,6 +1514,19 @@
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
+      "title": "电厂 | 支付宝与微信“AI化”，Token的账要和谁算？ - 搜狐网",
+      "summary_cn": "分析支付宝与微信'AI 化'趋势下，AI 调用的 token 成本账该如何计算与分摊。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdkREbDhjVFpZak9zNEcydUVGVW85ODVldjJEc3FYLThtcURLYTZtckF1SzlwTmp1V3hZbzJiSG1fYkdNMnVMZUQ2UnhEb2d6Y2YtZzJSRG0zTGd3M1VLMkFkQURIUkRFYjhheThzVXhwbjdVN2RpWEFnXzhBUExJb3VYay1ZUmRF?oc=5",
+      "sources": [
+        "搜狐网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "行业动态",
+      "published_at": "2026-07-02T11:10:33+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
       "title": "Filings: President Trump purchased up to $5M each in Broadcom, Meta, Amazon, Apple, Microsoft, and Nvidia stocks on July 23, the same day as his AI action plan (New York Times)",
       "summary_cn": "文件显示特朗普在其 AI 行动计划发布同日买入博通、Meta、亚马逊、苹果、微软、英伟达等股票（政治/财务，非 AI 产业事件）。",
       "url": "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html?unlocked_article_code=1.uVA.MIkb.09sjYfuX5frT&amp;smid=url-share",
@@ -701,6 +1843,20 @@
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
+      "title": "斯坦福重磅研究登Nature！AI凭空造出前所未有蛋白质，超越AlphaGo - 新浪财经",
+      "summary_cn": "斯坦福研究登上 Nature：AI 从零设计出前所未有的全新蛋白质，被称在该领域超越 AlphaGo 式突破。",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMlphaWk1RkcxbVVtS3pZRTI1UkRUZDRyd25JQVNPci1CX1NCWXFFc3p1WUxNQ09mS3drT3l4TktpUllBdUdkOTcwUmxEQUd6Yk0zaXdzS1c1QUx5blVjRlp0UjdRVmpicXNiZUQxT1NYbkM2S0dORVFfVU56dDltR3gwMU1wTTdaVjBSSFg2RWNWVUh2MzlhVm5aNTMxMnNwQWRVS1RsUS1oWTdfV2lpdlQ3X2tsMUdYWjZXMk5lV3JEM1oyZEpQSDJNZ211blB3MEdBR1hCTDVYX1p6di03UTBsUU9PekJTaGQwZzE1ZmZsWlhXM3F1dUNGMGl1elJ1?oc=5",
+      "sources": [
+        "新智元",
+        "新浪财经"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "研究技术",
+      "published_at": "2026-07-02T09:21:34+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
       "title": "An interview with Amazon SVP of Devices Panos Panay on designing custom chips for Echo and Fire TV devices, experimenting with AI-enabled gadgets, and more (Arjun Kharpal/CNBC)",
       "summary_cn": "亚马逊设备 SVP Panos Panay 谈为 Echo、Fire TV 设计定制芯片及试验 AI 硬件。",
       "url": "https://www.cnbc.com/2026/07/02/amazon-ai-chips-devices.html",
@@ -871,6 +2027,19 @@
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
+      "title": "AIEWF Daily Dispatch: Autoresearch and the tension between AI and human agency",
+      "summary_cn": "AIEWF 现场：autoresearch 与 AI 自动化和人类能动性之间的张力，演讲者为人类理解与掌控辩护。",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-agency",
+      "sources": [
+        "Latent Space"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "社区信号",
+      "published_at": "2026-07-02T06:13:49+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
       "title": "Nansen: about two-thirds of Trump's memecoin investors are currently in the red, and 85% of World Liberty's $WLFI buyers on the secondary market are underwater (Wall Street Journal)",
       "summary_cn": "Nansen：约三分之二特朗普 memecoin 投资者亏损（加密货币，与 AI 无关）。",
       "url": "https://www.wsj.com/finance/currencies/trump-made-1-billion-on-crypto-deals-while-his-fans-lost-a-fortune-408754c9?st=EqVyz4&amp;reflink=desktopwebshare_permalink",
@@ -910,6 +2079,19 @@
       "category": "研究技术",
       "published_at": "2026-07-02T05:44:25+00:00",
       "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
+    },
+    {
+      "title": "十年ICML，十次思想浪潮，当AI开始问“为谁而算”｜ICML2026",
+      "summary_cn": "回顾十年 ICML 思想浪潮，探讨当 AI 开始追问'为谁而算'的价值转向。",
+      "url": "https://www.leiphone.com/category/private/sADR0wFJaCQinCZr.html",
+      "sources": [
+        "雷峰网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "社区信号",
+      "published_at": "2026-07-02T05:36:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
     },
     {
       "title": "2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！",
@@ -977,6 +2159,20 @@
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
+      "title": "抢完诺奖得主又挖伯克利CS掌门，Anthropic两周揽四将 - 搜狐网",
+      "summary_cn": "Anthropic 两周内密集揽才，继诺奖得主后又挖来伯克利 CS 掌门，四名顶尖学者加盟。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVVoaTVaQnlWZ0ZjTXpaYmR1cmU1WmVyUy1DQ1k0MVVIQlhzZl9fRnZ2LXBiQU5BNXNUckRqVVpXS0loQVBwVEdEZ1hodEVQOC1WX09vc0R5OWttRUY1MmtXbVhieS1CTGdxSHBMVm8zZUxPN1cySU0zZlcxaXBBVUY5N1FMa3Zh?oc=5",
+      "sources": [
+        "新智元",
+        "搜狐网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-02T04:32:29+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
       "title": "“光电子先导院”完成新一轮融资",
       "summary_cn": "'光电子先导院'完成新一轮融资，引入西安综改基金、国开科创、中科创星等，资金主要用于硅光工艺研发。",
       "url": "https://36kr.com/newsflashes/3877987499651328?f=rss",
@@ -1002,6 +2198,19 @@
       "category": "行业动态",
       "published_at": "2026-07-02T04:20:01+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "Basedash Actions",
+      "summary_cn": "Basedash Actions：能替你执行操作的 BI 工具。",
+      "url": "https://www.producthunt.com/products/basedash",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "产品动态",
+      "published_at": "2026-07-02T04:14:53+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
     },
     {
       "title": "杰华特等在杭州成立新科技公司",
@@ -1908,6 +3117,45 @@
       "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
     },
     {
+      "title": "The real future of work in healthcare",
+      "summary_cn": "麦肯锡指出医疗行业处于生产力危机，单靠增加人力与技术无法解决，需重塑工作方式。",
+      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/the-real-future-of-work-in-healthcare",
+      "sources": [
+        "McKinsey"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.25,
+      "category": "行业动态",
+      "published_at": "2026-07-02T00:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "How Miro is redefining collaboration across the product development life cycle",
+      "summary_cn": "Miro 联创兼 CEO 回顾公司从数字白板演进的历程，与 AI 核心无关。",
+      "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/how-miro-is-redefining-collaboration-across-the-product-development-life-cycle",
+      "sources": [
+        "McKinsey"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.2,
+      "category": "行业动态",
+      "published_at": "2026-07-02T00:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "The serial builder advantage: Why repeat innovators win",
+      "summary_cn": "麦肯锡研究解释为何反复创建新业务的'连续创造者'组织表现更优，与 AI 无关。",
+      "url": "https://www.mckinsey.com/capabilities/business-building/our-insights/the-serial-builder-advantage-why-repeat-innovators-win",
+      "sources": [
+        "McKinsey"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.15,
+      "category": "行业动态",
+      "published_at": "2026-07-02T00:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
       "title": "The <Usermedia> HTML Element",
       "summary_cn": "Chrome 团队介绍新的 <Usermedia> HTML 元素（Web 前端技术）。",
       "url": "https://developer.chrome.com/blog/usermedia-html-element",
@@ -2536,6 +3784,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "nxt",
+      "summary_cn": "nxt：用对话管理待办清单并获知下一步要做什么。",
+      "url": "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "产品动态",
+      "published_at": "2026-07-01T10:43:09+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
       "title": "即梦AI携创作者亮相法国昂西动画节，3000份全球投稿勾勒AI动画创作新图景",
       "summary_cn": "即梦 AI 与 Dreamina AI 在法国昂西国际动画节主办 AI 动画国际峰会，3000份全球投稿勾勒 AI 动画创作新图景。",
       "url": "https://www.leiphone.com/category/industrynews/uUmZypOBARMHYx3W.html",
@@ -2561,6 +3822,19 @@
       "category": "行业动态",
       "published_at": "2026-07-01T10:37:00+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "月之暗面Kimi：激进的野心，克制地扩张 - 新浪财经",
+      "summary_cn": "长文分析月之暗面 Kimi 激进的野心与克制的扩张策略。",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONzlMZFNJTEJZcXV2V3hmdVJ3VGh6V2R3aGttU2JzOFE3cFZKWVRoTUQ3QThWSk9vOWQyS1g0UTJ6NkVBVWhGR0JRLUJkNUROdGpORVpaLWI1WGlDSFRZS3IxaFBJRmtpM0Z5UllJWVJWQTBFXzBxb0xJQktDdVBsRExyUUdzS1VTVmFPdEJNODBrWVFTS2RaaUdQbG9OTFhIUzMzX28wTQ?oc=5",
+      "sources": [
+        "新浪财经"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "行业动态",
+      "published_at": "2026-07-01T10:21:47+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
     },
     {
       "title": "感知、控制与数据：ICRA 2026 中国企业报告的三个交汇点",
@@ -2600,6 +3874,19 @@
       "category": "研究技术",
       "published_at": "2026-07-01T09:33:05+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "Macuse",
+      "summary_cn": "Macuse：为 macOS 上的 AI 赋予更多系统级能力。",
+      "url": "https://www.producthunt.com/products/macuse",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "产品动态",
+      "published_at": "2026-07-01T09:26:16+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
     },
     {
       "title": "走访 ICRA 30+中国企业，我们发现具身智能产业三大趋势 | ICRA 2026",
@@ -2917,6 +4204,19 @@
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
     },
     {
+      "title": "Context.dev",
+      "summary_cn": "Context.dev：用一套 API 抓取、丰富并提取互联网数据。",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.35,
+      "category": "产品动态",
+      "published_at": "2026-07-01T03:33:28+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
       "title": "Anyone looking into the new MARS2 Workshop/Competition @ ECCV 2026? I saw Tec-do posting it. [D]",
       "summary_cn": "关于 ECCV 2026 MARS2 多模态推理竞赛/研讨会的讨论。",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uka1r6/anyone_looking_into_the_new_mars2/",
@@ -3039,6 +4339,71 @@
       "first_seen_at": "2026-07-02T15:31:22.483469+00:00"
     },
     {
+      "title": "Suphachai Chearavanont: Bold moves in innovation-driven transformation",
+      "summary_cn": "正大集团 Suphachai Chearavanont 谈创新驱动转型中的大胆举措，与 AI 无关。",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/suphachai-chearavanont-bold-moves-in-innovation-driven-transformation",
+      "sources": [
+        "McKinsey"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.15,
+      "category": "行业动态",
+      "published_at": "2026-07-01T00:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Closing the women’s health gap: The United Kingdom’s £36 billion opportunity",
+      "summary_cn": "麦肯锡测算英国弥合女性健康差距的 360 亿英镑机会，与 AI 无关。",
+      "url": "https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-the-united-kingdoms-36-billion-pound-opportunity",
+      "sources": [
+        "McKinsey"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.1,
+      "category": "行业动态",
+      "published_at": "2026-07-01T00:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "Betsy Nabel on physicians and women in healthcare leadership roles",
+      "summary_cn": "Betsy Nabel 谈医疗领域的女性领导力，与 AI 无关。",
+      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/betsy-nabel-on-physicians-and-women-in-healthcare-leadership-roles",
+      "sources": [
+        "McKinsey"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.1,
+      "category": "行业动态",
+      "published_at": "2026-07-01T00:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "McKinsey Global Publishing’s 2026 book picks",
+      "summary_cn": "麦肯锡全球出版部 2026 年荐书清单，与 AI 无关。",
+      "url": "https://www.mckinsey.com/featured-insights/annual-book-recommendations/mckinsey-global-publishings-book-picks",
+      "sources": [
+        "McKinsey"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.1,
+      "category": "行业动态",
+      "published_at": "2026-07-01T00:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
+      "title": "What to read next McKinsey’s 2026 annual book recommendations",
+      "summary_cn": "麦肯锡 2026 年度荐书清单，与 AI 无关。",
+      "url": "https://www.mckinsey.com/featured-insights/annual-book-recommendations",
+      "sources": [
+        "McKinsey"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.1,
+      "category": "行业动态",
+      "published_at": "2026-07-01T00:00:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
       "title": "Ahmad Osman on why local AI is catching up",
       "summary_cn": "Ahmad Osman 在 AIEWF 工作坊后论证本地 AI 正在快速追赶云端。",
       "url": "https://www.latent.space/p/ahmad-osman-local-ai",
@@ -3156,6 +4521,21 @@
       "category": "产品动态",
       "published_at": "2026-06-30T19:24:51+00:00",
       "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
+    },
+    {
+      "title": "Best AI Video Generators of 2026: Need a Sora Substitute? Try One of These - CNET",
+      "summary_cn": "多家媒体盘点 2026 年最佳 AI 视频生成器，对比 Veo 3.1、Sora 2、Kling 及 MiniMax Hailuo 等，聚焦速度、物理表现与性价比。",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vcDI4MU1MSHFzME9mSXo3aG02am9ELUJKWFFrc1lucllaN3BwdXV0ZG9pZzBCSF9RN1hmR2tQZDZ3Z3JjclU1NUZoX05KNUhRTWRqMllxcDZZZ2VlcFFxc3RJVGNxTzM1b2xGcWl3Q1ZrQmYxUXhkaHNJUzdrUQ?oc=5",
+      "sources": [
+        "CNET",
+        "tech-insider.org",
+        "FinancialContent"
+      ],
+      "source_count": 3,
+      "relevance_score": 0.56,
+      "category": "产品动态",
+      "published_at": "2026-06-30T18:44:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
     },
     {
       "title": "Claude Sonnet 5",
@@ -3643,6 +5023,20 @@
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
     },
     {
+      "title": "四大顶级AI对决《文明VI》！Claude「核平」法国，结果还是输了 - 智源社区",
+      "summary_cn": "四大顶级 AI 对决《文明 VI》，Claude'核平'法国却仍告负，展示模型策略博弈能力。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54UENkemxDVjFCendKZ3R6TEFiOGJCb3FrVnJ3a3h0ZmZlVDZRRzhBMUlEc0lYWXNPSGFLZHRTQ1JVbEJyb2t6cA?oc=5",
+      "sources": [
+        "新智元",
+        "智源社区"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.3,
+      "category": "社区信号",
+      "published_at": "2026-06-29T14:30:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
+    },
+    {
       "title": "消息称智谱AI最新GLM 5.2开源模型性能比肩Anthropic的Opus 4.8 - 光通信Pro",
       "summary_cn": "智谱发布并全面开放开源大模型 GLM-5.2，性能比肩 Anthropic Opus 4.8、被富瑞评为全球第三，漏洞挖掘等能力逼近美国前沿模型引发美政府对开放权重滥用的担忧；同时推出配套的 ZCode 智能开发环境（ADE）与 GLM Coding 订阅计划，被视为又一次'DeepSeek 时刻'。",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nbGRuRE1lS0F4NUZKS3NhZDd1ZW5VSUZFOTh0RFk3el96RFdqZ0w1emZlRVk4T0ZxcHVPa19EZnlXWmEwOFU2VUdOcGlCV3NnV2dNbWFn?oc=5",
@@ -3738,6 +5132,20 @@
       "category": "产品动态",
       "published_at": "2026-06-29T08:59:00+00:00",
       "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
+    },
+    {
+      "title": "字节豆包内测社交功能，打通飞书账号体系 - QQ News",
+      "summary_cn": "字节豆包内测社交功能并打通飞书账号体系，但也有观点认为当前 AI 社交仍是伪命题。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hTExpTVEwaTJJaHNhNEdFQTY3eGlpY0J6bC11emVXLWxEcjdjUkFla1RxQWJDdGRBSkd4N2U1OVVuYlFqVEg0RnZjS2N6Zmp5Vy02RVZn?oc=5",
+      "sources": [
+        "QQ News",
+        "搜狐网"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.48,
+      "category": "产品动态",
+      "published_at": "2026-06-29T07:29:00+00:00",
+      "first_seen_at": "2026-07-04T14:31:18.556185+00:00"
     },
     {
       "title": "不靠低价抢客户，月之暗面 Kimi 出海，凭什么硬刚海外 AI“御三家”？ - Infoq.cn",
@@ -3877,195 +5285,6 @@
       "category": "研究技术",
       "published_at": "2026-06-27T11:21:58+00:00",
       "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
-    },
-    {
-      "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
-      "summary_cn": "OpenAI 推出 GPT-5.6（Sol / Terra / Luna 分层版本），限于受信任合作伙伴使用，与 Anthropic 同日进行分级发布。",
-      "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
-      "sources": [
-        "Latent Space",
-        "TLDR AI"
-      ],
-      "source_count": 2,
-      "relevance_score": 0.98,
-      "category": "模型发布",
-      "published_at": "2026-06-27T05:23:22+00:00",
-      "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
-    },
-    {
-      "title": "South Korea plans to train entire military as \"drone warriors\"",
-      "summary_cn": "韩国计划将全军训练为「无人机战士」，把无人机作为通用作战工具。",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
-      "sources": [
-        "Ars Technica"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.2,
-      "category": "行业动态",
-      "published_at": "2026-06-26T22:19:05+00:00",
-      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
-    },
-    {
-      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-      "summary_cn": "纽约时报在最高法院不利判决后调整对微软/OpenAI 的版权指控，抨击微软为 OpenAI 建「侵权超算」。",
-      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-      "sources": [
-        "Ars Technica"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.2,
-      "category": "行业动态",
-      "published_at": "2026-06-26T20:04:55+00:00",
-      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
-    },
-    {
-      "title": "Macro",
-      "summary_cn": "Product Hunt涌现大量AI Agent工具（Macro、Flowly、Retrace、Needle、scritty等），聚焦桌面助手、共享记忆、GTM自动化与Agent调试等场景。",
-      "url": "https://www.producthunt.com/products/macro-workspace",
-      "sources": [
-        "Product Hunt"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.35,
-      "category": "产品动态",
-      "published_at": "2026-06-26T19:41:09+00:00",
-      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
-    },
-    {
-      "title": "Mark by Airtop",
-      "summary_cn": "Airtop 推出 Mark：面向个人营销者的'氛围式'自动化工具。",
-      "url": "https://www.producthunt.com/products/airtop",
-      "sources": [
-        "Product Hunt"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "产品动态",
-      "published_at": "2026-06-26T19:21:13+00:00",
-      "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
-    },
-    {
-      "title": "国产AI高考708分，这款模型靠什么成为「屏蔽生」？ - qq.com",
-      "summary_cn": "某国产大模型在高考评测中取得708分「屏蔽生」级成绩，展示其推理与学科能力。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SOWdqYldjUU5tejZ3dm1CQkhTYXdCWkRxYWRhQzFfVnlSUXpLRGl3cEd6N3U2Q1JDVTBtWDlZOWJzZktVaVNjdzJSWllia0pYR3F5VXJ3?oc=5",
-      "sources": [
-        "机器之心"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.5,
-      "category": "研究技术",
-      "published_at": "2026-06-26T06:58:00+00:00",
-      "first_seen_at": "2026-07-02T12:40:20.684915+00:00"
-    },
-    {
-      "title": "US vs. OpenAI 🏛️, state of AI economy 🤖, scaling laws 📈",
-      "summary_cn": "TLDR AI 速递：美国政府 vs OpenAI、AI 经济现状与 scaling laws 等话题。",
-      "url": "https://tldr.tech/ai/2026-06-26",
-      "sources": [
-        "TLDR AI"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.6,
-      "category": "行业动态",
-      "published_at": "2026-06-26T00:00:00+00:00",
-      "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
-    },
-    {
-      "title": "豆包付费靴子落地字 节跳动直面AI算力、定价、商业化博弈 - 证券时报",
-      "summary_cn": "字节跳动豆包推出专业版付费订阅，标志其 AI 商业化落地，直面算力成本、定价与商业模式博弈，被解读为字节'AI 梭哈 To B'战略的第一步。",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nLV8tN245T2xLTTVNVkl5UHpzWERxRmQ5RGJVOW4xSUlDU0NsVExUVTFYR005WjBrdWtWNUZhaDM5RHowUDRVYXdnakRvYi1lYjQ1cUlPR0s3V1Ix?oc=5",
-      "sources": [
-        "证券时报",
-        "36kr",
-        "虎嗅",
-        "DoNews"
-      ],
-      "source_count": 4,
-      "relevance_score": 1.0,
-      "category": "产品动态",
-      "published_at": "2026-06-25T23:45:57+00:00",
-      "first_seen_at": "2026-07-02T14:49:29.017636+00:00"
-    },
-    {
-      "title": "ClinePass",
-      "summary_cn": "ClinePass 发布：在 Cline 中运行最优开源权重模型。",
-      "url": "https://www.producthunt.com/products/cline-4",
-      "sources": [
-        "Product Hunt"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "产品动态",
-      "published_at": "2026-06-25T22:55:24+00:00",
-      "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
-    },
-    {
-      "title": "Folio AI",
-      "summary_cn": "Folio AI 发布：号称'加强版 PowerPoint 版 Claude'的 AI 演示文稿工具。",
-      "url": "https://www.producthunt.com/products/folio-ai",
-      "sources": [
-        "Product Hunt"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.6,
-      "category": "产品动态",
-      "published_at": "2026-06-25T20:15:56+00:00",
-      "first_seen_at": "2026-07-02T04:38:49.766177+00:00"
-    },
-    {
-      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-      "summary_cn": "Notion 关停受 Skiff 启发的邮件应用，转向「全力用 Agent 管理收件箱」。",
-      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-      "sources": [
-        "Ars Technica"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.4,
-      "category": "产品动态",
-      "published_at": "2026-06-25T19:04:57+00:00",
-      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
-    },
-    {
-      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
-      "summary_cn": "谷歌时隔 20 年终于推出 Finance 安卓应用，与 AI 关联有限。",
-      "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
-      "sources": [
-        "Ars Technica"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.15,
-      "category": "产品动态",
-      "published_at": "2026-06-25T18:38:51+00:00",
-      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
-    },
-    {
-      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-      "summary_cn": "Anthropic 指控阿里巴巴用约 2.5 万个账号、2880 万次对话大规模'克隆'Claude 并要求处罚；同时被曝为防模型蒸馏而暗藏针对中国用户的检测/封号代码，官方称将在更新中移除，引发'AI 大厂互相设防'的讨论。",
-      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-      "sources": [
-        "Ars Technica",
-        "雷峰网",
-        "钛媒体",
-        "36氪"
-      ],
-      "source_count": 4,
-      "relevance_score": 1.0,
-      "category": "行业动态",
-      "published_at": "2026-06-25T18:01:48+00:00",
-      "first_seen_at": "2026-07-02T12:05:39.335428+00:00"
-    },
-    {
-      "title": "IBM claims world’s first sub-1 nanometer chip technology",
-      "summary_cn": "IBM 宣称实现全球首个亚 1 纳米芯片技术，其 nanostack 晶体管有望提升芯片性能或能效。",
-      "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
-      "sources": [
-        "Ars Technica"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.6,
-      "category": "算力供应链",
-      "published_at": "2026-06-25T10:00:55+00:00",
-      "first_seen_at": "2026-07-02T04:53:14.534287+00:00"
     }
   ]
 }
