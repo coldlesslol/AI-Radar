@@ -132,3 +132,17 @@ date: 2026-06-29
   - 共用渲染组件必须参数化 element id（`getElementById` 只返首个，重复 id 静默出错）。
   - 只在本地 preview 验证 ≠ 线上就绪；线上故障要拉线上 CDN/API 实证。
 - 未决：`api_server.py` 加 launchd 常驻；移动端实机验收；MiniMax/SPCX 新股历史补齐。
+
+## 2026-07-04 夜间故障排查："打不开 + 没更新"（Claude Code，已上线）
+- 表象一个，实为**四个独立故障叠加**，逐个根治：
+  1. **打不开** = 根地址 `AI-Radar/` 无 index.html → GitHub 返 404（页面实际在 `web/index.html`）。加根 `index.html`（meta+JS 跳转到 web/index.html）。
+  2. **今日零更新** = 10:06 daily 首步 `pull_openrouter` DNS 解析失败 + 脚本 `set -e` → 一步失败整线中止，全天没数据。改 `run_daily.sh`：去 `set -e`，每步包 `step()` 独立容错，单源抖动只警告跳过。
+  3. **digest 停更** = `pull_score` 靠 `claude -p`，但 CLI **半截安装**：npm 外壳在、`bin/claude.exe` 只是占位 stub（"native binary not installed"），`~/.local/bin/claude` 正式入口没建（只剩临时名 `.claude-Fz4r9qQ8`）。清掉阻塞重装的孤儿临时目录 `.claude-code-DV2VGY4u` → `npm i -g @anthropic-ai/claude-code` 补装完整（v2.1.201，`claude -p` 实测通过）→ 重跑打分补今日 digest。`run_daily.sh` 加 `export PATH="$HOME/.local/bin:..."` 让 launchd 精简环境也能 `shutil.which("claude")`。
+  4. **部署反复失败** = 两种失败混着：一是逼近/超 `deploy-pages` 10min 超时；二是 Pages 后端瞬时 "Deployment failed, try again later"。**关键发现**：`deploy-pages@v4` 的 timeout 硬顶 600000ms(10min)，设更大被夹回并告警——之前"放宽到 20min"无效。无配置解，只能重跑。
+- 关键教训（可复用）：
+  - **GitHub Pages 部署 flaky 是 GitHub 侧，改配置修不了**：timeout 上限 10min；后端偶发慢/瞬时失败。唯一解=重跑。可用 `git credential fill` 取 token → `POST /repos/{o}/{r}/actions/runs/{id}/rerun` 直接触发重跑（本次即如此成功），无需 gh CLI / UI。
+  - **桌面 App ≠ CLI**：App 内置的两个 claude 是 Linux ELF（App 内部沙盒用）和 macOS GUI，都不能当 `claude -p` 脚本调用。脚本需要独立的 `~/.local/bin/claude` CLI。
+  - **`set -e` 用在多源采集脚本是反模式**：一个源抖动 = 全线中止。每步独立容错更稳。
+  - **launchd 的 PATH 极精简**（默认不含 `~/.local/bin`），依赖 PATH 找二进制的脚本要在脚本里显式 export。
+  - 时间戳来源要认准：前端"已更新"读 `digest.json.updated`，不是最新的原始数据文件——所以只刷原始数据、不重跑打分，"已更新"不会变。
+- 未决：`448a4d0`（timeout 注释更正）未 push（无害，明晨 daily 带上）；部署可靠性无根治（GitHub 侧，靠重跑）。

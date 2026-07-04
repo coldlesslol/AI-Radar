@@ -21,6 +21,12 @@ date: 2026-06-29
 ## 与 100-Investment 的关系
 TechRadar = 信息流追踪（行业动态、产品、趋势）；100-Investment = 金融决策面板（二级市场标的、指标、交易）。两边互相引用，不互相混入。
 
+## 当前焦点（2026-07-04）
+- ✅ **今晚故障已全部修复并上线**（根地址可开 + 今日数据 + 今日 digest 全绿）：https://coldlesslol.github.io/AI-Radar/web/index.html
+- ⚠️ 运维须知：**GitHub Pages 后端偶发慢/瞬时失败**（"Deployment failed, try again later"），且 `deploy-pages` timeout 硬顶 600000ms(10min) 改不动——**唯一解是重跑**；重跑可用凭据经 API 触发（`actions/runs/{id}/rerun`），或 GitHub UI Re-run，或等次日 daily。
+- ✅ 每日 daily job 已健康：CLI 补装完整 + `run_daily.sh` 每步容错 + 显式 PATH，10:00 自动拉数据+打分+部署。
+- （历史，仍有效）信源 P1/P2/P3、投资 tab 19 股+5 大盘、操作台、模型&榜单小卡 —— 见下方 07-03 焦点条目。
+
 ## 当前焦点（2026-07-03）
 - ✅ **全部已上线**（GitHub Pages 部署已恢复正常）：https://coldlesslol.github.io/AI-Radar/web/index.html
 - ✅ 信源扩展 P1/P2/P3：企业动态监控（智谱/月之暗面/百度/字节/MiniMax/新智元/机器之心/Mistral/Runway/Cohere 共 10 家 Google News RSS）；SEC EDGAR 财报（8 家美股 10-K/10-Q）；深度分析研报（SemiAnalysis/Latent Space/Interconnects/Ahead of AI/Import AI/腾讯研究院/McKinsey）

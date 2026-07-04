@@ -15,7 +15,16 @@ date: 2026-06-29
 4. ✅ 部署故障根治：删 `github-pages` protection rule（deploy-pages 超时根因）+ `.nojekyll` + `cancel-in-progress:false`
 5. ✅ UI 修复：股票 canvas id 冲突（第一行趋势）/ 大盘扁平化 / 榜单入口小卡竖排
 
-## 待办 / 待确认（2026-07-03）
+## 当前：今晚故障修复（owner: Claude Code，2026-07-04，已上线）
+"打不开 + 没更新" = 四个独立故障叠加，逐个根治：
+1. ✅ 打不开：根地址无 index.html(404) → 加根跳转 `index.html`
+2. ✅ digest 停更：claude CLI 半截安装(核心二进制没下完) → 补装完整(v2.1.201) + `run_daily.sh` 显式 PATH，重跑打分补今日 digest
+3. ✅ 今日零更新：openrouter 首步 DNS 抖 + `set -e` 拖垮全线 → `run_daily.sh` 改每步独立容错(step 函数，去 -e)
+4. ✅ 部署反复失败：确认 timeout 硬顶 10min 改不动、Pages 后端偶发瞬时失败 → 经 API 触发 re-run 成功上线
+
+## 待办 / 待确认（2026-07-04）
+- `448a4d0`（deploy timeout 注释更正，纯文档）本地未 push——明晨 daily 会顺带带上，或随手 push
+- **部署可靠性无根治**：Pages 后端 flaky 是 GitHub 侧，只能重跑；若哪天线上没更新，先看 Actions 最新 run 是否 failure，failure 就 re-run
 - 操作台 `api_server.py` 是否加入 launchd 常驻（现需手动启动才能在 devlog 存配置）
 - 移动端实机验收（响应式已写，未真机测）
 - 新股 MiniMax(0100)/SPCX 历史数据短，观察后续交易日是否自动补满 30 天
