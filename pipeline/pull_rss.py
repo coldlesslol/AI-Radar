@@ -15,6 +15,8 @@ import feedparser
 
 from lib.common import get_session, retry, write_json, update_index, setup_logging, now_iso
 from lib.user_config import load as load_user_config
+from lib.paywall import is_paywalled
+from lib.companies import COMPANIES, AI_MEDIA, google_news_url
 
 log = setup_logging("rss")
 
@@ -52,19 +54,8 @@ FEEDS = [
     ("news_producthunt", "news_producthunt.json", "Product Hunt",  "news",       "https://www.producthunt.com/feed?category=artificial-intelligence",    15),
     # ── 研究 ─────────────────────────────────────────────────────────────────
     ("research_arxiv",   "research_arxiv.json",   "arXiv AI",      "research",   "https://arxiv.org/rss/cs.AI",                                          20),
-    # ── P1 企业动态监控（Google News RSS，重点补齐国内 AI 公司覆盖）─────────────
-    # 国内重点企业
-    ("company_zhipu",   "company_zhipu.json",    "智谱AI",         "company",    "https://news.google.com/rss/search?q=智谱AI+GLM&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",              8),
-    ("company_kimi",    "company_kimi.json",     "月之暗面",        "company",    "https://news.google.com/rss/search?q=月之暗面+Kimi&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",          8),
-    ("company_baidu",   "company_baidu.json",    "百度AI",          "company",    "https://news.google.com/rss/search?q=百度+文心+ERNIE+Bot&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",   8),
-    ("company_doubao",  "company_doubao.json",   "字节豆包",        "company",    "https://news.google.com/rss/search?q=字节跳动+豆包+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",      8),
-    ("company_minimax", "company_minimax.json",  "MiniMax",        "company",    "https://news.google.com/rss/search?q=MiniMax+AI+海螺&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",        6),
-    ("company_xinzhiyuan","company_xinzhiyuan.json","新智元",       "company",    "https://news.google.com/rss/search?q=新智元+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",               8),
-    ("company_jiqizhixin","company_jiqizhixin.json","机器之心",     "company",    "https://news.google.com/rss/search?q=机器之心+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",             8),
-    # 国际中小 AI 公司（大平台已有 Techmeme/Verge 覆盖）
-    ("company_mistral", "company_mistral.json",  "Mistral",        "company",    "https://news.google.com/rss/search?q=Mistral+AI+model&hl=en-US&gl=US&ceid=US:en",            6),
-    ("company_runway",  "company_runway.json",   "Runway",         "company",    "https://news.google.com/rss/search?q=Runway+AI+video+generation&hl=en-US&gl=US&ceid=US:en",  6),
-    ("company_cohere",  "company_cohere.json",   "Cohere",         "company",    "https://news.google.com/rss/search?q=Cohere+AI+enterprise&hl=en-US&gl=US&ceid=US:en",        6),
+    # ── 企业监控 + AI 媒体：不在此硬编码，由 _registry_feeds() 从统一公司总表
+    #    （lib/companies.py）动态生成，与股价/财报同一套基准。──────────────────
     # ── P3 分析机构（免费高质量 AI 研究）─────────────────────────────────────
     # ARK Invest：官方 /articles/feed/ 返回 404，暂停，待确认可用 RSS URL
     # ("analysis_ark",    "analysis_ark.json",     "ARK Invest",     "analysis",   "https://ark-invest.com/articles/feed/",                                5),
@@ -134,6 +125,7 @@ def pull_one(key: str, out: str, source: str, layer: str, url: str, max_items: i
     cutoff = datetime.now(timezone.utc) - timedelta(days=age_days)
     items = []
     skipped_old = 0
+    skipped_paywall = 0
     for e in feed.entries[:max_items * 3]:  # 多取一些，补上被过滤掉的
         if len(items) >= max_items:
             break
@@ -144,8 +136,13 @@ def pull_one(key: str, out: str, source: str, layer: str, url: str, max_items: i
                 skipped_old += 1
                 continue
         article_url = techmeme_source_url(e) if is_techmeme else e.get("link", "")
+        title = html_mod.unescape(e.get("title", "").strip())
+        # 付费墙/无法完整打开的信源即无效信源，采集端丢弃（同一事件多经免费变体进入）
+        if is_paywalled(title, article_url):
+            skipped_paywall += 1
+            continue
         items.append({
-            "title": html_mod.unescape(e.get("title", "").strip()),
+            "title": title,
             "url": article_url,
             "summary": strip_html(e.get("summary", "")),
             "source": source,
@@ -161,7 +158,7 @@ def pull_one(key: str, out: str, source: str, layer: str, url: str, max_items: i
     }
     write_json(out, payload)
     update_index(key, out, len(items))
-    log.info("%s OK: %d 条（跳过 %d 条过期）", source, len(items), skipped_old)
+    log.info("%s OK: %d 条（跳过 %d 过期 / %d 付费墙）", source, len(items), skipped_old, skipped_paywall)
     return len(items)
 
 
@@ -190,9 +187,28 @@ def _user_feeds() -> list[tuple]:
     return feeds
 
 
+def _slug(name: str) -> str:
+    return re.sub(r"[^\w]+", "_", name).strip("_").lower()
+
+
+def _registry_feeds() -> list[tuple]:
+    """从统一公司总表（lib/companies.py）动态生成企业监控 + AI 媒体 feed，
+    确保每个投资标的都有企业新闻监控（与股价/财报同一套基准）。"""
+    feeds = []
+    for c in COMPANIES:
+        sid = _slug(c["name"])
+        url = google_news_url(c["news"], c.get("region", "US"))
+        feeds.append((f"company_{sid}", f"company_{sid}.json", c["name"], "company", url, 6))
+    for m in AI_MEDIA:
+        sid = _slug(m["name"])
+        url = google_news_url(m["news"], m.get("region", "CN"))
+        feeds.append((f"media_{sid}", f"media_{sid}.json", m["name"], "media", url, 6))
+    return feeds
+
+
 def main() -> None:
     ok, fail = 0, 0
-    all_feeds = FEEDS + _user_feeds()
+    all_feeds = FEEDS + _registry_feeds() + _user_feeds()
     for key, out, source, layer, url, *rest in all_feeds:
         max_items = rest[0] if rest else DEFAULT_MAX
         try:

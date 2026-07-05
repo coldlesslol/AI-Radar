@@ -94,8 +94,10 @@ def write_json(filename: str, payload: dict[str, Any]) -> Path:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     path = DATA_DIR / filename
     tmp = path.with_suffix(path.suffix + ".tmp")
+    # allow_nan=False：NaN/Infinity 不是合法 JSON，会让前端 JSON.parse 崩溃。
+    # 宁可在此处抛错（保留旧的好数据、该步跳过），也不写出会拖垮线上的坏 JSON。
     tmp.write_text(
-        json.dumps(payload, ensure_ascii=False, indent=2),
+        json.dumps(payload, ensure_ascii=False, indent=2, allow_nan=False),
         encoding="utf-8",
     )
     tmp.replace(path)  # 原子替换，避免半截文件被 artifact 读到

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T10:10:30+08:00",
+  "updated": "2026-07-05T17:57:04+08:00",
   "files": {
     "rankings_openrouter": "rankings_openrouter.json",
     "news_techmeme": "news_techmeme.json",
@@ -42,10 +42,34 @@
     "company_xinzhiyuan": "company_xinzhiyuan.json",
     "company_jiqizhixin": "company_jiqizhixin.json",
     "analysis_tisi": "analysis_tisi.json",
-    "analysis_mckinsey": "analysis_mckinsey.json"
+    "analysis_mckinsey": "analysis_mckinsey.json",
+    "company_nvidia": "company_nvidia.json",
+    "company_microsoft": "company_microsoft.json",
+    "company_alphabet": "company_alphabet.json",
+    "company_amazon": "company_amazon.json",
+    "company_meta": "company_meta.json",
+    "company_amd": "company_amd.json",
+    "company_broadcom": "company_broadcom.json",
+    "company_tesla": "company_tesla.json",
+    "company_arm": "company_arm.json",
+    "company_oracle": "company_oracle.json",
+    "company_spacex": "company_spacex.json",
+    "company_寒武纪": "company_寒武纪.json",
+    "company_中际旭创": "company_中际旭创.json",
+    "company_拓维信息": "company_拓维信息.json",
+    "company_商汤": "company_商汤.json",
+    "company_阿里巴巴": "company_阿里巴巴.json",
+    "company_腾讯": "company_腾讯.json",
+    "company_智谱ai": "company_智谱ai.json",
+    "company_月之暗面": "company_月之暗面.json",
+    "company_百度ai": "company_百度ai.json",
+    "company_字节豆包": "company_字节豆包.json",
+    "company_deepseek": "company_deepseek.json",
+    "media_新智元": "media_新智元.json",
+    "media_机器之心": "media_机器之心.json"
   },
   "stats": {
-    "total_items": 744,
+    "total_items": 868,
     "last_run_status": "ok",
     "errors": [
       {
@@ -77,15 +101,30 @@
         "file": "community_hn",
         "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))",
         "at": "2026-07-05T10:00:42+08:00"
+      },
+      {
+        "file": "stocks",
+        "error": "NVDA",
+        "at": "2026-07-05T11:37:40+08:00"
+      },
+      {
+        "file": "stocks",
+        "error": "0700.HK",
+        "at": "2026-07-05T11:39:02+08:00"
+      },
+      {
+        "file": "stocks",
+        "error": "NVDA,MSFT,GOOGL,AMZN,META,AMD,AVGO,TSLA,ARM,ORCL,SPCX,688256.SS,300308.SZ,002261.SZ,0020.HK,9988.HK,0700.HK,2513.HK,0100.HK,^GSPC,QQQ,000001.SS,000300.SS,^HSI",
+        "at": "2026-07-05T11:40:35+08:00"
       }
     ],
     "per_file": {
       "rankings_openrouter": 15,
-      "news_techmeme": 15,
+      "news_techmeme": 7,
       "news_qbitai": 10,
-      "community_hn": 0,
+      "community_hn": 18,
       "stocks": 24,
-      "digest": 45,
+      "digest": 62,
       "huggingface_trending": 15,
       "github_trending": 14,
       "news_jiqizhixin": 0,
@@ -121,7 +160,31 @@
       "company_xinzhiyuan": 8,
       "company_jiqizhixin": 1,
       "analysis_tisi": 0,
-      "analysis_mckinsey": 10
+      "analysis_mckinsey": 10,
+      "company_nvidia": 6,
+      "company_microsoft": 6,
+      "company_alphabet": 6,
+      "company_amazon": 4,
+      "company_meta": 1,
+      "company_amd": 0,
+      "company_broadcom": 6,
+      "company_tesla": 2,
+      "company_arm": 5,
+      "company_oracle": 6,
+      "company_spacex": 6,
+      "company_寒武纪": 6,
+      "company_中际旭创": 6,
+      "company_拓维信息": 0,
+      "company_商汤": 2,
+      "company_阿里巴巴": 4,
+      "company_腾讯": 4,
+      "company_智谱ai": 6,
+      "company_月之暗面": 6,
+      "company_百度ai": 0,
+      "company_字节豆包": 6,
+      "company_deepseek": 2,
+      "media_新智元": 6,
+      "media_机器之心": 1
     }
   }
 }

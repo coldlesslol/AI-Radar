@@ -7,41 +7,19 @@
 
 from __future__ import annotations
 
+import time
+
 import yfinance as yf
 
 from lib.common import write_json, update_index, setup_logging, now_iso
 from lib.user_config import load as load_user_config
+from lib.companies import tradeable
 
 log = setup_logging("stocks")
 
-# ── AI 核心标的（可交易，19 只，5 per row）────────────────────────────────────
-# (ticker, 显示名, 区域, 币种)
-TICKERS = [
-    # US（11）
-    ("NVDA",      "NVIDIA",    "US", "USD"),
-    ("MSFT",      "Microsoft", "US", "USD"),
-    ("GOOGL",     "Alphabet",  "US", "USD"),
-    ("AMZN",      "Amazon",    "US", "USD"),
-    ("META",      "Meta",      "US", "USD"),
-    ("AMD",       "AMD",       "US", "USD"),
-    ("AVGO",      "Broadcom",  "US", "USD"),
-    ("TSLA",      "Tesla",     "US", "USD"),
-    ("ARM",       "ARM",       "US", "USD"),
-    ("ORCL",      "Oracle",    "US", "USD"),
-    ("SPCX",      "SpaceX",   "US", "USD"),
-    # A 股（3）
-    ("688256.SS", "寒武纪",    "CN", "CNY"),
-    ("300308.SZ", "中际旭创",  "CN", "CNY"),
-    ("002261.SZ", "拓维信息",  "CN", "CNY"),
-    # 港股（5）
-    ("0020.HK",   "商汤-W",   "HK", "HKD"),
-    ("9988.HK",   "阿里巴巴", "HK", "HKD"),
-    ("0700.HK",   "腾讯",     "HK", "HKD"),
-    ("2513.HK",   "智谱AI",   "HK", "HKD"),
-    ("0100.HK",   "MiniMax",  "HK", "HKD"),
-]
+# ── AI 核心标的：从统一公司总表（lib/companies.py）派生，与财报/新闻同一套 ──
+TICKERS = [(c["ticker"], c["name"], c["region"], c["currency"]) for c in tradeable()]
 
-# 私有公司列表已清空（SpaceX/智谱/MiniMax 均已上市）
 PRIVATE: list[dict] = []
 
 # ── 大盘指数（5 只，单独一行）──────────────────────────────────────────────
@@ -59,7 +37,12 @@ def pull_one(ticker: str, name: str, region: str, currency: str) -> dict | None:
     if hist.empty:
         log.warning("%s (%s) 无数据", name, ticker)
         return None
-    closes = [round(float(c), 2) for c in hist["Close"].tolist()]
+    # 剔除 NaN：yfinance 偶返 NaN 收盘（休市/数据缺口），NaN 不是合法 JSON，
+    # 会让前端 JSON.parse 崩溃、整个股票面板挂掉（2026-07-05 沪深300 踩此坑）。
+    closes = [round(float(c), 2) for c in hist["Close"].tolist() if c == c]
+    if not closes:
+        log.warning("%s (%s) 收盘价全为 NaN，跳过", name, ticker)
+        return None
     return {
         "ticker": ticker,
         "name": name,
@@ -71,37 +54,41 @@ def pull_one(ticker: str, name: str, region: str, currency: str) -> dict | None:
     }
 
 
-def main() -> None:
-    stocks, indices, errors = [], [], []
+def pull_batch(tickers: list, label: str) -> tuple[list, list]:
+    """拉一组标的，失败的重试最多 3 轮（yfinance 偶发限流/瞬时失败，
+    否则每天都会随机少一两只）。返回 (成功行, 失败 ticker)。"""
+    rows, pending = [], list(tickers)
+    for attempt in range(3):
+        still = []
+        for ticker, name, region, currency in pending:
+            try:
+                row = pull_one(ticker, name, region, currency)
+                if row:
+                    rows.append(row)
+                    log.info("%s%s OK: %s %s", label, name, row["price"], currency)
+                else:
+                    still.append((ticker, name, region, currency))
+            except Exception as e:
+                still.append((ticker, name, region, currency))
+                log.warning("%s%s (%s) 第%d次失败: %s", label, name, ticker, attempt + 1, e)
+        pending = still
+        if not pending:
+            break
+        if attempt < 2:
+            log.info("%s重试 %d 只失败标的...", label, len(pending))
+            time.sleep(3)
+    return rows, [t[0] for t in pending]
 
+
+def main() -> None:
     user_cfg = load_user_config()
     user_tickers = [(s["ticker"], s["name"], s["region"], s["currency"])
                     for s in user_cfg.get("stocks", []) if s.get("ticker")]
     all_tickers = TICKERS + user_tickers
 
-    for ticker, name, region, currency in all_tickers:
-        try:
-            row = pull_one(ticker, name, region, currency)
-            if row:
-                stocks.append(row)
-                log.info("%s OK: %s %s", name, row["price"], currency)
-            else:
-                errors.append(ticker)
-        except Exception as e:
-            errors.append(ticker)
-            log.error("%s (%s) 失败: %s", name, ticker, e)
-
-    for ticker, name, region, currency in INDEX_TICKERS:
-        try:
-            row = pull_one(ticker, name, region, currency)
-            if row:
-                indices.append(row)
-                log.info("[指数] %s OK: %s", name, row["price"])
-            else:
-                errors.append(ticker)
-        except Exception as e:
-            errors.append(ticker)
-            log.error("[指数] %s 失败: %s", name, e)
+    stocks, err_s = pull_batch(all_tickers, "")
+    indices, err_i = pull_batch(INDEX_TICKERS, "[指数] ")
+    errors = err_s + err_i
 
     payload = {
         "updated": now_iso(),

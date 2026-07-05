@@ -1,16 +1,16 @@
 {
   "source": "Product Hunt",
   "layer": "news",
-  "updated": "2026-07-05T10:01:04+08:00",
+  "updated": "2026-07-05T17:49:20+08:00",
   "items": [
     {
-      "title": "ChecklistFox",
-      "url": "https://www.producthunt.com/products/checklistfox",
-      "summary": "AI checklist maker for beautiful pdfs, free & instant Discussion | Link",
+      "title": "WorkBuddy",
+      "url": "https://www.producthunt.com/products/workbuddy-2",
+      "summary": "Produce sharpened results faster with a team of AI experts Discussion | Link",
       "source": "Product Hunt",
-      "time": "1d",
+      "time": "5d",
       "tags": [],
-      "published_at": "2026-07-03T20:40:09+00:00"
+      "published_at": "2026-06-30T02:39:48+00:00"
     },
     {
       "title": "Termi Protocol",
@@ -22,22 +22,13 @@
       "published_at": "2026-07-03T21:14:15+00:00"
     },
     {
-      "title": "nxt",
-      "url": "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list",
-      "summary": "Talk to your to do list and get what's next Discussion | Link",
+      "title": "ChecklistFox",
+      "url": "https://www.producthunt.com/products/checklistfox",
+      "summary": "AI checklist maker for beautiful pdfs, free & instant Discussion | Link",
       "source": "Product Hunt",
-      "time": "3d",
+      "time": "1d",
       "tags": [],
-      "published_at": "2026-07-01T10:43:09+00:00"
-    },
-    {
-      "title": "Glaze by Raycast",
-      "url": "https://www.producthunt.com/products/glaze-4",
-      "summary": "Create your own Mac apps by chatting with AI Discussion | Link",
-      "source": "Product Hunt",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-02T15:57:02+00:00"
+      "published_at": "2026-07-03T20:40:09+00:00"
     },
     {
       "title": "Vox",
@@ -49,13 +40,31 @@
       "published_at": "2026-07-03T00:08:51+00:00"
     },
     {
-      "title": "PieterPost MCP",
-      "url": "https://www.producthunt.com/products/pieter-post",
-      "summary": "Connect your AI agent to postal mail Discussion | Link",
+      "title": "Glaze by Raycast",
+      "url": "https://www.producthunt.com/products/glaze-4",
+      "summary": "Create your own Mac apps by chatting with AI Discussion | Link",
+      "source": "Product Hunt",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-02T15:57:02+00:00"
+    },
+    {
+      "title": "nxt",
+      "url": "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list",
+      "summary": "Talk to your to do list and get what's next Discussion | Link",
       "source": "Product Hunt",
       "time": "3d",
       "tags": [],
-      "published_at": "2026-07-01T20:19:19+00:00"
+      "published_at": "2026-07-01T10:43:09+00:00"
+    },
+    {
+      "title": "Macuse",
+      "url": "https://www.producthunt.com/products/macuse",
+      "summary": "Give Your AI Superpowers on macOS Discussion | Link",
+      "source": "Product Hunt",
+      "time": "4d",
+      "tags": [],
+      "published_at": "2026-07-01T09:26:16+00:00"
     },
     {
       "title": "Retrace",
@@ -65,6 +74,33 @@
       "time": "3d",
       "tags": [],
       "published_at": "2026-07-01T16:12:07+00:00"
+    },
+    {
+      "title": "PieterPost MCP",
+      "url": "https://www.producthunt.com/products/pieter-post",
+      "summary": "Connect your AI agent to postal mail Discussion | Link",
+      "source": "Product Hunt",
+      "time": "3d",
+      "tags": [],
+      "published_at": "2026-07-01T20:19:19+00:00"
+    },
+    {
+      "title": "Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "summary": "One API to scrape, enrich, and extract the internet Discussion | Link",
+      "source": "Product Hunt",
+      "time": "4d",
+      "tags": [],
+      "published_at": "2026-07-01T03:33:28+00:00"
+    },
+    {
+      "title": "Flowly",
+      "url": "https://www.producthunt.com/products/flowly-6",
+      "summary": "A personal AI agent that runs on your desktop and iPhone Discussion | Link",
+      "source": "Product Hunt",
+      "time": "5d",
+      "tags": [],
+      "published_at": "2026-06-30T02:35:56+00:00"
     },
     {
       "title": "Solaris",
@@ -85,6 +121,15 @@
       "published_at": "2026-06-30T13:17:55+00:00"
     },
     {
+      "title": "Basedash Actions",
+      "url": "https://www.producthunt.com/products/basedash",
+      "summary": "A BI tool that can take action for you Discussion | Link",
+      "source": "Product Hunt",
+      "time": "3d",
+      "tags": [],
+      "published_at": "2026-07-02T04:14:53+00:00"
+    },
+    {
       "title": "scritty",
       "url": "https://www.producthunt.com/products/scritty",
       "summary": "Shared, searchable memory for every AI coding agent Discussion | Link",
@@ -92,51 +137,6 @@
       "time": "3d",
       "tags": [],
       "published_at": "2026-07-02T00:21:44+00:00"
-    },
-    {
-      "title": "Basedash Actions",
-      "url": "https://www.producthunt.com/products/basedash",
-      "summary": "A BI tool that can take action for you Discussion | Link",
-      "source": "Product Hunt",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-02T04:14:53+00:00"
-    },
-    {
-      "title": "Flowly",
-      "url": "https://www.producthunt.com/products/flowly-6",
-      "summary": "A personal AI agent that runs on your desktop and iPhone Discussion | Link",
-      "source": "Product Hunt",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-06-30T02:35:56+00:00"
-    },
-    {
-      "title": "Macuse",
-      "url": "https://www.producthunt.com/products/macuse",
-      "summary": "Give Your AI Superpowers on macOS Discussion | Link",
-      "source": "Product Hunt",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-01T09:26:16+00:00"
-    },
-    {
-      "title": "Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "summary": "One API to scrape, enrich, and extract the internet Discussion | Link",
-      "source": "Product Hunt",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-01T03:33:28+00:00"
-    },
-    {
-      "title": "Ciaro Pro",
-      "url": "https://www.producthunt.com/products/ciaro-pro",
-      "summary": "AI filmmaking for visual storytellers Discussion | Link",
-      "source": "Product Hunt",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-06-30T14:36:16+00:00"
     }
   ]
 }

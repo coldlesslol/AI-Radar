@@ -784,8 +784,51 @@ Claude 处理步骤：
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <div class="tab-panel" id="tab-monitor">
 
+  <div class="callout callout-green" style="margin-bottom:20px;">
+    <strong>统一模型（2026-07-05 重构）：</strong>投资标的 = 财报 = 企业新闻监控，同一套基准（<code>pipeline/lib/companies.py</code>）。一家标的自动带齐 股价 + 财报 + 企业新闻；在标的基础上再补充"关注·未持仓"企业。以下"信源总览"为权威全表。
+  </div>
+
+  <div class="section">
+    <div class="section-title">信源总览 · 新闻信源清单 <span style="font-weight:400;text-transform:none;letter-spacing:0">— 全部进 Claude 打分 → digest 三 tab</span></div>
+    <table class="data-table">
+      <tr><th style="width:16%">层</th><th style="width:8%">数量</th><th>信源</th></tr>
+      <tr><td><strong>通用新闻/扫描</strong></td><td>10</td><td>Techmeme · The Verge · Ars Technica · MIT Tech Review · 量子位 · 36氪 · 雷峰网 · 钛媒体 · VentureBeat · Product Hunt</td></tr>
+      <tr><td><strong>社区</strong></td><td>2</td><td>HN · Reddit ML</td></tr>
+      <tr><td><strong>Newsletter</strong></td><td>5</td><td>TLDR AI · Import AI · Latent Space · SemiAnalysis · Benedict Evans</td></tr>
+      <tr><td><strong>研究</strong></td><td>1</td><td>arXiv AI</td></tr>
+      <tr><td><strong>深度研报</strong></td><td>4</td><td>McKinsey · 腾讯研究院 · Interconnects · Ahead of AI</td></tr>
+      <tr><td><strong>AI 媒体</strong></td><td>2</td><td>新智元 · 机器之心（媒体，非公司）</td></tr>
+      <tr><td><strong>企业信源</strong>（子集）</td><td>26</td><td>投资标的 19 + 关注·未持仓 7，见下表</td></tr>
+    </table>
+  </div>
+
+  <div class="section">
+    <div class="section-title">企业信源 · 由投资标的驱动（26）<span style="font-weight:400;text-transform:none;letter-spacing:0">— 标的自动带齐 股价✓ 财报✓ 新闻✓</span></div>
+    <table class="data-table">
+      <tr><th style="width:20%">类别</th><th style="width:8%">数量</th><th>公司</th></tr>
+      <tr><td>投资标的 · 美股</td><td>11</td><td>NVIDIA · Microsoft · Alphabet · Amazon · Meta · AMD · Broadcom · Tesla · ARM · Oracle · SpaceX</td></tr>
+      <tr><td>投资标的 · A股</td><td>3</td><td>寒武纪 · 中际旭创 · 拓维信息</td></tr>
+      <tr><td>投资标的 · 港股</td><td>5</td><td>商汤 · 阿里巴巴 · 腾讯 · 智谱AI · MiniMax</td></tr>
+      <tr><td>关注 · 未持仓</td><td>7</td><td>月之暗面 · 百度AI · 字节豆包 · <strong>DeepSeek</strong> · Mistral · Runway · Cohere</td></tr>
+    </table>
+  </div>
+
+  <div class="section">
+    <div class="section-title">非文章数据源 <span style="font-weight:400;text-transform:none;letter-spacing:0">— 不进 digest，各自独立面板</span></div>
+    <table class="data-table">
+      <tr><th style="width:16%">类型</th><th>来源</th></tr>
+      <tr><td>榜单</td><td>OpenRouter 调用榜 · GitHub Trending · HuggingFace Trending</td></tr>
+      <tr><td>股价</td><td>yfinance —— 19 投资标的 + 5 大盘指数（S&P500/QQQ/上证/沪深300/恒生）</td></tr>
+      <tr><td>财报</td><td>美股 SEC EDGAR（10-K/10-Q）· A股/港股 雅虎财务报表页</td></tr>
+    </table>
+  </div>
+
+  <div class="callout callout-blue" style="margin:24px 0;">
+    <strong>付费墙过滤：</strong>无法完整打开的硬墙外链（财新/WSJ/FT/彭博/The Information/日经/经济学人/Barron's）在采集端丢弃，同一事件走免费变体保留；<strong>不</strong>拉黑整个媒体（MIT TR 等计费墙保留）。
+  </div>
+
   <div class="callout callout-blue" style="margin-bottom:24px;">
-    <strong>P1 + P2 + P3</strong> 监控清单独立于主信源扫描层。P1 企业动态每日随管线更新；P2 财报链接直达 SEC EDGAR，季报/年报文件期间自动更新；P3 分析机构低频发布，新文章出现时 Claude 评分通常偏高。
+    <strong>历史分档（P1/P2/P3）</strong>以下为早期分档明细，现已并入上方统一模型，保留供参考。
   </div>
 
   <!-- ── P1: 企业动态监控 ── -->

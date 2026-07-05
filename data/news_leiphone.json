@@ -1,7 +1,7 @@
 {
   "source": "雷峰网",
   "layer": "news",
-  "updated": "2026-07-05T10:00:19+08:00",
+  "updated": "2026-07-05T17:49:06+08:00",
   "items": [
     {
       "title": "谷歌为什么做不好「AI 编程」？",
@@ -44,7 +44,7 @@
       "url": "https://www.leiphone.com/category/chips/hNKPixxr0fUhIr0E.html",
       "summary": "过去六年，国产GPU公司一路站上AI风口，估值不断刷新，DPU却被忽略了。这并不符合产业现实。2020年英伟达完成收购Mellanox后，就已经明确了“GPU+CPU+DPU”的三芯战略。过去几年，英伟达也持续强化网络能力，黄仁勋在2026年CES展示“六芯组合”时，其中四款都与网络相关。一个越来越清晰的趋势开始浮出水面：AI基础设施的瓶颈，正在从算力本身转向网络与调度。尤其Agent时代到来后，",
       "source": "雷峰网",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-03T06:35:00+00:00"
     },
@@ -53,7 +53,7 @@
       "url": "https://www.leiphone.com/category/private/AvP8p11JWo0fiWEl.html",
       "summary": "告别盲目刷榜，28页 PPT 带你摸透 ICML 新风向。&nbsp; &nbsp; 作者丨陈淑瑜&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
       "source": "雷峰网",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-03T06:31:00+00:00"
     },
@@ -62,7 +62,7 @@
       "url": "https://www.leiphone.com/category/transportation/MUVKjPPs0O7fc4PW.html",
       "summary": "成立八年的易控智驾，终于发起上市冲刺。近日，易控智驾向港交所递交招股书，第一次系统展示了这家无人矿卡公司的真实账本。可喜的是，这家公司在过去三年里跑出了惊人的加速度。截至2025年底，全国11个单矿超百辆的超级无人驾驶项目中，易控智驾拿下9个；其单矿部署车队规模突破500辆，成为全球最大的单矿无人驾驶车队。但忧的是，站在全球最大单矿无人驾驶车队背后的易控智驾，依然没有摆脱持续亏损。招股书显示，20",
       "source": "雷峰网",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-03T03:41:00+00:00"
     },
@@ -107,7 +107,7 @@
       "url": "https://www.leiphone.com/category/ai/Kt66f2aNWvTzcMod.html",
       "summary": "2026年6月25日，美国联邦贸易委员会（FTC）在一份例行公告中，批准了马斯克对一家名为 Mesh Optical Technologies 初创公司的收购。Mesh此前在科技圈几乎无人知晓。这家总部位于洛杉矶的公司2025年创立，直到2026年2月Thrive Capital领投5000万美元A轮融资时才首次对外亮相，公开“存在感”仅4个月。但Mesh的三位创始人却是马斯克的“老熟人”。特拉维",
       "source": "雷峰网",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-02T09:32:00+00:00"
     },
@@ -116,7 +116,7 @@
       "url": "https://www.leiphone.com/category/yanxishe/w6us4wphPrRD8x6g.html",
       "summary": "连 AI 的 “外壳” 都学会自我迭代了&nbsp; &nbsp; 作者丨高允毅&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
       "source": "雷峰网",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-02T07:10:00+00:00"
     },
@@ -125,7 +125,7 @@
       "url": "https://www.leiphone.com/category/chips/EAd6eTSPIeOOy4j7.html",
       "summary": "6月，在德国汉堡ISC高性能计算大会的展台上，GPU、液冷、量子计算的声浪依旧汹涌，但今年，会场的主角悄悄换了人。IO500榜单——全球高性能计算存储领域最权威的评测体系——公布了最新一期结果：中科曙光ParaStor F9000分布式全闪存储系统，同时拿下生产型全节点和10节点两大榜单的第一名。在这一榜单近十年的历史中，能够同时统领这两个维度的，此前只有少数几家美国厂商，中科曙光成为首家达成此成",
       "source": "雷峰网",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-02T06:16:00+00:00"
     },
@@ -134,7 +134,7 @@
       "url": "https://www.leiphone.com/category/private/sADR0wFJaCQinCZr.html",
       "summary": "作者｜吴思梦编辑｜岑峰&nbsp;引言：&nbsp;2016年6月，纽约。David Silver站到了ICML的讲台上，用66页幻灯片，从Q-Learning一路推到AlphaGo。他传递出一种信念：把深度网络嫁接到强化学习上，通用智能的涌现就只是算力和工程问题。彼时距AlphaGo在首尔4∶1击败李世石仅三个月。&nbsp;十年后的2025年7月，温哥华。Anca Dragan——Google",
       "source": "雷峰网",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-02T05:36:00+00:00"
     },
@@ -143,7 +143,7 @@
       "url": "https://www.leiphone.com/category/industrynews/bm5j7ZigtfWU5sL5.html",
       "summary": "过去足球赛场上的高光瞬间回顾，往往需要剪辑师回看素材，找到进球、庆祝、慢动作回放和观众反应，再切片、包装、加字幕，最后分发到不同平台。链路长，人工重，能不能接到热点爆发的流量，考验的是人的经验和手速。现在这条链路被拆开重组，开始由模型和工具链来接管赛事高光视频的完整生产流程。在新的链路中，AI 已经可以实时理解直播流，识别镜头切换、音频变化、球员庆祝、裁判哨音等信号，在关键事件发生后快速返回高光片",
       "source": "雷峰网",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-02T03:32:00+00:00"
     },
@@ -152,7 +152,7 @@
       "url": "https://www.leiphone.com/category/shengwuyiyao/5hR8USux68fILtr1.html",
       "summary": "6月30日，Anthropic和OpenAI同时在AI4S赛道投下了各自的筹码。Anthropic发布了科研智能体工作台Claude Science，明确表态“不依赖新模型”，通过工作流整合现有能力来承包科学家的日常研究流程。OpenAI推出了GeneBench-Pro，一套覆盖基因组学、定量生物学等10个领域的评测基准，其测试数据显示，在129个真实科研workflow题目中，即便是最强的GPT",
       "source": "雷峰网",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-02T02:11:00+00:00"
     },

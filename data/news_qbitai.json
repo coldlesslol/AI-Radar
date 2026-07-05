@@ -1,14 +1,32 @@
 {
   "source": "量子位",
   "layer": "news",
-  "updated": "2026-07-05T10:00:12+08:00",
+  "updated": "2026-07-05T17:49:05+08:00",
   "items": [
+    {
+      "title": "李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱",
+      "url": "https://www.qbitai.com/2026/07/443066.html",
+      "summary": "一段视频，生成无限训练场景",
+      "source": "量子位",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-05T06:59:11+00:00"
+    },
+    {
+      "title": "刚刚，LeCun团队让世界模型学会持续学习！",
+      "url": "https://www.qbitai.com/2026/07/442964.html",
+      "summary": "迈向持续学习的世界模型",
+      "source": "量子位",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-05T06:52:17+00:00"
+    },
     {
       "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
       "url": "https://www.qbitai.com/2026/07/442958.html",
       "summary": "",
       "source": "量子位",
-      "time": "20h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-04T05:52:21+00:00"
     },
@@ -62,7 +80,7 @@
       "url": "https://www.qbitai.com/2026/07/442224.html",
       "summary": "创业30年，6次低谷",
       "source": "量子位",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-03T07:40:44+00:00"
     },
@@ -71,27 +89,9 @@
       "url": "https://www.qbitai.com/2026/07/442452.html",
       "summary": "超越人类超导体发现100年效率",
       "source": "量子位",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-03T07:35:58+00:00"
-    },
-    {
-      "title": "WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter",
-      "url": "https://www.qbitai.com/2026/07/442447.html",
-      "summary": "",
-      "source": "量子位",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-03T07:12:27+00:00"
-    },
-    {
-      "title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
-      "url": "https://www.qbitai.com/2026/07/442311.html",
-      "summary": "第三方测评超越OpenAI最强旗舰GPT-5.6 Sol",
-      "source": "量子位",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-03T05:24:06+00:00"
     }
   ]
 }

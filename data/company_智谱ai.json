@@ -1,7 +1,7 @@
 {
   "source": "智谱AI",
   "layer": "company",
-  "updated": "2026-07-05T10:01:11+08:00",
+  "updated": "2026-07-05T17:50:11+08:00",
   "items": [
     {
       "title": "中国AI模型GLM-5.2低成本挑战美国巨头 数据安全遭欧美市场质疑 - RFI",
@@ -11,6 +11,15 @@
       "time": "2d",
       "tags": [],
       "published_at": "2026-07-02T21:35:19+00:00"
+    },
+    {
+      "title": "智谱(02513)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1jN29MUTZrX3piT2syV1hFM1llaEdMX3FJYUNrcUMwb1NORjAwLUQzNUhHQnJSVjVsdXptSVVRQQ?oc=5",
+      "summary": "智谱(02513)股票股价_股价行情_讨论_资讯_财报_数据报告&nbsp;&nbsp;雪球",
+      "source": "智谱AI",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-04T06:57:16+00:00"
     },
     {
       "title": "消息称智谱AI最新GLM 5.2开源模型性能比肩Anthropic的Opus 4.8 - 光通信Pro",
@@ -26,7 +35,7 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ma190cjhScjYwQ0NzYzRjVlFTcTZycW5fbjJiaWY2RllwVEo3Zld5YUVsQWxHTnNzVnRtQk4tbXZmWXFmVDFuV3VTUkFSS2w5UElMN19paUoySlZnaEVEZDl4RDgyOEl4X1dmT1llMWpBRzNiUzRrY3ZIVi03QQ?oc=5",
       "summary": "智谱发布GLM-5.2，国产AI模型在网络安全领域实现关键突破&nbsp;&nbsp;新浪财经",
       "source": "智谱AI",
-      "time": "5d",
+      "time": "6d",
       "tags": [],
       "published_at": "2026-06-29T04:57:33+00:00"
     },
@@ -44,18 +53,9 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CbTF6ZTRXQlpJUlRYbVZEaFQtOEQwTVI1aF9jN29sNmlGai1OclpYYmJGM2hfa0hCWHgwcTZtUEhkWUozNTFYLW9rZGlGTUVnUlR6RE5MM2RkVFFySU9PUzdtT3R3WjA?oc=5",
       "summary": "智谱AI新模型GLM-5.2在漏洞检测领域比肩Claude Mythos&nbsp;&nbsp;blog.csdn.net",
       "source": "智谱AI",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-06-30T06:38:20+00:00"
-    },
-    {
-      "title": "美媒：智谱GLM-5.2漏洞挖掘能力达到Mythos水平 - cnBeta.COM",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52cEJaMWJYNDdXNVN3ZlNOQVltUFVjNEE1a0lKd2tBdDNZOUxoVUdmWWp2WDZXZHNFYmFHc2llOUlMTmtMTnhCYmxEV0I1QkNrelBrbUVVaHZRX2tScG56Sw?oc=5",
-      "summary": "美媒：智谱GLM-5.2漏洞挖掘能力达到Mythos水平&nbsp;&nbsp;cnBeta.COM",
-      "source": "智谱AI",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-06-29T00:13:00+00:00"
     }
   ]
 }

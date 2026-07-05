@@ -24,6 +24,8 @@ from datetime import datetime, timezone, timedelta
 
 from lib.common import DATA_DIR, now_iso, setup_logging, write_json, update_index
 from lib.user_config import load as load_user_config
+from lib.paywall import is_paywalled
+from lib.companies import all_monitor_names
 
 log = setup_logging("score")
 
@@ -80,9 +82,10 @@ _AI_DEDICATED = {
     "McKinsey",
 }
 
-# 运行时合并用户自定义公司/信源名（绕过关键词预筛）
+# 运行时合并统一公司总表 + 用户自定义公司/信源名（绕过关键词预筛）
 _user_cfg = load_user_config()
-_AI_DEDICATED = _AI_DEDICATED | {s["name"] for s in _user_cfg.get("stocks", [])} \
+_AI_DEDICATED = _AI_DEDICATED | all_monitor_names() \
+                               | {s["name"] for s in _user_cfg.get("stocks", [])} \
                                | {s["name"] for s in _user_cfg.get("sources", [])}
 # 关键词（标题或摘要含任意一个即通过，小写匹配）
 _AI_KW = {
@@ -243,6 +246,9 @@ def update_archive(enriched: list[dict]) -> None:
         x for x in arch_items
         if (x.get("published_at") or x.get("first_seen_at", ""))[:10] >= cutoff_str
     ]
+    # 清理付费墙历史遗留（is_paywalled 兼容旧数据）
+    arch_items = [x for x in arch_items
+                  if not is_paywalled(x.get("title", ""), x.get("url", ""))]
 
     existing_urls = {x["url"] for x in arch_items}
     added = 0
@@ -292,6 +298,9 @@ def update_pinned(enriched: list[dict]) -> None:
         x for x in pin_items
         if datetime.fromisoformat(x["expires_at"].replace("Z", "+00:00")) > now
     ]
+    # 清理付费墙历史遗留
+    pin_items = [x for x in pin_items
+                 if not is_paywalled(x.get("title", ""), x.get("url", ""))]
 
     existing_urls = {x["url"] for x in pin_items}
     added = 0
@@ -422,6 +431,13 @@ def main() -> None:
         })
 
     enriched.sort(key=lambda x: x["relevance_score"], reverse=True)
+
+    # 付费墙/无法完整打开的信源即无效信源，全链路剔除（digest/archive/pinned 统一入口）
+    before = len(enriched)
+    enriched = [e for e in enriched
+                if not is_paywalled(e.get("title", ""), e.get("url", ""))]
+    if before != len(enriched):
+        log.info("付费墙过滤：剔除 %d 条", before - len(enriched))
 
     # archive + pinned 拿全量（不限流，全部历史可查）
     update_archive(enriched)

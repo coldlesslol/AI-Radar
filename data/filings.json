@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-05T10:03:31+08:00",
+  "updated": "2026-07-05T17:51:01+08:00",
   "items": [
+    {
+      "ticker": "ORCL",
+      "company": "Oracle",
+      "form": "10-K",
+      "date": "2026-06-22",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001341439&type=10-K&dateb=&owner=include&count=1"
+    },
     {
       "ticker": "AVGO",
       "company": "Broadcom",
@@ -21,6 +28,13 @@
       "form": "10-Q",
       "date": "2026-05-06",
       "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000002488&type=10-Q&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "form": "10-Q",
+      "date": "2026-04-30",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652044&type=10-Q&dateb=&owner=include&count=1"
     },
     {
       "ticker": "AMZN",
@@ -51,6 +65,13 @@
       "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001318605&type=10-Q&dateb=&owner=include&count=1"
     },
     {
+      "ticker": "ORCL",
+      "company": "Oracle",
+      "form": "10-Q",
+      "date": "2026-03-11",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001341439&type=10-Q&dateb=&owner=include&count=1"
+    },
+    {
       "ticker": "NVDA",
       "company": "NVIDIA",
       "form": "10-K",
@@ -63,6 +84,13 @@
       "form": "10-K",
       "date": "2026-02-06",
       "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724&type=10-K&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "form": "10-K",
+      "date": "2026-02-05",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652044&type=10-K&dateb=&owner=include&count=1"
     },
     {
       "ticker": "AMD",
@@ -98,6 +126,62 @@
       "form": "10-K",
       "date": "2025-07-30",
       "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789019&type=10-K&dateb=&owner=include&count=1"
+    },
+    {
+      "ticker": "688256.SS",
+      "company": "寒武纪",
+      "form": "财务报表",
+      "date": "",
+      "url": "https://finance.yahoo.com/quote/688256.SS/financials"
+    },
+    {
+      "ticker": "300308.SZ",
+      "company": "中际旭创",
+      "form": "财务报表",
+      "date": "",
+      "url": "https://finance.yahoo.com/quote/300308.SZ/financials"
+    },
+    {
+      "ticker": "002261.SZ",
+      "company": "拓维信息",
+      "form": "财务报表",
+      "date": "",
+      "url": "https://finance.yahoo.com/quote/002261.SZ/financials"
+    },
+    {
+      "ticker": "0020.HK",
+      "company": "商汤",
+      "form": "财务报表",
+      "date": "",
+      "url": "https://finance.yahoo.com/quote/0020.HK/financials"
+    },
+    {
+      "ticker": "9988.HK",
+      "company": "阿里巴巴",
+      "form": "财务报表",
+      "date": "",
+      "url": "https://finance.yahoo.com/quote/9988.HK/financials"
+    },
+    {
+      "ticker": "0700.HK",
+      "company": "腾讯",
+      "form": "财务报表",
+      "date": "",
+      "url": "https://finance.yahoo.com/quote/0700.HK/financials"
+    },
+    {
+      "ticker": "2513.HK",
+      "company": "智谱AI",
+      "form": "财务报表",
+      "date": "",
+      "url": "https://finance.yahoo.com/quote/2513.HK/financials"
+    },
+    {
+      "ticker": "0100.HK",
+      "company": "MiniMax",
+      "form": "财务报表",
+      "date": "",
+      "url": "https://finance.yahoo.com/quote/0100.HK/financials"
     }
   ]
 }

@@ -11,23 +11,15 @@ from __future__ import annotations
 import time
 from lib.common import get_session, retry, write_json, setup_logging, now_iso
 from lib.user_config import load as load_user_config
+from lib.companies import with_cik, tradeable
 
 log = setup_logging("filings")
 
 EDGAR_BASE = "https://data.sec.gov/submissions"
 EDGAR_VIEWER = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={cik}&type={form}&dateb=&owner=include&count=1&search_text="
 
-# (ticker, 公司显示名, CIK)
-COMPANIES = [
-    ("NVDA",  "NVIDIA",    "0001045810"),
-    ("MSFT",  "Microsoft", "0000789019"),
-    ("GOOGL", "Alphabet",  "0001652044"),
-    ("AMZN",  "Amazon",    "0001018724"),
-    ("META",  "Meta",      "0001326801"),
-    ("AMD",   "AMD",       "0000002488"),
-    ("AVGO",  "Broadcom",  "0001730168"),
-    ("TSLA",  "Tesla",     "0001318605"),
-]
+# 美股 SEC 财报：从统一公司总表派生（有 CIK 的标的）
+COMPANIES = [(c["ticker"], c["name"], c["cik"]) for c in with_cik()]
 
 FORMS_WANTED = {"10-K", "10-Q"}
 
@@ -92,6 +84,19 @@ def main() -> None:
         except Exception as e:
             log.error("%s 失败: %s", ticker, e)
         time.sleep(0.5)  # EDGAR 建议 ≤10 req/s
+
+    # A股/港股标的：无 SEC 备案，给雅虎财务报表页作为财报入口（每个标的都有财报）
+    for c in tradeable():
+        if c.get("cik") or c["region"] not in ("CN", "HK"):
+            continue
+        items.append({
+            "ticker":  c["ticker"],
+            "company": c["name"],
+            "form":    "财务报表",
+            "date":    "",
+            "url":     f"https://finance.yahoo.com/quote/{c['ticker']}/financials",
+        })
+        log.info("%s: 财务报表页（%s）", c["ticker"], c["region"])
 
     payload = {
         "updated": now_iso(),

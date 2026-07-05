@@ -1,7 +1,7 @@
 {
   "source": "McKinsey",
   "layer": "analysis",
-  "updated": "2026-07-05T10:01:44+08:00",
+  "updated": "2026-07-05T17:49:46+08:00",
   "items": [
     {
       "title": "A dual transformation agenda for Europe’s chemicals industry",
@@ -13,18 +13,18 @@
       "published_at": "2026-07-03T00:00:00+00:00"
     },
     {
-      "title": "How Miro is redefining collaboration across the product development life cycle",
-      "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/how-miro-is-redefining-collaboration-across-the-product-development-life-cycle",
-      "summary": "Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping competitive advantage in software.",
+      "title": "The real future of work in healthcare",
+      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/the-real-future-of-work-in-healthcare",
+      "summary": "Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care depends on making automation work through human–AI workflows.",
       "source": "McKinsey",
       "time": "3d",
       "tags": [],
       "published_at": "2026-07-02T00:00:00+00:00"
     },
     {
-      "title": "The real future of work in healthcare",
-      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/the-real-future-of-work-in-healthcare",
-      "summary": "Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care depends on making automation work through human–AI workflows.",
+      "title": "How Miro is redefining collaboration across the product development life cycle",
+      "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/how-miro-is-redefining-collaboration-across-the-product-development-life-cycle",
+      "summary": "Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping competitive advantage in software.",
       "source": "McKinsey",
       "time": "3d",
       "tags": [],

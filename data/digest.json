@@ -1,55 +1,14 @@
 {
-  "updated": "2026-07-05T10:10:30+08:00",
-  "total": 45,
-  "deduped_from": 182,
+  "updated": "2026-07-05T17:57:04+08:00",
+  "total": 62,
+  "deduped_from": 237,
   "stats": {
-    "high_relevance": 9,
-    "mid_relevance": 32,
-    "low_relevance": 4,
-    "multi_source": 17
+    "high_relevance": 13,
+    "mid_relevance": 39,
+    "low_relevance": 10,
+    "multi_source": 27
   },
   "items": [
-    {
-      "_id": "智谱AI_1",
-      "_source": "智谱AI",
-      "title": "消息称智谱AI最新GLM 5.2开源模型性能比肩Anthropic的Opus 4.8 - 光通信Pro",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nbGRuRE1lS0F4NUZKS3NhZDd1ZW5VSUZFOTh0RFk3el96RFdqZ0w1emZlRVk4T0ZxcHVPa19EZnlXWmEwOFU2VUdOcGlCV3NnV2dNbWFn?oc=5",
-      "time": "5d",
-      "published_at": "2026-06-29T14:18:04+00:00",
-      "sources": [
-        "RFI",
-        "光通信Pro",
-        "新浪财经",
-        "CSDN",
-        "cnBeta",
-        "HackerNews"
-      ],
-      "source_count": 6,
-      "relevance_score": 1.0,
-      "category": "模型发布",
-      "summary_cn": "智谱发布开源模型 GLM-5.2，性能比肩 Anthropic Opus 4.8，漏洞挖掘/网络安全能力达 Claude Mythos 水平，以低成本挑战美国巨头；其开放权重与能力逼近前沿模型引发美欧数据安全与滥用担忧。"
-    },
-    {
-      "_id": "字节豆包_1",
-      "_source": "字节豆包",
-      "title": "千问、豆包将下线“智能体”功能 AI陪聊产品政策收紧 - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43NVZJdFEydzhwMHd3TXNJSVVGLXVsWHRlbGpoR2QyMF9pU1Z4OWhXOWhLZ0wtblJOZ0ZHZzdIRWw1bXpub2JMYnAxNVZocHhtYWI2R1M2ZE40c0ZjOGF6TFJvbGY?oc=5",
-      "time": "18h",
-      "published_at": "2026-07-04T07:57:00+00:00",
-      "sources": [
-        "财新",
-        "新浪财经",
-        "证券时报",
-        "奥一网",
-        "亿邦动力",
-        "搜狐",
-        "亚洲电视"
-      ],
-      "source_count": 7,
-      "relevance_score": 1.0,
-      "category": "行业动态",
-      "summary_cn": "因AI拟人互动新规将于7月15日施行，豆包、通义千问、元宝等相继宣布下线“智能体”功能，AI陪聊类产品政策全面收紧。"
-    },
     {
       "_id": "Mistral_4",
       "_source": "Mistral",
@@ -59,14 +18,88 @@
       "published_at": "2026-07-03T22:20:26+00:00",
       "sources": [
         "mistral.ai",
-        "HackerNews",
         "MarkTechPost",
         "The Tech Buzz"
+      ],
+      "source_count": 3,
+      "relevance_score": 1.0,
+      "category": "模型发布",
+      "summary_cn": "Mistral AI 发布 Apache-2.0 开源代码智能体模型 Leanstral 1.5，在 PutnamBench 数学证明基准上解出 672 题中的 587 题，主打 Lean 4 定理证明，正面对标 OpenAI。"
+    },
+    {
+      "_id": "智谱AI_4",
+      "_source": "智谱AI",
+      "title": "智谱AI发布GLM - 5.2，能力逼近美国模型引美政府担忧，开放权重或存滥用风险 - blog.csdn.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85Tk5PYktGLU5sa01fX1VGQXU5QUJEeDJwelRfRThYTEUzaHdJNGI3d3JBUzFxdUttZFl1b3AtNUNkdXhod1lzTDg2aVBxY3RmZTFaTG94UVNBSkNqVXF6LUhlYUNmaWtMZEcw?oc=5",
+      "time": "5d",
+      "published_at": "2026-06-30T00:56:07+00:00",
+      "sources": [
+        "RFI",
+        "新浪财经",
+        "光通信Pro",
+        "blog.csdn.net"
       ],
       "source_count": 4,
       "relevance_score": 1.0,
       "category": "模型发布",
-      "summary_cn": "Mistral 以 Apache-2.0 开源发布 Lean 4 代码智能体模型 Leanstral 1.5，在 PutnamBench 672 道题中解出 587 道，主打开源形式化证明能力，对标 OpenAI。"
+      "summary_cn": "智谱 AI 发布开源模型 GLM-5.2，性能逼近 Anthropic Opus 4.8，在漏洞检测/网络安全领域实现关键突破，其开放权重与低成本引发美国政府对滥用风险及数据安全的担忧。"
+    },
+    {
+      "_id": "字节豆包_1",
+      "_source": "字节豆包",
+      "title": "AI情感陪伴新规施行在即，豆包、千问、元宝下架智能体服务 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2Q0UHhYcm9hdGdJcG84S2gycG5tcVNOc0EtcWd5cDlnXzJrOWJXSWtQenhNZDBIZ0dHN3k0R3p3NW42dXFQRGtlTkJqQjlGTXhqc2hZMGRocG13WGNFbUd3dl9YdzdQZ2hocFdFV2RGMmVEYjR6Q0Q4T2steThSMjFXUmt4QlpQRVd3R3dJdmYtNVBpdnZoQmVYa1RJcUd4Wk5wUjh4TQ?oc=5",
+      "time": "3h",
+      "published_at": "2026-07-05T06:49:15+00:00",
+      "sources": [
+        "新浪财经",
+        "证券时报",
+        "电脑之家",
+        "亿邦动力网",
+        "搜狐网",
+        "新浪网"
+      ],
+      "source_count": 6,
+      "relevance_score": 1.0,
+      "category": "行业动态",
+      "summary_cn": "受 AI 情感陪伴新规将于 7 月 15 日施行影响，豆包、千问、元宝下架/下线智能体服务，已保存智能体也将无法调用；同期豆包正式收费。"
+    },
+    {
+      "_id": "Broadcom_4",
+      "_source": "Broadcom",
+      "title": "Broadcom and OpenAI debut 'Jalapeño' AI chip in $200B push - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcGRXZkNPZWptTC1jT2lsTVlpMmpOS2gwU3U2aGJoNjJ4YVhBMkhfalNkM2ZZOUltX0phSE9MWjRyN0U1S3ZfYXNRUG1hY3NpV1B6ZHJGcGh0UmRiS0VsNjdVc2lZMGduQzJCcHVNamdyVHByM3F6bGhncndJOV9hQU9vNzd2SWpMZ1ItSzMyUndjVEU3MC1IaUd1d1pBMkJITFJfNjM2ajY4YXNjQlNERHNFYW9INzdkdDJCQm9oZWo4V05tdFYzOFo5VlF6VFdieklOU0VJSUtFNWpJdXJLZkNlMXk3YVc3d3RNd1Z6cUMwUTVO?oc=5",
+      "time": "16h",
+      "published_at": "2026-07-04T17:04:24+00:00",
+      "sources": [
+        "MSN",
+        "qz.com",
+        "simplywall.st",
+        "Crypto Briefing"
+      ],
+      "source_count": 4,
+      "relevance_score": 1.0,
+      "category": "算力供应链",
+      "summary_cn": "OpenAI 联合博通推出首款自研定制 AI 芯片'Jalapeño'，涉及约 2000 亿美元规模布局，博通同时锁定三家超大规模云厂商，巩固其非英伟达 AI 芯片龙头地位。"
+    },
+    {
+      "_id": "NVIDIA_3",
+      "_source": "NVIDIA",
+      "title": "Nvidia offers to take a cut of AI cloud revenue on top of hardware sales in new optional financing vehicle — trades tokens for revenue cut - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdEpKbjZSbUVuLWZhZXY3WnBVSnQtQlFMUFBaV3ZXeldIVV9ha1o4UW5RYmJWN05WUm5lT3dkRHkwTG96MG5zTnU4LXZFQ203RUJMQW91d1RxNXZRWk1OWVFWeWJzNHFwUVZLbWdoMjZPNDFkbHdEXzMwUzZYbThLdTUyZDRQV283YTI5TGRpVUpMUmt3ZEw2QmRvWmxTSkVJOFJyTHZKNnZlRG9Q?oc=5",
+      "time": "2d",
+      "published_at": "2026-07-02T15:46:31+00:00",
+      "sources": [
+        "Tom's Hardware",
+        "Data Center Dynamics",
+        "Tech Times",
+        "Startup Fortune",
+        "NVIDIA Blog"
+      ],
+      "source_count": 5,
+      "relevance_score": 1.0,
+      "category": "算力供应链",
+      "summary_cn": "英伟达推出可选融资模式，在硬件销售之外对 AI 云收入抽成（首期 21 万块 GPU），以'GPU 换收入分成'为客户 GPU 提供兜底，被视为飞轮效应与供应商融资风险并存。"
     },
     {
       "_id": "MIT Tech Review_9",
@@ -78,196 +111,295 @@
       "sources": [
         "MIT Tech Review",
         "The Verge",
-        "雷峰网",
-        "钛媒体"
+        "钛媒体",
+        "雷峰网"
       ],
       "source_count": 4,
-      "relevance_score": 1.0,
+      "relevance_score": 0.99,
       "category": "产品动态",
-      "summary_cn": "Anthropic 发布科研智能体旗舰产品 Claude Science，主打不依赖新模型、以工作流整合现有能力，并透露自研药物研发意图；与 OpenAI 同日布局 AI4S 赛道，巨头竞争从拼模型转向卡生态。"
+      "summary_cn": "Anthropic 面向药企与科研人员发布旗舰新品 Claude Science 科研智能体工作台，强调不依赖新模型而以工作流整合现有能力，并透露有意自研药物，与 OpenAI 同日押注 AI4S 赛道。"
     },
     {
-      "_id": "Ars Technica_3",
-      "_source": "Ars Technica",
-      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-      "time": "3d",
-      "published_at": "2026-07-01T16:44:18+00:00",
+      "_id": "寒武纪_2",
+      "_source": "寒武纪",
+      "title": "“万亿元市值”寒武纪提示股票交易风险：人工智能芯片市场竞争日趋激烈 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LdWlQenJ5eHdIYVlXZkkwRFl5cXAxSURNakNEOTZRa1BKcjhkNC1jV2owYldWU3k3WWptN1BXcjcwLXNaMnAxZ1M3S1B4eGxzOFNTNmN3TUpldlZKRzJvZw?oc=5",
+      "time": "4d",
+      "published_at": "2026-06-30T19:41:28+00:00",
       "sources": [
-        "Ars Technica",
+        "麻省理工科技评论",
+        "东方财富",
+        "国际电子商情",
+        "thepaper.cn"
+      ],
+      "source_count": 4,
+      "relevance_score": 0.89,
+      "category": "算力供应链",
+      "summary_cn": "AI 芯片第一股寒武纪成为科创板首只市值破万亿公司，随后深夜提示股票交易风险，警示 AI 芯片市场竞争加剧，市值'万亿一日游'。"
+    },
+    {
+      "_id": "Mistral_3",
+      "_source": "Mistral",
+      "title": "Mistral AI seeks $3.5B and promises an open weights model this summer - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10NjRoREoxaWdYenE0bW81cld4aGF6RXJUTTdhZ2hXa1Z1X3lKeGtnVXdtY09VcU50WURxZy00azVMOEJoYmtmY2JPS1dxUWtnQjFncjJTcDJDLXAyWWlQWEVtZ3M?oc=5",
+      "time": "17h",
+      "published_at": "2026-07-04T16:35:23+00:00",
+      "sources": [
+        "Межа",
+        "TechCrunch"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.88,
+      "category": "融资并购",
+      "summary_cn": "Mistral AI 寻求 35 亿美元新融资，并承诺今夏推出开放权重前沿模型，持续以开源路线挑战 OpenAI。"
+    },
+    {
+      "_id": "Alphabet_5",
+      "_source": "Alphabet",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekN6bWs1SGhfZTg5MEhSMzZRdmROT0tCRUdvVm9QYU9wR3NpeURFRmRiY2JCYUdoR1cybHVic0h2MnFIb2ZGSE5DM3JONEtwekFzcUJ2QnhsMjV3YjZYWmlxQ0dnYXN5NWZMdDExZm9RVnl6MDNEV25qLVQyaVN3S245WXN6WlFHR1NYYm14bS1JYUhmZFJaN244QWEyN1JIVHo1bUdNNG1OWEI3d2c?oc=5",
+      "time": "4d",
+      "published_at": "2026-06-30T16:02:58+00:00",
+      "sources": [
+        "blog.google",
+        "Android Central"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.88,
+      "category": "模型发布",
+      "summary_cn": "谷歌推出 Nano Banana 2 Lite 与 Gemini Omni Flash 并开放构建，Gemini Omni 被称为'视频版 Nano Banana'，视频生成效果获好评。"
+    },
+    {
+      "_id": "中际旭创_3",
+      "_source": "中际旭创",
+      "title": "中际旭创市值超贵州茅台，资金从消费流向AI - 第一财经",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByT2lGUG5tckY1LXdzMm5HN0phVHg2OUZPTGlyVW0zRHRMX1pYMm05ZTItQUIzZkF4Vmh0NTRoNDJkN0pnVWx5eng4NTg3VExZZDI0?oc=5",
+      "time": "3d",
+      "published_at": "2026-07-01T14:50:06+00:00",
+      "sources": [
+        "第一财经",
+        "新浪网",
+        "创业邦",
+        "财富号",
+        "新浪财经"
+      ],
+      "source_count": 5,
+      "relevance_score": 0.87,
+      "category": "算力供应链",
+      "summary_cn": "光模块龙头中际旭创市值超越贵州茅台并再启 IPO，资金从消费板块流向 AI 硬件，光模块成为 AI 算力产业链绕不开的关键环节。"
+    },
+    {
+      "_id": "DeepSeek_1",
+      "_source": "DeepSeek",
+      "title": "DeepSeek V4 正式版官宣：7 月中旬上线，推理计算量仅为 V3 的 27% - 51CTO",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jQUVoLUVBMU1hYURWT3NjcTcyMTF1bXNoQ2V5WWUtMlZmZmd1a0NwSFlfUDVtbVBsakhsQVQ1OHpNZnVVaXpQNV9ZZWxwZw?oc=5",
+      "time": "5d",
+      "published_at": "2026-06-30T04:11:36+00:00",
+      "sources": [
+        "51CTO"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.85,
+      "category": "模型发布",
+      "summary_cn": "DeepSeek V4 正式版官宣将于 7 月中旬上线，推理计算量仅为 V3 的 27%，大幅降低推理成本。"
+    },
+    {
+      "_id": "The Verge_5",
+      "_source": "The Verge",
+      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "time": "4d",
+      "published_at": "2026-07-01T00:03:55+00:00",
+      "sources": [
         "The Verge",
-        "TLDR AI"
+        "Ars Technica",
+        "钛媒体"
       ],
       "source_count": 3,
-      "relevance_score": 0.94,
+      "relevance_score": 0.81,
       "category": "行业动态",
-      "summary_cn": "在因安全测试问题惊动特朗普政府后，美国解除对 Anthropic 先进模型 Fable 5、Mythos 的限制，长期搁置的 Fable 5 获准全球发布。"
+      "summary_cn": "在与特朗普政府数周谈判后，此前被搁置的 Anthropic Fable 5/Mythos 前沿模型获准全球发布，美国解除相关出口/安全限制。"
     },
     {
-      "_id": "月之暗面_3",
+      "_id": "DeepSeek_0",
+      "_source": "DeepSeek",
+      "title": "投资圈沸腾了！DeepSeek首次启动外部融资？ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxQM0Q0TGxtOWxyNUNwQk1OamZOa0xfcFBPVFB1Zkt6QTgzQ1ZqbzF4dkFqZTdMUElndC1FUFVHNG90LTBtNDduMG12TnJCMW8yOVJ5bldkMG1YSm12UmdiVmgtYXpQRzlNOEp4eThiNDJmSVpZRmo4RWp5cGkwYzhvLU9xdjZJNUxrbTJkRGZxUWt2c0w2Zlp0bm9iWVJ3TS1pNmdTWGZ4VWNrd05mc2FkSjQ2SE4yaTJTY3haWXUzQmQ5WlF0Vk1WU2dBb3dkZFAwQlE5Q2M5M3BvNVJQa1B2OGhxLWdkQ3dFX2JzLUtMSnZRaU9wcFNJWTNTb3A2ekNxNEFaZDN0Q0NUMU1HMW5hOS1CbHM1UjU3ejU2NmhKUEdraEY0VXRaeHBENkxMZ0xwVmVfU2pfWUpRbGRaZ2RZcWJlTnhPSDZrcGN2M2E1ckoyWlZvbEtjTlFjMVhXRFRCZHpnYVM2WkYtR1AtX2NkeGF1QXEwYXhWYjBoMXRTTDFYb2pnbTRpdUc1SjJXMUotS3Q4ZE5sZHYybHNFd3ZmRFZlZkZUZjl5eUstMkg0MVd3VzZkcGplR2RSeTcyVkdiN3VWMUtwS09VTnV1V1I1NE50S0RqQ1FJV3FjbnI1LXotTjV5N1lpYXVtS3dWbjVYRW5oZDZCRkR4ZjJvclRodzhwbVZMQkZzVXlFX3Z2bXNLV2w0SW50SHdwcEtYV2pKZUJkbTNaVm8?oc=5",
+      "time": "14h",
+      "published_at": "2026-07-04T19:19:34+00:00",
+      "sources": [
+        "新浪财经"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.8,
+      "category": "融资并购",
+      "summary_cn": "DeepSeek 疑似首次启动外部融资，引发投资圈高度关注。"
+    },
+    {
+      "_id": "Oracle_2",
+      "_source": "Oracle",
+      "title": "Oracle’s Data Center Warning Is a Worst-Case Scenario for the Whole AI Boom - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXFrQ3ZyMndPWXltYUhaVm1RajNvRGN4TWQtMkdlWHBDeFhJNkN6TDlBVlNXSXZiWnZFS21RbHRoNkRySjFCVklVM1Bha3ZRYTh4MEs5eXFyU2RkdWJaRmtWOFhkY0RKam9QM0VnS0M0THlvbS0ya3BJaE4wWkE4bGdVTWluR0ZzOHo5a1BKZkt5NEZxLXN0NEZQV1ZkMW5ZdFhvdXVxWUU?oc=5",
+      "time": "3d",
+      "published_at": "2026-07-01T17:05:25+00:00",
+      "sources": [
+        "Gizmodo",
+        "Yahoo Finance",
+        "24/7 Wall St.",
+        "foreignpolicyjournal.com"
+      ],
+      "source_count": 4,
+      "relevance_score": 0.79,
+      "category": "算力供应链",
+      "summary_cn": "甲骨文数据中心预警被视为整个 AI 建设热潮的最坏情景警示，同时其新 AI 智能体套件与云业务持续将 AI 基础设施置于业绩叙事核心。"
+    },
+    {
+      "_id": "寒武纪_1",
+      "_source": "寒武纪",
+      "title": "昆仑芯IPO：李彦宏最后一战——500亿美元估值、57名股东与“配货”式IPO，比较寒武纪1000多亿美元不太贵？ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPajFYVENXZ3pTeXphcjNWVjllRXRPaHdieXl6d1dzNXRjN0hlSkVMNXNla195c20xM2RMRHg0ekpOZFlMNF9Ed3ZFS0ZOMGc4eGRQV0VGUzFaZ0g0WF9MM1hjU201dG56aUQwUEVxc0lCYno3NWtTQVMwU0VhRy0zb01DNXFQVWhOZEE?oc=5",
+      "time": "6h",
+      "published_at": "2026-07-05T03:32:38+00:00",
+      "sources": [
+        "新浪财经",
+        "CNBC"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.78,
+      "category": "融资并购",
+      "summary_cn": "百度 AI 芯片子公司昆仑芯启动香港 IPO，目标估值约 500 亿美元，百度股价一度跳涨 7%，被视为李彦宏的'最后一战'。"
+    },
+    {
+      "_id": "钛媒体_5",
+      "_source": "钛媒体",
+      "title": "华为43%，寒武11%：2026年国产AI芯片的产能饥饿游戏",
+      "url": "https://www.tmtpost.com/8051488.html",
+      "time": "8h",
+      "published_at": "2026-07-05T01:22:24+00:00",
+      "sources": [
+        "钛媒体",
+        "潮起网"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.78,
+      "category": "算力供应链",
+      "summary_cn": "2026 年国产 AI 芯片陷入'产能饥饿游戏'，华为拿下中芯国际 43% 先进产能、寒武纪抢下 11%，15 家国产厂商争夺同一条产线的'产能船票'。"
+    },
+    {
+      "_id": "量子位_0",
+      "_source": "量子位",
+      "title": "李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱",
+      "url": "https://www.qbitai.com/2026/07/443066.html",
+      "time": "2h",
+      "published_at": "2026-07-05T06:59:11+00:00",
+      "sources": [
+        "量子位",
+        "钛媒体"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.78,
+      "category": "研究技术",
+      "summary_cn": "李飞飞、Jim Fan 等联合发表具身智能新论文，提出以 Real2Sim 替代烧钱的 Sim2Real，用一段视频生成无限训练场景，为机器人灵巧手指出新路径。"
+    },
+    {
+      "_id": "月之暗面_1",
       "_source": "月之暗面",
       "title": "微软GitHub Copilot接入首个开源模型Kimi K2.7 Code - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zRUdUX0ZUd1k4b3FJZ2Vna3pDQzJPLWdSN1Eya0JZT2JYQ1J6VVRObk1JMnJGVXQzUGtFSUZOZ2EzcC1NSmlRWA?oc=5",
       "time": "1d",
       "published_at": "2026-07-03T09:55:30+00:00",
       "sources": [
-        "凤凰网",
-        "新浪财经",
-        "新浪网"
+        "凤凰网"
       ],
-      "source_count": 3,
-      "relevance_score": 0.91,
+      "source_count": 1,
+      "relevance_score": 0.75,
       "category": "产品动态",
-      "summary_cn": "微软 GitHub Copilot 首次接入开源模型，纳入月之暗面的 Kimi K2.7 Code。"
+      "summary_cn": "微软 GitHub Copilot 接入首个开源模型 Kimi K2.7 Code，国产模型进入主流编程工具生态。"
     },
     {
-      "_id": "月之暗面_6",
-      "_source": "月之暗面",
-      "title": "月之暗面Kimi半年融资超39亿美元，投前估值升至315亿美元 - 电子工程专辑",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRYmVEUndEWEpHZ2tSWEpUbWtjV19WWXNxZUlGSjNTYzNXOUJWTktSX3otWUpGdzRsMkZURHY5a3RhNVQxcEI2RHloaXJLWkY1U2hPbUx1Z3Bqc1NE?oc=5",
+      "_id": "雷峰网_12",
+      "_source": "雷峰网",
+      "title": "Claude 和 Manus 还要人工搭框架？小米直接让 Agent 自我进化",
+      "url": "https://www.leiphone.com/category/yanxishe/w6us4wphPrRD8x6g.html",
       "time": "3d",
-      "published_at": "2026-07-01T06:59:38+00:00",
+      "published_at": "2026-07-02T07:10:00+00:00",
       "sources": [
-        "电子工程专辑",
-        "搜狐"
+        "雷峰网",
+        "新浪财经"
       ],
       "source_count": 2,
-      "relevance_score": 0.88,
-      "category": "融资并购",
-      "summary_cn": "月之暗面半年累计融资超39亿美元，投前估值升至315亿美元，Kimi ARR 迈入3亿美元高速增长期。"
-    },
-    {
-      "_id": "Techmeme_9",
-      "_source": "Techmeme",
-      "title": "Micron breaks ground on its ~$9.3B Hiroshima factory expansion, part of its global ramp-up to meet AI demand, and plans to start HBM shipments from summer 2028 (Mari Kiyohara/Bloomberg)",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion",
-      "time": "20h",
-      "published_at": "2026-07-04T05:35:01+00:00",
-      "sources": [
-        "Techmeme",
-        "Bloomberg",
-        "36氪"
-      ],
-      "source_count": 3,
-      "relevance_score": 0.88,
-      "category": "算力供应链",
-      "summary_cn": "美光投资约93亿美元（1.5万亿日元）扩建日本广岛工厂，生产HBM等先进存储芯片，计划2028年夏季起出货以满足AI需求。"
-    },
-    {
-      "_id": "新智元_7",
-      "_source": "新智元",
-      "title": "卷不赢模型，Meta改行「算力包租公」！一夜炸崩美股AI链 - 智源社区",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XYm5hLWQyaFBUNkhOV0pGQUxEaFdGVUExT2kxYUUwZVczWlhNaEtfRlJ0WXdDR3kyZndQNUxjeTVZRWItUVE0Sg?oc=5",
-      "time": "2d",
-      "published_at": "2026-07-03T01:40:00+00:00",
-      "sources": [
-        "新智元",
-        "36氪",
-        "TLDR AI"
-      ],
-      "source_count": 3,
-      "relevance_score": 0.86,
-      "category": "算力供应链",
-      "summary_cn": "Meta 拟向外部客户出售富余算力及模型访问权，德银测算或打开千亿美元级变现通道（2027年收入最高增300亿美元），消息一度引发美股AI链回落。"
-    },
-    {
-      "_id": "钛媒体_1",
-      "_source": "钛媒体",
-      "title": "华为43%，寒武11%：2026年国产AI芯片的产能饥饿游戏",
-      "url": "https://www.tmtpost.com/8051488.html",
-      "time": "37m",
-      "published_at": "2026-07-05T01:22:24+00:00",
-      "sources": [
-        "钛媒体"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.75,
-      "category": "算力供应链",
-      "summary_cn": "2026年华为拿下中芯43%先进产能、寒武纪抢下11%，15家国产AI芯片公司争夺有限产线，产能船票成胜负关键。"
-    },
-    {
-      "_id": "新智元_4",
-      "_source": "新智元",
-      "title": "斯坦福重磅研究登Nature！AI凭空造出前所未有蛋白质，超越AlphaGo - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMlphaWk1RkcxbVVtS3pZRTI1UkRUZDRyd25JQVNPci1CX1NCWXFFc3p1WUxNQ09mS3drT3l4TktpUllBdUdkOTcwUmxEQUd6Yk0zaXdzS1c1QUx5blVjRlp0UjdRVmpicXNiZUQxT1NYbkM2S0dORVFfVU56dDltR3gwMU1wTTdaVjBSSFg2RWNWVUh2MzlhVm5aNTMxMnNwQWRVS1RsUS1oWTdfV2lpdlQ3X2tsMUdYWjZXMk5lV3JEM1oyZEpQSDJNZ211blB3MEdBR1hCTDVYX1p6di03UTBsUU9PekJTaGQwZzE1ZmZsWlhXM3F1dUNGMGl1elJ1?oc=5",
-      "time": "2d",
-      "published_at": "2026-07-02T09:21:34+00:00",
-      "sources": [
-        "新智元",
-        "Nature"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.75,
+      "relevance_score": 0.73,
       "category": "研究技术",
-      "summary_cn": "斯坦福研究登 Nature，AI 从头设计出前所未有的全新蛋白质，被称超越 AlphaGo 式突破。"
+      "summary_cn": "小米推出可自我进化的 Agent 框架，让智能体外壳自动迭代，相关开源项目狂揽 2.4 万星标。"
     },
     {
-      "_id": "Latent Space_9",
-      "_source": "Latent Space",
-      "title": "Warp CEO Zach Lloyd on why software factories are the next phase of coding",
-      "url": "https://www.latent.space/p/software-factories",
-      "time": "3d",
-      "published_at": "2026-07-01T14:28:23+00:00",
-      "sources": [
-        "Latent Space"
-      ],
-      "source_count": 4,
-      "relevance_score": 0.74,
-      "category": "社区信号",
-      "summary_cn": "Vercel、Warp、Cursor 等分享智能体框架与“软件工厂”实践，Adobe 试验为每位访客即时生成页面的 agentic sites。"
-    },
-    {
-      "_id": "Ars Technica_8",
-      "_source": "Ars Technica",
-      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-      "time": "5d",
-      "published_at": "2026-06-29T21:09:43+00:00",
-      "sources": [
-        "Ars Technica"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.7,
-      "category": "算力供应链",
-      "summary_cn": "韩国计划投入1万亿美元扩大存储芯片产能并发展人形机器人，目标2028年前实现物理AI与商用人形机器人领先。"
-    },
-    {
-      "_id": "36氪_9",
-      "_source": "36氪",
-      "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
-      "url": "https://36kr.com/p/3879158039834629?f=rss",
+      "_id": "Microsoft_1",
+      "_source": "Microsoft",
+      "title": "Leaked video shows Microsoft’s work on a lightweight ‘Copilot OS’ built for AI. - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCTmZRQUxKTmtYNlg3TlJwSHkyOUhmVTUwQS1mc3pCLVNoUG8zQXVNdjJFSzhjdEktT3phVXJVYllJOEN2dEN5bFZnWkI3MUc1QU1EcTB0bkliOFc5S0d1VDBkSlI5b01yRzc0OVpDTUFidHdBQ3c?oc=5",
       "time": "2d",
-      "published_at": "2026-07-03T00:06:38+00:00",
+      "published_at": "2026-07-02T23:54:43+00:00",
       "sources": [
-        "36氪"
+        "The Verge",
+        "Windows Central",
+        "TechRadar"
+      ],
+      "source_count": 3,
+      "relevance_score": 0.71,
+      "category": "产品动态",
+      "summary_cn": "微软泄露视频显示其正探索基于 Edge、围绕 Copilot AI 打造的轻量级'Copilot OS'概念，但外界评价普遍不佳。"
+    },
+    {
+      "_id": "月之暗面_5",
+      "_source": "月之暗面",
+      "title": "估值再攀高峰：月之暗面Kimi迈入ARR3亿美元高速增长期 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWG1xdnNBU3EtYnpmMDV4azdEWnBlZHJwcVRtcFF3Y0xrSlMyc09CR1AzcXFBbUNmSjFhSnBJd1dBcDRBREVaZms2dkxyejU1S0EwU1NjYkVCMzdIR050MVpkWVVaem5nUGtQbDFqM09kVndfY1M4enE1eG40RVJwSENLclRkQ09U?oc=5",
+      "time": "2d",
+      "published_at": "2026-07-02T12:42:02+00:00",
+      "sources": [
+        "搜狐网"
       ],
       "source_count": 1,
       "relevance_score": 0.7,
       "category": "融资并购",
-      "summary_cn": "“具身智能第一股”宇树科技上市申请获通过。"
+      "summary_cn": "月之暗面 Kimi 迈入 ARR 3 亿美元高速增长期，估值再创新高，再度刷新融资纪录。"
     },
     {
-      "_id": "钛媒体_13",
-      "_source": "钛媒体",
-      "title": "订单排到2027年，谁在支撑人形机器人的“量产元年”？",
-      "url": "https://www.tmtpost.com/8052511.html",
-      "time": "18h",
-      "published_at": "2026-07-04T07:45:37+00:00",
+      "_id": "腾讯_1",
+      "_source": "腾讯",
+      "title": "腾讯混元发布“HY-WU”新范式，赋予AI模型实时“换脑”能力 - 品玩",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ocEtBSkdHR3VtN19PLWRUSTFoLUpkR3FrZjVrZUh0Y3Rsa194aWxXNG82Y2VQUVJQWTc1cDVHb2VIRWdselZueQ?oc=5",
+      "time": "3d",
+      "published_at": "2026-07-02T08:24:50+00:00",
       "sources": [
-        "钛媒体",
-        "36氪"
+        "品玩"
       ],
-      "source_count": 2,
+      "source_count": 1,
+      "relevance_score": 0.7,
+      "category": "研究技术",
+      "summary_cn": "腾讯混元发布 HY-WU 新范式，赋予 AI 模型实时'换脑'能力。"
+    },
+    {
+      "_id": "NVIDIA_5",
+      "_source": "NVIDIA",
+      "title": "Nvidia and Firmus to build 170,000-GPU data center in Indonesia - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmRhZHlOai1sTjd3X2Y2RlplNjg4YWZuZkFYSjlEUGxValRDNjBYLV95cjBnYjZtRmN3WG5BMHFkYklhZmZwY0NHTlVoVldMRXRSTDFialhUbThKbmRKd2h2UDlrSVhtYUxiM3lSY2JqUWNrZWQ5Tk9DaW84UU52NFhnX1UtRDJGb1JObXNsRURRcEl1c1E?oc=5",
+      "time": "5d",
+      "published_at": "2026-06-29T13:22:22+00:00",
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "source_count": 1,
       "relevance_score": 0.7,
       "category": "算力供应链",
-      "summary_cn": "人形机器人“量产元年”订单排至2027年、出货冲刺5万台，上游“卖铲人”先获利；前5月我国机器人出口近200亿元。"
+      "summary_cn": "英伟达与 Firmus 合作在印尼建设 17 万块 GPU 的数据中心，扩张海外 AI 算力基础设施。"
     },
     {
-      "_id": "量子位_7",
+      "_id": "量子位_9",
       "_source": "量子位",
       "title": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
       "url": "https://www.qbitai.com/2026/07/442452.html",
-      "time": "1d",
+      "time": "2d",
       "published_at": "2026-07-03T07:35:58+00:00",
       "sources": [
         "量子位"
@@ -275,115 +407,115 @@
       "source_count": 1,
       "relevance_score": 0.7,
       "category": "研究技术",
-      "summary_cn": "AI 仅用28个GPU时发现4种全新超导体，效率远超人类过去百年的超导体发现。"
+      "summary_cn": "AI 仅用 28 个 GPU 时便发现 4 种人类此前完全未知的全新超导体，效率远超以往。"
     },
     {
-      "_id": "量子位_9",
-      "_source": "量子位",
-      "title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
-      "url": "https://www.qbitai.com/2026/07/442311.html",
-      "time": "1d",
-      "published_at": "2026-07-03T05:24:06+00:00",
+      "_id": "Techmeme_0",
+      "_source": "Techmeme",
+      "title": "NY-based LinqAlpha, which provides AI-powered market research tools for hedge funds, raised a $22M Series A co-led by AVP, Atinum Investment, and GFT Ventures (Sofia Chesnokova/Tech Funding News)",
+      "url": "https://techfundingnews.com/linqalpha-raises-22m-avp-ai-research-platform/",
+      "time": "4h",
+      "published_at": "2026-07-05T05:10:01+00:00",
       "sources": [
+        "Tech Funding News"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.7,
+      "category": "融资并购",
+      "summary_cn": "为对冲基金提供 AI 市场研究工具的纽约初创 LinqAlpha 完成 2200 万美元 A 轮融资，由 AVP、Atinum、GFT Ventures 联合领投。"
+    },
+    {
+      "_id": "Meta_0",
+      "_source": "Meta",
+      "title": "Google limits Meta's use of Gemini AI models, delaying AI projects - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iMzdDa1p3eG56WUhaVDFIbHg1QlluY1ROd2pyR3pTa0VERnZsUTVMUzhkT3d5UjFUMXRlaFBXOWlBdExtbDZLcVpDdG9pakRnREFnR3ptVTVFR1NNZTBuUHNIaFJmM2hQcHd0cjRn?oc=5",
+      "time": "6d",
+      "published_at": "2026-06-28T14:53:59+00:00",
+      "sources": [
+        "Cybernews",
+        "智源社区"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.68,
+      "category": "行业动态",
+      "summary_cn": "谷歌限制 Meta 使用其 Gemini AI 模型，导致 Meta 相关 AI 项目延期，凸显头部厂商在模型供给上的博弈。"
+    },
+    {
+      "_id": "36氪_1",
+      "_source": "36氪",
+      "title": "硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业",
+      "url": "https://36kr.com/p/3882364132077577?f=rss",
+      "time": "3h",
+      "published_at": "2026-07-05T06:25:53+00:00",
+      "sources": [
+        "36氪",
         "量子位"
       ],
       "source_count": 2,
-      "relevance_score": 0.7,
-      "category": "研究技术",
-      "summary_cn": "中国团队将 JEPA/世界模型引入生命科学，构建理解细胞内部的物理原生基座模型，第三方测评称部分能力超越 GPT-5.6。"
+      "relevance_score": 0.68,
+      "category": "融资并购",
+      "summary_cn": "清华车辆学院师兄弟创立的具身智能公司光象科技完成累计数亿元天使轮融资，布局物理原生基座模型并落地汽车产业。"
     },
     {
-      "_id": "雷峰网_2",
-      "_source": "雷峰网",
-      "title": "生数科技发布 Vidu S1，推动视频生成迈向“实时交互”新时代",
-      "url": "https://www.leiphone.com/category/industrynews/6GlFzI5hMwcfRoGZ.html",
-      "time": "1d",
-      "published_at": "2026-07-03T12:48:00+00:00",
+      "_id": "36氪_2",
+      "_source": "36氪",
+      "title": "硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过",
+      "url": "https://36kr.com/p/3882361033322755?f=rss",
+      "time": "3h",
+      "published_at": "2026-07-05T06:23:00+00:00",
       "sources": [
-        "雷峰网"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.7,
-      "category": "模型发布",
-      "summary_cn": "生数科技发布面向实时交互场景的新一代视频生成模型 Vidu S1，主打通用世界模型推动视频生成迈向实时交互。"
-    },
-    {
-      "_id": "钛媒体_0",
-      "_source": "钛媒体",
-      "title": "最高99万！优必选机器人卖爆，但实机有落差",
-      "url": "https://www.tmtpost.com/8053041.html",
-      "time": "37m",
-      "published_at": "2026-07-05T01:22:29+00:00",
-      "sources": [
-        "钛媒体",
+        "36氪",
         "雷峰网"
       ],
       "source_count": 2,
       "relevance_score": 0.68,
-      "category": "产品动态",
-      "summary_cn": "优必选新品机器人（最高99万元）销售火爆但被吐槽“货不对版”，产能承压。"
-    },
-    {
-      "_id": "Mistral_3",
-      "_source": "Mistral",
-      "title": "Mistral AI seeks $3.5B and promises an open weights model this summer - Межа. Новини України.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10NjRoREoxaWdYenE0bW81cld4aGF6RXJUTTdhZ2hXa1Z1X3lKeGtnVXdtY09VcU50WURxZy00azVMOEJoYmtmY2JPS1dxUWtnQjFncjJTcDJDLXAyWWlQWEVtZ3M?oc=5",
-      "time": "9h",
-      "published_at": "2026-07-04T16:35:23+00:00",
-      "sources": [
-        "Межа"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.68,
       "category": "融资并购",
-      "summary_cn": "Mistral 寻求35亿美元融资，并承诺今年夏天推出开放权重前沿模型。"
+      "summary_cn": "小米前高管唐沐创立的通用餐饮具身机器人公司影智 XBOT 连续完成两轮数亿元融资，并发布具身操作系统 XOS 3.0 与'一脑多形'体系。"
     },
     {
-      "_id": "HN_11",
-      "_source": "HN",
-      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-      "url": "https://www.wafer.ai/blog/glm52-amd",
-      "time": "4h",
-      "published_at": "2026-07-03T21:49:06+00:00",
+      "_id": "阿里巴巴_0",
+      "_source": "阿里巴巴",
+      "title": "阿里通义实验室的新突破：让AI\"看图点击\"更准更快，省了一半功夫 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcWdPYUN2SVlUaDJWdjNOZm5wdTFhNGp3c2RvMlpwam4tUHkxM1k1UkFvc0tWWVdDNmgwU1NXQzhYZldPSkxmaGR0R1l3TkpENHg5N0l0bV8xanZiZmNXTTBLSzY1MXdRMl9NVGw0aTNuTHBCcVc0UlMwVFZVaUMtMTgzMA?oc=5",
+      "time": "1d",
+      "published_at": "2026-07-03T15:10:42+00:00",
       "sources": [
-        "HackerNews",
-        "wafer.ai"
+        "新浪财经"
       ],
-      "source_count": 1,
-      "relevance_score": 0.65,
-      "category": "算力供应链",
-      "summary_cn": "GLM5.2 在 AMD MI355X 上实现单节点2626 tok/s，成本较英伟达 Blackwell 低逾一半，凸显国产模型+AMD 的推理性价比。"
+      "source_count": 2,
+      "relevance_score": 0.68,
+      "category": "研究技术",
+      "summary_cn": "阿里通义实验室及其与华科大的合作取得新突破，让 AI'看图点击'更准更快、图像生成更智能地分配算力。"
     },
     {
-      "_id": "Techmeme_5",
+      "_id": "Techmeme_4",
       "_source": "Techmeme",
       "title": "How ByteDance is making Hollywood inroads with its Seedance video generator, thanks to low pricing, striking realism, and features like timeline-based prompting (Nilesh Christopher/Los Angeles Times)",
       "url": "https://www.latimes.com/business/story/2026-07-03/bytedances-tiktok-took-over-social-media-now-its-video-ai-is-taking-over-hollywood",
-      "time": "10h",
+      "time": "18h",
       "published_at": "2026-07-04T15:20:01+00:00",
       "sources": [
-        "Techmeme",
         "Los Angeles Times"
       ],
       "source_count": 1,
       "relevance_score": 0.65,
       "category": "产品动态",
-      "summary_cn": "字节 Seedance 视频生成器凭借低价、逼真效果与时间轴提示等功能打入好莱坞。"
+      "summary_cn": "字节跳动凭借低价、逼真效果和时间轴提示等功能，用 Seedance 视频生成模型打入好莱坞。"
     },
     {
-      "_id": "雷峰网_7",
-      "_source": "雷峰网",
-      "title": "Claude Sonnet 5 上线一日差评刷屏：打不过千问和 Minimax，性价比全面翻车",
-      "url": "https://www.leiphone.com/category/yanxishe/GLDTfDIWau83OKGC.html",
-      "time": "2d",
-      "published_at": "2026-07-02T11:22:00+00:00",
+      "_id": "36氪_0",
+      "_source": "36氪",
+      "title": "硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统",
+      "url": "https://36kr.com/p/3882365879005186?f=rss",
+      "time": "3h",
+      "published_at": "2026-07-05T06:27:30+00:00",
       "sources": [
-        "雷峰网"
+        "36氪"
       ],
       "source_count": 1,
       "relevance_score": 0.65,
-      "category": "产品动态",
-      "summary_cn": "Claude Sonnet 5 上线一日遭中文测评差评刷屏，被指性价比不及通义千问与 MiniMax。"
+      "category": "融资并购",
+      "summary_cn": "港大教授创立的忆生科技（TranscEngram）完成数亿元天使轮融资，致力于为机器人打造记忆系统。"
     },
     {
       "_id": "The Verge_3",
@@ -399,114 +531,23 @@
       "source_count": 2,
       "relevance_score": 0.63,
       "category": "行业动态",
-      "summary_cn": "OpenAI 向特朗普政府提议给予美国政府5%股权以缓和关系，比例远低于桑德斯所提目标；Altman 正与政府积极磋商。"
+      "summary_cn": "OpenAI 向特朗普政府提议让美国政府持有约 5% 股权以缓和监管紧张关系，比例远低于桑德斯此前目标。"
     },
     {
-      "_id": "36氪_1",
-      "_source": "36氪",
-      "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-      "url": "https://36kr.com/p/3880629882679301?f=rss",
-      "time": "1d",
-      "published_at": "2026-07-04T01:03:44+00:00",
-      "sources": [
-        "36氪"
-      ],
-      "source_count": 2,
-      "relevance_score": 0.63,
-      "category": "行业动态",
-      "summary_cn": "阿里内部全面禁用 Claude Code；微软另拟砸25亿美元组建6000人AI新公司。"
-    },
-    {
-      "_id": "MIT Tech Review_7",
-      "_source": "MIT Tech Review",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "time": "3d",
-      "published_at": "2026-07-01T14:35:16+00:00",
-      "sources": [
-        "MIT Tech Review"
-      ],
-      "source_count": 2,
-      "relevance_score": 0.63,
-      "category": "研究技术",
-      "summary_cn": "一家初创试图解决 LLM 的“群体思维”问题——多数聊天机器人对相同提问给出高度雷同的回答。"
-    },
-    {
-      "_id": "TLDR AI_4",
-      "_source": "TLDR AI",
-      "title": "GPT-5.6 preview ☀️, Grok 4.5 beta 🤖, Google limits Meta 🛑",
-      "url": "https://tldr.tech/ai/2026-06-29",
-      "time": "6d",
-      "published_at": "2026-06-29T00:00:00+00:00",
-      "sources": [
-        "TLDR AI"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.6,
-      "category": "模型发布",
-      "summary_cn": "GPT-5.6 预览版、Grok 4.5 beta 相继放出，谷歌对 Meta 使用其资源设限。"
-    },
-    {
-      "_id": "新智元_1",
-      "_source": "新智元",
-      "title": "80%富人在用Claude：美国AI用户大调查出炉|Epoch AI|Copilot|ChatGPT|Google|Grok_手机新浪网 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNSGpaZ0VxZlM1cHowaGJyTXRaN3lEWng1bHFyZ0I4SVdTempJX19DYnhXSWtHY1lHQWxMM19ETzE4MER6TjRtVHpNa1o4X0V5dkp6WUQ2aUl6V204RDdXWGh0YnpOUGtyWVQwS0NKZ1dlekkxVmhPVjBxY1N3Q3RqT3pTb3hkeHpjUF95bE9fQ0dTYnZkQnZhazBMWERqWVY0cjNSSlVnWFJlVXA3enFBc3RGblhrSFhXdkl4LXBnaUFEVTJGeTFFSU9UejFnUmpWaG9rTmw3ZmFYLUNfUUtwS3h3NnZlZlV1QkhISXBkR3NvOFVXZktyMzBlX0doa0l5Tkx0dnRVQmgybUFTeThybWxET0R5d3hZekVoMHl5SVZ5Q1Z1ZUsxdGpYSnNIeDNxME5qcnVpVk44UWFkdkdLS3lKbDI3bWJwejNidDE0a0RkMzM5X2VwU19IN0xsTHd1OGVhbHNZNDk4alZJRlFxNmo0emxhZDVMcXdnVFQyS3BNd2xheHNvaE01WFVLaHBvT3lsUW9jWU01T01LT3U1blE5bTFQVmEtRE5QdlNKNGJEcGRGcHNFLXRjVjNLU1AwM1RKVHVDQkpQU0g3TjdxYXZXb3p3dzNoS3lTLVJyRUhidDRqZnJybVFza3dOeUh6cHNjZnNXUEd4NHd4OWd6V0JpbVpaN0k?oc=5",
-      "time": "3d",
-      "published_at": "2026-07-01T20:59:16+00:00",
-      "sources": [
-        "新智元",
-        "Epoch AI"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.6,
-      "category": "行业动态",
-      "summary_cn": "Epoch AI 美国AI用户大调查显示，约80%高收入人群在使用 Claude，ChatGPT、Copilot、Gemini、Grok 等紧随。"
-    },
-    {
-      "_id": "雷峰网_12",
+      "_id": "雷峰网_7",
       "_source": "雷峰网",
-      "title": "Claude 和 Manus 还要人工搭框架？小米直接让 Agent 自我进化",
-      "url": "https://www.leiphone.com/category/yanxishe/w6us4wphPrRD8x6g.html",
+      "title": "Claude Sonnet 5 上线一日差评刷屏：打不过千问和 Minimax，性价比全面翻车",
+      "url": "https://www.leiphone.com/category/yanxishe/GLDTfDIWau83OKGC.html",
       "time": "2d",
-      "published_at": "2026-07-02T07:10:00+00:00",
+      "published_at": "2026-07-02T11:22:00+00:00",
       "sources": [
-        "雷峰网"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.6,
-      "category": "研究技术",
-      "summary_cn": "小米推出可自我迭代进化的 Agent 框架，让智能体“外壳”自我进化，无需像 Claude、Manus 那样人工搭建框架。"
-    },
-    {
-      "_id": "Latent Space_6",
-      "_source": "Latent Space",
-      "title": "Autoresearch: The feedback loop behind self-improving agents",
-      "url": "https://www.latent.space/p/autoresearch-introspection",
-      "time": "3d",
-      "published_at": "2026-07-01T23:52:30+00:00",
-      "sources": [
-        "Latent Space",
+        "雷峰网",
         "TLDR AI"
       ],
       "source_count": 2,
-      "relevance_score": 0.58,
-      "category": "社区信号",
-      "summary_cn": "AI工程师世界博览会围绕“loops”与 autoresearch 自我改进智能体展开辩论，探讨软件工厂愿景与人类能动性之间的张力。"
-    },
-    {
-      "_id": "月之暗面_4",
-      "_source": "月之暗面",
-      "title": "月之暗面B端负责人黄震昕：中国模型有望年内达Fable级水平，AI带来生产力质变 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaHgzN2otdWh2Q1d2OFBVNkVMM2kwc2ZjbmczbjJwS2pqZTd2QWNmOUhYaWV4MzVPVzU0UEp2S2o5Yy1kU2VIM0tjbjVXUWZNcGJjUkJEOGZFWHpDSWZhNWhmWkNqenNqWDdqMEZnSWFkeWRaR1RZVWt4NnJ5dW80SlEzVHdIdGQ4cXlCRldyaWZTR3JoUGlPYmhhenVXT1hxWEtod19uQUEtNzkyX0hSdG9mRGhBS1RvVWNaMWJ4YW9LN2dWeTNuM1RzRE9tcU84TGktWFhRbmJUVkRuRTV6Z3A4RkFiOGhuRE8xY2VQMHJZZk8z?oc=5",
-      "time": "2d",
-      "published_at": "2026-07-02T16:28:53+00:00",
-      "sources": [
-        "新浪财经"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "summary_cn": "月之暗面B端负责人黄震昕称将把国产大模型搬上亚马逊云科技，中国模型有望年内达 Fable 级水平，与海外“御三家”掰手腕。"
+      "relevance_score": 0.63,
+      "category": "模型发布",
+      "summary_cn": "Claude Sonnet 5 上线首日遭遇中文测评差评刷屏，被指性价比翻车、在部分中文测试中不敌千问和 MiniMax。"
     },
     {
       "_id": "Ars Technica_4",
@@ -519,99 +560,69 @@
         "Ars Technica"
       ],
       "source_count": 1,
-      "relevance_score": 0.55,
+      "relevance_score": 0.6,
       "category": "研究技术",
-      "summary_cn": "新攻击表明只需告诉 LLM“2+2=5”即可诱导 AI 浏览器执行被禁指令，再证 AI 浏览器存在安全隐患。"
+      "summary_cn": "新攻击手法揭示 AI 浏览器风险：仅告诉 LLM'2+2=5'即可诱导其执行被禁止的指令，凸显浏览器智能体的安全隐患。"
     },
     {
-      "_id": "TLDR AI_3",
-      "_source": "TLDR AI",
-      "title": "Devin Fusion 💻, DeepSeek DSpark ⚡, economy of tokens 💰",
-      "url": "https://tldr.tech/ai/2026-06-30",
-      "time": "5d",
-      "published_at": "2026-06-30T00:00:00+00:00",
-      "sources": [
-        "TLDR AI"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "产品动态",
-      "summary_cn": "Devin Fusion、DeepSeek DSpark 发布，行业热议“Token 经济”成本问题。"
-    },
-    {
-      "_id": "36氪_2",
-      "_source": "36氪",
-      "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
-      "url": "https://36kr.com/p/3879991356157952?f=rss",
-      "time": "1d",
-      "published_at": "2026-07-04T01:00:00+00:00",
-      "sources": [
-        "36氪"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "算力供应链",
-      "summary_cn": "硅基光电子集成芯片研发商光引科技完成1亿元 Pre-A 轮融资，已合作欧莱雅、华为。"
-    },
-    {
-      "_id": "量子位_0",
-      "_source": "量子位",
-      "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
-      "url": "https://www.qbitai.com/2026/07/442958.html",
-      "time": "20h",
-      "published_at": "2026-07-04T05:52:21+00:00",
-      "sources": [
-        "量子位"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "融资并购",
-      "summary_cn": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型。"
-    },
-    {
-      "_id": "Cohere_1",
-      "_source": "Cohere",
-      "title": "BCE (TSX:BCE) Deepens Sovereign AI Push With Cohere Deal Is Its Enterprise Story Changing? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN3c0dTBXWVYxdXNNNlY2SWw5bGpRMEQ1a0NGdmdQRGlseVlaeGZkeUMzNEtzdWJPcUxidjZiaGNtakNNQnFzbjRTczFSWFNBeEc0cjBzRmpzV2hlVXZpT21FTGRJelJzckZmQTZWUldFRXlMNDdEN3VfeENIR0g2SmZBYnRlQW1CU3VQZkVLZWNsUHhndkRNcjdWRUFSNDc2UXZsaG5JOWpfd0dNbzNwcFU1X0VPUGlTWlRhTkpOMVp4QdIBxwFBVV95cUxPM1ZIOVNBMWNxZDJKenAtQmpxZlJkTHJya0lfN1dQVi1IRUljZ1F2b1M1VHdWeEFHMVVsbjVUaUhJV2pGSGRVb3M3VWtrYWx4QVdDYklYNzNvTmtTSzZRYi14NlFuUUprM1hRanVzQkg3V1dmaDRUdGF4enRKcmhpQ2VwWExGeUx3TUItXzVDRFpFMkhYZVh4YkhmY1NCa19vM3FVaEVGUW8tZDlPZ1FrOVRSYmdxN2ZJUXhIcmYtZlZUeGRMLURB?oc=5",
+      "_id": "新智元_4",
+      "_source": "新智元",
+      "title": "Claude Code官宣下一版大升级！你在聊天，后台把活干完了 - 智源社区",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2Wi0wdE1lbU5CUkZfMy03TUtZNWJKNWFvTGI2bnF2bWxOM3VpMWI2M0FjSWxkbHg4WEp4MDBKR0t0LXRFMzN4Qg?oc=5",
       "time": "3d",
-      "published_at": "2026-07-01T21:56:35+00:00",
+      "published_at": "2026-07-02T00:00:00+00:00",
       "sources": [
-        "simplywall.st"
+        "智源社区"
       ],
       "source_count": 1,
-      "relevance_score": 0.5,
-      "category": "行业动态",
-      "summary_cn": "加拿大电信 BCE 深化主权 AI 布局，与 Cohere 达成合作，其企业业务故事正在生变。"
-    },
-    {
-      "_id": "Interconnects_0",
-      "_source": "Interconnects",
-      "title": "Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
-      "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
-      "time": "6d",
-      "published_at": "2026-06-28T17:03:07+00:00",
-      "sources": [
-        "Interconnects"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.5,
-      "category": "社区信号",
-      "summary_cn": "Interconnects 评估开源生态与发布动机：Zyphra、Cohere、Poolside 正拓展开放模型生态的广度。"
-    },
-    {
-      "_id": "The Verge_6",
-      "_source": "The Verge",
-      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-      "time": "4d",
-      "published_at": "2026-06-30T19:24:51+00:00",
-      "sources": [
-        "The Verge"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.5,
+      "relevance_score": 0.6,
       "category": "产品动态",
-      "summary_cn": "谷歌 NotebookLM 新增将笔记总结为 TikTok 式短视频的功能。"
+      "summary_cn": "Claude Code 官宣下一版大升级，支持后台异步执行任务，用户对话的同时后台把活干完。"
+    },
+    {
+      "_id": "钛媒体_11",
+      "_source": "钛媒体",
+      "title": "【数智周报】  智平方完成近50亿元融资；豆包：智能体功能将于7月15日下线；可灵AI落地近30亿美元融资 ；Anthropic推出Claude Science",
+      "url": "https://www.tmtpost.com/8052985.html",
+      "time": "22h",
+      "published_at": "2026-07-04T11:38:06+00:00",
+      "sources": [
+        "钛媒体"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "融资并购",
+      "summary_cn": "数智周报：智平方完成近 50 亿元融资、可灵 AI 落地近 30 亿美元融资，施耐德将以 31 亿美元收购工业 AI 公司，AI 领域一级市场持续活跃。"
+    },
+    {
+      "_id": "Ars Technica_8",
+      "_source": "Ars Technica",
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "time": "5d",
+      "published_at": "2026-06-29T21:09:43+00:00",
+      "sources": [
+        "Ars Technica"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "算力供应链",
+      "summary_cn": "韩国计划投入 1 万亿美元扩建存储芯片产能并发展人形机器人，目标 2028 年前实现物理 AI 领先与人形机器人商用。"
+    },
+    {
+      "_id": "雷峰网_9",
+      "_source": "雷峰网",
+      "title": "自变量发布跨模态具身动作分词器 X-Tokenizer，多模态对齐能力提升 13.5%，长程任务性能提升 8.25%",
+      "url": "https://www.leiphone.com/category/industrynews/97E4ZK92EoOpU0BY.html",
+      "time": "2d",
+      "published_at": "2026-07-02T10:32:00+00:00",
+      "sources": [
+        "雷峰网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.6,
+      "category": "研究技术",
+      "summary_cn": "自变量机器人发布跨模态具身动作分词器 X-Tokenizer，多模态对齐能力提升 13.5%、长程任务性能提升 8.25%。"
     },
     {
       "_id": "Mistral_5",
@@ -624,54 +635,283 @@
         "Engineer Live"
       ],
       "source_count": 1,
-      "relevance_score": 0.5,
+      "relevance_score": 0.58,
       "category": "行业动态",
-      "summary_cn": "宝马集团与 Mistral 合作，将 AI 用于汽车碰撞仿真。"
+      "summary_cn": "宝马集团与 Mistral AI 合作，将 AI 应用于汽车碰撞仿真研发，推进工业场景落地。"
     },
     {
-      "_id": "Latent Space_8",
-      "_source": "Latent Space",
-      "title": "🔬 The Coolest Diffusion Research Isn't in LLMs — Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
-      "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
+      "_id": "ARM_0",
+      "_source": "ARM",
+      "title": "Arm Holdings (ARM) Expands Its Agentic-AI CPU Ecosystem With Oracle Cloud Infrastructure - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmMyN2x0dGZDS0lDSE93Zl81dGdVc3ppVTM2NGVTenZKX3FtQ1E0Sm16NUJySlFmeUZEaW13Mno5aTBHY0hQRHJaeTZBamJnSmFxblhhQ09fZkFMRFlFYzBPN0c4eXo4eEtsS1pseWNWbmItZjRCOHdTWmF2a3hwemNUTHFwdHBVRWNpYkdnYzRkb3A2Y3NRcDIwWS0?oc=5",
+      "time": "5d",
+      "published_at": "2026-06-29T10:16:32+00:00",
+      "sources": [
+        "Yahoo Finance",
+        "Quiver Quantitative"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.58,
+      "category": "算力供应链",
+      "summary_cn": "Arm 携手甲骨文云基础设施扩张其 Agentic-AI CPU 生态，在 AI CPU 乐观情绪与芯片板块走强下股价上扬。"
+    },
+    {
+      "_id": "Cohere_1",
+      "_source": "Cohere",
+      "title": "BCE (TSX:BCE) Deepens Sovereign AI Push With Cohere Deal Is Its Enterprise Story Changing? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN3c0dTBXWVYxdXNNNlY2SWw5bGpRMEQ1a0NGdmdQRGlseVlaeGZkeUMzNEtzdWJPcUxidjZiaGNtakNNQnFzbjRTczFSWFNBeEc0cjBzRmpzV2hlVXZpT21FTGRJelJzckZmQTZWUldFRXlMNDdEN3VfeENIR0g2SmZBYnRlQW1CU3VQZkVLZWNsUHhndkRNcjdWRUFSNDc2UXZsaG5JOWpfd0dNbzNwcFU1X0VPUGlTWlRhTkpOMVp4QdIBxwFBVV95cUxPM1ZIOVNBMWNxZDJKenAtQmpxZlJkTHJya0lfN1dQVi1IRUljZ1F2b1M1VHdWeEFHMVVsbjVUaUhJV2pGSGRVb3M3VWtrYWx4QVdDYklYNzNvTmtTSzZRYi14NlFuUUprM1hRanVzQkg3V1dmaDRUdGF4enRKcmhpQ2VwWExGeUx3TUItXzVDRFpFMkhYZVh4YkhmY1NCa19vM3FVaEVGUW8tZDlPZ1FrOVRSYmdxN2ZJUXhIcmYtZlZUeGRMLURB?oc=5",
       "time": "3d",
-      "published_at": "2026-07-01T14:42:39+00:00",
+      "published_at": "2026-07-01T21:56:35+00:00",
+      "sources": [
+        "simplywall.st",
+        "PR Newswire"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.58,
+      "category": "行业动态",
+      "summary_cn": "Cohere 深化主权 AI 布局：与 BCE 达成合作强化企业业务，并与 HiddenLayer 合作扫除企业级 Agentic AI 的安全障碍。"
+    },
+    {
+      "_id": "钛媒体_4",
+      "_source": "钛媒体",
+      "title": "最高99万！优必选机器人卖爆，但实机有落差",
+      "url": "https://www.tmtpost.com/8053041.html",
+      "time": "8h",
+      "published_at": "2026-07-05T01:22:29+00:00",
+      "sources": [
+        "钛媒体",
+        "雷峰网"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.58,
+      "category": "产品动态",
+      "summary_cn": "优必选最高 99 万元的新款人形机器人热卖但实机被吐槽'货不对版'，产能压力较大；CEO 称'珍惜做牛马的时光'。"
+    },
+    {
+      "_id": "新智元_3",
+      "_source": "新智元",
+      "title": "Anthropic造了套AI越狱「刑法」！你的请求，四种死法 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FcGhOdGc4Y2F5OHpOUkpiZng2d0p5dXhWOVFFLUFmMDluaTA4dlBFTlR4dl9nVmJ1SGN5VlBuVThYekFrdGdCY3M3WWE1c3E0WFllNVU4RERucTI4SVVSQkJ2YTJyUjZ3UDFpblJ4YjkxSW5mNW5JMGw5cWxfdXM?oc=5",
+      "time": "8h",
+      "published_at": "2026-07-05T01:13:07+00:00",
+      "sources": [
+        "新浪网"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "summary_cn": "Anthropic 构建了一套 AI 越狱'刑法'分类框架，将有害请求归为四类处理机制。"
+    },
+    {
+      "_id": "量子位_3",
+      "_source": "量子位",
+      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+      "url": "https://www.qbitai.com/2026/07/442746.html",
+      "time": "1d",
+      "published_at": "2026-07-03T14:28:38+00:00",
+      "sources": [
+        "量子位"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "summary_cn": "中国团队将 LeCun 提出的 JEPA'世界模型'架构应用于细胞内部理解，拓展世界模型在生命科学的边界。"
+    },
+    {
+      "_id": "TLDR AI_4",
+      "_source": "TLDR AI",
+      "title": "GPT-5.6 preview ☀️, Grok 4.5 beta 🤖, Google limits Meta 🛑",
+      "url": "https://tldr.tech/ai/2026-06-29",
+      "time": "6d",
+      "published_at": "2026-06-29T00:00:00+00:00",
+      "sources": [
+        "TLDR AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "模型发布",
+      "summary_cn": "行业快讯：GPT-5.6 预览版、Grok 4.5 beta 相继放出，谷歌限制 Meta 使用 Gemini。"
+    },
+    {
+      "_id": "Interconnects_0",
+      "_source": "Interconnects",
+      "title": "Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
+      "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+      "time": "6d",
+      "published_at": "2026-06-28T17:03:07+00:00",
+      "sources": [
+        "Interconnects"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "summary_cn": "评估开放模型生态的最新进展，Zyphra、Cohere、Poolside 等通过发布模型拓宽开源生态的广度及其背后动机。"
+    },
+    {
+      "_id": "MIT Tech Review_7",
+      "_source": "MIT Tech Review",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "time": "3d",
+      "published_at": "2026-07-01T14:35:16+00:00",
+      "sources": [
+        "MIT Tech Review"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "summary_cn": "一家初创试图解决 LLM'群体思维'问题——多数大模型在开放式提问上给出高度趋同答案，该公司尝试让模型跳出思维定式。"
+    },
+    {
+      "_id": "月之暗面_4",
+      "_source": "月之暗面",
+      "title": "月之暗面B端负责人黄震昕：中国模型有望年内达Fable级水平，AI带来生产力质变 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaHgzN2otdWh2Q1d2OFBVNkVMM2kwc2ZjbmczbjJwS2pqZTd2QWNmOUhYaWV4MzVPVzU0UEp2S2o5Yy1kU2VIM0tjbjVXUWZNcGJjUkJEOGZFWHpDSWZhNWhmWkNqenNqWDdqMEZnSWFkeWRaR1RZVWt4NnJ5dW80SlEzVHdIdGQ4cXlCRldyaWZTR3JoUGlPYmhhenVXT1hxWEtod19uQUEtNzkyX0hSdG9mRGhBS1RvVWNaMWJ4YW9LN2dWeTNuM1RzRE9tcU84TGktWFhRbmJUVkRuRTV6Z3A4RkFiOGhuRE8xY2VQMHJZZk8z?oc=5",
+      "time": "2d",
+      "published_at": "2026-07-02T16:28:53+00:00",
+      "sources": [
+        "新浪财经"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "行业动态",
+      "summary_cn": "月之暗面 B 端负责人黄震昕称中国模型有望年内达 Fable 级水平，并计划将 Kimi 搬上亚马逊云科技对标海外御三家。"
+    },
+    {
+      "_id": "TLDR AI_3",
+      "_source": "TLDR AI",
+      "title": "Devin Fusion 💻, DeepSeek DSpark ⚡, economy of tokens 💰",
+      "url": "https://tldr.tech/ai/2026-06-30",
+      "time": "5d",
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "sources": [
+        "TLDR AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "产品动态",
+      "summary_cn": "行业快讯：Devin Fusion、DeepSeek DSpark 相继发布，'token 经济学'成为焦点话题。"
+    },
+    {
+      "_id": "Techmeme_3",
+      "_source": "Techmeme",
+      "title": "Source calls UK- and OpenAI-touted plans in 2025 for Stargate's ~£20B Cobalt site a PR stunt; OpenAI and Nscale failed to visit Cobalt or lodge planning forms (Aisha Down/The Guardian)",
+      "url": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
+      "time": "10h",
+      "published_at": "2026-07-04T23:30:00+00:00",
+      "sources": [
+        "The Guardian"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "算力供应链",
+      "summary_cn": "有消息人士称 2025 年英国与 OpenAI 力推的 Stargate 约 200 亿英镑 Cobalt 数据中心计划是'公关噱头'，OpenAI 与 Nscale 从未实地考察或提交规划申请。"
+    },
+    {
+      "_id": "HN_16",
+      "_source": "HN",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "time": "11h",
+      "published_at": "2026-07-04T21:51:09+00:00",
+      "sources": [
+        "Hacker News"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "社区信号",
+      "summary_cn": "开发者社区反映 GPT-5.5 Codex 存在推理 token 聚集问题，可能导致性能下降，已在 GitHub 提出 issue。"
+    },
+    {
+      "_id": "Ars Technica_2",
+      "_source": "Ars Technica",
+      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
+      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+      "time": "2d",
+      "published_at": "2026-07-02T11:15:49+00:00",
+      "sources": [
+        "Ars Technica"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.5,
+      "category": "行业动态",
+      "summary_cn": "谷歌 AI 建设推动其 2025 年用电量增长 37%，公司试图以清洁能源平衡 AI 数据中心的碳排放。"
+    },
+    {
+      "_id": "Runway_1",
+      "_source": "Runway",
+      "title": "Best AI Video Generator 2026: Veo 3.1 vs Sora 2 vs Kling - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JeFBPV1Bib0FKdjROSTIyVERwRF9qSU5KTy10b2lPNmprSUxrQ1pKQUY4RWFXYmZvUVQ0dE91alRDMkVQRElYUm11TUtMMXNIQjZmWmdDdFAxbWFWUnl2X0k1TU4?oc=5",
+      "time": "5d",
+      "published_at": "2026-06-29T15:11:56+00:00",
+      "sources": [
+        "tech-insider.org",
+        "CNET"
+      ],
+      "source_count": 2,
+      "relevance_score": 0.48,
+      "category": "产品动态",
+      "summary_cn": "AI 视频生成器横评：Veo 3.1、Sora 2、Kling 等主流工具对比，探讨 Sora 替代方案。"
+    },
+    {
+      "_id": "Microsoft_4",
+      "_source": "Microsoft",
+      "title": "Microsoft's new Intelligent Terminal isn't locked to Copilot, and I got it running with a local LLM in five minutes - XDA",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNenNCOENSWThIWmFvZnN0b0YyQ0VZRnhyWmhUVGRQcFhEYXFlWkNSa1E1NGZjS0NJZ000NGo4SW9Fa0tWRHhNYl9haWZIWFFkdzVTaEdCVDIyVVBzWVNyXzZnSndSai1zNTc4Z3RpSmZjczVteHpIQWo1elNPM3Z6SDY4Tk9lb2l2MkRoUWc1dHRIdjcyUVNUOXU1VQ?oc=5",
+      "time": "12h",
+      "published_at": "2026-07-04T21:30:22+00:00",
+      "sources": [
+        "XDA"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "产品动态",
+      "summary_cn": "微软新推出的 Intelligent Terminal 并非锁定 Copilot，可在数分钟内接入本地 LLM 运行。"
+    },
+    {
+      "_id": "HN_5",
+      "_source": "HN",
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+      "time": "3h",
+      "published_at": "2026-07-05T06:19:34+00:00",
+      "sources": [
+        "Hacker News"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "社区信号",
+      "summary_cn": "Simon Willison 展示 sqlite-utils 4.0rc2 主要由 Claude Fable 编写完成，成本约 149.25 美元，成为 AI 编程实践的社区案例。"
+    },
+    {
+      "_id": "Latent Space_9",
+      "_source": "Latent Space",
+      "title": "Warp CEO Zach Lloyd on why software factories are the next phase of coding",
+      "url": "https://www.latent.space/p/software-factories",
+      "time": "3d",
+      "published_at": "2026-07-01T14:28:23+00:00",
       "sources": [
         "Latent Space"
       ],
       "source_count": 1,
-      "relevance_score": 0.5,
-      "category": "研究技术",
-      "summary_cn": "前 Llama 负责人 Sergey Edunov 离开 Meta 投身药物发现，Genesis Molecular AI 谈扩散模型在分子/药物领域的潜力（PEARL 零样本夺得 OpenBind）。"
-    },
-    {
-      "_id": "McKinsey_5",
-      "_source": "McKinsey",
-      "title": "Lights, camera, algorithm: How AI is rewriting the rules of film and TV",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/lights-camera-algorithm-how-ai-is-rewriting-the-rules-of-film-and-tv",
-      "time": "4d",
-      "published_at": "2026-07-01T00:00:00+00:00",
-      "sources": [
-        "McKinsey"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.5,
+      "relevance_score": 0.45,
       "category": "行业动态",
-      "summary_cn": "麦肯锡分析 AI 如何从剧本到成片重塑影视制作规则，以及背后的最大分歧。"
+      "summary_cn": "Warp CEO Zach Lloyd 认为'软件工厂'是编程的下一阶段，未来所有大型软件项目都将运行在自动化工厂上。"
     },
     {
-      "_id": "36氪_14... existing note",
-      "_source": "",
-      "title": "",
-      "url": "",
-      "time": "",
-      "published_at": "",
+      "_id": "Latent Space_1",
+      "_source": "Latent Space",
+      "title": "Vercel's Andrew Qu on why agents are a new kind of software",
+      "url": "https://www.latent.space/p/vercel-agents-new-software",
+      "time": "2d",
+      "published_at": "2026-07-03T00:08:18+00:00",
       "sources": [
-        "Techmeme"
+        "Latent Space"
       ],
       "source_count": 1,
       "relevance_score": 0.45,
-      "category": "研究技术",
-      "summary_cn": "Epoch AI 数据显示 Claude Mythos 预览版发布前后严重漏洞（CVE）数量出现激增。"
+      "category": "行业动态",
+      "summary_cn": "Vercel 软件负责人 Andrew Qu 阐释其智能体框架 eve 的由来，及为何 agent 是一种全新的软件形态。"
     },
     {
       "_id": "Import AI_0",
@@ -686,38 +926,67 @@
       "source_count": 1,
       "relevance_score": 0.45,
       "category": "研究技术",
-      "summary_cn": "Import AI 463 期：自我改进机器人、一个万卡级中国 GPU 集群，以及对人类时代的思辨随笔。"
+      "summary_cn": "Import AI 463 期：自我改进机器人、万卡级中国 GPU 集群，以及一篇关于人类时代的挽歌式随笔。"
     },
     {
-      "_id": "机器之心_0",
-      "_source": "机器之心",
-      "title": "AI圈刚开始谈Loop Engineering，两位95后博士已经盯上了人类闭环数据 - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hOTM2T1lBLXIxaFdfZ29BWmlCUE5wdFBfZHZxZUx3X05BU3NRc2dvVUNFNFZsSVppbHB3M3ZqNFNINGg1Y0k0ZDRidllGX3Ixc1RVbFlB?oc=5",
+      "_id": "Amazon_0",
+      "_source": "Amazon",
+      "title": "Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol | Artificial Intelligence - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeldlSjhNSmVsVk1rLUZoS21panB3NzVsa1d0aVl0SGVTSmwwX21wWHJ5Ukk5bHdkcExVT1cxNVdMdUJyMnhYSC0xOUtpUjEwSXlWM21JdUN1YS1Hc05ENkhGTFFMLTJZT244Z1ExQXZDcWRrNjZkaloxS3oyN0FaUzlQbk9zOUNmaWJsbGhnRHluaHRoNXN5RWJ4a1VEWHhWaV9meFZzTlhIcmFFRkNsV0tNbnpnQ0pTOWhHcWZmcVZBSXFwNW9lWnRkd28?oc=5",
       "time": "4d",
-      "published_at": "2026-06-30T04:02:00+00:00",
+      "published_at": "2026-06-30T16:46:17+00:00",
       "sources": [
-        "机器之心",
-        "QQ News"
+        "AWS"
       ],
       "source_count": 1,
       "relevance_score": 0.45,
-      "category": "研究技术",
-      "summary_cn": "两位95后博士盯上人类闭环数据，探索 Loop Engineering 方向。"
+      "category": "产品动态",
+      "summary_cn": "亚马逊在 Bedrock AgentCore 上引入 AG-UI 协议构建 AI 智能体的生成式 UI，并展示 Bedrock 拦截 AI 生成钓鱼攻击的能力。"
     },
     {
-      "_id": "MIT Tech Review_4",
-      "_source": "MIT Tech Review",
-      "title": "Teaching AI to run with the turbines",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "time": "2d",
-      "published_at": "2026-07-02T12:51:44+00:00",
+      "_id": "Alphabet_3",
+      "_source": "Alphabet",
+      "title": "GM Announces Google Gemini AI For Cadillac And Corvette - GM Authority",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQkt1LWFhbzdIemRxR2JxTmJwS3N5UWx0VGNVOVZiOUdzeTN0N3BGandkeG0tZ3d6X2s3cFNZM1lCVkpSUHlOZlRCRFZ3STJOdUstUnJmQVZoTUtBSHIxdDVxbGoxN2ZiNFBIM0lxWEYtRFlIUWJIWVpZY242RmFTbmJjNk4zMWloV2IxUGlYYTdLdzBSMTNoZg?oc=5",
+      "time": "1d",
+      "published_at": "2026-07-04T05:06:36+00:00",
       "sources": [
-        "MIT Tech Review"
+        "GM Authority"
       ],
       "source_count": 1,
       "relevance_score": 0.45,
-      "category": "行业动态",
-      "summary_cn": "AI 走出聊天机器人，被用于风力涡轮机等工业运行优化场景。"
+      "category": "AI落地",
+      "summary_cn": "通用汽车宣布为凯迪拉克和克尔维特车型引入谷歌 Gemini AI，推进车载 AI 助手落地。"
+    },
+    {
+      "_id": "The Verge_6",
+      "_source": "The Verge",
+      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "time": "4d",
+      "published_at": "2026-06-30T19:24:51+00:00",
+      "sources": [
+        "The Verge"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "产品动态",
+      "summary_cn": "谷歌 NotebookLM 新增功能，可将用户笔记/研究总结为 TikTok 风格的短视频剪辑。"
+    },
+    {
+      "_id": "Tesla_0",
+      "_source": "Tesla",
+      "title": "Tesla FSD Fleet Hits 10 Million Vehicles — The Scale Is Unprecedented - BASENOR - Tesla Accessories",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEF4STRDcVFZR3JiWS1LZWF1bG1hMW9Na1ZmM21DTzlIMDZqRlhVMDBQNHdNSlJsbEhPVmNCcWZRX0hXV3hTX3VYV2tTY29jSTJVcWVKT0ZTa0RSZC1PaVpoRXdnNnJJcDZYOUJkVVR2eXJVNTNSd2NsQy1mLTYxNDY5Q09jcWNqTGRpUDh6MjR3ZUVGRWNZMGN1dWo0SlUta0hNNw?oc=5",
+      "time": "2d",
+      "published_at": "2026-07-03T05:55:54+00:00",
+      "sources": [
+        "BASENOR"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.45,
+      "category": "AI落地",
+      "summary_cn": "特斯拉 FSD 车队规模突破 1000 万辆，并预计本季度在中国大范围推送 FSD。"
     }
   ]
 }

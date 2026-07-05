@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T10:01:53+08:00",
+  "updated": "2026-07-05T11:41:37+08:00",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -849,7 +849,7 @@
       "name": "沪深300",
       "region": "CN",
       "currency": "CNY",
-      "price": NaN,
+      "price": 4868.22,
       "history_30d": [
         4845.1,
         4921.6,
@@ -875,8 +875,7 @@
         4919.39,
         4943.02,
         5020.1,
-        4868.22,
-        NaN
+        4868.22
       ],
       "url": "https://finance.yahoo.com/quote/000300.SS"
     },
