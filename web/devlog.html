@@ -166,13 +166,13 @@ footer { margin-top: 40px; padding-top: 14px; border-top: 1px solid var(--border
   <div class="status-bar">
     <div class="stat">
       <div class="stat-label">Sources</div>
-      <div class="stat-val">29</div>
-      <div class="stat-sub">Active RSS/API feeds</div>
+      <div class="stat-val">32</div>
+      <div class="stat-sub">RSS/API feeds（含企业/研报/财报）</div>
     </div>
     <div class="stat">
       <div class="stat-label">Items / run</div>
-      <div class="stat-val">~186</div>
-      <div class="stat-sub">After 7-day filter</div>
+      <div class="stat-val">~197</div>
+      <div class="stat-sub">打分去重后 ~50 进主面板</div>
     </div>
     <div class="stat">
       <div class="stat-label">Schedule</div>
@@ -210,7 +210,13 @@ footer { margin-top: 40px; padding-top: 14px; border-top: 1px solid var(--border
       <tr><td>COLDLESS 纹身水印背景</td><td><span class="log-tag tag-design">设计</span></td><td class="status-done">✓ 完成</td><td>mix-blend-mode:screen，opacity 0.22</td></tr>
       <tr><td>HTML 实体乱码修复</td><td><span class="log-tag tag-fix">修复</span></td><td class="status-done">✓ 完成</td><td>html.unescape() + decodeHtml()</td></tr>
       <tr><td>工程日志页面（本页）</td><td><span class="log-tag tag-feat">功能</span></td><td class="status-done">✓ 完成</td><td>web/devlog.html，不从主页链接</td></tr>
-      <tr><td>完整视觉重设计（黑曼巴风格）</td><td><span class="log-tag tag-design">设计</span></td><td class="status-wip">⏳ 规划中</td><td>Design Brief 已写（work/design-brief.md），原型已出</td></tr>
+      <tr><td>P1 纸墨编辑刊物风重设计</td><td><span class="log-tag tag-design">设计</span></td><td class="status-done">✓ 完成</td><td>Fraunces nameplate + 等宽分数徽章 + 卡片去圆角/阴影/彩色 + 响应式</td></tr>
+      <tr><td>投资 tab：19 股 + 5 大盘 + 财报下拉 + 研报分页</td><td><span class="log-tag tag-feat">功能</span></td><td class="status-done">✓ 完成</td><td>含腾讯/智谱/MiniMax/SpaceX；研报时效×评分×中文加权</td></tr>
+      <tr><td>操作台：自定义股票/信源</td><td><span class="log-tag tag-feat">功能</span></td><td class="status-done">✓ 完成</td><td>devlog ⚙；api_server.py:8766 + user-config.json，加即联动</td></tr>
+      <tr><td>信源扩展：企业监控10家 + SEC财报 + 研报</td><td><span class="log-tag tag-feat">功能</span></td><td class="status-done">✓ 完成</td><td>Google News + EDGAR + McKinsey/腾讯研究院</td></tr>
+      <tr><td>根地址跳转（AI-Radar/ → web/index.html）</td><td><span class="log-tag tag-fix">修复</span></td><td class="status-done">✓ 完成</td><td>根无 index.html 返 404，加 meta+JS 跳转</td></tr>
+      <tr><td>管线容错（去 set -e）+ CLI 修复</td><td><span class="log-tag tag-infra">基建</span></td><td class="status-done">✓ 完成</td><td>单源失败不拖垮全天；claude CLI 补装 + 显式 PATH</td></tr>
+      <tr><td>部署故障根治（protection rule / timeout）</td><td><span class="log-tag tag-infra">基建</span></td><td class="status-done">✓ 完成</td><td>删 github-pages 环境审批规则；timeout 硬顶 10min，flaky 靠重跑</td></tr>
       <tr><td>Dispatch 个人分析评论区</td><td><span class="log-tag tag-feat">功能</span></td><td class="status-pending">○ 待做</td><td>随完整重设计一起实现</td></tr>
       <tr><td>入口卡描述文案（2句→1句）</td><td><span class="log-tag tag-fix">修复</span></td><td class="status-pending">○ 待做</td><td>OLM/PwC 等卡片 bullet 易误读为两个入口</td></tr>
       <tr><td>HuggingFace [文本生成] 标签优化</td><td><span class="log-tag tag-fix">修复</span></td><td class="status-pending">○ 待做</td><td>pipeline_tag 方括号中文与截断模型ID混乱</td></tr>
@@ -219,6 +225,38 @@ footer { margin-top: 40px; padding-top: 14px; border-top: 1px solid var(--border
 
   <div class="section">
     <div class="section-title">开发日志</div>
+    <div class="log-entry">
+      <div class="log-date">2026-07-05</div>
+      <div class="log-body">
+        <span class="log-tag tag-infra">基建</span>
+        <div class="log-title">每日管线自愈验证</div>
+        <p class="log-detail">10:00 daily job 全链路无人工干预成功：拉数据 → claude 打分（CLI 已修复）→ 提交推送 → Pages 部署，线上 digest/stocks 均为当日 10:xx。昨夜四故障根治后首次自动更新稳定，确认收尾。</p>
+      </div>
+    </div>
+    <div class="log-entry">
+      <div class="log-date">2026-07-04</div>
+      <div class="log-body">
+        <span class="log-tag tag-fix">修复</span><span class="log-tag tag-infra">基建</span>
+        <div class="log-title">夜间四故障排查："打不开 + 没更新"</div>
+        <p class="log-detail">一个表象，四个独立故障叠加逐个根治：① 根地址返 404（页面在 /web/）→ 加根 index.html 跳转；② daily 首步 openrouter DNS 抖动 + <code>set -e</code> 拖垮全线 → run_daily.sh 改每步独立容错；③ digest 停更因 claude CLI 半截安装（npm 外壳在、原生二进制没下完、正式入口没建）→ 清孤儿临时目录后重装 v2.1.201 + 脚本显式 PATH，重跑打分补当日；④ 部署反复失败 = deploy-pages timeout 硬顶 600000ms(10min，改不动) + Pages 后端瞬时失败 → 经 API <code>runs/{id}/rerun</code> 触发重跑成功。</p>
+      </div>
+    </div>
+    <div class="log-entry">
+      <div class="log-date">2026-07-03</div>
+      <div class="log-body">
+        <span class="log-tag tag-feat">功能</span><span class="log-tag tag-design">设计</span><span class="log-tag tag-fix">修复</span>
+        <div class="log-title">信源扩展 P1/P2/P3 + 投资 tab 重构 + 操作台</div>
+        <p class="log-detail">信源：10 家企业 Google News 监控（智谱/月之暗面/百度/字节/MiniMax/新智元/机器之心/Mistral/Runway/Cohere）+ SEC EDGAR 财报 8 家 + 深度研报（+McKinsey +腾讯研究院，analysis 层放宽 30 天窗口）。投资 tab 重构：19 股（含腾讯 0700/智谱 2513/MiniMax 0100/SpaceX SPCX 已上市纳入）+ 5 大盘指数扁平卡（含 QQQ）+ 财报两级下拉 + 研报时效×评分×中文加权分页。操作台（devlog ⚙ tab）：config/user-config.json + api_server.py:8766 + lib/user_config.py，加股票/信源自动联动行情+RSS+财报+打分白名单。UI 修：canvas id 冲突（第一行趋势被画到大盘）、大盘扁平化、榜单 6 入口卡改右侧竖排。部署故障根治：删 github-pages 环境 protection rule（deploy-pages 挂起等审批超时的真凶）+ .nojekyll + cancel-in-progress:false。</p>
+      </div>
+    </div>
+    <div class="log-entry">
+      <div class="log-date">2026-07-02</div>
+      <div class="log-body">
+        <span class="log-tag tag-design">设计</span>
+        <div class="log-title">P1 纸墨编辑刊物风落地</div>
+        <p class="log-detail">视觉重设计落地 web/index.html：Fraunces nameplate 报头 + 纸墨色板 + 等宽分数徽章（≥0.8 酒红）+ 卡片系统去圆角/去阴影/去彩色 + 5 个 UI bug 全修 + 响应式断点补齐（原文件无 @media）。字体从 6 候选定稿 Fraunces（哥特体退役），design-brief 升 v2。</p>
+      </div>
+    </div>
     <div class="log-entry">
       <div class="log-date">2026-07-02</div>
       <div class="log-body">
