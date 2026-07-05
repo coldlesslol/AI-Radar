@@ -4,8 +4,9 @@ abbr: RADAR
 number: 12
 type: Index
 author: Cowork
-status: draft
+status: stable
 date: 2026-06-29
+milestone: 2026-07-05 建设期收尾归档（核心功能全上线 + 每日自愈稳定）
 ---
 
 # 12-TechRadar / 行业看板（科技雷达）
@@ -20,6 +21,14 @@ date: 2026-06-29
 
 ## 与 100-Investment 的关系
 TechRadar = 信息流追踪（行业动态、产品、趋势）；100-Investment = 金融决策面板（二级市场标的、指标、交易）。两边互相引用，不互相混入。
+
+## 🏁 建设期收尾归档（2026-07-05）
+本项目**开发建设期到此收尾归档**，转入日常运维期：
+- ✅ 核心功能全部上线：三大 tab（要闻/模型榜单/投资）+ 操作台 + 32 信源 + Claude 打分管线 + P1 纸墨视觉。
+- ✅ **每日自愈稳定**：10:00 launchd → 拉数据 → claude 打分 → 提交推送 → Pages 部署，全链路无人工干预（07-05 已验证）。
+- ✅ 开发日志已在 `web/devlog.html` 补全至 07-05（含四故障排查全程）。
+- ➡️ 后续「每日更新 + 排查日志管理」由**用户另起的独立任务**承接；本 readme/task/work-log 作为建设期存档冻结在此里程碑。
+- ⚠️ 唯一长期须知：GitHub Pages 部署偶发 flaky（GitHub 侧，非配置可修），线上没更新时看 Actions 最新 run，failure 则 re-run。
 
 ## 当前焦点（2026-07-04）
 - ✅ **今晚故障已全部修复并上线**（根地址可开 + 今日数据 + 今日 digest 全绿）：https://coldlesslol.github.io/AI-Radar/web/index.html

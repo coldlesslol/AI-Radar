@@ -146,3 +146,10 @@ date: 2026-06-29
   - **launchd 的 PATH 极精简**（默认不含 `~/.local/bin`），依赖 PATH 找二进制的脚本要在脚本里显式 export。
   - 时间戳来源要认准：前端"已更新"读 `digest.json.updated`，不是最新的原始数据文件——所以只刷原始数据、不重跑打分，"已更新"不会变。
 - 未决：`448a4d0`（timeout 注释更正）未 push（无害，明晨 daily 带上）；部署可靠性无根治（GitHub 侧，靠重跑）。
+
+## 2026-07-05 建设期收尾归档（Claude Code）
+- 自愈验证：10:00 daily job 全链路无人工干预成功（stocks 10:01 / digest 10:10，均已推送部署上线）。昨夜四故障根治后首次自动更新，确认稳定——用户"感觉没更新"经核验为浏览器缓存，服务器数据实为当日（提示硬刷新）。
+- devlog 补全：`web/devlog.html` 开发日志补至 07-05（新增 07-02 纸墨落地 / 07-03 信源+投资tab+操作台 / 07-04 四故障 / 07-05 自愈 4 条）；状态栏 29→32 源、~186→~197；需求清单加 7 行已完成。
+- 项目归档：readme `status: draft → stable` + 加 `milestone` 字段；readme 顶部加「建设期收尾归档」块，标注转入日常运维期。
+- 交接：后续「每日更新 + 排查日志管理」由用户另起独立任务承接；本项目 readme/task/work-log 作为**建设期存档**冻结在此里程碑。
+- 复用要点（承前，供新运维任务参考）：部署 flaky 只能重跑（API `runs/{id}/rerun`）；daily 靠 `~/.local/bin/claude` CLI + run_daily 显式 PATH；"已更新"读 digest.json；线上没更新先分清是浏览器缓存（硬刷）还是真没部署（查 Actions run）。

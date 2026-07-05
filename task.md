@@ -2,11 +2,15 @@
 project: TechRadar
 type: Spec
 author: Cowork
-status: draft
+status: stable
 date: 2026-06-29
+milestone: 2026-07-05 建设期收尾归档
 ---
 
 # task — 12-TechRadar
+
+> 🏁 **2026-07-05 建设期收尾归档**：核心功能全上线、每日自愈稳定，开发建设期到此冻结。
+> 「每日更新 + 排查日志管理」转入**用户另起的独立任务**。以下为建设期存档，未决项供新任务承接。
 
 ## 当前：信源扩展 + 投资 tab 重构 + 操作台（owner: Claude Code，2026-07-03，全部已上线）
 1. ✅ P1/P2/P3 信源：10 家企业 Google News 监控 / SEC EDGAR 财报 / 7 家深度研报（含 McKinsey、腾讯研究院）
