@@ -153,3 +153,18 @@ date: 2026-06-29
 - 项目归档：readme `status: draft → stable` + 加 `milestone` 字段；readme 顶部加「建设期收尾归档」块，标注转入日常运维期。
 - 交接：后续「每日更新 + 排查日志管理」由用户另起独立任务承接；本项目 readme/task/work-log 作为**建设期存档**冻结在此里程碑。
 - 复用要点（承前，供新运维任务参考）：部署 flaky 只能重跑（API `runs/{id}/rerun`）；daily 靠 `~/.local/bin/claude` CLI + run_daily 显式 PATH；"已更新"读 digest.json；线上没更新先分清是浏览器缓存（硬刷）还是真没部署（查 Actions run）。
+
+## 2026-07-05 晚 信源统一重构 + NaN/付费墙修复（Claude Code，已上线）
+- 触发：用户报 ① stocks.json `price:NaN` 让前端 JSON.parse 崩、股票面板全挂；② 财新付费墙死链混入；③ 追问后指出"投资标的=财报=企业信源监控应同一套，现在三张表对不齐"。
+- 完成：
+  - **统一公司总表** `lib/companies.py`（单一基准）：19 标的 + 7 关注·未持仓（+DeepSeek）+ 2 AI媒体。三脚本从它派生（pull_stocks/pull_filings/pull_rss），pull_score 白名单也并入。财报补 ARM/Oracle 的 SEC + A股港股雅虎财务页 → 26 条覆盖 17 标的。清 6 个改名孤儿。
+  - **NaN 根治**：pull_stocks 剔除 NaN（`c == c`）+ 单只重试 3 轮（治 yfinance 每日随机掉标的）；`common.write_json` 加 `allow_nan=False` 兜底。
+  - **付费墙** `lib/paywall.py`：先按域名黑名单，实测发现误杀整个 MIT TR（计费墙非硬墙）→ 改为只列"硬墙"（近乎全站付费）；采集端丢 + digest/archive/pinned 全链路清含历史。
+  - dev 监控 tab 加完整信源总览；结构用 SVG 图与用户对齐"新闻信源⊇企业信源、投资标的驱动三件套"。
+- 关键教训（可复用）：
+  - **`json.dumps` 默认 `allow_nan=True` 会输出裸 `NaN`——非法 JSON，JS `JSON.parse` 直接崩**。数值管线务必 `allow_nan=False` 或在源头剔除 NaN。
+  - **付费墙无法逐篇可靠判定**：`isAccessibleForFree` 发布方普遍不填；"paywall/订阅/subscriber" 词满屏是噪音；客户端 JS 墙服务器抓到的是全文。所以只能按"硬墙站"名单粗过滤，且**不可把计费墙站（MIT TR/NYT）整个拉黑**。
+  - **数据模型要单一基准**：投资标的/财报/新闻三处各建清单必然漂移；抽 `lib/companies.py` 一处定义、多处派生。
+  - Google News RSS 给的是不可靠解析的跳转链，域名藏在后面——付费墙判定只能靠标题尾部 "- 来源" 名，不能靠 URL 域名。
+  - 中文文件名（company_腾讯.json）只被 Python 管线服务端读，浏览器不直接抓，GitHub Pages 正常——安全。
+- 线上验证 + push + 部署成功（一次过，未抽风）：digest 62 无 caixin / 股价 19+5 无 NaN / 财报 26 含港股财务报表 / DeepSeek feed 200 / devlog 总览。
