@@ -1,14 +1,131 @@
 {
   "source": "Techmeme",
   "layer": "news",
-  "updated": "2026-07-04T10:00:03+08:00",
+  "updated": "2026-07-05T10:00:08+08:00",
   "items": [
+    {
+      "title": "AWS says Mechanical Turk will no longer accept new customers and that it is placing the crowdsourcing service in maintenance, signaling its future retirement (Simon Sharwood/The Register)",
+      "url": "https://www.theregister.com/off-prem/2026/07/03/amazons-mechanical-turk-to-stop-accepting-new-customers-and-not-even-ai-can-save-it/5266274",
+      "summary": "Simon Sharwood / The Register: AWS says Mechanical Turk will no longer accept new customers and that it is placing the crowdsourcing service in maintenance, signaling its future retirement&nbsp; &mdas",
+      "source": "Techmeme",
+      "time": "5m",
+      "tags": [],
+      "published_at": "2026-07-05T01:55:00+00:00"
+    },
+    {
+      "title": "Source calls UK- and OpenAI-touted plans in 2025 for Stargate's ~£20B Cobalt site a PR stunt; OpenAI and Nscale failed to visit Cobalt or lodge planning forms (Aisha Down/The Guardian)",
+      "url": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
+      "summary": "Aisha Down / The Guardian: Source calls UK- and OpenAI-touted plans in 2025 for Stargate's ~&pound;20B Cobalt site a PR stunt; OpenAI and Nscale failed to visit Cobalt or lodge planning forms&nbsp; &m",
+      "source": "Techmeme",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-04T23:30:00+00:00"
+    },
+    {
+      "title": "Indonesia's enforcement of social media restrictions for under-16s has been patchy, with tech companies ignoring the rules and youth still accessing platforms (Marcel Thee/Nikkei Asia)",
+      "url": "https://asia.nikkei.com/life-arts/life/indonesia-s-social-media-ban-tests-families-digital-reality",
+      "summary": "Marcel Thee / Nikkei Asia: Indonesia's enforcement of social media restrictions for under-16s has been patchy, with tech companies ignoring the rules and youth still accessing platforms&nbsp; &mdash;&",
+      "source": "Techmeme",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-04T21:05:01+00:00"
+    },
+    {
+      "title": "How some high-income families use AI-powered private schools and tutors, such as Alpha School, to teach their children life skills and tailor their curriculum (Katherine Bindley/Wall Street Journal)",
+      "url": "https://www.wsj.com/us-news/education/alternative-education-wealthy-families-ai-cd7922b3?st=TeME61&amp;reflink=desktopwebshare_permalink",
+      "summary": "Katherine Bindley / Wall Street Journal: How some high-income families use AI-powered private schools and tutors, such as Alpha School, to teach their children life skills and tailor their curriculum&",
+      "source": "Techmeme",
+      "time": "6h",
+      "tags": [],
+      "published_at": "2026-07-04T19:05:01+00:00"
+    },
+    {
+      "title": "A look at the troubled rollout of the EU's automated biometric entry/exit border system, as airport operators warn of severe delays ahead of the summer holidays (Financial Times)",
+      "url": "https://www.techmeme.com/260704/p9#a260704p9",
+      "summary": "Financial Times: A look at the troubled rollout of the EU's automated biometric entry/exit border system, as airport operators warn of severe delays ahead of the summer holidays&nbsp; &mdash;&nbsp; Au",
+      "source": "Techmeme",
+      "time": "8h",
+      "tags": [],
+      "published_at": "2026-07-04T17:05:05+00:00"
+    },
+    {
+      "title": "How ByteDance is making Hollywood inroads with its Seedance video generator, thanks to low pricing, striking realism, and features like timeline-based prompting (Nilesh Christopher/Los Angeles Times)",
+      "url": "https://www.latimes.com/business/story/2026-07-03/bytedances-tiktok-took-over-social-media-now-its-video-ai-is-taking-over-hollywood",
+      "summary": "Nilesh Christopher / Los Angeles Times: How ByteDance is making Hollywood inroads with its Seedance video generator, thanks to low pricing, striking realism, and features like timeline-based prompting",
+      "source": "Techmeme",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-04T15:20:01+00:00"
+    },
+    {
+      "title": "Q&A with Doug Brooks, senior product manager of Apple silicon, about Mac minis becoming preferred AI agent machines, future of on-device AI, and more (Jason Hiner/The Deep View)",
+      "url": "https://www.thedeepview.com/articles/how-apple-s-decade-long-bet-on-chips-won-ai",
+      "summary": "Jason Hiner / The Deep View: Q&amp;A with Doug Brooks, senior product manager of Apple silicon, about Mac minis becoming preferred AI agent machines, future of on-device AI, and more&nbsp; &mdash;&nbs",
+      "source": "Techmeme",
+      "time": "12h",
+      "tags": [],
+      "published_at": "2026-07-04T13:55:02+00:00"
+    },
+    {
+      "title": "Official data shows Hong Kong accounted for 50%+ of China's $239B in chip imports in the first five months of 2026, a record share, up from ~33% a decade ago (Bloomberg)",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/booming-ai-chip-trade-seals-hong-kong-s-role-as-gateway-to-china",
+      "summary": "Bloomberg: Official data shows Hong Kong accounted for 50%+ of China's $239B in chip imports in the first five months of 2026, a record share, up from ~33% a decade ago&nbsp; &mdash;&nbsp; Hong Kong h",
+      "source": "Techmeme",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-07-04T12:30:01+00:00"
+    },
+    {
+      "title": "A profile of Google DeepMind philosopher Iason Gabriel, whose work has tracked, and in many cases predicted, the ethical challenges posed by the success of LLMs (Robert P Baird/The Guardian)",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind",
+      "summary": "Robert P Baird / The Guardian: A profile of Google DeepMind philosopher Iason Gabriel, whose work has tracked, and in many cases predicted, the ethical challenges posed by the success of LLMs&nbsp; &m",
+      "source": "Techmeme",
+      "time": "19h",
+      "tags": [],
+      "published_at": "2026-07-04T06:30:02+00:00"
+    },
+    {
+      "title": "Micron breaks ground on its ~$9.3B Hiroshima factory expansion, part of its global ramp-up to meet AI demand, and plans to start HBM shipments from summer 2028 (Mari Kiyohara/Bloomberg)",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion",
+      "summary": "Mari Kiyohara / Bloomberg: Micron breaks ground on its ~$9.3B Hiroshima factory expansion, part of its global ramp-up to meet AI demand, and plans to start HBM shipments from summer 2028&nbsp; &mdash;",
+      "source": "Techmeme",
+      "time": "20h",
+      "tags": [],
+      "published_at": "2026-07-04T05:35:01+00:00"
+    },
+    {
+      "title": "Singapore-based dConstruct Robotics, which develops spatial tech to let autonomous robots operate in complex, GPS-denied environments, raised a $125M Series A (Duc Dao/TNGlobal)",
+      "url": "https://technode.global/2026/07/03/singapores-dconstruct-raises-125m-series-a-as-robonexus-accelerator-concludes-inaugural-cohort/",
+      "summary": "Duc Dao / TNGlobal: Singapore-based dConstruct Robotics, which develops spatial tech to let autonomous robots operate in complex, GPS-denied environments, raised a $125M Series A&nbsp; &mdash;&nbsp; S",
+      "source": "Techmeme",
+      "time": "20h",
+      "tags": [],
+      "published_at": "2026-07-04T05:15:01+00:00"
+    },
+    {
+      "title": "Prague-based EquiLibre, which offers AI for quant hedge funds and is founded by three ex-Google DeepMind researchers, raised a Series A at a $500M valuation (Anna Heim/TechCrunch)",
+      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "summary": "Anna Heim / TechCrunch: Prague-based EquiLibre, which offers AI for quant hedge funds and is founded by three ex-Google DeepMind researchers, raised a Series A at a $500M valuation&nbsp; &mdash;&nbsp;",
+      "source": "Techmeme",
+      "time": "20h",
+      "tags": [],
+      "published_at": "2026-07-04T05:10:01+00:00"
+    },
+    {
+      "title": "Montreal-based Stathera, a maker of MEMS-based silicon timing components for chips, raised a $55M Series B led by Maverick Silicon, taking total funding to $75M (Madison McLauchlan/BetaKit)",
+      "url": "https://betakit.com/stathera-raises-55-million-usd-for-semiconductor-clock-tech-amid-data-centre-boom/",
+      "summary": "Madison McLauchlan / BetaKit: Montreal-based Stathera, a maker of MEMS-based silicon timing components for chips, raised a $55M Series B led by Maverick Silicon, taking total funding to $75M&nbsp; &md",
+      "source": "Techmeme",
+      "time": "21h",
+      "tags": [],
+      "published_at": "2026-07-04T04:40:02+00:00"
+    },
     {
       "title": "Midjourney wants Disney, Universal, and Warner Bros. to reveal in court how they use AI across their companies; studios sued Midjourney in 2025 for infringement (Gene Maddaus/Variety)",
       "url": "https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/",
       "summary": "Gene Maddaus / Variety: Midjourney wants Disney, Universal, and Warner Bros. to reveal in court how they use AI across their companies; studios sued Midjourney in 2025 for infringement&nbsp; &mdash;&n",
       "source": "Techmeme",
-      "time": "40m",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-04T01:20:01+00:00"
     },
@@ -17,126 +134,9 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-quant-funds-draw-billions-as-ai-trounces-human-traders",
       "summary": "Bloomberg: A look at the quant fund frenzy in China, as assets under management have more than doubled to ~$384B in less than a year amid rapid AI adoption&nbsp; &mdash;&nbsp; Quant funds in China hav",
       "source": "Techmeme",
-      "time": "3h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-03T22:20:01+00:00"
-    },
-    {
-      "title": "Meta could use its compute for its own models, ad scaling, SpaceX-like neocloud deals, and hosting 3rd-party models; it may be close to an Anthropic deal (Jeremie Eliahou Ontiveros/SemiAnalysis)",
-      "url": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be?triedRedirect=true",
-      "summary": "Jeremie Eliahou Ontiveros / SemiAnalysis: Meta could use its compute for its own models, ad scaling, SpaceX-like neocloud deals, and hosting 3rd-party models; it may be close to an Anthropic deal&nbsp",
-      "source": "Techmeme",
-      "time": "6h",
-      "tags": [],
-      "published_at": "2026-07-03T19:30:03+00:00"
-    },
-    {
-      "title": "Meta getting into the cloud business has been inevitable for a long time, as it seeks to diversify beyond ad revenue and monetize its AI buildout (M.G. Siegler/Spyglass)",
-      "url": "https://spyglass.org/meta-cloud/",
-      "summary": "M.G. Siegler / Spyglass: Meta getting into the cloud business has been inevitable for a long time, as it seeks to diversify beyond ad revenue and monetize its AI buildout&nbsp; &mdash;&nbsp; Their nee",
-      "source": "Techmeme",
-      "time": "7h",
-      "tags": [],
-      "published_at": "2026-07-03T18:30:01+00:00"
-    },
-    {
-      "title": "Instagram has been running ads promoting child sexual abuse material in India, with terms like \"rape video\" and \"child video\" and linking to Telegram channels (Divya Arya/BBC)",
-      "url": "https://www.bbc.com/news/articles/cvgm4e0316zo",
-      "summary": "Divya Arya / BBC: Instagram has been running ads promoting child sexual abuse material in India, with terms like &ldquo;rape video&rdquo; and &ldquo;child video&rdquo; and linking to Telegram channels",
-      "source": "Techmeme",
-      "time": "9h",
-      "tags": [],
-      "published_at": "2026-07-03T16:10:01+00:00"
-    },
-    {
-      "title": "An interview with Sriram Krishnan, who says \"there will not be an FDA for AI\" under Trump, blames the AI backlash on the industry's \"doomer\" messaging, and more (Financial Times)",
-      "url": "https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed",
-      "summary": "Financial Times: An interview with Sriram Krishnan, who says &ldquo;there will not be an FDA for AI&rdquo; under Trump, blames the AI backlash on the industry's &ldquo;doomer&rdquo; messaging, and mor",
-      "source": "Techmeme",
-      "time": "10h",
-      "tags": [],
-      "published_at": "2026-07-03T15:30:01+00:00"
-    },
-    {
-      "title": "Texas Attorney General Ken Paxton opens an investigation into StubHub following complaints of last-minute ticket cancellations for FIFA World Cup 2026 matches (Giles Turner/Bloomberg)",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-03/stubhub-probed-by-texas-over-fifa-world-cup-ticket-cancellations",
-      "summary": "Giles Turner / Bloomberg: Texas Attorney General Ken Paxton opens an investigation into StubHub following complaints of last-minute ticket cancellations for FIFA World Cup 2026 matches&nbsp; &mdash;&n",
-      "source": "Techmeme",
-      "time": "11h",
-      "tags": [],
-      "published_at": "2026-07-03T14:15:01+00:00"
-    },
-    {
-      "title": "How Jeff Bezos' changing relationship with President Trump has helped Amazon and Blue Origin, such as more federal contracts awarded during Trump's second term (Wall Street Journal)",
-      "url": "https://www.wsj.com/business/jeff-bezos-donald-trump-relationship-7e6a742e?st=SHNRtW&amp;reflink=article_copyURL_share",
-      "summary": "Wall Street Journal: How Jeff Bezos' changing relationship with President Trump has helped Amazon and Blue Origin, such as more federal contracts awarded during Trump's second term&nbsp; &mdash;&nbsp;",
-      "source": "Techmeme",
-      "time": "13h",
-      "tags": [],
-      "published_at": "2026-07-03T12:25:00+00:00"
-    },
-    {
-      "title": "Filing: GoDaddy challenges a New Delhi court ruling requiring domain sellers to stop offering privacy by default, saying it could expose website owners globally (Reuters)",
-      "url": "https://www.reuters.com/world/worlds-biggest-domain-seller-fears-indias-fake-site-crackdown-could-damage-2026-07-03/",
-      "summary": "Reuters: Filing: GoDaddy challenges a New Delhi court ruling requiring domain sellers to stop offering privacy by default, saying it could expose website owners globally&nbsp; &mdash;&nbsp; The world'",
-      "source": "Techmeme",
-      "time": "15h",
-      "tags": [],
-      "published_at": "2026-07-03T10:51:01+00:00"
-    },
-    {
-      "title": "India's IT secretary said the country is investigating a data breach at Apple supplier Tata, which exposed files that included photos of iPhone 18 Pro models (Reuters)",
-      "url": "https://www.reuters.com/world/india/india-investigating-tata-data-leak-that-exposed-apple-iphone-secrets-2026-07-03/",
-      "summary": "Reuters: India's IT secretary said the country is investigating a data breach at Apple supplier Tata, which exposed files that included photos of iPhone 18 Pro models&nbsp; &mdash;&nbsp; India is inve",
-      "source": "Techmeme",
-      "time": "15h",
-      "tags": [],
-      "published_at": "2026-07-03T10:10:01+00:00"
-    },
-    {
-      "title": "Pitch document: Chris Larsen, Palmer Luckey, and others invested undisclosed amounts in APEC, a derivatives exchange founded by Senator Kirsten Gillibrand's son (Declan Harty/Politico)",
-      "url": "https://www.politico.com/news/2026/07/02/gillibrand-son-crypto-fund-investors-00985811",
-      "summary": "Declan Harty / Politico: Pitch document: Chris Larsen, Palmer Luckey, and others invested undisclosed amounts in APEC, a derivatives exchange founded by Senator Kirsten Gillibrand's son&nbsp; &mdash;&",
-      "source": "Techmeme",
-      "time": "15h",
-      "tags": [],
-      "published_at": "2026-07-03T10:06:02+00:00"
-    },
-    {
-      "title": "Sources: Alibaba banned Claude Code internally and asked its employees to remove all Claude models from their work computers due to Anthropic security concerns (The Information)",
-      "url": "https://www.techmeme.com/260703/p4#a260703p4",
-      "summary": "The Information: Sources: Alibaba banned Claude Code internally and asked its employees to remove all Claude models from their work computers due to Anthropic security concerns&nbsp; &mdash;&nbsp; Ali",
-      "source": "Techmeme",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-03T09:45:00+00:00"
-    },
-    {
-      "title": "A look back at BitTorrent, launched by Bram Cohen 25 years ago, and how media piracy fueled its growth while its architecture shielded it from legal liability (Janko Roettgers/The Verge)",
-      "url": "https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy",
-      "summary": "Janko Roettgers / The Verge: A look back at BitTorrent, launched by Bram Cohen 25 years ago, and how media piracy fueled its growth while its architecture shielded it from legal liability&nbsp; &mdash",
-      "source": "Techmeme",
-      "time": "19h",
-      "tags": [],
-      "published_at": "2026-07-03T06:25:01+00:00"
-    },
-    {
-      "title": "Sources: Anthropic moves to close loopholes that let Chinese companies like Ant use its models via workarounds such as cloud providers and overseas subsidiaries (Financial Times)",
-      "url": "https://www.ft.com/content/ad033063-60f9-4c0c-8d8a-9193a83e6f60",
-      "summary": "Financial Times: Sources: Anthropic moves to close loopholes that let Chinese companies like Ant use its models via workarounds such as cloud providers and overseas subsidiaries&nbsp; &mdash;&nbsp; En",
-      "source": "Techmeme",
-      "time": "20h",
-      "tags": [],
-      "published_at": "2026-07-03T05:15:00+00:00"
-    },
-    {
-      "title": "Blackstone's QTS abandons plans to build its portion of a 2,100-acre data center campus in Virginia, after years of organized opposition and legal challenges (Dawn Lim/Bloomberg)",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-02/blackstone-s-qts-abandons-massive-data-center-in-virginia",
-      "summary": "Dawn Lim / Bloomberg: Blackstone's QTS abandons plans to build its portion of a 2,100-acre data center campus in Virginia, after years of organized opposition and legal challenges&nbsp; &mdash;&nbsp; ",
-      "source": "Techmeme",
-      "time": "21h",
-      "tags": [],
-      "published_at": "2026-07-03T04:00:15+00:00"
     }
   ]
 }

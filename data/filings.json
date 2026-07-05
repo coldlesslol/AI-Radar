@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T10:01:31+08:00",
+  "updated": "2026-07-05T10:03:31+08:00",
   "items": [
     {
       "ticker": "AVGO",
@@ -21,13 +21,6 @@
       "form": "10-Q",
       "date": "2026-05-06",
       "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000002488&type=10-Q&dateb=&owner=include&count=1"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet",
-      "form": "10-Q",
-      "date": "2026-04-30",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652044&type=10-Q&dateb=&owner=include&count=1"
     },
     {
       "ticker": "AMZN",
@@ -70,13 +63,6 @@
       "form": "10-K",
       "date": "2026-02-06",
       "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724&type=10-K&dateb=&owner=include&count=1"
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet",
-      "form": "10-K",
-      "date": "2026-02-05",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652044&type=10-K&dateb=&owner=include&count=1"
     },
     {
       "ticker": "AMD",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T14:31:18.560482+00:00",
+  "updated": "2026-07-05T02:08:56.308255+00:00",
   "items": [
     {
       "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
@@ -211,6 +211,41 @@
       "auto": true
     },
     {
+      "title": "千问、豆包将下线“智能体”功能 AI陪聊产品政策收紧 - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43NVZJdFEydzhwMHd3TXNJSVVGLXVsWHRlbGpoR2QyMF9pU1Z4OWhXOWhLZ0wtblJOZ0ZHZzdIRWw1bXpub2JMYnAxNVZocHhtYWI2R1M2ZE40c0ZjOGF6TFJvbGY?oc=5",
+      "summary_cn": "因AI拟人互动新规将于7月15日施行，豆包、通义千问、元宝等相继宣布下线“智能体”功能，AI陪聊类产品政策全面收紧。",
+      "sources": [
+        "财新",
+        "新浪财经",
+        "证券时报",
+        "奥一网",
+        "亿邦动力",
+        "搜狐",
+        "亚洲电视"
+      ],
+      "relevance_score": 1.0,
+      "category": "行业动态",
+      "pinned_at": "2026-07-05T02:08:56.308255+00:00",
+      "expires_at": "2026-07-19T02:08:56.308255+00:00",
+      "auto": true
+    },
+    {
+      "title": "Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems - MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdnJkSTA0NDFkUnpDaWZTYjdKVmROaEdNNVNON3RrNTctMlBBdmZRanl0VHZmLXpZaXJRYnBFVF9haEI1eVhORFFnLTFBenJZQ3VzWE5BT25FMGtHcWJ5MVNkTnpIUDVUcFBYQk5SdE5oc2haVW1OWVd2aUJvR0taamd4N3Jpd3BXbkN3RHNXQWhrYXg2WXVzM1NvV181RHh4WVFVdl9ibDQ2UnpzTUVhRTBFTTJHY0RlaVVpWkVwczdRZXZHdENSQXo3Y0FnQkU1cFk5YVNZWHVNdFQwN2t5VFh3ZDRTOFU?oc=5",
+      "summary_cn": "Mistral 以 Apache-2.0 开源发布 Lean 4 代码智能体模型 Leanstral 1.5，在 PutnamBench 672 道题中解出 587 道，主打开源形式化证明能力，对标 OpenAI。",
+      "sources": [
+        "mistral.ai",
+        "HackerNews",
+        "MarkTechPost",
+        "The Tech Buzz"
+      ],
+      "relevance_score": 1.0,
+      "category": "模型发布",
+      "pinned_at": "2026-07-05T02:08:56.308255+00:00",
+      "expires_at": "2026-07-19T02:08:56.308255+00:00",
+      "auto": true
+    },
+    {
       "title": "Sources: OpenAI has discussed giving a 5% stake to the US government as the company seeks to clear political obstacles by securing buy-in from the Trump admin (Financial Times)",
       "url": "https://www.techmeme.com/260702/p1#a260702p1",
       "summary_cn": "OpenAI 与美国政府展开初步讨论，提议向政府提供约5%股权，以换取特朗普政府对 AI 产业的政策支持并缓解监管阻力。",
@@ -342,6 +377,21 @@
       "auto": true
     },
     {
+      "title": "微软GitHub Copilot接入首个开源模型Kimi K2.7 Code - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zRUdUX0ZUd1k4b3FJZ2Vna3pDQzJPLWdSN1Eya0JZT2JYQ1J6VVRObk1JMnJGVXQzUGtFSUZOZ2EzcC1NSmlRWA?oc=5",
+      "summary_cn": "微软 GitHub Copilot 首次接入开源模型，纳入月之暗面的 Kimi K2.7 Code。",
+      "sources": [
+        "凤凰网",
+        "新浪财经",
+        "新浪网"
+      ],
+      "relevance_score": 0.91,
+      "category": "产品动态",
+      "pinned_at": "2026-07-05T02:08:56.308255+00:00",
+      "expires_at": "2026-07-19T02:08:56.308255+00:00",
+      "auto": true
+    },
+    {
       "title": "推理成本砍掉一半以上，OpenAI摸着DeepSeek过河",
       "url": "https://www.tmtpost.com/8050492.html",
       "summary_cn": "OpenAI 借鉴 DeepSeek 思路完成系统优化，将模型推理成本削减一半以上，以缓解年亏超 200 亿美元的成本压力。",
@@ -396,6 +446,21 @@
       "category": "产品动态",
       "pinned_at": "2026-07-02T04:53:14.537526+00:00",
       "expires_at": "2026-07-16T04:53:14.537526+00:00",
+      "auto": true
+    },
+    {
+      "title": "Micron breaks ground on its ~$9.3B Hiroshima factory expansion, part of its global ramp-up to meet AI demand, and plans to start HBM shipments from summer 2028 (Mari Kiyohara/Bloomberg)",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion",
+      "summary_cn": "美光投资约93亿美元（1.5万亿日元）扩建日本广岛工厂，生产HBM等先进存储芯片，计划2028年夏季起出货以满足AI需求。",
+      "sources": [
+        "Techmeme",
+        "Bloomberg",
+        "36氪"
+      ],
+      "relevance_score": 0.88,
+      "category": "算力供应链",
+      "pinned_at": "2026-07-05T02:08:56.308255+00:00",
+      "expires_at": "2026-07-19T02:08:56.308255+00:00",
       "auto": true
     }
   ]

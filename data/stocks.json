@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T10:01:16+08:00",
+  "updated": "2026-07-05T10:01:53+08:00",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -712,6 +712,11 @@
       "currency": "HKD",
       "price": 346.6,
       "history_30d": [
+        456.6,
+        427.0,
+        429.4,
+        417.0,
+        356.8,
         346.6
       ],
       "url": "https://finance.yahoo.com/quote/0100.HK"
