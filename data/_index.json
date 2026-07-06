@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T17:57:04+08:00",
+  "updated": "2026-07-06T10:18:51+08:00",
   "files": {
     "rankings_openrouter": "rankings_openrouter.json",
     "news_techmeme": "news_techmeme.json",
@@ -69,7 +69,7 @@
     "media_机器之心": "media_机器之心.json"
   },
   "stats": {
-    "total_items": 868,
+    "total_items": 665,
     "last_run_status": "ok",
     "errors": [
       {
@@ -116,33 +116,143 @@
         "file": "stocks",
         "error": "NVDA,MSFT,GOOGL,AMZN,META,AMD,AVGO,TSLA,ARM,ORCL,SPCX,688256.SS,300308.SZ,002261.SZ,0020.HK,9988.HK,0700.HK,2513.HK,0100.HK,^GSPC,QQQ,000001.SS,000300.SS,^HSI",
         "at": "2026-07-05T11:40:35+08:00"
+      },
+      {
+        "file": "rankings_openrouter",
+        "error": "HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/frontend/v1/rankings/models (Caused by NameResolutionError(\"HTTPSConnection(host='openrouter.ai', port=443): Failed to resolve 'openrouter.ai' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:00:12+08:00"
+      },
+      {
+        "file": "news_techmeme",
+        "error": "HTTPSConnectionPool(host='www.techmeme.com', port=443): Max retries exceeded with url: /feed.xml (Caused by NameResolutionError(\"HTTPSConnection(host='www.techmeme.com', port=443): Failed to resolve 'www.techmeme.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:00:18+08:00"
+      },
+      {
+        "file": "news_venturebeat",
+        "error": "HTTPSConnectionPool(host='venturebeat.com', port=443): Max retries exceeded with url: /category/ai/feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='venturebeat.com', port=443): Failed to resolve 'venturebeat.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:00:24+08:00"
+      },
+      {
+        "file": "news_verge_ai",
+        "error": "HTTPSConnectionPool(host='www.theverge.com', port=443): Max retries exceeded with url: /rss/ai-artificial-intelligence/index.xml (Caused by NameResolutionError(\"HTTPSConnection(host='www.theverge.com', port=443): Failed to resolve 'www.theverge.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:00:30+08:00"
+      },
+      {
+        "file": "news_ars",
+        "error": "HTTPSConnectionPool(host='arstechnica.com', port=443): Max retries exceeded with url: /ai/feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='arstechnica.com', port=443): Failed to resolve 'arstechnica.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:00:37+08:00"
+      },
+      {
+        "file": "news_mit_tr",
+        "error": "HTTPSConnectionPool(host='www.technologyreview.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.technologyreview.com', port=443): Failed to resolve 'www.technologyreview.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:00:43+08:00"
+      },
+      {
+        "file": "news_qbitai",
+        "error": "HTTPSConnectionPool(host='www.qbitai.com', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"HTTPSConnection(host='www.qbitai.com', port=443): Failed to resolve 'www.qbitai.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:00:49+08:00"
+      },
+      {
+        "file": "news_36kr",
+        "error": "HTTPSConnectionPool(host='36kr.com', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"HTTPSConnection(host='36kr.com', port=443): Failed to resolve '36kr.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:00:55+08:00"
+      },
+      {
+        "file": "news_leiphone",
+        "error": "HTTPSConnectionPool(host='www.leiphone.com', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"HTTPSConnection(host='www.leiphone.com', port=443): Failed to resolve 'www.leiphone.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:01:01+08:00"
+      },
+      {
+        "file": "news_tmtpost",
+        "error": "HTTPSConnectionPool(host='www.tmtpost.com', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"HTTPSConnection(host='www.tmtpost.com', port=443): Failed to resolve 'www.tmtpost.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:01:08+08:00"
+      },
+      {
+        "file": "community_hn",
+        "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by NameResolutionError(\"HTTPSConnection(host='hnrss.org', port=443): Failed to resolve 'hnrss.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:01:14+08:00"
+      },
+      {
+        "file": "community_reddit",
+        "error": "HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/MachineLearning/.rss (Caused by NameResolutionError(\"HTTPSConnection(host='www.reddit.com', port=443): Failed to resolve 'www.reddit.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:01:20+08:00"
+      },
+      {
+        "file": "news_tldr_ai",
+        "error": "HTTPSConnectionPool(host='tldr.tech', port=443): Max retries exceeded with url: /api/rss/ai (Caused by NameResolutionError(\"HTTPSConnection(host='tldr.tech', port=443): Failed to resolve 'tldr.tech' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:01:26+08:00"
+      },
+      {
+        "file": "news_import_ai",
+        "error": "HTTPSConnectionPool(host='importai.substack.com', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"HTTPSConnection(host='importai.substack.com', port=443): Failed to resolve 'importai.substack.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:01:32+08:00"
+      },
+      {
+        "file": "news_latent",
+        "error": "HTTPSConnectionPool(host='www.latent.space', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"HTTPSConnection(host='www.latent.space', port=443): Failed to resolve 'www.latent.space' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:01:38+08:00"
+      },
+      {
+        "file": "news_semianalysis",
+        "error": "HTTPSConnectionPool(host='www.semianalysis.com', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"HTTPSConnection(host='www.semianalysis.com', port=443): Failed to resolve 'www.semianalysis.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:01:44+08:00"
+      },
+      {
+        "file": "news_benedict",
+        "error": "HTTPSConnectionPool(host='www.ben-evans.com', port=443): Max retries exceeded with url: /benedictevans?format=rss (Caused by NameResolutionError(\"HTTPSConnection(host='www.ben-evans.com', port=443): Failed to resolve 'www.ben-evans.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:01:50+08:00"
+      },
+      {
+        "file": "news_producthunt",
+        "error": "HTTPSConnectionPool(host='www.producthunt.com', port=443): Max retries exceeded with url: /feed?category=artificial-intelligence (Caused by NameResolutionError(\"HTTPSConnection(host='www.producthunt.com', port=443): Failed to resolve 'www.producthunt.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:01:57+08:00"
+      },
+      {
+        "file": "research_arxiv",
+        "error": "HTTPSConnectionPool(host='arxiv.org', port=443): Max retries exceeded with url: /rss/cs.AI (Caused by NameResolutionError(\"HTTPSConnection(host='arxiv.org', port=443): Failed to resolve 'arxiv.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:02:03+08:00"
+      },
+      {
+        "file": "analysis_inter",
+        "error": "HTTPSConnectionPool(host='www.interconnects.ai', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"HTTPSConnection(host='www.interconnects.ai', port=443): Failed to resolve 'www.interconnects.ai' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:17:27+08:00"
+      },
+      {
+        "file": "analysis_raschka",
+        "error": "HTTPSConnectionPool(host='magazine.sebastianraschka.com', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"HTTPSConnection(host='magazine.sebastianraschka.com', port=443): Failed to resolve 'magazine.sebastianraschka.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:17:33+08:00"
+      },
+      {
+        "file": "analysis_tisi",
+        "error": "HTTPSConnectionPool(host='www.tisi.org', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"HTTPSConnection(host='www.tisi.org', port=443): Failed to resolve 'www.tisi.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-06T10:17:39+08:00"
       }
     ],
     "per_file": {
-      "rankings_openrouter": 15,
-      "news_techmeme": 7,
-      "news_qbitai": 10,
-      "community_hn": 18,
+      "rankings_openrouter": 0,
+      "news_techmeme": 0,
+      "news_qbitai": 0,
+      "community_hn": 0,
       "stocks": 24,
       "digest": 62,
       "huggingface_trending": 15,
-      "github_trending": 14,
+      "github_trending": 15,
       "news_jiqizhixin": 0,
-      "news_36kr": 20,
-      "news_leiphone": 20,
+      "news_36kr": 0,
+      "news_leiphone": 0,
       "news_venturebeat": 0,
-      "news_verge_ai": 10,
-      "community_reddit": 15,
-      "news_tldr_ai": 20,
-      "news_import_ai": 4,
-      "news_latent": 10,
+      "news_verge_ai": 0,
+      "community_reddit": 0,
+      "news_tldr_ai": 0,
+      "news_import_ai": 0,
+      "news_latent": 0,
       "news_semianalysis": 0,
-      "news_producthunt": 15,
+      "news_producthunt": 0,
       "research_arxiv": 0,
       "archive": 400,
-      "news_ars": 9,
-      "news_mit_tr": 10,
-      "news_tmtpost": 15,
+      "news_ars": 0,
+      "news_mit_tr": 0,
+      "news_tmtpost": 0,
       "news_geekpark": 0,
       "news_benedict": 0,
       "news_batch": 0,
@@ -152,11 +262,11 @@
       "company_doubao": 8,
       "company_minimax": 0,
       "company_mistral": 6,
-      "company_runway": 2,
+      "company_runway": 3,
       "company_cohere": 2,
       "analysis_ark": 0,
-      "analysis_inter": 5,
-      "analysis_raschka": 2,
+      "analysis_inter": 0,
+      "analysis_raschka": 0,
       "company_xinzhiyuan": 8,
       "company_jiqizhixin": 1,
       "analysis_tisi": 0,
@@ -165,20 +275,20 @@
       "company_microsoft": 6,
       "company_alphabet": 6,
       "company_amazon": 4,
-      "company_meta": 1,
+      "company_meta": 0,
       "company_amd": 0,
       "company_broadcom": 6,
       "company_tesla": 2,
-      "company_arm": 5,
+      "company_arm": 6,
       "company_oracle": 6,
       "company_spacex": 6,
       "company_寒武纪": 6,
       "company_中际旭创": 6,
-      "company_拓维信息": 0,
+      "company_拓维信息": 1,
       "company_商汤": 2,
-      "company_阿里巴巴": 4,
-      "company_腾讯": 4,
-      "company_智谱ai": 6,
+      "company_阿里巴巴": 6,
+      "company_腾讯": 3,
+      "company_智谱ai": 4,
       "company_月之暗面": 6,
       "company_百度ai": 0,
       "company_字节豆包": 6,

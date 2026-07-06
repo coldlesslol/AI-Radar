@@ -1,32 +1,32 @@
 {
   "source": "McKinsey",
   "layer": "analysis",
-  "updated": "2026-07-05T17:49:46+08:00",
+  "updated": "2026-07-06T10:17:47+08:00",
   "items": [
     {
       "title": "A dual transformation agenda for Europe’s chemicals industry",
       "url": "https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry",
       "summary": "The strongest chemical company transformations in Europe perform a difficult balancing act: improving performance while radically reshaping portfolios, operations, and capital allocation.",
       "source": "McKinsey",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-03T00:00:00+00:00"
-    },
-    {
-      "title": "The real future of work in healthcare",
-      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/the-real-future-of-work-in-healthcare",
-      "summary": "Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care depends on making automation work through human–AI workflows.",
-      "source": "McKinsey",
       "time": "3d",
       "tags": [],
-      "published_at": "2026-07-02T00:00:00+00:00"
+      "published_at": "2026-07-03T00:00:00+00:00"
     },
     {
       "title": "How Miro is redefining collaboration across the product development life cycle",
       "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/how-miro-is-redefining-collaboration-across-the-product-development-life-cycle",
       "summary": "Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping competitive advantage in software.",
       "source": "McKinsey",
-      "time": "3d",
+      "time": "4d",
+      "tags": [],
+      "published_at": "2026-07-02T00:00:00+00:00"
+    },
+    {
+      "title": "The real future of work in healthcare",
+      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/the-real-future-of-work-in-healthcare",
+      "summary": "Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care depends on making automation work through human–AI workflows.",
+      "source": "McKinsey",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-02T00:00:00+00:00"
     },
@@ -35,7 +35,7 @@
       "url": "https://www.mckinsey.com/capabilities/business-building/our-insights/the-serial-builder-advantage-why-repeat-innovators-win",
       "summary": "New McKinsey research explains why organizations that repeatedly build new ventures outperform those that approach innovation as a one-off effort.",
       "source": "McKinsey",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-02T00:00:00+00:00"
     },
@@ -44,7 +44,7 @@
       "url": "https://www.mckinsey.com/featured-insights/annual-book-recommendations/mckinsey-global-publishings-book-picks",
       "summary": "We asked McKinsey Global Publishing and Marketing colleagues to share what’s on their bookshelves this year—here’s what they said.",
       "source": "McKinsey",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-01T00:00:00+00:00"
     },
@@ -53,7 +53,7 @@
       "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/lights-camera-algorithm-how-ai-is-rewriting-the-rules-of-film-and-tv",
       "summary": "Artificial intelligence is reshaping film and TV production from script to screen—but the biggest disruptions may not be the ones anyone is predicting.",
       "source": "McKinsey",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-01T00:00:00+00:00"
     },
@@ -62,7 +62,7 @@
       "url": "https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-the-united-kingdoms-36-billion-pound-opportunity",
       "summary": "Closing the women’s health gap in the United Kingdom could result in ten more healthy days of life per year for every woman—and potentially boost the country’s economy by £36 billion annually by 2040.",
       "source": "McKinsey",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-01T00:00:00+00:00"
     },
@@ -71,7 +71,7 @@
       "url": "https://www.mckinsey.com/industries/healthcare/our-insights/betsy-nabel-on-physicians-and-women-in-healthcare-leadership-roles",
       "summary": "Betsy Nabel, a leader and advocate for women in healthcare, reflects on the moves she’s made in her career to stay true to herself while creating lasting impact for medical students and patients.",
       "source": "McKinsey",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-01T00:00:00+00:00"
     },
@@ -80,7 +80,7 @@
       "url": "https://www.mckinsey.com/featured-insights/annual-book-recommendations",
       "summary": "McKinsey Global Publishing’s annual reading list is back, featuring compelling recommendations from a diverse group of leaders across the world. Our contributors have nearly 100 books for you to choos",
       "source": "McKinsey",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-01T00:00:00+00:00"
     },
@@ -89,7 +89,7 @@
       "url": "https://www.mckinsey.com/featured-insights/future-of-asia/suphachai-chearavanont-bold-moves-in-innovation-driven-transformation",
       "summary": "In striving for business growth while creating value for society, Suphachai Chearavanont has based his leadership strategy on looking beyond short-term gains to sustainable social impact and scale.",
       "source": "McKinsey",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-01T00:00:00+00:00"
     }
