@@ -1,32 +1,68 @@
 {
   "source": "McKinsey",
   "layer": "analysis",
-  "updated": "2026-07-06T10:17:47+08:00",
+  "updated": "2026-07-07T10:00:52+08:00",
   "items": [
+    {
+      "title": "Why accelerated resource allocation matters in the age of AI",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/why-accelerated-resource-allocation-matters-in-the-age-of-ai",
+      "summary": "In an era of rapid AI disruption, the winners may not be the companies that predict the future most accurately, but those that learn, reallocate resources, and adapt faster than their competitors.",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-06T00:00:00+00:00"
+    },
+    {
+      "title": "Building America’s innovation engine: An interview with David Lebryk",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/building-americas-innovation-engine-an-interview-with-david-lebryk",
+      "summary": "The former US Treasury official shares how government can deliver in moments of crisis and how America’s public–private sector dynamic can help fuel its next era of growth.",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-06T00:00:00+00:00"
+    },
+    {
+      "title": "A microscope on small businesses: Chile’s productivity opportunity",
+      "url": "https://www.mckinsey.com/featured-insights/americas/a-microscope-on-small-businesses-chiles-productivity-opportunity",
+      "summary": "Overcoming scale-related barriers and strengthening ties with other firms—both large and small—can help small businesses in Chile maximize their potential and narrow the productivity gap.",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-06T00:00:00+00:00"
+    },
+    {
+      "title": "How Covista is changing education for healthcare professionals",
+      "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/how-covista-is-changing-education-for-healthcare-professionals",
+      "summary": "Chairman and CEO Steve Beard explains how the organization’s multiyear transformation has reshaped its purpose, structure, and culture.",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-06T00:00:00+00:00"
+    },
     {
       "title": "A dual transformation agenda for Europe’s chemicals industry",
       "url": "https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry",
       "summary": "The strongest chemical company transformations in Europe perform a difficult balancing act: improving performance while radically reshaping portfolios, operations, and capital allocation.",
       "source": "McKinsey",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-03T00:00:00+00:00"
-    },
-    {
-      "title": "How Miro is redefining collaboration across the product development life cycle",
-      "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/how-miro-is-redefining-collaboration-across-the-product-development-life-cycle",
-      "summary": "Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping competitive advantage in software.",
-      "source": "McKinsey",
       "time": "4d",
       "tags": [],
-      "published_at": "2026-07-02T00:00:00+00:00"
+      "published_at": "2026-07-03T00:00:00+00:00"
     },
     {
       "title": "The real future of work in healthcare",
       "url": "https://www.mckinsey.com/industries/healthcare/our-insights/the-real-future-of-work-in-healthcare",
       "summary": "Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care depends on making automation work through human–AI workflows.",
       "source": "McKinsey",
-      "time": "4d",
+      "time": "5d",
+      "tags": [],
+      "published_at": "2026-07-02T00:00:00+00:00"
+    },
+    {
+      "title": "How Miro is redefining collaboration across the product development life cycle",
+      "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/how-miro-is-redefining-collaboration-across-the-product-development-life-cycle",
+      "summary": "Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping competitive advantage in software.",
+      "source": "McKinsey",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-02T00:00:00+00:00"
     },
@@ -35,7 +71,7 @@
       "url": "https://www.mckinsey.com/capabilities/business-building/our-insights/the-serial-builder-advantage-why-repeat-innovators-win",
       "summary": "New McKinsey research explains why organizations that repeatedly build new ventures outperform those that approach innovation as a one-off effort.",
       "source": "McKinsey",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-02T00:00:00+00:00"
     },
@@ -44,7 +80,7 @@
       "url": "https://www.mckinsey.com/featured-insights/annual-book-recommendations/mckinsey-global-publishings-book-picks",
       "summary": "We asked McKinsey Global Publishing and Marketing colleagues to share what’s on their bookshelves this year—here’s what they said.",
       "source": "McKinsey",
-      "time": "5d",
+      "time": "6d",
       "tags": [],
       "published_at": "2026-07-01T00:00:00+00:00"
     },
@@ -53,43 +89,7 @@
       "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/lights-camera-algorithm-how-ai-is-rewriting-the-rules-of-film-and-tv",
       "summary": "Artificial intelligence is reshaping film and TV production from script to screen—but the biggest disruptions may not be the ones anyone is predicting.",
       "source": "McKinsey",
-      "time": "5d",
-      "tags": [],
-      "published_at": "2026-07-01T00:00:00+00:00"
-    },
-    {
-      "title": "Closing the women’s health gap: The United Kingdom’s £36 billion opportunity",
-      "url": "https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-the-united-kingdoms-36-billion-pound-opportunity",
-      "summary": "Closing the women’s health gap in the United Kingdom could result in ten more healthy days of life per year for every woman—and potentially boost the country’s economy by £36 billion annually by 2040.",
-      "source": "McKinsey",
-      "time": "5d",
-      "tags": [],
-      "published_at": "2026-07-01T00:00:00+00:00"
-    },
-    {
-      "title": "Betsy Nabel on physicians and women in healthcare leadership roles",
-      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/betsy-nabel-on-physicians-and-women-in-healthcare-leadership-roles",
-      "summary": "Betsy Nabel, a leader and advocate for women in healthcare, reflects on the moves she’s made in her career to stay true to herself while creating lasting impact for medical students and patients.",
-      "source": "McKinsey",
-      "time": "5d",
-      "tags": [],
-      "published_at": "2026-07-01T00:00:00+00:00"
-    },
-    {
-      "title": "What to read next McKinsey’s 2026 annual book recommendations",
-      "url": "https://www.mckinsey.com/featured-insights/annual-book-recommendations",
-      "summary": "McKinsey Global Publishing’s annual reading list is back, featuring compelling recommendations from a diverse group of leaders across the world. Our contributors have nearly 100 books for you to choos",
-      "source": "McKinsey",
-      "time": "5d",
-      "tags": [],
-      "published_at": "2026-07-01T00:00:00+00:00"
-    },
-    {
-      "title": "Suphachai Chearavanont: Bold moves in innovation-driven transformation",
-      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/suphachai-chearavanont-bold-moves-in-innovation-driven-transformation",
-      "summary": "In striving for business growth while creating value for society, Suphachai Chearavanont has based his leadership strategy on looking beyond short-term gains to sustainable social impact and scale.",
-      "source": "McKinsey",
-      "time": "5d",
+      "time": "6d",
       "tags": [],
       "published_at": "2026-07-01T00:00:00+00:00"
     }

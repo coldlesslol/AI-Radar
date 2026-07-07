@@ -1,70 +1,97 @@
 {
   "source": "Techmeme",
   "layer": "news",
-  "updated": "2026-07-05T17:48:59+08:00",
+  "updated": "2026-07-07T10:00:06+08:00",
   "items": [
     {
-      "title": "NY-based LinqAlpha, which provides AI-powered market research tools for hedge funds, raised a $22M Series A co-led by AVP, Atinum Investment, and GFT Ventures (Sofia Chesnokova/Tech Funding News)",
-      "url": "https://techfundingnews.com/linqalpha-raises-22m-avp-ai-research-platform/",
-      "summary": "Sofia Chesnokova / Tech Funding News: NY-based LinqAlpha, which provides AI-powered market research tools for hedge funds, raised a $22M Series A co-led by AVP, Atinum Investment, and GFT Ventures&nbs",
+      "title": "A profile of Rachel Whetstone, who has led comms for Google, Meta, Uber, Netflix, and now Sierra, as her husband Steve Hilton runs for California governor (Emily Shugerman/The San Francisco ...)",
+      "url": "https://sfstandard.com/2026/07/06/rachel-whetstone-steve-hilton-wife-california-governor/",
+      "summary": "Emily Shugerman / The San Francisco Standard: A profile of Rachel Whetstone, who has led comms for Google, Meta, Uber, Netflix, and now Sierra, as her husband Steve Hilton runs for California governor",
       "source": "Techmeme",
-      "time": "4h",
+      "time": "10m",
       "tags": [],
-      "published_at": "2026-07-05T05:10:01+00:00"
+      "published_at": "2026-07-07T01:50:01+00:00"
     },
     {
-      "title": "India issues a notice to Telegram, asking it to curb the spread of pirated films and other copyrighted content, and seeks an action-taken report within 15 days (Sejal Sharma/Hindustan Times)",
-      "url": "https://www.hindustantimes.com/india-news/15day-govt-notice-for-telegram-to-act-on-piracy-channels-101783190498854.html",
-      "summary": "Sejal Sharma / Hindustan Times: India issues a notice to Telegram, asking it to curb the spread of pirated films and other copyrighted content, and seeks an action-taken report within 15 days&nbsp; &m",
+      "title": "A profile of Bernadette Meehan, a US diplomat who became Wikimedia Foundation CEO in January, as Wikipedia faces threats from MAGA, AI, and foreign autocrats (Tiffany Hsu/New York Times)",
+      "url": "https://www.nytimes.com/2026/07/05/business/media/wikipedia-ai-elon-musk.html?unlocked_article_code=1.vVA.gZA-.PAbQQ2fojTj8&amp;smid=nytcore-ios-share",
+      "summary": "Tiffany Hsu / New York Times: A profile of Bernadette Meehan, a US diplomat who became Wikimedia Foundation CEO in January, as Wikipedia faces threats from MAGA, AI, and foreign autocrats&nbsp; &mdash",
+      "source": "Techmeme",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-07T00:40:01+00:00"
+    },
+    {
+      "title": "Syntiant, which develops low-power AI processors, files for a US IPO, reporting a $20.9M net loss on $64.5M in revenue for the three months ended March 31 (Pragyan Kalita/Reuters)",
+      "url": "https://www.techmeme.com/260706/p38#a260706p38",
+      "summary": "Pragyan Kalita / Reuters: Syntiant, which develops low-power AI processors, files for a US IPO, reporting a $20.9M net loss on $64.5M in revenue for the three months ended March 31&nbsp; &mdash;&nbsp;",
+      "source": "Techmeme",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-06T23:35:00+00:00"
+    },
+    {
+      "title": "Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B (Reuters)",
+      "url": "https://www.reuters.com/world/asia-pacific/samsung-estimates-19-fold-rise-q2-operating-profit-beating-expectations-2026-07-06/",
+      "summary": "Reuters: Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B&nbsp; &mdash;&nbsp; Samsung Electronic",
+      "source": "Techmeme",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-06T23:00:33+00:00"
+    },
+    {
+      "title": "xAI rebrands to SpaceXAI and debuts a new logo (Kelsey Vlamis/Business Insider)",
+      "url": "https://www.techmeme.com/260706/p36#a260706p36",
+      "summary": "Kelsey Vlamis / Business Insider: xAI rebrands to SpaceXAI and debuts a new logo&nbsp; &mdash;&nbsp; - xAI has officially been rebranded to SpaceXAI.&nbsp; &mdash; The change follows SpaceX's historic",
+      "source": "Techmeme",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-06T22:20:00+00:00"
+    },
+    {
+      "title": "Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output (Anthropic)",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "summary": "Anthropic: Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output&nbsp; &mdash;&nbsp; As you read this se",
+      "source": "Techmeme",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-06T22:15:02+00:00"
+    },
+    {
+      "title": "BonkDAO, which oversees the Bonk memecoin, says it was the target of a \"malicious governance proposal\" that resulted in a loss of $20M worth of Bonk tokens (Daniel Kuhn/The Block)",
+      "url": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack",
+      "summary": "Daniel Kuhn / The Block: BonkDAO, which oversees the Bonk memecoin, says it was the target of a &ldquo;malicious governance proposal&rdquo; that resulted in a loss of $20M worth of Bonk tokens&nbsp; &",
+      "source": "Techmeme",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-06T22:05:01+00:00"
+    },
+    {
+      "title": "Sources: CISA's Attack Surface Evaluation team is using Mythos to audit government code repositories and has already uncovered a large number of vulnerabilities (Raphael Satter/Reuters)",
+      "url": "https://www.reuters.com/world/us-cyber-agency-is-using-anthropics-mythos-audit-government-code-sources-say-2026-07-06/",
+      "summary": "Raphael Satter / Reuters: Sources: CISA's Attack Surface Evaluation team is using Mythos to audit government code repositories and has already uncovered a large number of vulnerabilities&nbsp; &mdash;",
       "source": "Techmeme",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-05T04:40:00+00:00"
+      "published_at": "2026-07-06T20:25:00+00:00"
     },
     {
-      "title": "AWS says Mechanical Turk will no longer accept new customers and that it is placing the crowdsourcing service in maintenance, signaling its future retirement (Simon Sharwood/The Register)",
-      "url": "https://www.theregister.com/off-prem/2026/07/03/amazons-mechanical-turk-to-stop-accepting-new-customers-and-not-even-ai-can-save-it/5266274",
-      "summary": "Simon Sharwood / The Register: AWS says Mechanical Turk will no longer accept new customers and that it is placing the crowdsourcing service in maintenance, signaling its future retirement&nbsp; &mdas",
+      "title": "SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent (Andrew Chung/Reuters)",
+      "url": "https://www.reuters.com/world/us-supreme-court-wont-block-texas-app-store-age-verification-law-2026-07-06/",
+      "summary": "Andrew Chung / Reuters: SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent&nbsp; &mdash;&nbsp;",
+      "source": "Techmeme",
+      "time": "5h",
+      "tags": [],
+      "published_at": "2026-07-06T20:15:01+00:00"
+    },
+    {
+      "title": "Xbox appoints Helen Chiang as its first COO; Chiang was previously corporate vice president for the Minecraft Franchise and the studio head of Minecraft (Sam Smith/GamesBeat)",
+      "url": "https://gamesbeat.com/xbox-appoints-helen-chiang-as-new-chief-operating-officer-amid-restructure/",
+      "summary": "Sam Smith / GamesBeat: Xbox appoints Helen Chiang as its first COO; Chiang was previously corporate vice president for the Minecraft Franchise and the studio head of Minecraft&nbsp; &mdash;&nbsp; Xbox",
       "source": "Techmeme",
       "time": "7h",
       "tags": [],
-      "published_at": "2026-07-05T01:55:00+00:00"
-    },
-    {
-      "title": "Source calls UK- and OpenAI-touted plans in 2025 for Stargate's ~£20B Cobalt site a PR stunt; OpenAI and Nscale failed to visit Cobalt or lodge planning forms (Aisha Down/The Guardian)",
-      "url": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
-      "summary": "Aisha Down / The Guardian: Source calls UK- and OpenAI-touted plans in 2025 for Stargate's ~&pound;20B Cobalt site a PR stunt; OpenAI and Nscale failed to visit Cobalt or lodge planning forms&nbsp; &m",
-      "source": "Techmeme",
-      "time": "10h",
-      "tags": [],
-      "published_at": "2026-07-04T23:30:00+00:00"
-    },
-    {
-      "title": "How ByteDance is making Hollywood inroads with its Seedance video generator, thanks to low pricing, striking realism, and features like timeline-based prompting (Nilesh Christopher/Los Angeles Times)",
-      "url": "https://www.latimes.com/business/story/2026-07-03/bytedances-tiktok-took-over-social-media-now-its-video-ai-is-taking-over-hollywood",
-      "summary": "Nilesh Christopher / Los Angeles Times: How ByteDance is making Hollywood inroads with its Seedance video generator, thanks to low pricing, striking realism, and features like timeline-based prompting",
-      "source": "Techmeme",
-      "time": "18h",
-      "tags": [],
-      "published_at": "2026-07-04T15:20:01+00:00"
-    },
-    {
-      "title": "Q&A with Doug Brooks, senior product manager of Apple silicon, about Mac minis becoming preferred AI agent machines, future of on-device AI, and more (Jason Hiner/The Deep View)",
-      "url": "https://www.thedeepview.com/articles/how-apple-s-decade-long-bet-on-chips-won-ai",
-      "summary": "Jason Hiner / The Deep View: Q&amp;A with Doug Brooks, senior product manager of Apple silicon, about Mac minis becoming preferred AI agent machines, future of on-device AI, and more&nbsp; &mdash;&nbs",
-      "source": "Techmeme",
-      "time": "19h",
-      "tags": [],
-      "published_at": "2026-07-04T13:55:02+00:00"
-    },
-    {
-      "title": "A profile of Google DeepMind philosopher Iason Gabriel, whose work has tracked, and in many cases predicted, the ethical challenges posed by the success of LLMs (Robert P Baird/The Guardian)",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind",
-      "summary": "Robert P Baird / The Guardian: A profile of Google DeepMind philosopher Iason Gabriel, whose work has tracked, and in many cases predicted, the ethical challenges posed by the success of LLMs&nbsp; &m",
-      "source": "Techmeme",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-04T06:30:02+00:00"
+      "published_at": "2026-07-06T18:10:01+00:00"
     }
   ]
 }

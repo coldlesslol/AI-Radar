@@ -1,14 +1,14 @@
 {
   "source": "Mistral",
   "layer": "company",
-  "updated": "2026-07-06T10:18:31+08:00",
+  "updated": "2026-07-07T10:01:24+08:00",
   "items": [
     {
       "title": "What is Mistral AI? Everything to know about the OpenAI competitor - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGFMWVRTUTB1Mm9LMFJBUFQ1RjZ1ckJRSi1JMmtQQWxEVFZNOUlPYW5NYkJmeF9BNU0zaERVdmh1TDVBVGhSZXMwaG5HR0dPeTlmOEt4VE5uNl8weFR4OHlwdlRjNlJBUzd4cWItNGxNWEx5ZHJzc0lUOEcwWmpKbXhpTWlWUENFNVk1akJ1M05hWVhWcUQ2NDZEeXhaaWY5dEE?oc=5",
       "summary": "What is Mistral AI? Everything to know about the OpenAI competitor&nbsp;&nbsp;TechCrunch",
       "source": "Mistral",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-04T15:51:32+00:00"
     },
@@ -17,16 +17,34 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12TlFuT3dEdGtDSGd1VUZVbXpUTGNaVjRtQThwZTJoMWZFQzJhVUtHTXAxLXZzSi0wd1A1azhCWU5hZEFfOUR3NGlNODVwRXc?oc=5",
       "summary": "Leanstral 1.5: Proof Abundance for All&nbsp;&nbsp;mistral.ai",
       "source": "Mistral",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-02T07:00:00+00:00"
+    },
+    {
+      "title": "Mistral AI Targets Frontier Gap With Open-Weight Model Entering July Early Access - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOUxmZHNEQm5WUFFCWF8teDRTSWh1OVZVMG5oR3lHOXM2c01ldVVJNzIzTWc0LW1XX2FOTkFFTzJ2cF9vUXI0aERfNmV5Y3kxYkNJSkl0RHRtTU1UUGVRR0ZlS3c5cFk5ZVJZanVBd0lnWktENkI1S0JXMUFyek5DS2kxSXBPOEEyS1ZMUFd1WjRYOGRBMUZaU0FTRVJSaThfSjJXWF8tOGRwb2YteXRqU1NBZDJTbmQxMlNtai1vZGZfQ2NzVFh0ZkZqMA?oc=5",
+      "summary": "Mistral AI Targets Frontier Gap With Open-Weight Model Entering July Early Access&nbsp;&nbsp;Tech Times",
+      "source": "Mistral",
+      "time": "7m",
+      "tags": [],
+      "published_at": "2026-07-07T01:54:24+00:00"
+    },
+    {
+      "title": "BMW Group and Mistral AI collaborate to advance AI in crash simulation - Engineer Live",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTE9ZeTJDT1hvUEhTWTZLVnR4eDlkUTROYVJDYjFmV2dkRlVEYXQ1XzBvMVFXZEVSZWtoRjhneUo2b2s4X1NpR3hKeS1la3B4U2tuZnE2R256SFNFQzJrekxyQ0FDQ2ZpYU0xeF8yM295ZmVQYzg3Vno5NGxiVU9ERGtmenZuR3hxWHdOcjJhbXU2RUdu?oc=5",
+      "summary": "BMW Group and Mistral AI collaborate to advance AI in crash simulation&nbsp;&nbsp;Engineer Live",
+      "source": "Mistral",
+      "time": "15h",
+      "tags": [],
+      "published_at": "2026-07-06T10:28:25+00:00"
     },
     {
       "title": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes - the-decoder.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTnZSNTF0c3NGY2ZkM3RSOUEzcGJPLVUzbENhQWhGVmw1TFRRUm0xX2QyRjBDbTZ2cGJCVWZDYTFhUlFGOUhrSjhXUHlHNUpRTXAyOURMdHJudk56dmhqMFFRME9oNzloUlFyMnVrYTh2Z3ZzdTBqR2tEdno0dU1CUThacVJZYzVaTFRRelVocF82V0trUVU5aDRUQVg5anJqUFJ5aVM4OVotNEd1TTd5Z29vWkNNWWtObTJnaGxid3c2QQ?oc=5",
       "summary": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes&nbsp;&nbsp;the-decoder.com",
       "source": "Mistral",
-      "time": "15h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-05T10:47:50+00:00"
     },
@@ -35,27 +53,9 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdnJkSTA0NDFkUnpDaWZTYjdKVmROaEdNNVNON3RrNTctMlBBdmZRanl0VHZmLXpZaXJRYnBFVF9haEI1eVhORFFnLTFBenJZQ3VzWE5BT25FMGtHcWJ5MVNkTnpIUDVUcFBYQk5SdE5oc2haVW1OWVd2aUJvR0taamd4N3Jpd3BXbkN3RHNXQWhrYXg2WXVzM1NvV181RHh4WVFVdl9ibDQ2UnpzTUVhRTBFTTJHY0RlaVVpWkVwczdRZXZHdENSQXo3Y0FnQkU1cFk5YVNZWHVNdFQwN2t5VFh3ZDRTOFU?oc=5",
       "summary": "Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems&nbsp;&nbsp;MarkTechPost",
       "source": "Mistral",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-03T22:20:26+00:00"
-    },
-    {
-      "title": "Mistral AI Competes With ChatGPT Across Use Cases - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZEFjWGgwYkRMc2xDYk5pOGlTRXJEMHg0Q3RQY2xZVHZPS2w5LWJwVUR5WG4zVEpoZjEwWno2V1ZWNW52a0hHaU12RjVianNuSEp2ZFI2UmExdG5udmJfNW91ZEEzSlNUNEZ1eHphT1dsbDBNSW5ER1NLclVOTzFuRW1SVW0wS1FPcjNQa25iX0xBTjNsQkE?oc=5",
-      "summary": "Mistral AI Competes With ChatGPT Across Use Cases&nbsp;&nbsp;Let's Data Science",
-      "source": "Mistral",
-      "time": "15h",
-      "tags": [],
-      "published_at": "2026-07-05T10:18:55+00:00"
-    },
-    {
-      "title": "Mistral AI Takes on OpenAI with Open Source Frontier Models - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT2hHamU1aHlVWUhwMGJFTTktc2pxd1oxajJFTnp6RTFLNTRMVVlkb0xmcmphNmZRSkxmdmdubmRUVXFlbFc4QVN4RXVmdjdNaDk3QjNneUdmUFEtbDNZZUNOSTh2RnJOYWFVQld2bVZiZkZ1eUg2MV9taEMzSnUtQnY0c1Zpc3BwZkNON1ZMRTd0cHQ3NXlF?oc=5",
-      "summary": "Mistral AI Takes on OpenAI with Open Source Frontier Models&nbsp;&nbsp;The Tech Buzz",
-      "source": "Mistral",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-04T16:38:00+00:00"
     }
   ]
 }

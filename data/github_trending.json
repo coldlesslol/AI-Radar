@@ -2,144 +2,108 @@
   "key": "github_trending",
   "title": "GitHub Trending AI",
   "freq": "daily",
-  "updated": "2026-07-06T10:18:50+08:00",
+  "updated": "2026-07-07T10:01:40+08:00",
   "url": "https://github.com/trending?since=daily",
-  "total_trending": 22,
+  "total_trending": 16,
   "items": [
-    {
-      "full_name": "Zackriya-Solutions/meetily",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-      "language": "Rust",
-      "stars": 17190,
-      "stars_today": 1409,
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "rank": 1
-    },
-    {
-      "full_name": "openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "language": "JavaScript",
-      "stars": 25541,
-      "stars_today": 1532,
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "rank": 2
-    },
     {
       "full_name": "asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars": 50064,
-      "stars_today": 981,
+      "stars": 51618,
+      "stars_today": 1378,
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "rank": 1
+    },
+    {
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 70890,
+      "stars_today": 1112,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "rank": 2
+    },
+    {
+      "full_name": "Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "language": "Rust",
+      "stars": 19463,
+      "stars_today": 2494,
+      "url": "https://github.com/Zackriya-Solutions/meetily",
       "rank": 3
     },
     {
       "full_name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "JavaScript",
-      "stars": 57609,
-      "stars_today": 863,
+      "stars": 59014,
+      "stars_today": 1458,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "rank": 4
     },
     {
       "full_name": "alirezarezvani/claude-skills",
-      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
-      "stars": 20617,
-      "stars_today": 392,
+      "stars": 21184,
+      "stars_today": 610,
       "url": "https://github.com/alirezarezvani/claude-skills",
       "rank": 5
+    },
+    {
+      "full_name": "openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars": 26303,
+      "stars_today": 906,
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "rank": 6
+    },
+    {
+      "full_name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 49796,
+      "stars_today": 458,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "rank": 7
     },
     {
       "full_name": "ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars": 12123,
-      "stars_today": 651,
+      "stars": 12909,
+      "stars_today": 779,
       "url": "https://github.com/ogulcancelik/herdr",
-      "rank": 6
-    },
-    {
-      "full_name": "alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "language": "TypeScript",
-      "stars": 23965,
-      "stars_today": 805,
-      "url": "https://github.com/alibaba/page-agent",
-      "rank": 7
-    },
-    {
-      "full_name": "harvard-edge/cs249r_book",
-      "description": "Machine Learning Systems",
-      "language": "Python",
-      "stars": 26869,
-      "stars_today": 329,
-      "url": "https://github.com/harvard-edge/cs249r_book",
       "rank": 8
     },
     {
-      "full_name": "usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "full_name": "bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars": 37191,
-      "stars_today": 1114,
-      "url": "https://github.com/usestrix/strix",
+      "stars": 4282,
+      "stars_today": 427,
+      "url": "https://github.com/bradautomates/claude-video",
       "rank": 9
     },
     {
-      "full_name": "hesreallyhim/awesome-claude-code",
-      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
-      "language": "Python",
-      "stars": 48404,
-      "stars_today": 148,
-      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "full_name": "steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "stars": 16748,
+      "stars_today": 598,
+      "url": "https://github.com/steipete/CodexBar",
       "rank": 10
-    },
-    {
-      "full_name": "coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "language": "JavaScript",
-      "stars": 36474,
-      "stars_today": 145,
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "rank": 11
-    },
-    {
-      "full_name": "JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "language": "JavaScript",
-      "stars": 84921,
-      "stars_today": 1052,
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "rank": 12
-    },
-    {
-      "full_name": "CoplayDev/unity-mcp",
-      "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
-      "language": "C#",
-      "stars": 11957,
-      "stars_today": 414,
-      "url": "https://github.com/CoplayDev/unity-mcp",
-      "rank": 13
-    },
-    {
-      "full_name": "facebook/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "stars": 5938,
-      "stars_today": 522,
-      "url": "https://github.com/facebook/astryx",
-      "rank": 14
     },
     {
       "full_name": "gastownhall/gastown",
       "description": "Gas Town - multi-agent workspace manager",
       "language": "Go",
-      "stars": 16399,
-      "stars_today": 51,
+      "stars": 16711,
+      "stars_today": 291,
       "url": "https://github.com/gastownhall/gastown",
-      "rank": 15
+      "rank": 11
     }
   ]
 }

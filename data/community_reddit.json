@@ -1,14 +1,14 @@
 {
   "source": "Reddit ML",
   "layer": "community",
-  "updated": "2026-07-05T17:49:11+08:00",
+  "updated": "2026-07-07T10:00:37+08:00",
   "items": [
     {
       "title": "[D] Self-Promotion Thread",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "source": "Reddit ML",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-02T02:15:27+00:00"
     },
@@ -17,34 +17,115 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uk949b/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
       "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "source": "Reddit ML",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-01T02:30:09+00:00"
+    },
+    {
+      "title": "Machine learning industry job requirements used to be myopic, but now it feels impossible. Anyone else seeing this? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uov7or/machine_learning_industry_job_requirements_used/",
+      "summary": "Today I was just casually browsing some jobs with tags [machine learning] on one of those large popular job-sites. What I am seeing really had me astonished. I want to check with Reddit whether I am h",
+      "source": "Reddit ML",
+      "time": "14h",
+      "tags": [],
+      "published_at": "2026-07-06T11:57:00+00:00"
+    },
+    {
+      "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/",
+      "summary": "The idea: instead of masking random patches and hoping boundary structure emerges, the teacher predicts a dense boundary field online and the boundary-bearing tokens are forced into the student's mask",
+      "source": "Reddit ML",
+      "time": "8h",
+      "tags": [],
+      "published_at": "2026-07-06T17:37:58+00:00"
+    },
+    {
+      "title": "Edge AI ASL Recognition on Raspberry Pi 5 – Looking for Feedback on My System Design [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1up3kby/edge_ai_asl_recognition_on_raspberry_pi_5_looking/",
+      "summary": "Body: &#32; submitted by &#32; /u/Unlikely_Let_9147 [link] &#32; [comments]",
+      "source": "Reddit ML",
+      "time": "8h",
+      "tags": [],
+      "published_at": "2026-07-06T17:10:57+00:00"
+    },
+    {
+      "title": "TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench’s EventQA using gpt-oss-20B [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/",
+      "summary": "Built a memory system called TRACE that organizes agent conversation history into a topic tree (branches + summaries) instead of flat RAG chunks, and benchmarked it on MemoryAgentBench (ICLR 2026), sp",
+      "source": "Reddit ML",
+      "time": "11h",
+      "tags": [],
+      "published_at": "2026-07-06T14:35:56+00:00"
+    },
+    {
+      "title": "How should I encode both target and feature variable for a multiclass classification? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1upa8yc/how_should_i_encode_both_target_and_feature/",
+      "summary": "I am preprocessing a CSV dataset for multiclass classification with XGBoost. My Feature variable contain numerical and categorical values, while the target variable contain many categorical value. For",
+      "source": "Reddit ML",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-06T21:07:37+00:00"
+    },
+    {
+      "title": "CPU TTS benchmark with UTMOS MOS scoring: Kokoro, Supertonic, Inflect-Nano, and Kyutai's new Pocket TTS [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/",
+      "summary": "Sharing a CPU TTS benchmark with objective MOS scores in case it's useful for anyone evaluating small TTS models. Adding this because Kyutai's Pocket TTS is architecturally different from the others i",
+      "source": "Reddit ML",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-06T15:17:36+00:00"
+    },
+    {
+      "title": "Is Intrinsic Motivation a Viable PhD Topic in 2026? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uo5kg6/is_intrinsic_motivation_a_viable_phd_topic_in/",
+      "summary": "I started a PhD in CS about a year an a half ago. Generally speaking my topic is on intrinsic motivation (more commonly people refer to it as unsupervised RL). Intrinsic motivation (IM) is a niche fie",
+      "source": "Reddit ML",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-05T15:50:02+00:00"
     },
     {
       "title": "If DeepMind or Anthropic is doing your exact research topic, do you still continue? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1unt64q/if_deepmind_or_anthropic_is_doing_your_exact/",
       "summary": "As someone who is not affiliated with any of the big tech companies, I find it particularly difficult to have the confidence or enthusiasm to approach any ML problem with an attitude that my professor",
       "source": "Reddit ML",
-      "time": "4h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-05T04:54:28+00:00"
     },
     {
-      "title": "I built a open source neural network shape validator [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1unvbdb/i_built_a_open_source_neural_network_shape/",
-      "summary": "Built a visual editor that validates tensor shapes, counts params, estimates FLOPs/VRAM while you design. Catches incompatible residuals, mismatched Linear layers, all that before you waste GPU time. ",
+      "title": "Best models for generating red-team attacks? Also looking for public datasets [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uoejrl/best_models_for_generating_redteam_attacks_also/",
+      "summary": "Hi everyone, I'm currently working on a framework to evaluate the security of LLM applications and AI agents, and I've been stuck on one part for a while. Most red-teaming frameworks rely on an LLM to",
       "source": "Reddit ML",
-      "time": "2h",
+      "time": "1d",
       "tags": [],
-      "published_at": "2026-07-05T06:58:02+00:00"
+      "published_at": "2026-07-05T21:49:16+00:00"
+    },
+    {
+      "title": "Is machine learning research worth it for now? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uo0dqi/is_machine_learning_research_worth_it_for_now_d/",
+      "summary": "I am a scientist who just applied machine learning to my research (JEPA/Representation/Geometric branch) and it did wonder! Allowed me to see so many papers that I am still struggling to write up. Fro",
+      "source": "Reddit ML",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-05T11:58:49+00:00"
+    },
+    {
+      "title": "I built an open, from-scratch MT pipeline + parallel corpus for Tunisian Darija (Arabizi) early baseline, and I'm growing it into a curated community corpus [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uo92vz/i_built_an_open_fromscratch_mt_pipeline_parallel/",
+      "summary": "I'm an 18-year-old independent student from Tunisia. I built and I'm leading an open, from-scratch machine-translation pipeline and parallel corpus for Tunisian Darija. Sharing it for feedback. Why: T",
+      "source": "Reddit ML",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-05T18:08:49+00:00"
     },
     {
       "title": "Competence Gate: gating tool-use on a small model's internal confidence signal instead of its verbalised one — Qwen3.5-4B, open weights [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1unw5un/competence_gate_gating_tooluse_on_a_small_models/",
       "summary": "I made a 10MB LoRA adapter for Qwen3.5-4B plus a small orchestration layer. It decides, per query, whether to answer directly, search the web, or retrieve from your own local documents and it refuses ",
       "source": "Reddit ML",
-      "time": "2h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-05T07:49:09+00:00"
     },
@@ -53,90 +134,9 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1unx5f8/eccv_travel_support_program_d/",
       "summary": "Has anyone gotten a response from the eccv travel support program listed on their website? https://eccv.ecva.net/Conferences/2026/DEI Edit: also have anyone applied for this program as an accepted aut",
       "source": "Reddit ML",
-      "time": "59m",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-05T08:49:12+00:00"
-    },
-    {
-      "title": "If your GPU can run inference, it should be able to fine-tune too. [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1unl62q/if_your_gpu_can_run_inference_it_should_be_able/",
-      "summary": "I spent the last few months building a new sparse fine-tuning method for MoE models called **USAF**. The goal was simple: if your GPU can run inference on an MoE model, it should also be able to fine-",
-      "source": "Reddit ML",
-      "time": "11h",
-      "tags": [],
-      "published_at": "2026-07-04T21:56:48+00:00"
-    },
-    {
-      "title": "Contrastive Decoding Diffing (CDD): recovering verbatim finetuning data from logits alone, no weight access needed[R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1umn2dk/contrastive_decoding_diffing_cdd_recovering/",
-      "summary": "We built a model diffing method that recovers verbatim content from narrowly finetuned LLMs using only grey-box logit access (no weights, no activations, no probe corpus). Recent work (Minder, Dumas e",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-03T19:01:48+00:00"
-    },
-    {
-      "title": "H64LM: A 249M-parameter Mixture-of-Experts Transformer built from scratch in PyTorch [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1umqfd2/h64lm_a_249mparameter_mixtureofexperts/",
-      "summary": "Hi everyone, I built H64LM, a research project to better understand modern LLMs by implementing one from scratch in PyTorch. Instead of relying on high-level training frameworks, I implemented the cor",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-03T21:18:10+00:00"
-    },
-    {
-      "title": "Proposal: Use semantic compression as input diffusion to read sessions larger than the context window [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1un63hv/proposal_use_semantic_compression_as_input/",
-      "summary": "I've been trying to come up with a solution for keeping extremely long ai sessions coherent. Sometimes there is too much substance to risk compaction. With so much buzz around diffusion going on it go",
-      "source": "Reddit ML",
-      "time": "22h",
-      "tags": [],
-      "published_at": "2026-07-04T10:56:40+00:00"
-    },
-    {
-      "title": "Small Language Model SLM [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1umissr/small_language_model_slm_d/",
-      "summary": "Hi, I am supposed to prepare for SLM and its software part for an on campus internship, i've worked with local models like ollama generally,in my projects and also with open claw so can anyone guide m",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-03T16:17:27+00:00"
-    },
-    {
-      "title": "Books/Resources to improve mathematical foundations for ML research [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulmy9g/booksresources_to_improve_mathematical/",
-      "summary": "I am a mid to late stage PhD student in ML. I've known this before, but only recently I started feeling this urgently: my mathematical foundations are shaky, because I kept &quot;learning-things-as-I-",
-      "source": "Reddit ML",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-02T16:24:23+00:00"
-    },
-    {
-      "title": "What do you think about paper fishing? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulgunh/what_do_you_think_about_paper_fishing_d/",
-      "summary": "I am working in a research group in Germany, not that well known but in general good output. I have one colleague who does nothing in his PhD. He does not want to work, or he is not able to do any goo",
-      "source": "Reddit ML",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-02T12:26:55+00:00"
-    },
-    {
-      "title": "BMVC 2026 Review Discussion Thread [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulnp4d/bmvc_2026_review_discussion_thread_d/",
-      "summary": "BMVC reviews will be out tomorrow. Making this parent thread for discussion. All the best everyone! &#32; submitted by &#32; /u/Hot_Version_6403 [link] &#32; [comments]",
-      "source": "Reddit ML",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-02T16:52:04+00:00"
-    },
-    {
-      "title": "How papers are selected for Best Paper, Oral, or Highlight presentation at major ML/CV conferences such as CVPR, ICCV, ECCV, NeurIPS, and ICLR? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ulnstb/how_papers_are_selected_for_best_paper_oral_or/",
-      "summary": "From what I understand, reviewers usually do not directly vote for these categories or nominate papers themselves. So how does the selection process typically work? Here are specific questions I wonde",
-      "source": "Reddit ML",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-02T16:55:53+00:00"
     }
   ]
 }

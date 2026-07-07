@@ -1,97 +1,97 @@
 {
   "source": "量子位",
   "layer": "news",
-  "updated": "2026-07-05T17:49:05+08:00",
+  "updated": "2026-07-07T10:00:11+08:00",
   "items": [
     {
-      "title": "李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱",
-      "url": "https://www.qbitai.com/2026/07/443066.html",
-      "summary": "一段视频，生成无限训练场景",
-      "source": "量子位",
-      "time": "2h",
-      "tags": [],
-      "published_at": "2026-07-05T06:59:11+00:00"
-    },
-    {
-      "title": "刚刚，LeCun团队让世界模型学会持续学习！",
-      "url": "https://www.qbitai.com/2026/07/442964.html",
-      "summary": "迈向持续学习的世界模型",
-      "source": "量子位",
-      "time": "2h",
-      "tags": [],
-      "published_at": "2026-07-05T06:52:17+00:00"
-    },
-    {
-      "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
-      "url": "https://www.qbitai.com/2026/07/442958.html",
+      "title": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
+      "url": "https://www.qbitai.com/2026/07/444733.html",
       "summary": "",
       "source": "量子位",
-      "time": "1d",
+      "time": "15h",
       "tags": [],
-      "published_at": "2026-07-04T05:52:21+00:00"
+      "published_at": "2026-07-06T10:40:27+00:00"
     },
     {
-      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
-      "url": "https://www.qbitai.com/2026/07/442746.html",
-      "summary": "四年前LeCun提出JEPA时，大概不会想到，这套架构有一天会被用来理解：一颗细胞。",
-      "source": "量子位",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-03T14:28:38+00:00"
-    },
-    {
-      "title": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
-      "url": "https://www.qbitai.com/2026/07/442567.html",
-      "summary": "单词数r也是风险问题？！",
-      "source": "量子位",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-03T12:17:37+00:00"
-    },
-    {
-      "title": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”",
-      "url": "https://www.qbitai.com/2026/07/442531.html",
+      "title": "极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文",
+      "url": "https://www.qbitai.com/2026/07/444721.html",
       "summary": "",
       "source": "量子位",
-      "time": "1d",
+      "time": "15h",
       "tags": [],
-      "published_at": "2026-07-03T10:46:18+00:00"
+      "published_at": "2026-07-06T10:33:45+00:00"
     },
     {
-      "title": "比亚迪6月销量超40万，年内销量记录再度刷新",
-      "url": "https://www.qbitai.com/2026/07/442517.html",
+      "title": "2026新青年创投大会在沪举行：00后登场，创投新周期开启",
+      "url": "https://www.qbitai.com/2026/07/444049.html",
       "summary": "",
       "source": "量子位",
-      "time": "1d",
+      "time": "15h",
       "tags": [],
-      "published_at": "2026-07-03T10:28:43+00:00"
+      "published_at": "2026-07-06T10:22:05+00:00"
     },
     {
-      "title": "比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”",
-      "url": "https://www.qbitai.com/2026/07/442503.html",
+      "title": "字节、宇树、BAT等40+产品大咖齐聚，2026奇点智能产品大会最新最全日程来了！",
+      "url": "https://www.qbitai.com/2026/07/444043.html",
       "summary": "",
       "source": "量子位",
-      "time": "1d",
+      "time": "16h",
       "tags": [],
-      "published_at": "2026-07-03T10:26:36+00:00"
+      "published_at": "2026-07-06T09:54:19+00:00"
     },
     {
-      "title": "蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己”",
-      "url": "https://www.qbitai.com/2026/07/442224.html",
-      "summary": "创业30年，6次低谷",
+      "title": "蔚来世界模型OTA，70万用户没人被留在旧版本",
+      "url": "https://www.qbitai.com/2026/07/443868.html",
+      "summary": "把世界模型用活了",
       "source": "量子位",
-      "time": "2d",
+      "time": "16h",
       "tags": [],
-      "published_at": "2026-07-03T07:40:44+00:00"
+      "published_at": "2026-07-06T09:41:04+00:00"
     },
     {
-      "title": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
-      "url": "https://www.qbitai.com/2026/07/442452.html",
-      "summary": "超越人类超导体发现100年效率",
+      "title": "联想控股发起成立中国中文信息学会产学研创新生态工作委员会",
+      "url": "https://www.qbitai.com/2026/07/443869.html",
+      "summary": "",
       "source": "量子位",
-      "time": "2d",
+      "time": "16h",
       "tags": [],
-      "published_at": "2026-07-03T07:35:58+00:00"
+      "published_at": "2026-07-06T09:39:36+00:00"
+    },
+    {
+      "title": "真·QQ飞车！「电动版F1」上海开赛，Gemini在线解说",
+      "url": "https://www.qbitai.com/2026/07/443867.html",
+      "summary": "现实版《飞驰人生 3》",
+      "source": "量子位",
+      "time": "16h",
+      "tags": [],
+      "published_at": "2026-07-06T09:35:00+00:00"
+    },
+    {
+      "title": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
+      "url": "https://www.qbitai.com/2026/07/443863.html",
+      "summary": "",
+      "source": "量子位",
+      "time": "16h",
+      "tags": [],
+      "published_at": "2026-07-06T09:28:52+00:00"
+    },
+    {
+      "title": "模型不是企业的护城河，那什么才是？",
+      "url": "https://www.qbitai.com/2026/07/443842.html",
+      "summary": "大模型越来越强，为什么企业没有跟着变强",
+      "source": "量子位",
+      "time": "17h",
+      "tags": [],
+      "published_at": "2026-07-06T08:17:34+00:00"
+    },
+    {
+      "title": "字节Seedance，正在占领好莱坞",
+      "url": "https://www.qbitai.com/2026/07/443665.html",
+      "summary": "美国电影人：好东西不问出处",
+      "source": "量子位",
+      "time": "18h",
+      "tags": [],
+      "published_at": "2026-07-06T07:49:13+00:00"
     }
   ]
 }

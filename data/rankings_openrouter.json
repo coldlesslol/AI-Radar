@@ -2,83 +2,83 @@
   "key": "openrouter",
   "title": "OpenRouter 模型使用榜（按 token 用量）",
   "freq": "daily",
-  "updated": "2026-07-04",
+  "updated": "2026-07-06",
   "url": "https://openrouter.ai/rankings",
   "items": [
     {
       "rank": 1,
       "name": "Deepseek: Deepseek V4 Flash",
-      "value": "5351.6B"
+      "value": "5360.3B"
     },
     {
       "rank": 2,
       "name": "Xiaomi: Mimo V2.5",
-      "value": "4302.8B"
+      "value": "4425.7B"
     },
     {
       "rank": 3,
       "name": "Minimax: Minimax M3",
-      "value": "4021.5B"
+      "value": "4173.6B"
     },
     {
       "rank": 4,
       "name": "Tencent: Hy3 Preview",
-      "value": "3374.4B"
+      "value": "2814.6B"
     },
     {
       "rank": 5,
       "name": "Z-ai: Glm 5.2",
-      "value": "2537.5B"
+      "value": "2796.7B"
     },
     {
       "rank": 6,
       "name": "Deepseek: Deepseek V4 Pro",
-      "value": "2247.6B"
+      "value": "2530.7B"
     },
     {
       "rank": 7,
-      "name": "Anthropic: Claude 4.8 Opus",
-      "value": "2084.6B"
+      "name": "Anthropic: Claude 4.7 Opus",
+      "value": "2324.4B"
     },
     {
       "rank": 8,
-      "name": "Anthropic: Claude 4.7 Opus",
-      "value": "2020.5B"
+      "name": "Anthropic: Claude 4.8 Opus",
+      "value": "2100.8B"
     },
     {
       "rank": 9,
       "name": "Stepfun: Step 3.7 Flash",
-      "value": "1557.8B"
+      "value": "1560.6B"
     },
     {
       "rank": 10,
       "name": "Anthropic: Claude 4.6 Sonnet",
-      "value": "1465.2B"
+      "value": "1356.9B"
     },
     {
       "rank": 11,
       "name": "Openai: Gpt 5.5",
-      "value": "1175.8B"
+      "value": "1116.5B"
     },
     {
       "rank": 12,
       "name": "Nvidia: Nemotron 3 Ultra 550b A55b",
-      "value": "1024.4B"
+      "value": "1039.5B"
     },
     {
       "rank": 13,
       "name": "Google: Gemini 3 Flash Preview",
-      "value": "934.9B"
+      "value": "936.2B"
     },
     {
       "rank": 14,
-      "name": "Poolside: Laguna M.1",
-      "value": "779.3B"
+      "name": "Anthropic: Claude Sonnet 5",
+      "value": "672.8B"
     },
     {
       "rank": 15,
-      "name": "Google: Gemini 2.5 Flash Lite",
-      "value": "612.5B"
+      "name": "Poolside: Laguna M.1",
+      "value": "662.6B"
     }
   ]
 }
