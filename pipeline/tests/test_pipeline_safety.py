@@ -101,7 +101,7 @@ class ScoreFallbackTests(unittest.TestCase):
                 "_source": "Techmeme",
                 "title": "OpenAI releases new multimodal AI model",
                 "url": "https://example.com/openai",
-                "summary": "The model improves reasoning and coding.",
+                "summary": "The model&nbsp;improves reasoning and coding.",
                 "time": "1h",
                 "published_at": "2026-07-08T01:00:00+00:00",
                 "tags": [],
@@ -124,6 +124,7 @@ class ScoreFallbackTests(unittest.TestCase):
         self.assertEqual(enriched[0]["_id"], "Techmeme_0")
         self.assertTrue(enriched[0]["fallback"])
         self.assertIn("summary_cn", enriched[0])
+        self.assertNotIn("&nbsp;", enriched[0]["summary_cn"])
 
 
 if __name__ == "__main__":

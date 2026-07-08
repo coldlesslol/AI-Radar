@@ -18,6 +18,8 @@
 from __future__ import annotations
 
 import json
+import html as html_mod
+import re
 import shutil
 import subprocess
 from datetime import datetime, timezone, timedelta
@@ -440,7 +442,8 @@ def fallback_score(item: dict) -> float:
 def fallback_summary_cn(item: dict) -> str:
     summary = (item.get("summary") or "").strip()
     title = (item.get("title") or "").strip()
-    text = summary or title
+    text = html_mod.unescape(summary or title)
+    text = re.sub(r"\s+", " ", text).strip()
     if not text:
         return "本条来自备用本地打分路径，原始信源未提供摘要。"
     return text[:180]

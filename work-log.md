@@ -190,3 +190,12 @@ date: 2026-06-29
   - daily：`run_daily.sh` 增加 `run_status.json` 写入；`pull_score.py` 标为 critical，失败时跳过自动 push；每日末尾重建 `_index.json`。
   - 文档：新增 `pipeline/README.md`，明确实际运行依赖 Claude CLI；修正 `requirements.txt` 中 `anthropic` 的角色说明。
 - 测试：新增 `pipeline/tests/test_pipeline_safety.py`，覆盖索引清理、配置校验、devlog 防御式保存/回滚、daily 关键失败阻断。
+
+## 2026-07-08 真实更新与上线排查（Codex，已上线）
+- 触发：用户要求“真实落地让雷达可用，更新今日数据，排查是否还有其他问题”。
+- 根因：10:00 自动 daily 的 RSS / 股票 / GitHub / HuggingFace / 财报均成功，但 `pull_score.py` 连续失败；单独复现 `claude -p '只回复 ok'` 返回 `Not logged in · Please run /login`。因此 digest 从 2026-07-05 停更，7/6-7/8 只是原始数据更新。
+- 修复：`pull_score.py` 增加本地 fallback 打分摘要路径。Claude CLI 可用时仍走 Claude 归组/中文摘要；不可用时按关键词与信源权重生成兼容字段，并在 `digest.json.stats.fallback=true` 与条目 `fallback=true` 标记；同步清洗备用摘要里的 HTML 实体，避免 `&nbsp;` 等网页残留进入前端。
+- 今日数据：单独重跑 `pull_score.py` 成功，`data/digest.json` 更新为 `2026-07-08T12:03:51+08:00`，112 条；`data/_index.json` 更新为 `2026-07-08T12:04:24+08:00`；`stocks.json` 为 `2026-07-08T10:02:16+08:00`，19 标的 + 5 指数；`filings.json` 为 `2026-07-08T10:02:39+08:00`，26 条。
+- 上线：提交 `8ed9b3e fix: stabilize daily radar update` 并推送 main；GitHub Actions run `28916349786` 成功，线上 `data/digest.json` / `_index.json` / `stocks.json` 已读到今日版本。
+- 验证：`pipeline.tests.test_pipeline_safety` 6 tests OK；Python 编译 OK；`bash -n schedule/run_daily.sh` OK；本地 `_index.json` 无缺失/多余数据文件；本地 digest 未见 `&nbsp;` 残留。
+- 残余：当前 digest 是 fallback 质量，不是 Claude 归组中文摘要质量；若要恢复高质量摘要，需要在本机重新 `claude /login`。本执行环境对 GitHub Pages HTML 直取出现 curl 35/TLS 错误，但同域数据 JSON 与 Actions API 可读、部署状态成功。

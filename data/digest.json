@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T11:18:40+08:00",
+  "updated": "2026-07-08T12:03:51+08:00",
   "total": 112,
   "deduped_from": 273,
   "stats": {
@@ -23,7 +23,7 @@
       "source_count": 1,
       "relevance_score": 0.71,
       "category": "模型发布",
-      "summary_cn": "Zac Hall / 9to5Mac: Anthropic extends Claude Fable 5 access to all paid plans through July 12; access to the model was set to shift to token-based usage on July 7&nbsp; &mdash;&nbs",
+      "summary_cn": "Zac Hall / 9to5Mac: Anthropic extends Claude Fable 5 access to all paid plans through July 12; access to the model was set to shift to token-based usage on July 7 — Anthropic annou",
       "fallback": true
     },
     {
@@ -71,7 +71,7 @@
       "source_count": 1,
       "relevance_score": 0.67,
       "category": "算力供应链",
-      "summary_cn": "消息称 DeepSeek 正在自研 AI 芯片：面向推理场景&nbsp;&nbsp;DoNews",
+      "summary_cn": "消息称 DeepSeek 正在自研 AI 芯片：面向推理场景 DoNews",
       "fallback": true
     },
     {
@@ -87,7 +87,7 @@
       "source_count": 1,
       "relevance_score": 0.67,
       "category": "算力供应链",
-      "summary_cn": "Fable 5手搓首个CUDA「超级内核」！2.5小时狂飙18.7倍|Claude Opus 4.8|Anthropic|GPT-5.5|GPU|rtx_手机新浪网&nbsp;&nbsp;新浪财经",
+      "summary_cn": "Fable 5手搓首个CUDA「超级内核」！2.5小时狂飙18.7倍|Claude Opus 4.8|Anthropic|GPT-5.5|GPU|rtx_手机新浪网 新浪财经",
       "fallback": true
     },
     {
@@ -167,7 +167,7 @@
       "source_count": 1,
       "relevance_score": 0.67,
       "category": "行业动态",
-      "summary_cn": "New York Times: Anthropic plans to lease a 16-story building in Lower Manhattan and double its NYC workforce to 1,000 people this year, as AI companies expand in the city&nbsp; &md",
+      "summary_cn": "New York Times: Anthropic plans to lease a 16-story building in Lower Manhattan and double its NYC workforce to 1,000 people this year, as AI companies expand in the city — Anthrop",
       "fallback": true
     },
     {
@@ -183,7 +183,7 @@
       "source_count": 1,
       "relevance_score": 0.67,
       "category": "研究技术",
-      "summary_cn": "Maxwell Zeff / Wired: OpenAI Chief Futurist Joshua Achiam is leaving the company later this month after nearly nine years&nbsp; &mdash;&nbsp; Joshua Achiam spent nearly nine years ",
+      "summary_cn": "Maxwell Zeff / Wired: OpenAI Chief Futurist Joshua Achiam is leaving the company later this month after nearly nine years — Joshua Achiam spent nearly nine years at OpenAI research",
       "fallback": true
     },
     {
@@ -199,7 +199,7 @@
       "source_count": 1,
       "relevance_score": 0.65,
       "category": "AI Agent",
-      "summary_cn": "The Vercel Chief of Software explains how its agent framework, eve, was created &#8212; and why skills, sandboxes and agent-readable websites now matter.",
+      "summary_cn": "The Vercel Chief of Software explains how its agent framework, eve, was created — and why skills, sandboxes and agent-readable websites now matter.",
       "fallback": true
     },
     {
@@ -215,7 +215,7 @@
       "source_count": 1,
       "relevance_score": 0.65,
       "category": "AI Agent",
-      "summary_cn": "Adobe is experimenting with &#8220;agentic sites&#8221; that generate pages around an individual user&#8217;s intent. At AIEWF, we talked to Carlos Sanchez about the Web's future.",
+      "summary_cn": "Adobe is experimenting with “agentic sites” that generate pages around an individual user’s intent. At AIEWF, we talked to Carlos Sanchez about the Web's future.",
       "fallback": true
     },
     {
@@ -263,7 +263,7 @@
       "source_count": 1,
       "relevance_score": 0.63,
       "category": "模型发布",
-      "summary_cn": "AI that remembers: ChatGPT, Gemini and Claude compared&nbsp;&nbsp;Notebookcheck",
+      "summary_cn": "AI that remembers: ChatGPT, Gemini and Claude compared Notebookcheck",
       "fallback": true
     },
     {
@@ -279,7 +279,7 @@
       "source_count": 1,
       "relevance_score": 0.63,
       "category": "模型发布",
-      "summary_cn": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "summary_cn": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026) Amazon Web Services (AWS)",
       "fallback": true
     },
     {
@@ -295,7 +295,7 @@
       "source_count": 1,
       "relevance_score": 0.63,
       "category": "算力供应链",
-      "summary_cn": "DeepSeek自研AI芯片消息传出，英伟达华为迎来新对手？&nbsp;&nbsp;新浪财经",
+      "summary_cn": "DeepSeek自研AI芯片消息传出，英伟达华为迎来新对手？ 新浪财经",
       "fallback": true
     },
     {
@@ -311,7 +311,7 @@
       "source_count": 1,
       "relevance_score": 0.63,
       "category": "算力供应链",
-      "summary_cn": "消息称 DeepSeek 自研 AI芯片！&nbsp;&nbsp;搜狐网",
+      "summary_cn": "消息称 DeepSeek 自研 AI芯片！ 搜狐网",
       "fallback": true
     },
     {
@@ -327,7 +327,7 @@
       "source_count": 1,
       "relevance_score": 0.63,
       "category": "算力供应链",
-      "summary_cn": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters&nbsp;&nbsp;SemiAnalysis",
+      "summary_cn": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters SemiAnalysis",
       "fallback": true
     },
     {
@@ -343,7 +343,7 @@
       "source_count": 1,
       "relevance_score": 0.63,
       "category": "算力供应链",
-      "summary_cn": "China’s Biren seeks US$900m to fund GPU push and challenge Nvidia&nbsp;&nbsp;South China Morning Post",
+      "summary_cn": "China’s Biren seeks US$900m to fund GPU push and challenge Nvidia South China Morning Post",
       "fallback": true
     },
     {
@@ -359,7 +359,7 @@
       "source_count": 1,
       "relevance_score": 0.63,
       "category": "算力供应链",
-      "summary_cn": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer",
+      "summary_cn": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog NVIDIA Developer",
       "fallback": true
     },
     {
@@ -375,7 +375,7 @@
       "source_count": 1,
       "relevance_score": 0.63,
       "category": "行业动态",
-      "summary_cn": "独家｜腾讯混元多模态迎来新负责人，OpenAI田永龙将加盟&nbsp;&nbsp;搜狐网",
+      "summary_cn": "独家｜腾讯混元多模态迎来新负责人，OpenAI田永龙将加盟 搜狐网",
       "fallback": true
     },
     {
@@ -391,7 +391,7 @@
       "source_count": 1,
       "relevance_score": 0.63,
       "category": "算力供应链",
-      "summary_cn": "华科大与阿里通义联手：让AI图像生成更\"聪明\"地分配算力|通义大模型事业部|华中科技大学|训练|路由器|专家_手机新浪网&nbsp;&nbsp;新浪财经",
+      "summary_cn": "华科大与阿里通义联手：让AI图像生成更\"聪明\"地分配算力|通义大模型事业部|华中科技大学|训练|路由器|专家_手机新浪网 新浪财经",
       "fallback": true
     },
     {
@@ -407,7 +407,7 @@
       "source_count": 1,
       "relevance_score": 0.63,
       "category": "模型发布",
-      "summary_cn": "刚刚，Anthropic切开Claude大脑！AI自发长出类人「意识器官」&nbsp;&nbsp;创业邦",
+      "summary_cn": "刚刚，Anthropic切开Claude大脑！AI自发长出类人「意识器官」 创业邦",
       "fallback": true
     },
     {
@@ -423,7 +423,7 @@
       "source_count": 1,
       "relevance_score": 0.63,
       "category": "算力供应链",
-      "summary_cn": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧&nbsp;&nbsp;华尔街见闻",
+      "summary_cn": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧 华尔街见闻",
       "fallback": true
     },
     {
@@ -439,7 +439,7 @@
       "source_count": 1,
       "relevance_score": 0.63,
       "category": "研究技术",
-      "summary_cn": "Claude、GLM、GPT谁才是真正的AI软件工程师？首个持续更新Visual Spec-to-App Benchmark发布&nbsp;&nbsp;qq.com",
+      "summary_cn": "Claude、GLM、GPT谁才是真正的AI软件工程师？首个持续更新Visual Spec-to-App Benchmark发布 qq.com",
       "fallback": true
     },
     {
@@ -519,7 +519,7 @@
       "source_count": 1,
       "relevance_score": 0.63,
       "category": "算力供应链",
-      "summary_cn": "记忆张量MemTensor WAIC 2026 专题论坛嘉宾阵容正式公布。7 月 17 日，记忆张量MemTensor 将在 WAIC 2026 现场，上海世博展览馆 9 号会议室举办《从一次性 Agent 到记忆原生智能时代》专题论坛。本次论坛将围绕&nbsp;Agent、AI 终端与通用基座模型如何走向长期智能展开，邀请到了来自通用基座模型、终端系统、算",
+      "summary_cn": "记忆张量MemTensor WAIC 2026 专题论坛嘉宾阵容正式公布。7 月 17 日，记忆张量MemTensor 将在 WAIC 2026 现场，上海世博展览馆 9 号会议室举办《从一次性 Agent 到记忆原生智能时代》专题论坛。本次论坛将围绕 Agent、AI 终端与通用基座模型如何走向长期智能展开，邀请到了来自通用基座模型、终端系统、算力基础设施",
       "fallback": true
     },
     {
@@ -711,7 +711,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "模型发布",
-      "summary_cn": "I stopped using ChatGPT as my default AI — here is when Gemini wins&nbsp;&nbsp;Tom's Guide",
+      "summary_cn": "I stopped using ChatGPT as my default AI — here is when Gemini wins Tom's Guide",
       "fallback": true
     },
     {
@@ -727,7 +727,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "模型发布",
-      "summary_cn": "I was tired of repeating myself to AI — so I built 5 Gemini Gems that already know what I want&nbsp;&nbsp;TechRadar",
+      "summary_cn": "I was tired of repeating myself to AI — so I built 5 Gemini Gems that already know what I want TechRadar",
       "fallback": true
     },
     {
@@ -743,7 +743,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "AI Agent",
-      "summary_cn": "Build an AI-powered AWS support companion with Amazon Bedrock AgentCore&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "summary_cn": "Build an AI-powered AWS support companion with Amazon Bedrock AgentCore Amazon Web Services (AWS)",
       "fallback": true
     },
     {
@@ -759,7 +759,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "AI Agent",
-      "summary_cn": "Build a serverless image editing agent with Amazon Bedrock AgentCore harness&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "summary_cn": "Build a serverless image editing agent with Amazon Bedrock AgentCore harness Amazon Web Services (AWS)",
       "fallback": true
     },
     {
@@ -775,7 +775,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "算力供应链",
-      "summary_cn": "Broadcom Is 24% Off Its High and Just Unveiled a Custom AI Chip With OpenAI. Time to Buy the Dip?&nbsp;&nbsp;The Motley Fool",
+      "summary_cn": "Broadcom Is 24% Off Its High and Just Unveiled a Custom AI Chip With OpenAI. Time to Buy the Dip? The Motley Fool",
       "fallback": true
     },
     {
@@ -791,7 +791,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "行业动态",
-      "summary_cn": "What is Mistral AI? Everything to know about the OpenAI competitor&nbsp;&nbsp;Yahoo Finance",
+      "summary_cn": "What is Mistral AI? Everything to know about the OpenAI competitor Yahoo Finance",
       "fallback": true
     },
     {
@@ -807,7 +807,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "AI Agent",
-      "summary_cn": "Announcing Oracle AI Database Vector Store Connector Support for Microsoft Agent Framework&nbsp;&nbsp;Oracle Blogs",
+      "summary_cn": "Announcing Oracle AI Database Vector Store Connector Support for Microsoft Agent Framework Oracle Blogs",
       "fallback": true
     },
     {
@@ -823,7 +823,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "AI Agent",
-      "summary_cn": "AI情感陪伴新规施行在即，豆包、千问、元宝下架智能体服务&nbsp;&nbsp;安全内参",
+      "summary_cn": "AI情感陪伴新规施行在即，豆包、千问、元宝下架智能体服务 安全内参",
       "fallback": true
     },
     {
@@ -839,7 +839,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "AI Agent",
-      "summary_cn": "就在本月15日！豆包、千问：智能体功能将下线&nbsp;&nbsp;证券时报",
+      "summary_cn": "就在本月15日！豆包、千问：智能体功能将下线 证券时报",
       "fallback": true
     },
     {
@@ -855,7 +855,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "算力供应链",
-      "summary_cn": "工作4小时，豆包68元基础版提示，“算力不足得休息了”&nbsp;&nbsp;21财经",
+      "summary_cn": "工作4小时，豆包68元基础版提示，“算力不足得休息了” 21财经",
       "fallback": true
     },
     {
@@ -871,7 +871,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "算力供应链",
-      "summary_cn": "智谱AI探索定制ASIC芯片，GLM-5.2日均Token用量激增27倍 提供者 Investing.com&nbsp;&nbsp;英为财情 Investing.com",
+      "summary_cn": "智谱AI探索定制ASIC芯片，GLM-5.2日均Token用量激增27倍 提供者 Investing.com 英为财情 Investing.com",
       "fallback": true
     },
     {
@@ -887,7 +887,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "算力供应链",
-      "summary_cn": "GLM5.2用量暴涨后，传智谱也想自研AI芯片&nbsp;&nbsp;网易新闻客户端",
+      "summary_cn": "GLM5.2用量暴涨后，传智谱也想自研AI芯片 网易新闻客户端",
       "fallback": true
     },
     {
@@ -903,7 +903,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "融资并购",
-      "summary_cn": "月之暗面Kimi半年融资超39亿美元，投前估值升至315亿美元&nbsp;&nbsp;电子工程专辑",
+      "summary_cn": "月之暗面Kimi半年融资超39亿美元，投前估值升至315亿美元 电子工程专辑",
       "fallback": true
     },
     {
@@ -919,7 +919,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "模型发布",
-      "summary_cn": "对话Kimi B端负责人黄震昕：把国产大模型搬上亚马逊云科技，未来与海外“御三家”掰手腕&nbsp;&nbsp;智东西",
+      "summary_cn": "对话Kimi B端负责人黄震昕：把国产大模型搬上亚马逊云科技，未来与海外“御三家”掰手腕 智东西",
       "fallback": true
     },
     {
@@ -935,7 +935,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "AI Agent",
-      "summary_cn": "腾讯混元Hy3正式发布：Agent能力显著提升，产品深度融合&nbsp;&nbsp;Tencent 腾讯",
+      "summary_cn": "腾讯混元Hy3正式发布：Agent能力显著提升，产品深度融合 Tencent 腾讯",
       "fallback": true
     },
     {
@@ -951,7 +951,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "AI Agent",
-      "summary_cn": "腾讯混元Hy3发布：Agent能力和产品体验跃升&nbsp;&nbsp;新华网",
+      "summary_cn": "腾讯混元Hy3发布：Agent能力和产品体验跃升 新华网",
       "fallback": true
     },
     {
@@ -967,7 +967,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "模型发布",
-      "summary_cn": "Claude Code偷查用户身份，时区、中国AI实验室全是关键词&nbsp;&nbsp;安全内参",
+      "summary_cn": "Claude Code偷查用户身份，时区、中国AI实验室全是关键词 安全内参",
       "fallback": true
     },
     {
@@ -1031,7 +1031,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "模型发布",
-      "summary_cn": "从 LLM Wiki 到第二大脑，AI 已经实现持续记忆与自进化。&nbsp; &nbsp; 作者丨樊天骄&nbsp; &nbsp; 编辑丨郑佳美&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
+      "summary_cn": "从 LLM Wiki 到第二大脑，AI 已经实现持续记忆与自进化。 作者丨樊天骄 编辑丨郑佳美 &",
       "fallback": true
     },
     {
@@ -1047,7 +1047,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "社区信号",
-      "summary_cn": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in Op",
+      "summary_cn": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Alt",
       "fallback": true
     },
     {
@@ -1223,7 +1223,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "Arm Holdings: Dangerous AI Game (NASDAQ:ARM)&nbsp;&nbsp;Seeking Alpha",
+      "summary_cn": "Arm Holdings: Dangerous AI Game (NASDAQ:ARM) Seeking Alpha",
       "fallback": true
     },
     {
@@ -1239,7 +1239,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "算力供应链",
-      "summary_cn": "Arm Holdings plc (NASDAQ:ARM) stock: light-volume 6.6% drop leaves AI chip bet at 67 times sales&nbsp;&nbsp;TechStock²",
+      "summary_cn": "Arm Holdings plc (NASDAQ:ARM) stock: light-volume 6.6% drop leaves AI chip bet at 67 times sales TechStock²",
       "fallback": true
     },
     {
@@ -1255,7 +1255,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "算力供应链",
-      "summary_cn": "Broadcom or Marvell: One AI Chip Stock Is a Buy, the Other Looks Too Expensive&nbsp;&nbsp;TipRanks",
+      "summary_cn": "Broadcom or Marvell: One AI Chip Stock Is a Buy, the Other Looks Too Expensive TipRanks",
       "fallback": true
     },
     {
@@ -1271,7 +1271,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "算力供应链",
-      "summary_cn": "Broadcom’s SWOT analysis: stock gains momentum on AI chip dominance&nbsp;&nbsp;Investing.com",
+      "summary_cn": "Broadcom’s SWOT analysis: stock gains momentum on AI chip dominance Investing.com",
       "fallback": true
     },
     {
@@ -1287,7 +1287,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "产品动态",
-      "summary_cn": "Meta AI app adds image generation, also powering WhatsApp and Instagram features&nbsp;&nbsp;9to5Mac",
+      "summary_cn": "Meta AI app adds image generation, also powering WhatsApp and Instagram features 9to5Mac",
       "fallback": true
     },
     {
@@ -1303,7 +1303,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "模型发布",
-      "summary_cn": "Weeks before Meta's 'highest-paid' employee Alexander Wang told the world that the company's AI model upd&nbsp;&nbsp;The Times of India",
+      "summary_cn": "Weeks before Meta's 'highest-paid' employee Alexander Wang told the world that the company's AI model upd The Times of India",
       "fallback": true
     },
     {
@@ -1319,7 +1319,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "模型发布",
-      "summary_cn": "Meta AI Head Alexandr Wang Exclusive Interview: Building World-Changing AI Models From \"Appetizer\" to \"Main Course\"&nbsp;&nbsp;36Kr",
+      "summary_cn": "Meta AI Head Alexandr Wang Exclusive Interview: Building World-Changing AI Models From \"Appetizer\" to \"Main Course\" 36Kr",
       "fallback": true
     },
     {
@@ -1335,7 +1335,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "产品动态",
-      "summary_cn": "Microsoft 365 Copilot adoption is under 4.5% after 3 years, only 1% use it weekly, yet prices went up&nbsp;&nbsp;Windows Latest",
+      "summary_cn": "Microsoft 365 Copilot adoption is under 4.5% after 3 years, only 1% use it weekly, yet prices went up Windows Latest",
       "fallback": true
     },
     {
@@ -1351,7 +1351,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "Microsoft's AI Assistant Push Gets Unified&nbsp;&nbsp;Yahoo Finance",
+      "summary_cn": "Microsoft's AI Assistant Push Gets Unified Yahoo Finance",
       "fallback": true
     },
     {
@@ -1367,7 +1367,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "产品动态",
-      "summary_cn": "Microsoft edges higher as in-house AI push takes aim at copilot costs&nbsp;&nbsp;Investing.com",
+      "summary_cn": "Microsoft edges higher as in-house AI push takes aim at copilot costs Investing.com",
       "fallback": true
     },
     {
@@ -1383,7 +1383,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "Leanstral 1.5: Proof Abundance for All&nbsp;&nbsp;mistral.ai",
+      "summary_cn": "Leanstral 1.5: Proof Abundance for All mistral.ai",
       "fallback": true
     },
     {
@@ -1399,7 +1399,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "模型发布",
-      "summary_cn": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes&nbsp;&nbsp;the-decoder.com",
+      "summary_cn": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes the-decoder.com",
       "fallback": true
     },
     {
@@ -1415,7 +1415,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "Why the Next Wave of Enterprise Strategy is Industry Clouds&nbsp;&nbsp;Harvard Business Review",
+      "summary_cn": "Why the Next Wave of Enterprise Strategy is Industry Clouds Harvard Business Review",
       "fallback": true
     },
     {
@@ -1431,7 +1431,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "Cloudflare Is Up 9% Today: Is It Outperforming Other AI Cloud Stocks Like Oracle, CoreWeave, and Snowflake?&nbsp;&nbsp;24/7 Wall St.",
+      "summary_cn": "Cloudflare Is Up 9% Today: Is It Outperforming Other AI Cloud Stocks Like Oracle, CoreWeave, and Snowflake? 24/7 Wall St.",
       "fallback": true
     },
     {
@@ -1447,7 +1447,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "When, and when not, to use AI for social media posts&nbsp;&nbsp;Runway",
+      "summary_cn": "When, and when not, to use AI for social media posts Runway",
       "fallback": true
     },
     {
@@ -1463,7 +1463,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "Runway CEO Discusses Global AI Expansion&nbsp;&nbsp;StartupHub.ai",
+      "summary_cn": "Runway CEO Discusses Global AI Expansion StartupHub.ai",
       "fallback": true
     },
     {
@@ -1479,7 +1479,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "What is generative AI for marketing?&nbsp;&nbsp;Runway",
+      "summary_cn": "What is generative AI for marketing? Runway",
       "fallback": true
     },
     {
@@ -1495,7 +1495,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "算力供应链",
-      "summary_cn": "Semiconductor manufacturing test bed flies alongside Starlink satellites on Falcon 9 launch&nbsp;&nbsp;Spaceflight Now",
+      "summary_cn": "Semiconductor manufacturing test bed flies alongside Starlink satellites on Falcon 9 launch Spaceflight Now",
       "fallback": true
     },
     {
@@ -1511,7 +1511,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "模型发布",
-      "summary_cn": "SPCX Stock Drops 7% After SpaceX Seeks Approval For 100k Gen3 Starlink Satellites — Eyes New AI Model Launch With Cursor&nbsp;&nbsp;Yahoo Finance",
+      "summary_cn": "SPCX Stock Drops 7% After SpaceX Seeks Approval For 100k Gen3 Starlink Satellites — Eyes New AI Model Launch With Cursor Yahoo Finance",
       "fallback": true
     },
     {
@@ -1527,7 +1527,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "Elon Musk Is Charging Starlink Customers Gigantic Bogus Fees Because Its Network Is Being Crushed by \"High Demand\"&nbsp;&nbsp;Futurism",
+      "summary_cn": "Elon Musk Is Charging Starlink Customers Gigantic Bogus Fees Because Its Network Is Being Crushed by \"High Demand\" Futurism",
       "fallback": true
     },
     {
@@ -1543,7 +1543,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "Tesla FSD Processes 1 Million Pixels Per Millisecond: How?&nbsp;&nbsp;BASENOR",
+      "summary_cn": "Tesla FSD Processes 1 Million Pixels Per Millisecond: How? BASENOR",
       "fallback": true
     },
     {
@@ -1559,7 +1559,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "Does FSD Supervised Save Energy? Tesla's Data Answers&nbsp;&nbsp;BASENOR",
+      "summary_cn": "Does FSD Supervised Save Energy? Tesla's Data Answers BASENOR",
       "fallback": true
     },
     {
@@ -1575,7 +1575,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "Why Tesla FSD Updates Take Time: The Safety Testing Reality&nbsp;&nbsp;BASENOR",
+      "summary_cn": "Why Tesla FSD Updates Take Time: The Safety Testing Reality BASENOR",
       "fallback": true
     },
     {
@@ -1591,7 +1591,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "站在万亿市值关口，中际旭创不做光的“组装厂”&nbsp;&nbsp;21财经",
+      "summary_cn": "站在万亿市值关口，中际旭创不做光的“组装厂” 21财经",
       "fallback": true
     },
     {
@@ -1607,7 +1607,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "算力供应链",
-      "summary_cn": "市场传言纷纷，万亿市值龙头遭质疑！中际旭创发声：光模块绝非简单组装&nbsp;&nbsp;同花顺财经",
+      "summary_cn": "市场传言纷纷，万亿市值龙头遭质疑！中际旭创发声：光模块绝非简单组装 同花顺财经",
       "fallback": true
     },
     {
@@ -1623,7 +1623,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "算力供应链",
-      "summary_cn": "1.24万亿市值光模块龙头中际旭创 为何紧急澄清2大市场传言？&nbsp;&nbsp;东方财富",
+      "summary_cn": "1.24万亿市值光模块龙头中际旭创 为何紧急澄清2大市场传言？ 东方财富",
       "fallback": true
     },
     {
@@ -1639,7 +1639,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "商汤科技完成从烧钱研发到体系化造血的蜕变？&nbsp;&nbsp;新浪财经",
+      "summary_cn": "商汤科技完成从烧钱研发到体系化造血的蜕变？ 新浪财经",
       "fallback": true
     },
     {
@@ -1655,7 +1655,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "AI怎么“看”世界杯？这款上海AI成功预测佛得角出线，还猜冠军是阿根廷！&nbsp;&nbsp;shobserver.com",
+      "summary_cn": "AI怎么“看”世界杯？这款上海AI成功预测佛得角出线，还猜冠军是阿根廷！ shobserver.com",
       "fallback": true
     },
     {
@@ -1671,7 +1671,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "研究技术",
-      "summary_cn": "寒武纪，万亿市值一日游&nbsp;&nbsp;thepaper.cn",
+      "summary_cn": "寒武纪，万亿市值一日游 thepaper.cn",
       "fallback": true
     },
     {
@@ -1687,7 +1687,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "寒武纪破万亿，是最朴素的现实主义&nbsp;&nbsp;富途牛牛",
+      "summary_cn": "寒武纪破万亿，是最朴素的现实主义 富途牛牛",
       "fallback": true
     },
     {
@@ -1703,7 +1703,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "科创板首只万亿股诞生：寒武纪市值破万后深夜提示风险&nbsp;&nbsp;国际电子商情",
+      "summary_cn": "科创板首只万亿股诞生：寒武纪市值破万后深夜提示风险 国际电子商情",
       "fallback": true
     },
     {
@@ -1719,7 +1719,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "社区信号",
-      "summary_cn": "开源 AI 编程工具第一来啦：智谱 GLM-5.2 上线模力工场，还有专属折扣！&nbsp;&nbsp;Infoq.cn",
+      "summary_cn": "开源 AI 编程工具第一来啦：智谱 GLM-5.2 上线模力工场，还有专属折扣！ Infoq.cn",
       "fallback": true
     },
     {
@@ -1735,7 +1735,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "Kimi出现服务故障 大量用户反映无法正常使用&nbsp;&nbsp;观点网",
+      "summary_cn": "Kimi出现服务故障 大量用户反映无法正常使用 观点网",
       "fallback": true
     },
     {
@@ -1751,7 +1751,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "模型发布",
-      "summary_cn": "阿里巴巴人工智能模型备受欢迎，但难以变现&nbsp;&nbsp;纽约时报中文网",
+      "summary_cn": "阿里巴巴人工智能模型备受欢迎，但难以变现 纽约时报中文网",
       "fallback": true
     },
     {
@@ -1767,7 +1767,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "阿里通义实验室的新突破：让AI\"看图点击\"更准更快，省了一半功夫&nbsp;&nbsp;新浪财经",
+      "summary_cn": "阿里通义实验室的新突破：让AI\"看图点击\"更准更快，省了一半功夫 新浪财经",
       "fallback": true
     },
     {
