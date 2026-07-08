@@ -8,4 +8,4 @@ lxml              # bs4/feedparser 的底层解析引擎（更快）
 python-dateutil   # 时间解析/格式化
 tenacity          # 失败自动重试（指数退避）
 python-dotenv     # 读 .env 里的密钥/代理配置
-anthropic         # Claude API（pull_score.py 打分+摘要）
+anthropic         # 备用 SDK；当前 pull_score.py 实际走本机 claude -p CLI

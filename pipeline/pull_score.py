@@ -63,6 +63,18 @@ ARCHIVE_MAX_ITEMS  = 400  # 条目上限
 SOURCE_CAP       = 3     # 每个信源最多进 digest 3 条（按评分取最高的）
 DIGEST_MIN_SCORE = 0.45  # 低于此分值只进 archive，不进主面板
 
+FALLBACK_SOURCE_BOOST = {
+    "Techmeme": 0.08,
+    "量子位": 0.08,
+    "VentureBeat": 0.06,
+    "The Verge": 0.05,
+    "SemiAnalysis": 0.08,
+    "Latent Space": 0.06,
+    "Interconnects": 0.06,
+    "McKinsey": 0.05,
+    "腾讯研究院": 0.05,
+}
+
 # ── AI 关键词预筛（送 Claude 之前过滤明显无关内容）─────────────────────────
 # 这些信源本身就是 AI 专属，所有条目直接通过，无需关键词检查
 _AI_DEDICATED = {
@@ -274,10 +286,7 @@ def update_archive(enriched: list[dict]) -> None:
     )
     arch_items = arch_items[:ARCHIVE_MAX_ITEMS]
 
-    archive_path.write_text(
-        json.dumps({"updated": now.isoformat(), "items": arch_items}, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
+    write_json("archive.json", {"updated": now.isoformat(), "items": arch_items})
     update_index("archive", "archive.json", len(arch_items))
     log.info("archive.json: 共 %d 条（本次新增 %d 条）", len(arch_items), added)
 
@@ -321,10 +330,8 @@ def update_pinned(enriched: list[dict]) -> None:
             added += 1
 
     pin_items.sort(key=lambda x: x.get("relevance_score", 0), reverse=True)
-    pinned_path.write_text(
-        json.dumps({"updated": now.isoformat(), "items": pin_items}, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
+    write_json("pinned.json", {"updated": now.isoformat(), "items": pin_items})
+    update_index("pinned", "pinned.json", len(pin_items))
     log.info("pinned.json: 共 %d 条（本次新增 %d 条）", len(pin_items), added)
 
 
@@ -394,41 +401,121 @@ def apply_boost(groups: list[dict]) -> list[dict]:
     return groups
 
 
+def fallback_category(title: str, summary: str) -> str:
+    text = f"{title} {summary}".lower()
+    if any(k in text for k in ("funding", "raises", "ipo", "acquisition", "merger", "融资", "并购", "上市")):
+        return "融资并购"
+    if any(k in text for k in ("gpu", "chip", "semiconductor", "datacenter", "nvidia", "amd", "算力", "芯片", "光模块")):
+        return "算力供应链"
+    if any(k in text for k in ("paper", "research", "benchmark", "arxiv", "论文", "研究", "基准")):
+        return "研究技术"
+    if any(k in text for k in ("model", "llm", "gpt", "claude", "gemini", "llama", "deepseek", "qwen", "大模型", "模型")):
+        return "模型发布"
+    if any(k in text for k in ("agent", "workflow", "mcp", "智能体", "工作流")):
+        return "AI Agent"
+    if any(k in text for k in ("product", "app", "launch", "feature", "copilot", "产品", "发布", "功能")):
+        return "产品动态"
+    if any(k in text for k in ("hn", "reddit", "github", "社区", "开源")):
+        return "社区信号"
+    return "行业动态"
+
+
+def fallback_score(item: dict) -> float:
+    title = item.get("title", "")
+    summary = item.get("summary", "")
+    text = f" {title} {summary} ".lower()
+    score = 0.25
+    if _is_ai_related(item.get("_source", ""), title, summary):
+        score = 0.55
+    strong_terms = {
+        "openai", "anthropic", "claude", "gemini", "deepseek", "llama", "qwen",
+        "agent", "gpu", "nvidia", "funding", "ipo", "benchmark", "reasoning",
+        "大模型", "智能体", "算力", "芯片", "融资", "推理", "多模态",
+    }
+    score += min(0.24, 0.04 * sum(1 for k in strong_terms if k in text))
+    score += FALLBACK_SOURCE_BOOST.get(item.get("_source", ""), 0)
+    return round(min(0.92, score), 2)
+
+
+def fallback_summary_cn(item: dict) -> str:
+    summary = (item.get("summary") or "").strip()
+    title = (item.get("title") or "").strip()
+    text = summary or title
+    if not text:
+        return "本条来自备用本地打分路径，原始信源未提供摘要。"
+    return text[:180]
+
+
+def fallback_enrich(items: list[dict]) -> list[dict]:
+    """Local deterministic scorer used when claude -p is unavailable."""
+    enriched = []
+    seen_urls = set()
+    for item in items:
+        url = item.get("url", "")
+        if url and url in seen_urls:
+            continue
+        if url:
+            seen_urls.add(url)
+        score = fallback_score(item)
+        enriched.append({
+            "_id": item.get("_id", ""),
+            "_source": item.get("_source", ""),
+            "title": item.get("title", ""),
+            "url": url,
+            "time": item.get("time", ""),
+            "published_at": item.get("published_at", ""),
+            "sources": [item.get("_source", "")] if item.get("_source") else [],
+            "source_count": 1,
+            "relevance_score": score,
+            "category": fallback_category(item.get("title", ""), item.get("summary", "")),
+            "summary_cn": fallback_summary_cn(item),
+            "fallback": True,
+        })
+    enriched.sort(key=lambda x: x["relevance_score"], reverse=True)
+    return enriched
+
+
 def main() -> None:
     items     = load_news_items()
     id_map    = {item["_id"]: item for item in items}
     log.info("加载 %d 条（共 %d 个信源）", len(items), len({x['_source'] for x in items}))
 
-    prompt = build_prompt(items)
-    log.info("调用 claude -p 归组 + 打分...")
-    raw = call_claude(prompt)
-    log.info("收到响应 %d chars", len(raw))
+    used_fallback = False
+    try:
+        prompt = build_prompt(items)
+        log.info("调用 claude -p 归组 + 打分...")
+        raw = call_claude(prompt)
+        log.info("收到响应 %d chars", len(raw))
 
-    groups = parse_groups(raw)
-    log.info("归组后 %d 个独立事件（原 %d 条）", len(groups), len(items))
+        groups = parse_groups(raw)
+        log.info("归组后 %d 个独立事件（原 %d 条）", len(groups), len(items))
 
-    groups = apply_boost(groups)
+        groups = apply_boost(groups)
 
-    # 补全原始字段（title / url / time 等）从 id_map 取
-    enriched = []
-    for g in groups:
-        base = id_map.get(g["id"], {})
-        enriched.append({
-            # 原始字段
-            "_id":          g["id"],
-            "_source":      base.get("_source", ""),
-            "title":        base.get("title", ""),
-            "url":          base.get("url", ""),
-            "time":         base.get("time", ""),
-            "published_at": base.get("published_at", ""),
-            # 归组字段
-            "sources":      g.get("sources", [base.get("_source", "")]),
-            "source_count": g.get("source_count", 1),
-            # 打分字段
-            "relevance_score": g["relevance_score"],
-            "category":        g.get("category", "行业动态"),
-            "summary_cn":      g.get("summary_cn", base.get("summary", "")),
-        })
+        # 补全原始字段（title / url / time 等）从 id_map 取
+        enriched = []
+        for g in groups:
+            base = id_map.get(g["id"], {})
+            enriched.append({
+                # 原始字段
+                "_id":          g["id"],
+                "_source":      base.get("_source", ""),
+                "title":        base.get("title", ""),
+                "url":          base.get("url", ""),
+                "time":         base.get("time", ""),
+                "published_at": base.get("published_at", ""),
+                # 归组字段
+                "sources":      g.get("sources", [base.get("_source", "")]),
+                "source_count": g.get("source_count", 1),
+                # 打分字段
+                "relevance_score": g["relevance_score"],
+                "category":        g.get("category", "行业动态"),
+                "summary_cn":      g.get("summary_cn", base.get("summary", "")),
+            })
+    except Exception as e:
+        used_fallback = True
+        log.warning("claude -p 不可用，启用本地 fallback 打分: %s", e)
+        enriched = fallback_enrich(items)
 
     enriched.sort(key=lambda x: x["relevance_score"], reverse=True)
 
@@ -446,7 +533,7 @@ def main() -> None:
     # digest（主面板三个 Tab）：分数门槛 → 信源限流 → 质量审核
     candidates   = [x for x in enriched if x["relevance_score"] >= DIGEST_MIN_SCORE]
     capped       = apply_source_cap(candidates)
-    digest_items = review_candidates(capped)   # 第二轮 Claude 质量把关
+    digest_items = capped if used_fallback else review_candidates(capped)   # 第二轮 Claude 质量把关
     digest_items.sort(key=lambda x: x["relevance_score"], reverse=True)
 
     high      = sum(1 for x in digest_items if x["relevance_score"] >= 0.8)
@@ -463,6 +550,7 @@ def main() -> None:
             "mid_relevance":  mid,
             "low_relevance":  low,
             "multi_source":   multi_src,
+            "fallback":       used_fallback,
         },
         "items": digest_items,
     }

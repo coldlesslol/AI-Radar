@@ -1217,6 +1217,19 @@ const API = 'http://localhost:8766';
 let cfg = { stocks: [], sources: [] };
 let apiOk = false;
 
+function escapeHtml(s) {
+  return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  }[c]));
+}
+
+function configHeaders() {
+  const headers = { 'Content-Type': 'application/json' };
+  const token = localStorage.getItem('techradarConfigToken');
+  if (token) headers['X-TechRadar-Token'] = token;
+  return headers;
+}
+
 async function initConfig() {
   try {
     const r = await fetch(API + '/api/config', { signal: AbortSignal.timeout(2000) });
@@ -1235,13 +1248,34 @@ async function initConfig() {
 
 async function saveConfig() {
   if (!apiOk) { alert('API 未运行，无法保存'); return false; }
-  await fetch(API + '/api/config', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(cfg, null, 2),
-    signal: AbortSignal.timeout(3000),
-  });
-  return true;
+  try {
+    let r = await fetch(API + '/api/config', {
+      method: 'POST',
+      headers: configHeaders(),
+      body: JSON.stringify(cfg, null, 2),
+      signal: AbortSignal.timeout(3000),
+    });
+    if (r.status === 401) {
+      const token = prompt('请输入本机配置 API token');
+      if (token) {
+        localStorage.setItem('techradarConfigToken', token);
+        r = await fetch(API + '/api/config', {
+          method: 'POST',
+          headers: configHeaders(),
+          body: JSON.stringify(cfg, null, 2),
+          signal: AbortSignal.timeout(3000),
+        });
+      }
+    }
+    if (!r.ok) {
+      const body = await r.json().catch(() => ({}));
+      throw new Error(body.error || `HTTP ${r.status}`);
+    }
+    return true;
+  } catch (e) {
+    alert('保存失败：' + (e.message || e));
+    return false;
+  }
 }
 
 function renderTables() {
@@ -1249,11 +1283,11 @@ function renderTables() {
   const st = document.getElementById('stocksTable');
   const sRows = cfg.stocks.map((s, i) => `
     <tr>
-      <td><code style="font-size:11.5px">${s.ticker}</code></td>
-      <td>${s.name}</td>
-      <td>${s.region}</td>
-      <td>${s.currency}</td>
-      <td style="color:var(--text-muted);font-size:11.5px">${s.cik || '—'}</td>
+      <td><code style="font-size:11.5px">${escapeHtml(s.ticker)}</code></td>
+      <td>${escapeHtml(s.name)}</td>
+      <td>${escapeHtml(s.region)}</td>
+      <td>${escapeHtml(s.currency)}</td>
+      <td style="color:var(--text-muted);font-size:11.5px">${escapeHtml(s.cik || '—')}</td>
       <td><button class="btn-del" onclick="removeStock(${i})">删除</button></td>
     </tr>`).join('');
   st.innerHTML = `<tr><th>Ticker</th><th>显示名</th><th>市场</th><th>币种</th><th>SEC CIK</th><th></th></tr>${sRows || '<tr><td colspan="6" style="color:var(--text-muted);font-size:12px;text-align:center;padding:16px">暂无自定义股票</td></tr>'}`;
@@ -1263,10 +1297,10 @@ function renderTables() {
   const catClass = { research: 'analysis', company: 'company', newsletter: 'letter', news: 'scan' };
   const srcRows = cfg.sources.map((s, i) => `
     <tr>
-      <td><strong>${s.name}</strong></td>
-      <td><span class="layer layer-${catClass[s.category] || 'scan'}">${s.category}</span></td>
-      <td style="font-size:11.5px;color:var(--text-muted);word-break:break-all;max-width:320px">${s.url}</td>
-      <td>${s.cap || 10}</td>
+      <td><strong>${escapeHtml(s.name)}</strong></td>
+      <td><span class="layer layer-${catClass[s.category] || 'scan'}">${escapeHtml(s.category)}</span></td>
+      <td style="font-size:11.5px;color:var(--text-muted);word-break:break-all;max-width:320px">${escapeHtml(s.url)}</td>
+      <td>${escapeHtml(s.cap || 10)}</td>
       <td><button class="btn-del" onclick="removeSource(${i})">删除</button></td>
     </tr>`).join('');
   src.innerHTML = `<tr><th>名称</th><th>类型</th><th>RSS URL</th><th>条数上限</th><th></th></tr>${srcRows || '<tr><td colspan="5" style="color:var(--text-muted);font-size:12px;text-align:center;padding:16px">暂无自定义信源</td></tr>'}`;
@@ -1288,8 +1322,9 @@ async function addStock() {
 
 async function removeStock(i) {
   if (!confirm(`删除 ${cfg.stocks[i].name}？`)) return;
+  const removed = cfg.stocks[i];
   cfg.stocks.splice(i, 1);
-  if (!await saveConfig()) cfg.stocks.splice(i, 0, cfg.stocks[i]);
+  if (!await saveConfig()) cfg.stocks.splice(i, 0, removed);
   else renderTables();
 }
 
@@ -1313,8 +1348,9 @@ async function addSource() {
 
 async function removeSource(i) {
   if (!confirm(`删除信源 ${cfg.sources[i].name}？`)) return;
+  const removed = cfg.sources[i];
   cfg.sources.splice(i, 1);
-  if (!await saveConfig()) cfg.sources.splice(i, 0, cfg.sources[i]);
+  if (!await saveConfig()) cfg.sources.splice(i, 0, removed);
   else renderTables();
 }
 </script>

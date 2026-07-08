@@ -168,3 +168,25 @@ date: 2026-06-29
   - Google News RSS 给的是不可靠解析的跳转链，域名藏在后面——付费墙判定只能靠标题尾部 "- 来源" 名，不能靠 URL 域名。
   - 中文文件名（company_腾讯.json）只被 Python 管线服务端读，浏览器不直接抓，GitHub Pages 正常——安全。
 - 线上验证 + push + 部署成功（一次过，未抽风）：digest 62 无 caixin / 股价 19+5 无 NaN / 财报 26 含港股财务报表 / DeepSeek feed 200 / devlog 总览。
+
+## 2026-07-08 运行风险审查记录（Codex，只记录未修复）
+- 触发：用户要求通读文件夹内容，说明项目理解，并查验代码是否有不合理处；随后要求记录当前运行风险与改进建议。
+- 完成：新增 `outputs/运行风险与改进建议--RADAR--Note.md`，按 P0/P1/P2 记录运行风险、影响与建议处理顺序。
+- 核心发现：
+  - `_index.json` 只增量追加不清理，当前已与真实 `data/` 文件不一致；实测存在 9 个索引文件缺失，`filings.json` / `pinned.json` 存在但未索引。
+  - `api_server.py` 本地配置 API 允许任意 Origin 且无 token/schema 校验，若常驻存在本机配置被跨站写入风险。
+  - `web/devlog.html` 操作台删除失败回滚逻辑会丢原对象；`saveConfig()` 未检查 HTTP 状态。
+  - `run_daily.sh` 对所有步骤统一容错并最终 push，`pull_score.py` 失败时可能推送“原始数据新、digest 旧”的混合状态。
+  - `pull_score.py` 写 `archive.json` / `pinned.json` 未走统一 `write_json()`，绕过原子写和 `allow_nan=False`。
+- 验证：项目内 Python 脚本 `py_compile` 通过；关键 JSON 可解析；当前 `stocks.json` / `digest.json` / `archive.json` / `pinned.json` / `filings.json` / `_index.json` 未见 `NaN/Infinity` 字面量。
+
+## 2026-07-08 运行风险修订（Codex）
+- 执行：按 `outputs/运行风险与改进建议--RADAR--Note.md` 的 P0/P1/P2 顺序修订关键运行风险。
+- 完成：
+  - `_index.json` 机制：`lib/common.py` 增加 `rebuild_index()` / `payload_item_count()`，`update_index()` 自动清理缺失文件；新增 `pipeline/rebuild_index.py`。
+  - 数据登记：`pull_filings.py` 写完 `filings.json` 后更新索引；`pull_score.py` 的 `archive.json` / `pinned.json` 改走统一 `write_json()`，并把 pinned 纳入索引。
+  - 配置 API：`api_server.py` 增加 CORS allowlist、可选 `TECHRADAR_CONFIG_TOKEN`、字段 schema 校验、HTTP URL 校验和错误 JSON。
+  - 操作台：`web/devlog.html` 保存时检查 HTTP 状态；删除失败保留原对象回滚；表格渲染增加 HTML escape。
+  - daily：`run_daily.sh` 增加 `run_status.json` 写入；`pull_score.py` 标为 critical，失败时跳过自动 push；每日末尾重建 `_index.json`。
+  - 文档：新增 `pipeline/README.md`，明确实际运行依赖 Claude CLI；修正 `requirements.txt` 中 `anthropic` 的角色说明。
+- 测试：新增 `pipeline/tests/test_pipeline_safety.py`，覆盖索引清理、配置校验、devlog 防御式保存/回滚、daily 关键失败阻断。

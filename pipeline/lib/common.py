@@ -104,6 +104,70 @@ def write_json(filename: str, payload: dict[str, Any]) -> Path:
     return path
 
 
+def payload_item_count(payload: dict[str, Any]) -> int:
+    """Estimate displayable item count for a data payload."""
+    total = 0
+    for key in ("items", "stocks", "indices", "private"):
+        value = payload.get(key)
+        if isinstance(value, list):
+            total += len(value)
+    return total
+
+
+def _prune_missing_index_entries(idx: dict[str, Any]) -> None:
+    """Remove index entries whose data files no longer exist."""
+    files = idx.setdefault("files", {})
+    per_file = idx.setdefault("stats", {}).setdefault("per_file", {})
+    stale_keys = [
+        key for key, filename in files.items()
+        if not (DATA_DIR / filename).exists()
+    ]
+    for key in stale_keys:
+        files.pop(key, None)
+        per_file.pop(key, None)
+
+
+def rebuild_index(status: str = "ok", error: str | None = None) -> Path:
+    """Rebuild data/_index.json from actual JSON files on disk."""
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    index_path = DATA_DIR / "_index.json"
+    old_errors = []
+    if index_path.exists():
+        try:
+            old_errors = json.loads(index_path.read_text(encoding="utf-8")).get("stats", {}).get("errors", [])
+        except Exception:
+            old_errors = []
+
+    files: dict[str, str] = {}
+    per_file: dict[str, int] = {}
+    for path in sorted(DATA_DIR.glob("*.json")):
+        if path.name == "_index.json":
+            continue
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        key = path.stem
+        files[key] = path.name
+        per_file[key] = payload_item_count(payload)
+
+    errors = list(old_errors)
+    if error:
+        errors.append({"file": "_index", "error": error, "at": now_iso()})
+
+    idx = {
+        "updated": now_iso(),
+        "files": files,
+        "stats": {
+            "total_items": sum(per_file.values()),
+            "last_run_status": status,
+            "errors": errors,
+            "per_file": per_file,
+        },
+    }
+    return write_json("_index.json", idx)
+
+
 def update_index(file_key: str, filename: str, item_count: int,
                  status: str = "ok", error: str | None = None) -> None:
     """增量更新 data/_index.json（artifact 的单一总索引）。"""
@@ -117,6 +181,7 @@ def update_index(file_key: str, filename: str, item_count: int,
     idx["files"][file_key] = filename
     idx["updated"] = now_iso()
     idx.setdefault("stats", {}).setdefault("per_file", {})[file_key] = item_count
+    _prune_missing_index_entries(idx)
     idx["stats"]["total_items"] = sum(idx["stats"]["per_file"].values())
     idx["stats"]["last_run_status"] = status
     errors = idx["stats"].setdefault("errors", [])

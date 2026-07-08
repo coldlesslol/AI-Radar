@@ -9,7 +9,7 @@
 from __future__ import annotations
 
 import time
-from lib.common import get_session, retry, write_json, setup_logging, now_iso
+from lib.common import get_session, retry, write_json, update_index, setup_logging, now_iso
 from lib.user_config import load as load_user_config
 from lib.companies import with_cik, tradeable
 
@@ -103,6 +103,7 @@ def main() -> None:
         "items":   sorted(items, key=lambda x: x["date"], reverse=True),
     }
     write_json("filings.json", payload)
+    update_index("filings", "filings.json", len(items))
     log.info("filings.json 写出 %d 条", len(items))
 
 
