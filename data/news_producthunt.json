@@ -1,142 +1,142 @@
 {
   "source": "Product Hunt",
   "layer": "news",
-  "updated": "2026-07-07T10:00:46+08:00",
+  "updated": "2026-07-08T10:01:09+08:00",
   "items": [
     {
-      "title": "Typeahead 2.0",
-      "url": "https://www.producthunt.com/products/typeahead",
-      "summary": "Private AI autocomplete for every app on your Mac Discussion | Link",
+      "title": "LongCat-2.0",
+      "url": "https://www.producthunt.com/products/longcat",
+      "summary": "1.6T MoE trained entirely on AI ASICs Discussion | Link",
       "source": "Product Hunt",
-      "time": "4d",
+      "time": "19h",
       "tags": [],
-      "published_at": "2026-07-02T21:39:18+00:00"
+      "published_at": "2026-07-07T06:27:32+00:00"
     },
     {
-      "title": "Edgee Claude Code Compressor V2",
-      "url": "https://www.producthunt.com/products/edgee",
-      "summary": "Fewer tokens, same context, 50% cost reduction Discussion | Link",
-      "source": "Product Hunt",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-03T04:38:17+00:00"
-    },
-    {
-      "title": "AnySearch",
-      "url": "https://www.producthunt.com/products/anysearch",
-      "summary": "Real-time structured search trusted by agents and developers Discussion | Link",
-      "source": "Product Hunt",
-      "time": "5d",
-      "tags": [],
-      "published_at": "2026-07-01T08:58:38+00:00"
-    },
-    {
-      "title": "CodeMote",
-      "url": "https://www.producthunt.com/products/codemote-remote-control-for-any-ai",
-      "summary": "Claude Code, Codex, any CLI agent. Driven from your iPhone Discussion | Link",
+      "title": "Zoho Tables",
+      "url": "https://www.producthunt.com/products/zoho-tables",
+      "summary": "Smarter way to manage work and data. Discussion | Link",
       "source": "Product Hunt",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-05T13:39:06+00:00"
+      "published_at": "2026-07-06T06:04:23+00:00"
     },
     {
       "title": "Mozaik",
       "url": "https://www.producthunt.com/products/mozaik-4",
       "summary": "TypeScript runtime for self-organizing AI agents Discussion | Link",
       "source": "Product Hunt",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-05T12:31:38+00:00"
     },
     {
-      "title": "Nixmac",
-      "url": "https://www.producthunt.com/products/nixmac",
-      "summary": "Nix-darwin that speaks plain English Discussion | Link",
+      "title": "AnySearch",
+      "url": "https://www.producthunt.com/products/anysearch",
+      "summary": "Real-time structured search trusted by agents and developers Discussion | Link",
       "source": "Product Hunt",
-      "time": "1d",
+      "time": "6d",
       "tags": [],
-      "published_at": "2026-07-05T13:33:34+00:00"
+      "published_at": "2026-07-01T08:58:38+00:00"
+    },
+    {
+      "title": "Typeahead 2.0",
+      "url": "https://www.producthunt.com/products/typeahead",
+      "summary": "Private AI autocomplete for every app on your Mac Discussion | Link",
+      "source": "Product Hunt",
+      "time": "5d",
+      "tags": [],
+      "published_at": "2026-07-02T21:39:18+00:00"
     },
     {
       "title": "AirKaren",
       "url": "https://www.producthunt.com/products/airkaren",
       "summary": "AI that fights customer service for you Discussion | Link",
       "source": "Product Hunt",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-03T17:56:07+00:00"
     },
     {
-      "title": "WorkBuddy",
-      "url": "https://www.producthunt.com/products/workbuddy-2",
-      "summary": "Produce sharpened results faster with a team of AI experts Discussion | Link",
+      "title": "Nixmac",
+      "url": "https://www.producthunt.com/products/nixmac",
+      "summary": "Nix-darwin that speaks plain English Discussion | Link",
       "source": "Product Hunt",
-      "time": "6d",
+      "time": "2d",
       "tags": [],
-      "published_at": "2026-06-30T02:39:48+00:00"
+      "published_at": "2026-07-05T13:33:34+00:00"
     },
     {
-      "title": "ChecklistFox",
-      "url": "https://www.producthunt.com/products/checklistfox",
-      "summary": "AI checklist maker for beautiful pdfs, free & instant Discussion | Link",
+      "title": "Edgee Claude Code Compressor V2",
+      "url": "https://www.producthunt.com/products/edgee",
+      "summary": "Fewer tokens, same context, 50% cost reduction Discussion | Link",
       "source": "Product Hunt",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
-      "published_at": "2026-07-03T20:40:09+00:00"
+      "published_at": "2026-07-03T04:38:17+00:00"
+    },
+    {
+      "title": "CodeMote",
+      "url": "https://www.producthunt.com/products/codemote-remote-control-for-any-ai",
+      "summary": "Claude Code, Codex, any CLI agent. Driven from your iPhone Discussion | Link",
+      "source": "Product Hunt",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-05T13:39:06+00:00"
     },
     {
       "title": "Termi Protocol",
       "url": "https://www.producthunt.com/products/termi-protocol",
       "summary": "Watch your AI coding agents build, live in 3D Discussion | Link",
       "source": "Product Hunt",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-03T21:14:15+00:00"
+    },
+    {
+      "title": "ChecklistFox",
+      "url": "https://www.producthunt.com/products/checklistfox",
+      "summary": "AI checklist maker for beautiful pdfs, free & instant Discussion | Link",
+      "source": "Product Hunt",
+      "time": "4d",
+      "tags": [],
+      "published_at": "2026-07-03T20:40:09+00:00"
     },
     {
       "title": "Vox",
       "url": "https://www.producthunt.com/products/vox-5",
       "summary": "Voice in, voice out — with GitHub Copilot Discussion | Link",
       "source": "Product Hunt",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-03T00:08:51+00:00"
-    },
-    {
-      "title": "Glaze by Raycast",
-      "url": "https://www.producthunt.com/products/glaze-4",
-      "summary": "Create your own Mac apps by chatting with AI Discussion | Link",
-      "source": "Product Hunt",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-07-02T15:57:02+00:00"
     },
     {
       "title": "nxt",
       "url": "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list",
       "summary": "Talk to your to do list and get what's next Discussion | Link",
       "source": "Product Hunt",
-      "time": "5d",
+      "time": "6d",
       "tags": [],
       "published_at": "2026-07-01T10:43:09+00:00"
     },
     {
-      "title": "PieterPost MCP",
-      "url": "https://www.producthunt.com/products/pieter-post",
-      "summary": "Connect your AI agent to postal mail Discussion | Link",
+      "title": "Glaze by Raycast",
+      "url": "https://www.producthunt.com/products/glaze-4",
+      "summary": "Create your own Mac apps by chatting with AI Discussion | Link",
       "source": "Product Hunt",
       "time": "5d",
       "tags": [],
-      "published_at": "2026-07-01T20:19:19+00:00"
+      "published_at": "2026-07-02T15:57:02+00:00"
     },
     {
-      "title": "scritty",
-      "url": "https://www.producthunt.com/products/scritty",
-      "summary": "Shared, searchable memory for every AI coding agent Discussion | Link",
+      "title": "Basedash Actions",
+      "url": "https://www.producthunt.com/products/basedash",
+      "summary": "A BI tool that can take action for you Discussion | Link",
       "source": "Product Hunt",
       "time": "5d",
       "tags": [],
-      "published_at": "2026-07-02T00:21:44+00:00"
+      "published_at": "2026-07-02T04:14:53+00:00"
     }
   ]
 }

@@ -1,52 +1,43 @@
 {
   "source": "Amazon",
   "layer": "company",
-  "updated": "2026-07-07T10:00:59+08:00",
+  "updated": "2026-07-08T10:01:27+08:00",
   "items": [
     {
-      "title": "Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol | Artificial Intelligence - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeldlSjhNSmVsVk1rLUZoS21panB3NzVsa1d0aVl0SGVTSmwwX21wWHJ5Ukk5bHdkcExVT1cxNVdMdUJyMnhYSC0xOUtpUjEwSXlWM21JdUN1YS1Hc05ENkhGTFFMLTJZT244Z1ExQXZDcWRrNjZkaloxS3oyN0FaUzlQbk9zOUNmaWJsbGhnRHluaHRoNXN5RWJ4a1VEWHhWaV9meFZzTlhIcmFFRkNsV0tNbnpnQ0pTOWhHcWZmcVZBSXFwNW9lWnRkd28?oc=5",
-      "summary": "Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol | Artificial Intelligence&nbsp;&nbsp;Amazon Web Services (AWS)",
-      "source": "Amazon",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-06-30T16:46:17+00:00"
-    },
-    {
-      "title": "Run MiniMax models on Amazon Bedrock - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGZsT1JnUFFmckhKckI4dXNQVE8ydnlsMG9MV2dvcU5sTzBuR0ljS244dThESERkRF9OWGgwa0JYTmJNaWZoY2ZHdTd0c09yUUc0VThVOWtNNExPdjR5X2RTaWIwMmhSRmNMV3ZxR001bFhBM0N1dkd4TS1nOEZldU1wM1FDc09MeE00?oc=5",
-      "summary": "Run MiniMax models on Amazon Bedrock&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "title": "Build an AI-powered AWS support companion with Amazon Bedrock AgentCore - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ3dYTUhtZ0luUi14ZldPMTFidGFTd3pZdWxaOWExTHRXUThEWGl3ZWZYYWJKWE93UVBieVRicE96X2lKSlRpaFJqMkVwV2hoSzRFdHBQQ2h1SlViYnEzYWF0NXNCMVpuZUpoQVFMY1lsWGlEOEJIdDNLOGdGUk45a3NaMmloa0h1ZThCV2tPSUdsM0FScjZBdDBCa0hOZWFTTnU5MER5QXBMeEpPV1FkSk16UlFQQ09NZmc?oc=5",
+      "summary": "Build an AI-powered AWS support companion with Amazon Bedrock AgentCore&nbsp;&nbsp;Amazon Web Services (AWS)",
       "source": "Amazon",
       "time": "9h",
       "tags": [],
-      "published_at": "2026-07-06T17:00:44+00:00"
+      "published_at": "2026-07-07T16:46:43+00:00"
     },
     {
-      "title": "How Amazon Bedrock catches AI-generated phishing | Artificial Intelligence - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQczNtVFFhSzZpUmZueHU3YnhodjJaZ2FBX1lMeEdVVGw0OHZhcGZ4Zi1idGhnZ3gxazByNmNaa2tHR0prQlBpSEYwVkxSVGM0QU84eG91OWRuNk9zSWVYSWgydFU1aE05a0Mzc3NGN0tFZlNERjVxNzVCczJNQkpHeEtvajR5cnM0M0tDYl9PNnRBeVo2NngtdFhsZw?oc=5",
-      "summary": "How Amazon Bedrock catches AI-generated phishing | Artificial Intelligence&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "title": "Build a serverless image editing agent with Amazon Bedrock AgentCore harness - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWMyc0luS1A5ME4xWVFiUDN6VUpqQVRCUGE2NE41R1BFb2x6ZGNrUmh0ZXVQVWRuVWNzQzdsWVN4ZFd4UF9IMXY2d2huejJFZ3BKMEZHbk9Vc1VWS2I0a3VOcVFjY1pKYS1XNENjbXJQM0YtVVEzSnFhZ1o4c0p5ZGZzX0VfZ0l3ZkJiajMzR1RYcGZ3QlA5dG5JbEpoZUtrVzhXb2hCd3oxeUltQU1PSlhQOXN6MWVJZXVhaHU5RWo?oc=5",
+      "summary": "Build a serverless image editing agent with Amazon Bedrock AgentCore harness&nbsp;&nbsp;Amazon Web Services (AWS)",
       "source": "Amazon",
-      "time": "4d",
+      "time": "9h",
       "tags": [],
-      "published_at": "2026-07-02T17:55:41+00:00"
+      "published_at": "2026-07-07T16:51:29+00:00"
+    },
+    {
+      "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026) - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWJFeDNKNVA3aWVraUVlRVNlUGJ3dkdEYThUbXRIdnFsOFEwZ0hkdUxQaE1aR0MtX25kdjFkQVlUZ0JGSlRlZ1Zjek93cmFtd3VmSWM2djNuWDFWVlZaczhXOGk2dnNxTkkybGJPbEswMF9vTWZ3RzhpV2pJM1E2SWJabGNKb1N3TjNtY09nNDJvY0V0RHhBZy1YUEo5VHhOVGJzalpmN2ZCNGVrWDlGWWk4Q0ItNG42T0EyVGpHWk9GNmp6LVFBS0xZV2wzQnh0eDg1WU85SUs1ZWgwd0E1MTE0TGhUS1FIQ2NuMnNGcDZ4OVU?oc=5",
+      "summary": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "source": "Amazon",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-06T15:46:43+00:00"
     },
     {
       "title": "Safely Releasing Frontier Models to Customers | Artificial Intelligence - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR2plb1AxeHItUDMwWkZvRUg0R0hzRjZfcDd3MncxY1ktR1VNWlBVWDc5c3AxWVB4UkNqSjdualNYZzkzaklnX1RYQUlzeXgyREVMUk1ydFhaZWV1OV9kTHk3NlBtLTF6QU8zakI1UUZWYXVSNG9zd0gtMnZqbDlSRXF4MnBiWFlrTmlZVndVc3lVelNOQ05r?oc=5",
       "summary": "Safely Releasing Frontier Models to Customers | Artificial Intelligence&nbsp;&nbsp;Amazon Web Services (AWS)",
       "source": "Amazon",
-      "time": "5d",
-      "tags": [],
-      "published_at": "2026-07-01T03:13:19+00:00"
-    },
-    {
-      "title": "Implementing resilience patterns with Amazon Bedrock and LLM gateway | Artificial Intelligence - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSV9fb1N6S3pmalp5dU1qUnp3QnZhQVdDdFRHMmxrU2pFSjFXaVJRSFNwb3ZXNTUyWWE0TlBaaU41S1FPam9YYnJJS2xnbUVxSU05WjdJZ2EzMG4tVS1BYTczbEh5NmFfRXZCZXRCZHhWWE9qLVdhTUJHdzVMR0dodmVWRU1ERUVzS0NaY1FTdkp3dDVMOWdMUnZlUkROdUIwTWxfUC1CZVdwR3RfMDRjMUhIU1pYZw?oc=5",
-      "summary": "Implementing resilience patterns with Amazon Bedrock and LLM gateway | Artificial Intelligence&nbsp;&nbsp;Amazon Web Services (AWS)",
-      "source": "Amazon",
       "time": "6d",
       "tags": [],
-      "published_at": "2026-06-30T16:40:47+00:00"
+      "published_at": "2026-07-01T03:13:19+00:00"
     }
   ]
 }

@@ -2,83 +2,83 @@
   "key": "openrouter",
   "title": "OpenRouter 模型使用榜（按 token 用量）",
   "freq": "daily",
-  "updated": "2026-07-06",
+  "updated": "2026-07-07",
   "url": "https://openrouter.ai/rankings",
   "items": [
     {
       "rank": 1,
       "name": "Deepseek: Deepseek V4 Flash",
-      "value": "5360.3B"
+      "value": "5443.0B"
     },
     {
       "rank": 2,
       "name": "Xiaomi: Mimo V2.5",
-      "value": "4425.7B"
+      "value": "4462.2B"
     },
     {
       "rank": 3,
       "name": "Minimax: Minimax M3",
-      "value": "4173.6B"
+      "value": "4241.5B"
     },
     {
       "rank": 4,
-      "name": "Tencent: Hy3 Preview",
-      "value": "2814.6B"
+      "name": "Z-ai: Glm 5.2",
+      "value": "2903.1B"
     },
     {
       "rank": 5,
-      "name": "Z-ai: Glm 5.2",
-      "value": "2796.7B"
+      "name": "Deepseek: Deepseek V4 Pro",
+      "value": "2710.4B"
     },
     {
       "rank": 6,
-      "name": "Deepseek: Deepseek V4 Pro",
-      "value": "2530.7B"
+      "name": "Anthropic: Claude 4.7 Opus",
+      "value": "2471.7B"
     },
     {
       "rank": 7,
-      "name": "Anthropic: Claude 4.7 Opus",
-      "value": "2324.4B"
+      "name": "Tencent: Hy3 Preview",
+      "value": "2304.6B"
     },
     {
       "rank": 8,
       "name": "Anthropic: Claude 4.8 Opus",
-      "value": "2100.8B"
+      "value": "2061.7B"
     },
     {
       "rank": 9,
       "name": "Stepfun: Step 3.7 Flash",
-      "value": "1560.6B"
+      "value": "1532.3B"
     },
     {
       "rank": 10,
       "name": "Anthropic: Claude 4.6 Sonnet",
-      "value": "1356.9B"
+      "value": "1239.5B"
     },
     {
       "rank": 11,
       "name": "Openai: Gpt 5.5",
-      "value": "1116.5B"
+      "value": "1121.9B"
     },
     {
       "rank": 12,
       "name": "Nvidia: Nemotron 3 Ultra 550b A55b",
-      "value": "1039.5B"
+      "value": "988.3B"
     },
     {
       "rank": 13,
       "name": "Google: Gemini 3 Flash Preview",
-      "value": "936.2B"
+      "value": "945.8B"
     },
     {
       "rank": 14,
-      "name": "Anthropic: Claude Sonnet 5",
-      "value": "672.8B"
+      "name": "Tencent: Hy3",
+      "value": "926.9B"
     },
     {
       "rank": 15,
-      "name": "Poolside: Laguna M.1",
-      "value": "662.6B"
+      "name": "Anthropic: Claude Sonnet 5",
+      "value": "807.3B"
     }
   ]
 }

@@ -1,97 +1,115 @@
 {
   "source": "Techmeme",
   "layer": "news",
-  "updated": "2026-07-07T10:00:06+08:00",
+  "updated": "2026-07-08T10:00:11+08:00",
   "items": [
     {
-      "title": "A profile of Rachel Whetstone, who has led comms for Google, Meta, Uber, Netflix, and now Sierra, as her husband Steve Hilton runs for California governor (Emily Shugerman/The San Francisco ...)",
-      "url": "https://sfstandard.com/2026/07/06/rachel-whetstone-steve-hilton-wife-california-governor/",
-      "summary": "Emily Shugerman / The San Francisco Standard: A profile of Rachel Whetstone, who has led comms for Google, Meta, Uber, Netflix, and now Sierra, as her husband Steve Hilton runs for California governor",
+      "title": "Sleep apnea device maker ResMed agrees to sell its software business MatrixCare to PE firm Frazier for $490M in cash; ResMed bought MatrixCare for $750M in 2018 (Puyaan Singh/Reuters)",
+      "url": "https://www.reuters.com/legal/litigation/resmed-sell-software-business-matrixcare-490-million-2026-07-07/",
+      "summary": "Puyaan Singh / Reuters: Sleep apnea device maker ResMed agrees to sell its software business MatrixCare to PE firm Frazier for $490M in cash; ResMed bought MatrixCare for $750M in 2018&nbsp; &mdash;&n",
       "source": "Techmeme",
-      "time": "10m",
+      "time": "15m",
       "tags": [],
-      "published_at": "2026-07-07T01:50:01+00:00"
+      "published_at": "2026-07-08T01:45:01+00:00"
     },
     {
-      "title": "A profile of Bernadette Meehan, a US diplomat who became Wikimedia Foundation CEO in January, as Wikipedia faces threats from MAGA, AI, and foreign autocrats (Tiffany Hsu/New York Times)",
-      "url": "https://www.nytimes.com/2026/07/05/business/media/wikipedia-ai-elon-musk.html?unlocked_article_code=1.vVA.gZA-.PAbQQ2fojTj8&amp;smid=nytcore-ios-share",
-      "summary": "Tiffany Hsu / New York Times: A profile of Bernadette Meehan, a US diplomat who became Wikimedia Foundation CEO in January, as Wikipedia faces threats from MAGA, AI, and foreign autocrats&nbsp; &mdash",
+      "title": "Meta announces that it will be updating its glasses with a new feature that disables the camera if someone tampers with the glasses' privacy LED light (Victoria Song/The Verge)",
+      "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik40dk1iWjJvWjMiLCJwIjoiL2dhZGdldHMvOTYyNTE0L21ldGEtcHJpdmFjeS1saWdodC10YW1wZXJpbmctc21hcnQtZ2xhc3Nlcy11cGRhdGUiLCJleHAiOjE3ODM5MDE0MjUsImlhdCI6MTc4MzQ2OTQyNX0.GZUi5dGuIr00bBayHW1_oTfEcfxURMnIKLk2tTpC2To&amp;utm_medium=gift-link",
+      "summary": "Victoria Song / The Verge: Meta announces that it will be updating its glasses with a new feature that disables the camera if someone tampers with the glasses' privacy LED light&nbsp; &mdash;&nbsp; Th",
       "source": "Techmeme",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-07T00:40:01+00:00"
+      "published_at": "2026-07-08T00:55:02+00:00"
     },
     {
-      "title": "Syntiant, which develops low-power AI processors, files for a US IPO, reporting a $20.9M net loss on $64.5M in revenue for the three months ended March 31 (Pragyan Kalita/Reuters)",
-      "url": "https://www.techmeme.com/260706/p38#a260706p38",
-      "summary": "Pragyan Kalita / Reuters: Syntiant, which develops low-power AI processors, files for a US IPO, reporting a $20.9M net loss on $64.5M in revenue for the three months ended March 31&nbsp; &mdash;&nbsp;",
+      "title": "Meta says Muse Image includes an invisible watermarking system called Content Seal and previews a web tool to check whether an image was generated with Meta AI (Karissa Bell/Engadget)",
+      "url": "https://www.engadget.com/2210223/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models/",
+      "summary": "Karissa Bell / Engadget: Meta says Muse Image includes an invisible watermarking system called Content Seal and previews a web tool to check whether an image was generated with Meta AI&nbsp; &mdash;&n",
       "source": "Techmeme",
-      "time": "2h",
+      "time": "1h",
       "tags": [],
-      "published_at": "2026-07-06T23:35:00+00:00"
+      "published_at": "2026-07-08T00:10:02+00:00"
     },
     {
-      "title": "Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B (Reuters)",
-      "url": "https://www.reuters.com/world/asia-pacific/samsung-estimates-19-fold-rise-q2-operating-profit-beating-expectations-2026-07-06/",
-      "summary": "Reuters: Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B&nbsp; &mdash;&nbsp; Samsung Electronic",
-      "source": "Techmeme",
-      "time": "2h",
-      "tags": [],
-      "published_at": "2026-07-06T23:00:33+00:00"
-    },
-    {
-      "title": "xAI rebrands to SpaceXAI and debuts a new logo (Kelsey Vlamis/Business Insider)",
-      "url": "https://www.techmeme.com/260706/p36#a260706p36",
-      "summary": "Kelsey Vlamis / Business Insider: xAI rebrands to SpaceXAI and debuts a new logo&nbsp; &mdash;&nbsp; - xAI has officially been rebranded to SpaceXAI.&nbsp; &mdash; The change follows SpaceX's historic",
+      "title": "As part of Meta's Muse Image rollout, Instagram users with public accounts need to opt out to block AI generations of their content by other users (Reece Rogers/Wired)",
+      "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+      "summary": "Reece Rogers / Wired: As part of Meta's Muse Image rollout, Instagram users with public accounts need to opt out to block AI generations of their content by other users&nbsp; &mdash;&nbsp; As part of ",
       "source": "Techmeme",
       "time": "3h",
       "tags": [],
-      "published_at": "2026-07-06T22:20:00+00:00"
+      "published_at": "2026-07-07T22:30:00+00:00"
     },
     {
-      "title": "Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output (Anthropic)",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "summary": "Anthropic: Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output&nbsp; &mdash;&nbsp; As you read this se",
+      "title": "Anthropic plans to lease a 16-story building in Lower Manhattan and double its NYC workforce to 1,000 people this year, as AI companies expand in the city (New York Times)",
+      "url": "https://www.nytimes.com/2026/07/07/nyregion/anthropic-ai-boom-nyc.html",
+      "summary": "New York Times: Anthropic plans to lease a 16-story building in Lower Manhattan and double its NYC workforce to 1,000 people this year, as AI companies expand in the city&nbsp; &mdash;&nbsp; Anthropic",
       "source": "Techmeme",
-      "time": "3h",
+      "time": "4h",
       "tags": [],
-      "published_at": "2026-07-06T22:15:02+00:00"
+      "published_at": "2026-07-07T22:00:01+00:00"
     },
     {
-      "title": "BonkDAO, which oversees the Bonk memecoin, says it was the target of a \"malicious governance proposal\" that resulted in a loss of $20M worth of Bonk tokens (Daniel Kuhn/The Block)",
-      "url": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack",
-      "summary": "Daniel Kuhn / The Block: BonkDAO, which oversees the Bonk memecoin, says it was the target of a &ldquo;malicious governance proposal&rdquo; that resulted in a loss of $20M worth of Bonk tokens&nbsp; &",
+      "title": "OpenAI Chief Futurist Joshua Achiam is leaving the company later this month after nearly nine years (Maxwell Zeff/Wired)",
+      "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+      "summary": "Maxwell Zeff / Wired: OpenAI Chief Futurist Joshua Achiam is leaving the company later this month after nearly nine years&nbsp; &mdash;&nbsp; Joshua Achiam spent nearly nine years at OpenAI researchin",
       "source": "Techmeme",
-      "time": "3h",
+      "time": "4h",
       "tags": [],
-      "published_at": "2026-07-06T22:05:01+00:00"
+      "published_at": "2026-07-07T21:40:00+00:00"
     },
     {
-      "title": "Sources: CISA's Attack Surface Evaluation team is using Mythos to audit government code repositories and has already uncovered a large number of vulnerabilities (Raphael Satter/Reuters)",
-      "url": "https://www.reuters.com/world/us-cyber-agency-is-using-anthropics-mythos-audit-government-code-sources-say-2026-07-06/",
-      "summary": "Raphael Satter / Reuters: Sources: CISA's Attack Surface Evaluation team is using Mythos to audit government code repositories and has already uncovered a large number of vulnerabilities&nbsp; &mdash;",
+      "title": "Memo: SpaceXAI and Cursor plan to launch their first jointly developed AI model as soon as Wednesday, after pushing back the launch to improve model efficiency (Grace Kay/The Information)",
+      "url": "https://www.techmeme.com/260707/p34#a260707p34",
+      "summary": "Grace Kay / The Information: Memo: SpaceXAI and Cursor plan to launch their first jointly developed AI model as soon as Wednesday, after pushing back the launch to improve model efficiency&nbsp; &mdas",
+      "source": "Techmeme",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-07T21:05:27+00:00"
+    },
+    {
+      "title": "Meta launches Muse Image in Meta AI, Instagram, and WhatsApp, and previews Muse Video, the first media generation models from its Superintelligence Labs (Meta)",
+      "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+      "summary": "Meta: Meta launches Muse Image in Meta AI, Instagram, and WhatsApp, and previews Muse Video, the first media generation models from its Superintelligence Labs&nbsp; &mdash;&nbsp; We're excited to laun",
       "source": "Techmeme",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-06T20:25:00+00:00"
+      "published_at": "2026-07-07T20:30:04+00:00"
     },
     {
-      "title": "SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent (Andrew Chung/Reuters)",
-      "url": "https://www.reuters.com/world/us-supreme-court-wont-block-texas-app-store-age-verification-law-2026-07-06/",
-      "summary": "Andrew Chung / Reuters: SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent&nbsp; &mdash;&nbsp;",
+      "title": "Source: Kraken is pursuing a full banking license in Europe, with a focus on Lithuania as the jurisdiction to secure it (Ian Allison/CoinDesk)",
+      "url": "https://www.coindesk.com/business/2026/07/07/crypto-exchange-kraken-is-trying-to-become-a-bank-in-europe",
+      "summary": "Ian Allison / CoinDesk: Source: Kraken is pursuing a full banking license in Europe, with a focus on Lithuania as the jurisdiction to secure it&nbsp; &mdash;&nbsp; Kraken, the cryptocurrency exchange ",
       "source": "Techmeme",
-      "time": "5h",
+      "time": "6h",
       "tags": [],
-      "published_at": "2026-07-06T20:15:01+00:00"
+      "published_at": "2026-07-07T19:15:02+00:00"
     },
     {
-      "title": "Xbox appoints Helen Chiang as its first COO; Chiang was previously corporate vice president for the Minecraft Franchise and the studio head of Minecraft (Sam Smith/GamesBeat)",
-      "url": "https://gamesbeat.com/xbox-appoints-helen-chiang-as-new-chief-operating-officer-amid-restructure/",
-      "summary": "Sam Smith / GamesBeat: Xbox appoints Helen Chiang as its first COO; Chiang was previously corporate vice president for the Minecraft Franchise and the studio head of Minecraft&nbsp; &mdash;&nbsp; Xbox",
+      "title": "Anthropic extends Claude Fable 5 access to all paid plans through July 12; access to the model was set to shift to token-based usage on July 7 (Zac Hall/9to5Mac)",
+      "url": "https://9to5mac.com/2026/07/07/anthropic-expanding-claude-cowork-to-mobile-and-web-details-here/",
+      "summary": "Zac Hall / 9to5Mac: Anthropic extends Claude Fable 5 access to all paid plans through July 12; access to the model was set to shift to token-based usage on July 7&nbsp; &mdash;&nbsp; Anthropic announc",
       "source": "Techmeme",
       "time": "7h",
       "tags": [],
-      "published_at": "2026-07-06T18:10:01+00:00"
+      "published_at": "2026-07-07T18:30:01+00:00"
+    },
+    {
+      "title": "Introducing Muse Image: Image Generation Built for Your World (Meta Newsroom)",
+      "url": "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/",
+      "summary": "Meta Newsroom: Introducing Muse Image: Image Generation Built for Your World&nbsp; &mdash;&nbsp; Today, Meta is rolling out Muse Image, the company's first image generation model from Meta Superintell",
+      "source": "Techmeme",
+      "time": "7h",
+      "tags": [],
+      "published_at": "2026-07-07T18:17:30+00:00"
+    },
+    {
+      "title": "Google announces a Pixel event on August 12 in NYC, where it is expected to launch Pixel 11 series of phones and Pixel Watch 5 (Abner Li/9to5Google)",
+      "url": "https://9to5google.com/2026/07/07/made-by-google-2026-invite/",
+      "summary": "Abner Li / 9to5Google: Google announces a Pixel event on August 12 in NYC, where it is expected to launch Pixel 11 series of phones and Pixel Watch 5&nbsp; &mdash;&nbsp; Made by Google 2026 is officia",
+      "source": "Techmeme",
+      "time": "8h",
+      "tags": [],
+      "published_at": "2026-07-07T17:01:09+00:00"
     }
   ]
 }

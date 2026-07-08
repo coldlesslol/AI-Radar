@@ -1,14 +1,14 @@
 {
   "source": "Reddit ML",
   "layer": "community",
-  "updated": "2026-07-07T10:00:37+08:00",
+  "updated": "2026-07-08T10:00:43+08:00",
   "items": [
     {
       "title": "[D] Self-Promotion Thread",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
       "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
       "source": "Reddit ML",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-02T02:15:27+00:00"
     },
@@ -17,126 +17,126 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uk949b/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
       "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "source": "Reddit ML",
-      "time": "5d",
+      "time": "6d",
       "tags": [],
       "published_at": "2026-07-01T02:30:09+00:00"
+    },
+    {
+      "title": "TorchJD: Training with multiple losses in PyTorch [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
+      "summary": "Hi everyone! I wanted to share some recent progress on TorchJD that might be useful to the machine learning community. When training models with multiple losses (multiple tasks, constraints, auxiliary",
+      "source": "Reddit ML",
+      "time": "9h",
+      "tags": [],
+      "published_at": "2026-07-07T16:20:47+00:00"
+    },
+    {
+      "title": "Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1upvkp5/phd_thesis_on_differentiable_ray_tracing_for/",
+      "summary": "Hi everyone, I recently finished my Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling. Instead of just compiling my published papers, I tried to write it as an accessible, self",
+      "source": "Reddit ML",
+      "time": "12h",
+      "tags": [],
+      "published_at": "2026-07-07T13:45:40+00:00"
+    },
+    {
+      "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/",
+      "summary": "We're happy to release MIRA, a collaboration between General Intuition, Kyutai, and Epic Games. Mira was trained on 10k hours of synthetic Rocket League data. The model has 5B parameters and runs for ",
+      "source": "Reddit ML",
+      "time": "18h",
+      "tags": [],
+      "published_at": "2026-07-07T07:59:10+00:00"
+    },
+    {
+      "title": "ACL ARR May 2026[D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uqdpdb/acl_arr_may_2026d/",
+      "summary": "Lets Discuss your experience in reviews in the threads (as a reviewer and an author)....also any ACs, how was the avg score this cycle in your lot? &#32; submitted by &#32; /u/Historical_Pause247 [lin",
+      "source": "Reddit ML",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-08T00:50:27+00:00"
+    },
+    {
+      "title": "Raffi Krikorian (CTO, Mozilla) — AMA on the State of Open Source AI (July 14 @ 1pm EDT) [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1upxdvc/raffi_krikorian_cto_mozilla_ama_on_the_state_of/",
+      "summary": "Hi r/MachineLearning, i’m Raffi, CTO at Mozilla. on Tuesday July 14 we publish our inaugural State of Open Source AI report, and i'll be here live answering whatever questions you throw at me! AMA tim",
+      "source": "Reddit ML",
+      "time": "11h",
+      "tags": [],
+      "published_at": "2026-07-07T14:51:29+00:00"
+    },
+    {
+      "title": "ICML Position Track: Want Better ML Reviews? Stop Asking Nicely and Start Incentivizing with a Credit System [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1upjftu/icml_position_track_want_better_ml_reviews_stop/",
+      "summary": "“Maybe the real AGI was the friends we made along the way” is a sentiment that always hits me, and conferences are the places where I reunite with old friends and meet new ones. However, when it comes",
+      "source": "Reddit ML",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T03:32:18+00:00"
+    },
+    {
+      "title": "What if a model could only learn what trusted LoRA adapters can express? [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uq68li/what_if_a_model_could_only_learn_what_trusted/",
+      "summary": "Hello I published a paper. Most defenses against fine-tuning poisoning try to detect malicious data or reduce its impact. I explored a different question: What if the model simply could not learn cert",
+      "source": "Reddit ML",
+      "time": "6h",
+      "tags": [],
+      "published_at": "2026-07-07T20:00:11+00:00"
+    },
+    {
+      "title": "[D] Issue with arxiv - abstract not matching pdf/html [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1upr21d/d_issue_with_arxiv_abstract_not_matching_pdfhtml_d/",
+      "summary": "Hi, I was reading the openRLHF paper: https://arxiv.org/pdf/2501.03262v4 , but when I click the abstract page: https://arxiv.org/abs/2501.03262v4 , it shows &quot;REINFORCE++&quot;. Note that https://",
+      "source": "Reddit ML",
+      "time": "15h",
+      "tags": [],
+      "published_at": "2026-07-07T10:26:18+00:00"
     },
     {
       "title": "Machine learning industry job requirements used to be myopic, but now it feels impossible. Anyone else seeing this? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uov7or/machine_learning_industry_job_requirements_used/",
       "summary": "Today I was just casually browsing some jobs with tags [machine learning] on one of those large popular job-sites. What I am seeing really had me astonished. I want to check with Reddit whether I am h",
       "source": "Reddit ML",
-      "time": "14h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-06T11:57:00+00:00"
+    },
+    {
+      "title": "Mid research got me thinking what about reversed alignment, would trained \"bad\" model exhibit\"good\" behavior later and/or secretly [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uq4qis/mid_research_got_me_thinking_what_about_reversed/",
+      "summary": "late night thoughts as I was working on my paper that is about specific behavior that arises from RHLF, it got me thinking what if train a model in an environment where bad behavior is rewarded: decep",
+      "source": "Reddit ML",
+      "time": "6h",
+      "tags": [],
+      "published_at": "2026-07-07T19:08:12+00:00"
+    },
+    {
+      "title": "Masked depth modeling with sensor-validity masking: reports best RMSE on 7 of 8 masked/sparse depth benchmarks, plus a controlled encoder-init study[R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1upqghy/masked_depth_modeling_with_sensorvalidity_masking/",
+      "summary": "The core idea in masked depth modeling is to treat the sensor's own missing regions as the masking signal rather than using random block dropout. Specular highlights, transparent surfaces, and texture",
+      "source": "Reddit ML",
+      "time": "16h",
+      "tags": [],
+      "published_at": "2026-07-07T09:54:50+00:00"
     },
     {
       "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/",
       "summary": "The idea: instead of masking random patches and hoping boundary structure emerges, the teacher predicts a dense boundary field online and the boundary-bearing tokens are forced into the student's mask",
       "source": "Reddit ML",
-      "time": "8h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-06T17:37:58+00:00"
-    },
-    {
-      "title": "Edge AI ASL Recognition on Raspberry Pi 5 – Looking for Feedback on My System Design [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1up3kby/edge_ai_asl_recognition_on_raspberry_pi_5_looking/",
-      "summary": "Body: &#32; submitted by &#32; /u/Unlikely_Let_9147 [link] &#32; [comments]",
-      "source": "Reddit ML",
-      "time": "8h",
-      "tags": [],
-      "published_at": "2026-07-06T17:10:57+00:00"
     },
     {
       "title": "TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench’s EventQA using gpt-oss-20B [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/",
       "summary": "Built a memory system called TRACE that organizes agent conversation history into a topic tree (branches + summaries) instead of flat RAG chunks, and benchmarked it on MemoryAgentBench (ICLR 2026), sp",
       "source": "Reddit ML",
-      "time": "11h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-06T14:35:56+00:00"
-    },
-    {
-      "title": "How should I encode both target and feature variable for a multiclass classification? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1upa8yc/how_should_i_encode_both_target_and_feature/",
-      "summary": "I am preprocessing a CSV dataset for multiclass classification with XGBoost. My Feature variable contain numerical and categorical values, while the target variable contain many categorical value. For",
-      "source": "Reddit ML",
-      "time": "4h",
-      "tags": [],
-      "published_at": "2026-07-06T21:07:37+00:00"
-    },
-    {
-      "title": "CPU TTS benchmark with UTMOS MOS scoring: Kokoro, Supertonic, Inflect-Nano, and Kyutai's new Pocket TTS [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/",
-      "summary": "Sharing a CPU TTS benchmark with objective MOS scores in case it's useful for anyone evaluating small TTS models. Adding this because Kyutai's Pocket TTS is architecturally different from the others i",
-      "source": "Reddit ML",
-      "time": "10h",
-      "tags": [],
-      "published_at": "2026-07-06T15:17:36+00:00"
-    },
-    {
-      "title": "Is Intrinsic Motivation a Viable PhD Topic in 2026? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uo5kg6/is_intrinsic_motivation_a_viable_phd_topic_in/",
-      "summary": "I started a PhD in CS about a year an a half ago. Generally speaking my topic is on intrinsic motivation (more commonly people refer to it as unsupervised RL). Intrinsic motivation (IM) is a niche fie",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-05T15:50:02+00:00"
-    },
-    {
-      "title": "If DeepMind or Anthropic is doing your exact research topic, do you still continue? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1unt64q/if_deepmind_or_anthropic_is_doing_your_exact/",
-      "summary": "As someone who is not affiliated with any of the big tech companies, I find it particularly difficult to have the confidence or enthusiasm to approach any ML problem with an attitude that my professor",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-05T04:54:28+00:00"
-    },
-    {
-      "title": "Best models for generating red-team attacks? Also looking for public datasets [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uoejrl/best_models_for_generating_redteam_attacks_also/",
-      "summary": "Hi everyone, I'm currently working on a framework to evaluate the security of LLM applications and AI agents, and I've been stuck on one part for a while. Most red-teaming frameworks rely on an LLM to",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-05T21:49:16+00:00"
-    },
-    {
-      "title": "Is machine learning research worth it for now? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uo0dqi/is_machine_learning_research_worth_it_for_now_d/",
-      "summary": "I am a scientist who just applied machine learning to my research (JEPA/Representation/Geometric branch) and it did wonder! Allowed me to see so many papers that I am still struggling to write up. Fro",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-05T11:58:49+00:00"
-    },
-    {
-      "title": "I built an open, from-scratch MT pipeline + parallel corpus for Tunisian Darija (Arabizi) early baseline, and I'm growing it into a curated community corpus [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uo92vz/i_built_an_open_fromscratch_mt_pipeline_parallel/",
-      "summary": "I'm an 18-year-old independent student from Tunisia. I built and I'm leading an open, from-scratch machine-translation pipeline and parallel corpus for Tunisian Darija. Sharing it for feedback. Why: T",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-05T18:08:49+00:00"
-    },
-    {
-      "title": "Competence Gate: gating tool-use on a small model's internal confidence signal instead of its verbalised one — Qwen3.5-4B, open weights [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1unw5un/competence_gate_gating_tooluse_on_a_small_models/",
-      "summary": "I made a 10MB LoRA adapter for Qwen3.5-4B plus a small orchestration layer. It decides, per query, whether to answer directly, search the web, or retrieve from your own local documents and it refuses ",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-05T07:49:09+00:00"
-    },
-    {
-      "title": "ECCV travel support program [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1unx5f8/eccv_travel_support_program_d/",
-      "summary": "Has anyone gotten a response from the eccv travel support program listed on their website? https://eccv.ecva.net/Conferences/2026/DEI Edit: also have anyone applied for this program as an accepted aut",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-05T08:49:12+00:00"
     }
   ]
 }

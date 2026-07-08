@@ -1,14 +1,23 @@
 {
   "source": "TLDR AI",
   "layer": "newsletter",
-  "updated": "2026-07-07T10:00:38+08:00",
+  "updated": "2026-07-08T10:00:46+08:00",
   "items": [
+    {
+      "title": "Anthropic J-space research 🧠, Apple + Broadcom ⚡, continual agent learning 🤖",
+      "url": "https://tldr.tech/ai/2026-07-07",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-07T00:00:00+00:00"
+    },
     {
       "title": "Seedance 2.5 🎥, guide to Fable ✨, OpenAI preps GPT-5.6 🚀",
       "url": "https://tldr.tech/ai/2026-07-06",
       "summary": "",
       "source": "TLDR AI",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-06T00:00:00+00:00"
     },
@@ -17,7 +26,7 @@
       "url": "https://tldr.tech/ai/2026-07-03",
       "summary": "",
       "source": "TLDR AI",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-03T00:00:00+00:00"
     },
@@ -26,7 +35,7 @@
       "url": "https://tldr.tech/ai/2026-07-02",
       "summary": "",
       "source": "TLDR AI",
-      "time": "5d",
+      "time": "6d",
       "tags": [],
       "published_at": "2026-07-02T00:00:00+00:00"
     },
@@ -35,7 +44,7 @@
       "url": "https://tldr.tech/ai/2026-07-01",
       "summary": "",
       "source": "TLDR AI",
-      "time": "6d",
+      "time": "7d",
       "tags": [],
       "published_at": "2026-07-01T00:00:00+00:00"
     },
@@ -44,7 +53,7 @@
       "url": "https://tldr.tech/ai/2026-06-30",
       "summary": "",
       "source": "TLDR AI",
-      "time": "7d",
+      "time": "8d",
       "tags": [],
       "published_at": "2026-06-30T00:00:00+00:00"
     },
@@ -53,7 +62,7 @@
       "url": "https://tldr.tech/ai/2026-06-29",
       "summary": "",
       "source": "TLDR AI",
-      "time": "8d",
+      "time": "9d",
       "tags": [],
       "published_at": "2026-06-29T00:00:00+00:00"
     },
@@ -62,7 +71,7 @@
       "url": "https://tldr.tech/ai/2026-06-26",
       "summary": "",
       "source": "TLDR AI",
-      "time": "11d",
+      "time": "12d",
       "tags": [],
       "published_at": "2026-06-26T00:00:00+00:00"
     },
@@ -71,7 +80,7 @@
       "url": "https://tldr.tech/ai/2026-06-25",
       "summary": "",
       "source": "TLDR AI",
-      "time": "12d",
+      "time": "13d",
       "tags": [],
       "published_at": "2026-06-25T00:00:00+00:00"
     },
@@ -80,7 +89,7 @@
       "url": "https://tldr.tech/ai/2026-06-24",
       "summary": "",
       "source": "TLDR AI",
-      "time": "13d",
+      "time": "14d",
       "tags": [],
       "published_at": "2026-06-24T00:00:00+00:00"
     },
@@ -89,7 +98,7 @@
       "url": "https://tldr.tech/ai/2026-06-23",
       "summary": "",
       "source": "TLDR AI",
-      "time": "14d",
+      "time": "15d",
       "tags": [],
       "published_at": "2026-06-23T00:00:00+00:00"
     },
@@ -98,7 +107,7 @@
       "url": "https://tldr.tech/ai/2026-06-22",
       "summary": "",
       "source": "TLDR AI",
-      "time": "15d",
+      "time": "16d",
       "tags": [],
       "published_at": "2026-06-22T00:00:00+00:00"
     },
@@ -107,7 +116,7 @@
       "url": "https://tldr.tech/ai/2026-06-19",
       "summary": "",
       "source": "TLDR AI",
-      "time": "18d",
+      "time": "19d",
       "tags": [],
       "published_at": "2026-06-19T00:00:00+00:00"
     },
@@ -116,7 +125,7 @@
       "url": "https://tldr.tech/ai/2026-06-18",
       "summary": "",
       "source": "TLDR AI",
-      "time": "19d",
+      "time": "20d",
       "tags": [],
       "published_at": "2026-06-18T00:00:00+00:00"
     },
@@ -125,7 +134,7 @@
       "url": "https://tldr.tech/ai/2026-06-17",
       "summary": "",
       "source": "TLDR AI",
-      "time": "20d",
+      "time": "21d",
       "tags": [],
       "published_at": "2026-06-17T00:00:00+00:00"
     },
@@ -134,7 +143,7 @@
       "url": "https://tldr.tech/ai/2026-06-16",
       "summary": "",
       "source": "TLDR AI",
-      "time": "21d",
+      "time": "22d",
       "tags": [],
       "published_at": "2026-06-16T00:00:00+00:00"
     },
@@ -143,7 +152,7 @@
       "url": "https://tldr.tech/ai/2026-06-15",
       "summary": "",
       "source": "TLDR AI",
-      "time": "22d",
+      "time": "23d",
       "tags": [],
       "published_at": "2026-06-15T00:00:00+00:00"
     },
@@ -152,7 +161,7 @@
       "url": "https://tldr.tech/ai/2026-06-12",
       "summary": "",
       "source": "TLDR AI",
-      "time": "25d",
+      "time": "26d",
       "tags": [],
       "published_at": "2026-06-12T00:00:00+00:00"
     },
@@ -161,7 +170,7 @@
       "url": "https://tldr.tech/ai/2026-06-11",
       "summary": "",
       "source": "TLDR AI",
-      "time": "26d",
+      "time": "27d",
       "tags": [],
       "published_at": "2026-06-11T00:00:00+00:00"
     },
@@ -170,18 +179,9 @@
       "url": "https://tldr.tech/ai/2026-06-10",
       "summary": "",
       "source": "TLDR AI",
-      "time": "27d",
-      "tags": [],
-      "published_at": "2026-06-10T00:00:00+00:00"
-    },
-    {
-      "title": "OpenAI S-1 🇺🇸, Siri AI 📱, Xiaomi Ultraspeed ⚡",
-      "url": "https://tldr.tech/ai/2026-06-09",
-      "summary": "",
-      "source": "TLDR AI",
       "time": "28d",
       "tags": [],
-      "published_at": "2026-06-09T00:00:00+00:00"
+      "published_at": "2026-06-10T00:00:00+00:00"
     }
   ]
 }

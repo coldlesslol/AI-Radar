@@ -1,169 +1,187 @@
 {
   "source": "HN",
   "layer": "community",
-  "updated": "2026-07-05T17:49:10+08:00",
+  "updated": "2026-07-08T10:00:40+08:00",
   "items": [
     {
-      "title": "Apocketlypse",
-      "url": "https://0dd.company/galleries/triumph/1.html",
-      "summary": "Article URL: https://0dd.company/galleries/triumph/1.html Comments URL: https://news.ycombinator.com/item?id=48792352 Points: 11 # Comments: 1",
+      "title": "Show HN: Chiptune Radio",
+      "url": "https://chiptune-radio.alephvoid.com/",
+      "summary": "I built a chiptune song generator and its broadcasting algorithmically generated chiptune music. Comments URL: https://news.ycombinator.com/item?id=48826094 Points: 5 # Comments: 1",
       "source": "HN",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-05T08:32:09+00:00"
+      "published_at": "2026-07-08T00:55:19+00:00"
     },
     {
-      "title": "Web-based cryptography is always snake oil",
-      "url": "https://www.devever.net/~hl/webcrypto",
-      "summary": "Article URL: https://www.devever.net/~hl/webcrypto Comments URL: https://news.ycombinator.com/item?id=48792203 Points: 11 # Comments: 8",
+      "title": "Rlm-Workflow",
+      "url": "https://try.works/projects#rlm-workflow",
+      "summary": "Article URL: https://try.works/projects#rlm-workflow Comments URL: https://news.ycombinator.com/item?id=48825906 Points: 5 # Comments: 0",
       "source": "HN",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-05T08:01:29+00:00"
+      "published_at": "2026-07-08T00:32:18+00:00"
     },
     {
-      "title": "Programmers need to start meditating now",
-      "url": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
-      "summary": "Article URL: https://jacob.gold/posts/programmers-need-to-start-meditating-now/ Comments URL: https://news.ycombinator.com/item?id=48792080 Points: 12 # Comments: 2",
+      "title": "An interactive explorer for Benford's Law across real datasets",
+      "url": "https://vatsalbakshi.com/blog/benfords-law/",
+      "summary": "Article URL: https://vatsalbakshi.com/blog/benfords-law/ Comments URL: https://news.ycombinator.com/item?id=48825816 Points: 14 # Comments: 3",
+      "source": "HN",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-08T00:18:39+00:00"
+    },
+    {
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "summary": "Article URL: https://kb.cert.org/vuls/id/213560 Comments URL: https://news.ycombinator.com/item?id=48825749 Points: 13 # Comments: 2",
+      "source": "HN",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-08T00:08:51+00:00"
+    },
+    {
+      "title": "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
+      "url": "https://github.com/tiliondev/fortress",
+      "summary": "Article URL: https://github.com/tiliondev/fortress Comments URL: https://news.ycombinator.com/item?id=48825745 Points: 17 # Comments: 11",
+      "source": "HN",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-08T00:08:21+00:00"
+    },
+    {
+      "title": "Structure and Interpretation of Computer Programs Video Lectures",
+      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+      "summary": "Article URL: https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/ Comments URL: https://news.ycombinator.com/item?id=48825664",
       "source": "HN",
       "time": "2h",
       "tags": [],
-      "published_at": "2026-07-05T07:39:35+00:00"
+      "published_at": "2026-07-07T23:57:29+00:00"
     },
     {
-      "title": "Fast Software, the Best Software",
-      "url": "https://craigmod.com/essays/fast_software/",
-      "summary": "Article URL: https://craigmod.com/essays/fast_software/ Comments URL: https://news.ycombinator.com/item?id=48792008 Points: 3 # Comments: 0",
+      "title": "Show HN: Free Mermaid Diagram Editor",
+      "url": "https://moxiedocs.com/mermaid-diagram-editor",
+      "summary": "I've been slowly adding some new free tools to Moxie Docs (partly for SEO, partly to illustrate some of our feature sets before any commitment) for some reason this mermaid editor one blew up on Googl",
       "source": "HN",
       "time": "2h",
       "tags": [],
-      "published_at": "2026-07-05T07:25:25+00:00"
+      "published_at": "2026-07-07T23:29:36+00:00"
     },
     {
-      "title": "Reducing Assumptions, Exploding Your Code",
-      "url": "https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/",
-      "summary": "Article URL: https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/ Comments URL: https://news.ycombinator.com/item?id=48791990 Points: 6 # Comments: 0",
+      "title": "Git Hash Chain Malleability",
+      "url": "https://arxiv.org/abs/2607.02820",
+      "summary": "Article URL: https://arxiv.org/abs/2607.02820 Comments URL: https://news.ycombinator.com/item?id=48825356 Points: 6 # Comments: 2",
       "source": "HN",
       "time": "2h",
       "tags": [],
-      "published_at": "2026-07-05T07:22:08+00:00"
+      "published_at": "2026-07-07T23:21:03+00:00"
     },
     {
-      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-      "summary": "Article URL: https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/ Comments URL: https://news.ycombinator.com/item?id=48791708 Points: 42 # Comments: 45",
+      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "url": "https://www.gao.gov/products/gao-26-108193",
+      "summary": "Article URL: https://www.gao.gov/products/gao-26-108193 Comments URL: https://news.ycombinator.com/item?id=48824826 Points: 94 # Comments: 35",
       "source": "HN",
       "time": "3h",
       "tags": [],
-      "published_at": "2026-07-05T06:19:34+00:00"
+      "published_at": "2026-07-07T22:23:58+00:00"
     },
     {
-      "title": "Megawatts by Microwave",
-      "url": "https://computer.rip/2026-07-04-microwave-and-power.html",
-      "summary": "Article URL: https://computer.rip/2026-07-04-microwave-and-power.html Comments URL: https://news.ycombinator.com/item?id=48791591 Points: 22 # Comments: 2",
-      "source": "HN",
-      "time": "3h",
-      "tags": [],
-      "published_at": "2026-07-05T05:56:03+00:00"
-    },
-    {
-      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-      "url": "https://ui.shadcn.com/docs/changelog",
-      "summary": "Article URL: https://ui.shadcn.com/docs/changelog Comments URL: https://news.ycombinator.com/item?id=48791328 Points: 118 # Comments: 35",
+      "title": "Every new car sold in the European Union must include a driver monitoring camera",
+      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+      "summary": "Article URL: https://allaboutcookies.org/eu-mandatory-distracted-driver-system Comments URL: https://news.ycombinator.com/item?id=48823557 Points: 430 # Comments: 574",
       "source": "HN",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-05T04:46:08+00:00"
+      "published_at": "2026-07-07T20:50:46+00:00"
     },
     {
-      "title": "Moby Dick Workout (2022)",
-      "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
-      "summary": "Article URL: https://www.hogbaysoftware.com/posts/moby-dick-workout/ Comments URL: https://news.ycombinator.com/item?id=48791266 Points: 40 # Comments: 12",
+      "title": "We charge $10k a week to delete AI-generated code",
+      "url": "https://odra.dev/slopfix/",
+      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 196 # Comments: 92",
       "source": "HN",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-05T04:30:33+00:00"
+      "published_at": "2026-07-07T20:35:42+00:00"
     },
     {
-      "title": "My ASN Journey series (2024)",
-      "url": "https://www.animmouse.com/p/my-asn-journey/",
-      "summary": "Article URL: https://www.animmouse.com/p/my-asn-journey/ Comments URL: https://news.ycombinator.com/item?id=48791256 Points: 18 # Comments: 6",
-      "source": "HN",
-      "time": "5h",
-      "tags": [],
-      "published_at": "2026-07-05T04:29:05+00:00"
-    },
-    {
-      "title": "The Preemptive Draw and Preemptive Grip in the Cash-in-Transit Sector",
-      "url": "https://gutsgatesguards.wordpress.com/2026/06/23/the-preemptive-draw-and-preemptive-grip-in-the-cash-in-transit-sector-part-1/",
-      "summary": "Article URL: https://gutsgatesguards.wordpress.com/2026/06/23/the-preemptive-draw-and-preemptive-grip-in-the-cash-in-transit-sector-part-1/ Comments URL: https://news.ycombinator.com/item?id=48790990 ",
-      "source": "HN",
-      "time": "6h",
-      "tags": [],
-      "published_at": "2026-07-05T03:20:46+00:00"
-    },
-    {
-      "title": "The Log Is the Agent",
-      "url": "https://arxiv.org/abs/2605.21997",
-      "summary": "Article URL: https://arxiv.org/abs/2605.21997 Comments URL: https://news.ycombinator.com/item?id=48790912 Points: 43 # Comments: 10",
-      "source": "HN",
-      "time": "6h",
-      "tags": [],
-      "published_at": "2026-07-05T02:57:38+00:00"
-    },
-    {
-      "title": "If you're a button, you have one job",
-      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "summary": "Article URL: https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/ Comments URL: https://news.ycombinator.com/item?id=48790689 Points: 206 # Comments: 99",
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "url": "https://davit.app",
+      "summary": "Mostly vibe-coded Apple Containers front-end that I'd like to use myself. But if others want to use it, here's the source code. Comments URL: https://news.ycombinator.com/item?id=48821848 Points: 198 ",
       "source": "HN",
       "time": "7h",
       "tags": [],
-      "published_at": "2026-07-05T02:01:03+00:00"
+      "published_at": "2026-07-07T18:44:29+00:00"
     },
     {
-      "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
-      "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
-      "summary": "Article URL: https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/ Comments URL: https://news.ycombinator.com/item?id=48790512 Points: 46 # Comments: 5",
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749 Points: 80 # Comments: 9",
       "source": "HN",
-      "time": "8h",
+      "time": "7h",
       "tags": [],
-      "published_at": "2026-07-05T01:23:11+00:00"
+      "published_at": "2026-07-07T18:36:35+00:00"
     },
     {
-      "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)",
-      "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
-      "summary": "Article URL: https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/ Comments URL: https://news.ycombinator.com/item?id=48790240 Points: 53 # C",
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "summary": "Article URL: https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/ Comments URL: https://news.ycombinator.com/item?id=48821576 Points: 293 # Comments: 68",
+      "source": "HN",
+      "time": "7h",
+      "tags": [],
+      "published_at": "2026-07-07T18:24:10+00:00"
+    },
+    {
+      "title": "Notes on Software Quality",
+      "url": "https://anthonyhobday.com/blog/20260410",
+      "summary": "Article URL: https://anthonyhobday.com/blog/20260410 Comments URL: https://news.ycombinator.com/item?id=48821441 Points: 78 # Comments: 43",
+      "source": "HN",
+      "time": "7h",
+      "tags": [],
+      "published_at": "2026-07-07T18:14:50+00:00"
+    },
+    {
+      "title": "l: A new runtime for k and q",
+      "url": "https://lv1.sh/",
+      "summary": "https://lv1.sh/blog/why-l/ Comments URL: https://news.ycombinator.com/item?id=48821378 Points: 105 # Comments: 61",
+      "source": "HN",
+      "time": "7h",
+      "tags": [],
+      "published_at": "2026-07-07T18:08:29+00:00"
+    },
+    {
+      "title": "Jim's TrueType QR Code Font",
+      "url": "https://github.com/jimparis/qr-font",
+      "summary": "https://qr.jim.sh/ Comments URL: https://news.ycombinator.com/item?id=48820119 Points: 132 # Comments: 20",
       "source": "HN",
       "time": "9h",
       "tags": [],
-      "published_at": "2026-07-05T00:22:25+00:00"
+      "published_at": "2026-07-07T16:30:42+00:00"
     },
     {
-      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
-      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
-      "summary": "Article URL: https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets Comments URL: https://news.ycombinator.com/item?id=48789712 Points: 122 # Comments: 25",
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "summary": "Claude’s desktop app is brilliant, but for our own daily work we kept wanting it to be less like a chat app and more like a full-fledged work app. Rowboat is our attempt at that, including the ability",
       "source": "HN",
-      "time": "11h",
+      "time": "9h",
       "tags": [],
-      "published_at": "2026-07-04T22:36:28+00:00"
+      "published_at": "2026-07-07T16:10:44+00:00"
     },
     {
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 270 # Comments: 102",
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "url": "https://30papers.com/",
+      "summary": "Article URL: https://30papers.com/ Comments URL: https://news.ycombinator.com/item?id=48819608 Points: 356 # Comments: 60",
       "source": "HN",
-      "time": "11h",
+      "time": "10h",
       "tags": [],
-      "published_at": "2026-07-04T21:51:09+00:00"
+      "published_at": "2026-07-07T15:58:13+00:00"
     },
     {
-      "title": "Better Models: Worse Tools",
-      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "summary": "Article URL: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/ Comments URL: https://news.ycombinator.com/item?id=48788599 Points: 170 # Comments: 57",
+      "title": "Why we built yet another Postgres connection pooler",
+      "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+      "summary": "Article URL: https://pgdog.dev/blog/why-yet-another-connection-pooler Comments URL: https://news.ycombinator.com/item?id=48819308 Points: 131 # Comments: 35",
       "source": "HN",
-      "time": "13h",
+      "time": "10h",
       "tags": [],
-      "published_at": "2026-07-04T20:16:22+00:00"
+      "published_at": "2026-07-07T15:36:49+00:00"
     }
   ]
 }

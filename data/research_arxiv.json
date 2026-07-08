@@ -1,6 +1,187 @@
 {
   "source": "arXiv AI",
   "layer": "research",
-  "updated": "2026-07-07T10:00:47+08:00",
-  "items": []
+  "updated": "2026-07-08T10:01:14+08:00",
+  "items": [
+    {
+      "title": "iFLYTEK-Embodied-Omni Technical Report",
+      "url": "https://arxiv.org/abs/2607.02542",
+      "summary": "arXiv:2607.02542v1 Announce Type: new Abstract: General-purpose embodied agents must understand multimodal instructions, anticipate how their environment will evolve, and produce precise control actio",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
+      "url": "https://arxiv.org/abs/2607.02672",
+      "summary": "arXiv:2607.02672v1 Announce Type: new Abstract: Local pairwise comparisons are a standard tool for learning how people want decision rules to work, e.g., in participatory design or alignment. However,",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
+      "url": "https://arxiv.org/abs/2607.02686",
+      "summary": "arXiv:2607.02686v1 Announce Type: new Abstract: Reinforcement learning agents operating under partial observability must act on incomplete information, making them natural candidates for guidance from",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "Automated Data Readiness for Scientific AI",
+      "url": "https://arxiv.org/abs/2607.02771",
+      "summary": "arXiv:2607.02771v1 Announce Type: new Abstract: Leadership computing facilities steward large-scale scientific datasets that routinely require substantial transformation before serving as AI training ",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
+      "url": "https://arxiv.org/abs/2607.02807",
+      "summary": "arXiv:2607.02807v1 Announce Type: new Abstract: Long-running coding agents such as autoresearch can persistently discover optimizations for open-ended problems. However, they tend to converge onto a s",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "Object-Centric Environment Modeling for Agentic Tasks",
+      "url": "https://arxiv.org/abs/2607.02846",
+      "summary": "arXiv:2607.02846v1 Announce Type: new Abstract: Large language model (LLM) agents can improve through accumulated experience, but free-form textual memories become difficult to maintain, validate, and",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents",
+      "url": "https://arxiv.org/abs/2607.02879",
+      "summary": "arXiv:2607.02879v1 Announce Type: new Abstract: Current benchmarks for evaluating large language models (LLMs) in medical calculation are largely based on simplified settings, where each patient case ",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models",
+      "url": "https://arxiv.org/abs/2607.02914",
+      "summary": "arXiv:2607.02914v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated remarkable capabilities across diverse applications, yet ensuring their simultaneous safety, helpfulness,",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "VERITAS: Towards a General-Purpose Replication Tool for Scientific Research",
+      "url": "https://arxiv.org/abs/2607.02931",
+      "summary": "arXiv:2607.02931v1 Announce Type: new Abstract: AI tools are accelerating scientific publication while the systems that review it struggle to keep up, and independent verification of published researc",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "A Sliding-Window-Based Reinforcement Learning for Dynamic Assembly Flow Shop Scheduling with Multi-Product Delivery",
+      "url": "https://arxiv.org/abs/2607.02941",
+      "summary": "arXiv:2607.02941v1 Announce Type: new Abstract: Multi-product kitting delivery imposes significant challenges for real-time scheduling in hybrid manufacturing systems that integrate processing and ass",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "Evaluating Generative Agents with Actions Grounded in Socially Distributed Task Environments using Incognita",
+      "url": "https://arxiv.org/abs/2607.02975",
+      "summary": "arXiv:2607.02975v1 Announce Type: new Abstract: Effective agency in social environments depends on when an agent seeks knowledge, when it acts, and whether its actions are justified by acquired inform",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "Reinforcement Learning for Evidence-Seeking Diagnostic Reasoning with Large Language Models",
+      "url": "https://arxiv.org/abs/2607.02983",
+      "summary": "arXiv:2607.02983v1 Announce Type: new Abstract: Recent reasoning-centric Large Language Models (LLMs) have made significant strides, yet they predominantly operate on a passive-inference pattern that ",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "Beyond Forecasting: The Belief-to-Trade Layer in Prediction-Market Agents",
+      "url": "https://arxiv.org/abs/2607.03015",
+      "summary": "arXiv:2607.03015v1 Announce Type: new Abstract: Forecasting future events has attracted growing attention as a testbed for general-purpose AI. A natural way to ground this evaluation is let the models",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "Human-Centric Reflective Architecture for Human-AI Collaborative Decision-Making",
+      "url": "https://arxiv.org/abs/2607.03025",
+      "summary": "arXiv:2607.03025v1 Announce Type: new Abstract: The use of Large Language Models (LLMs) across diverse areas of human activity-ranging from everyday tasks to safety-critical applications-aims to enhan",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "Silicon Sampling via Cross-Survey Transfer",
+      "url": "https://arxiv.org/abs/2607.03091",
+      "summary": "arXiv:2607.03091v1 Announce Type: new Abstract: Silicon sampling-using large language models (LLMs) to simulate human survey respondents-has emerged as a promising approach for augmenting traditional ",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "APeB: Benchmarking Personalization Ability of Large Language Model Agents",
+      "url": "https://arxiv.org/abs/2607.03162",
+      "summary": "arXiv:2607.03162v1 Announce Type: new Abstract: LLM-powered agents struggle with personalization when users issue raw, underspecified queries. In this setting, agents must infer latent intent, extract",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "Organizational Memory for Agentic Business Process Execution",
+      "url": "https://arxiv.org/abs/2607.03228",
+      "summary": "arXiv:2607.03228v1 Announce Type: new Abstract: LLM-based agents offer new opportunities for automating business process execution beyond the limits of rule-based systems. However, general-purpose LLM",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "Embodied Operators and Benchmarking: Toward Reusable and Deployable Embodied Intelligence Systems",
+      "url": "https://arxiv.org/abs/2607.03283",
+      "summary": "arXiv:2607.03283v1 Announce Type: new Abstract: Embodied intelligence systems require not only end-to-end policy models, but also reusable functional modules that transform multimodal observations, ro",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "Reflective Dialogue or Prompt Refinement? Effects of Tutor Scaffolding on Students' Independent LLM Use for Programming",
+      "url": "https://arxiv.org/abs/2607.03303",
+      "summary": "arXiv:2607.03303v1 Announce Type: new Abstract: While Large Language Models (LLMs) can provide personalized support in learning, several studies have raised concerns regarding their use in education. ",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    },
+    {
+      "title": "When Aggregate Alignment Misleads: Auditing Policy Repair Without Per-State Expert Actions",
+      "url": "https://arxiv.org/abs/2607.03386",
+      "summary": "arXiv:2607.03386v1 Announce Type: new Abstract: Agentic AI systems are increasingly used to edit, refine, and repair decision policies, but evaluating these edits is difficult when per-state expert ac",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T04:00:00+00:00"
+    }
+  ]
 }

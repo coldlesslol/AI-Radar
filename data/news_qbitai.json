@@ -1,97 +1,97 @@
 {
   "source": "量子位",
   "layer": "news",
-  "updated": "2026-07-07T10:00:11+08:00",
+  "updated": "2026-07-08T10:00:23+08:00",
   "items": [
+    {
+      "title": "DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”",
+      "url": "https://www.qbitai.com/2026/07/445608.html",
+      "summary": "难怪DeepSeek要着重强调招HR（doge）",
+      "source": "量子位",
+      "time": "14h",
+      "tags": [],
+      "published_at": "2026-07-07T11:43:08+00:00"
+    },
+    {
+      "title": "从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”",
+      "url": "https://www.qbitai.com/2026/07/445443.html",
+      "summary": "“共识与非共识”的深度思辨",
+      "source": "量子位",
+      "time": "17h",
+      "tags": [],
+      "published_at": "2026-07-07T08:32:27+00:00"
+    },
+    {
+      "title": "我宣布这是中国最神奇的造车新势力",
+      "url": "https://www.qbitai.com/2026/07/445292.html",
+      "summary": "仅靠一款车5年不倒",
+      "source": "量子位",
+      "time": "18h",
+      "tags": [],
+      "published_at": "2026-07-07T07:23:33+00:00"
+    },
+    {
+      "title": "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni",
+      "url": "https://www.qbitai.com/2026/07/445229.html",
+      "summary": "从文字说明书到多模态经验库",
+      "source": "量子位",
+      "time": "20h",
+      "tags": [],
+      "published_at": "2026-07-07T05:03:09+00:00"
+    },
+    {
+      "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
+      "url": "https://www.qbitai.com/2026/07/445230.html",
+      "summary": "来自蚂蚁灵波",
+      "source": "量子位",
+      "time": "21h",
+      "tags": [],
+      "published_at": "2026-07-07T04:48:40+00:00"
+    },
+    {
+      "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+      "url": "https://www.qbitai.com/2026/07/445184.html",
+      "summary": "",
+      "source": "量子位",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T03:35:02+00:00"
+    },
+    {
+      "title": "征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？",
+      "url": "https://www.qbitai.com/2026/07/445067.html",
+      "summary": "",
+      "source": "量子位",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T03:24:55+00:00"
+    },
+    {
+      "title": "征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程",
+      "url": "https://www.qbitai.com/2026/07/444859.html",
+      "summary": "",
+      "source": "量子位",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-07T03:14:41+00:00"
+    },
+    {
+      "title": "Claude的脑子里，也长出了一块「意识」",
+      "url": "https://www.qbitai.com/2026/07/444741.html",
+      "summary": "内部发现「类脑空间」，删掉就变傻",
+      "source": "量子位",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-07T01:38:18+00:00"
+    },
     {
       "title": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
       "url": "https://www.qbitai.com/2026/07/444733.html",
       "summary": "",
       "source": "量子位",
-      "time": "15h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-06T10:40:27+00:00"
-    },
-    {
-      "title": "极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文",
-      "url": "https://www.qbitai.com/2026/07/444721.html",
-      "summary": "",
-      "source": "量子位",
-      "time": "15h",
-      "tags": [],
-      "published_at": "2026-07-06T10:33:45+00:00"
-    },
-    {
-      "title": "2026新青年创投大会在沪举行：00后登场，创投新周期开启",
-      "url": "https://www.qbitai.com/2026/07/444049.html",
-      "summary": "",
-      "source": "量子位",
-      "time": "15h",
-      "tags": [],
-      "published_at": "2026-07-06T10:22:05+00:00"
-    },
-    {
-      "title": "字节、宇树、BAT等40+产品大咖齐聚，2026奇点智能产品大会最新最全日程来了！",
-      "url": "https://www.qbitai.com/2026/07/444043.html",
-      "summary": "",
-      "source": "量子位",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-06T09:54:19+00:00"
-    },
-    {
-      "title": "蔚来世界模型OTA，70万用户没人被留在旧版本",
-      "url": "https://www.qbitai.com/2026/07/443868.html",
-      "summary": "把世界模型用活了",
-      "source": "量子位",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-06T09:41:04+00:00"
-    },
-    {
-      "title": "联想控股发起成立中国中文信息学会产学研创新生态工作委员会",
-      "url": "https://www.qbitai.com/2026/07/443869.html",
-      "summary": "",
-      "source": "量子位",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-06T09:39:36+00:00"
-    },
-    {
-      "title": "真·QQ飞车！「电动版F1」上海开赛，Gemini在线解说",
-      "url": "https://www.qbitai.com/2026/07/443867.html",
-      "summary": "现实版《飞驰人生 3》",
-      "source": "量子位",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-06T09:35:00+00:00"
-    },
-    {
-      "title": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
-      "url": "https://www.qbitai.com/2026/07/443863.html",
-      "summary": "",
-      "source": "量子位",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-06T09:28:52+00:00"
-    },
-    {
-      "title": "模型不是企业的护城河，那什么才是？",
-      "url": "https://www.qbitai.com/2026/07/443842.html",
-      "summary": "大模型越来越强，为什么企业没有跟着变强",
-      "source": "量子位",
-      "time": "17h",
-      "tags": [],
-      "published_at": "2026-07-06T08:17:34+00:00"
-    },
-    {
-      "title": "字节Seedance，正在占领好莱坞",
-      "url": "https://www.qbitai.com/2026/07/443665.html",
-      "summary": "美国电影人：好东西不问出处",
-      "source": "量子位",
-      "time": "18h",
-      "tags": [],
-      "published_at": "2026-07-06T07:49:13+00:00"
     }
   ]
 }

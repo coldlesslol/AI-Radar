@@ -1,14 +1,41 @@
 {
   "source": "Ars Technica",
   "layer": "news",
-  "updated": "2026-07-07T10:00:10+08:00",
+  "updated": "2026-07-08T10:00:20+08:00",
   "items": [
+    {
+      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
+      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+      "summary": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.",
+      "source": "Ars Technica",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-07T21:03:07+00:00"
+    },
+    {
+      "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+      "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+      "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei.",
+      "source": "Ars Technica",
+      "time": "9h",
+      "tags": [],
+      "published_at": "2026-07-07T16:14:53+00:00"
+    },
+    {
+      "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
+      "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+      "summary": "Top robotics researchers and founders explain how robot autonomy is evolving.",
+      "source": "Ars Technica",
+      "time": "15h",
+      "tags": [],
+      "published_at": "2026-07-07T11:00:18+00:00"
+    },
     {
       "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
       "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
       "summary": "Anthropic accused of spying on users; engineer says “experiment” is over.",
       "source": "Ars Technica",
-      "time": "9h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-06T16:44:18+00:00"
     },
@@ -17,7 +44,7 @@
       "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
       "summary": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.",
       "source": "Ars Technica",
-      "time": "11h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-06T14:17:42+00:00"
     },
@@ -26,7 +53,7 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
       "summary": "Insiders say Sam Altman is in active talks with the Trump administration.",
       "source": "Ars Technica",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-02T15:12:25+00:00"
     },
@@ -35,7 +62,7 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
       "summary": "FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns.",
       "source": "Ars Technica",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-02T14:39:17+00:00"
     },
@@ -44,7 +71,7 @@
       "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
       "summary": "Google tries balancing AI data center emissions with clean energy efforts.",
       "source": "Ars Technica",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-02T11:15:49+00:00"
     },
@@ -53,45 +80,9 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
       "summary": "US lifts curbs on Anthropic’s advanced Fable and Mythos models.",
       "source": "Ars Technica",
-      "time": "5d",
+      "time": "6d",
       "tags": [],
       "published_at": "2026-07-01T16:44:18+00:00"
-    },
-    {
-      "title": "New attack provides one more reason why AI browsers are a bad idea",
-      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-      "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
-      "source": "Ars Technica",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-06-30T20:03:14+00:00"
-    },
-    {
-      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
-      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
-      "summary": "They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.",
-      "source": "Ars Technica",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-06-30T18:36:10+00:00"
-    },
-    {
-      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
-      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
-      "summary": "A year in, National Design Studio delays plan to update government web standards.",
-      "source": "Ars Technica",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-06-30T16:59:02+00:00"
-    },
-    {
-      "title": "Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, report says",
-      "url": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
-      "summary": "Sources suggest Musk may be mulling big donation to Trump Accounts.",
-      "source": "Ars Technica",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-06-30T15:38:08+00:00"
     }
   ]
 }
