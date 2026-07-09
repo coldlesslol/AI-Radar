@@ -199,3 +199,10 @@ date: 2026-06-29
 - 上线：提交 `8ed9b3e fix: stabilize daily radar update` 并推送 main；GitHub Actions run `28916349786` 成功，线上 `data/digest.json` / `_index.json` / `stocks.json` 已读到今日版本。
 - 验证：`pipeline.tests.test_pipeline_safety` 6 tests OK；Python 编译 OK；`bash -n schedule/run_daily.sh` OK；本地 `_index.json` 无缺失/多余数据文件；本地 digest 未见 `&nbsp;` 残留。
 - 残余：当前 digest 是 fallback 质量，不是 Claude 归组中文摘要质量；若要恢复高质量摘要，需要在本机重新 `claude /login`。本执行环境对 GitHub Pages HTML 直取出现 curl 35/TLS 错误，但同域数据 JSON 与 Actions API 可读、部署状态成功。
+
+## 2026-07-09 信息瘫痪排查与前端容错（Codex）
+- 触发：用户反馈“今天信息瘫痪了，排查更新”。
+- 排查：本地 `logs/daily.log` 显示 10:00 自动任务全链路完成并推送 `c4b4ae0 data: daily update 2026-07-09`；`run_status.json` 为 `status=ok`，RSS / 股票 / GitHub / HuggingFace / 财报 / score 均 `ok`。`digest.json` 为 `2026-07-09T10:02:01+08:00`，111 条；`stocks.json` 为 `2026-07-09T10:01:43+08:00`；`filings.json` 为 `2026-07-09T10:01:59+08:00`。
+- 判断：数据管线未瘫痪，风险在前端加载/渲染层或线上缓存/部署状态。当前执行环境访问 GitHub/GitHub Pages 全部失败，无法用本机网络直接判定线上页面，但本地静态站 + 页面脚本模拟能渲染“今日 10:02 已更新”。
+- 修复：`web/index.html` 增加 `safeRender()` / `reportRuntimeError()`，各区块独立容错；`Chart.js` 未加载时股票曲线直接降级，不再抛错影响投资页或整页刷新。
+- 验证：新增前端容错静态测试；`pipeline.tests.test_pipeline_safety` 7 tests OK；Python 编译 OK；`bash -n schedule/run_daily.sh` OK；`git diff --check` OK；Node 最小 DOM 执行页面脚本通过，首屏 feed/model/archive 均有内容，未出现渲染错误。

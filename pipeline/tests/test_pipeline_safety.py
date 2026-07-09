@@ -92,6 +92,15 @@ class StaticSafetyTests(unittest.TestCase):
         self.assertIn("CRITICAL_FAILED", script)
         self.assertIn("pull_score.py\" \"critical", script)
 
+    def test_frontend_has_render_boundaries_and_chart_guard(self) -> None:
+        html = (ROOT / "web" / "index.html").read_text(encoding="utf-8")
+
+        self.assertIn("function safeRender", html)
+        self.assertIn("function reportRuntimeError", html)
+        self.assertIn("typeof Chart === 'undefined'", html)
+        self.assertIn("safeRender('feed grid'", html)
+        self.assertIn("safeRender('archive'", html)
+
 
 class ScoreFallbackTests(unittest.TestCase):
     def test_fallback_score_produces_digest_items_without_claude(self) -> None:
