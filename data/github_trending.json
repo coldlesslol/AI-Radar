@@ -2,90 +2,99 @@
   "key": "github_trending",
   "title": "GitHub Trending AI",
   "freq": "daily",
-  "updated": "2026-07-09T10:01:43+08:00",
+  "updated": "2026-07-10T07:25:37+08:00",
   "url": "https://github.com/trending?since=daily",
   "total_trending": 15,
   "items": [
     {
-      "full_name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars": 74213,
-      "stars_today": 1297,
-      "url": "https://github.com/addyosmani/agent-skills",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "stars": 18863,
+      "stars_today": 3728,
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
       "rank": 1
     },
     {
-      "full_name": "TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "language": "TypeScript",
-      "stars": 7685,
-      "stars_today": 318,
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 75828,
+      "stars_today": 2582,
+      "url": "https://github.com/addyosmani/agent-skills",
       "rank": 2
     },
     {
-      "full_name": "mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars": 50781,
-      "stars_today": 352,
-      "url": "https://github.com/mvanhorn/last30days-skill",
+      "full_name": "VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "language": null,
+      "stars": 99606,
+      "stars_today": 1233,
+      "url": "https://github.com/VoltAgent/awesome-design-md",
       "rank": 3
     },
     {
       "full_name": "iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars": 11951,
-      "stars_today": 1717,
+      "stars": 13375,
+      "stars_today": 1923,
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "rank": 4
-    },
-    {
-      "full_name": "asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "stars": 54247,
-      "stars_today": 1218,
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "rank": 5
-    },
-    {
-      "full_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars": 249871,
-      "stars_today": 1116,
-      "url": "https://github.com/obra/superpowers",
-      "rank": 6
     },
     {
       "full_name": "wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars": 6392,
-      "stars_today": 28,
+      "stars": 6565,
+      "stars_today": 185,
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "rank": 5
+    },
+    {
+      "full_name": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 47128,
+      "stars_today": 347,
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "rank": 6
+    },
+    {
+      "full_name": "vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": 19361,
+      "stars_today": 543,
+      "url": "https://github.com/vxcontrol/pentagi",
       "rank": 7
+    },
+    {
+      "full_name": "unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "stars": 71795,
+      "stars_today": 195,
+      "url": "https://github.com/unclecode/crawl4ai",
+      "rank": 8
     },
     {
       "full_name": "bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars": 6088,
-      "stars_today": 951,
+      "stars": 6659,
+      "stars_today": 727,
       "url": "https://github.com/bradautomates/claude-video",
-      "rank": 8
+      "rank": 9
     },
     {
-      "full_name": "TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "language": "Rust",
-      "stars": 8953,
-      "stars_today": 564,
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "rank": 9
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": 55117,
+      "stars_today": 1135,
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "rank": 10
     }
   ]
 }

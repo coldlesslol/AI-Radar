@@ -1,14 +1,14 @@
 {
   "source": "Import AI",
   "layer": "newsletter",
-  "updated": "2026-07-09T10:00:35+08:00",
+  "updated": "2026-07-10T07:24:43+08:00",
   "items": [
     {
       "title": "Import AI 464: Fable writes GPU kernels; AI automation; and analog computation",
       "url": "https://importai.substack.com/p/import-ai-464-fables-writes-gpu-kernels",
       "summary": "Is this the beginning of a new world?",
       "source": "Import AI",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-06T12:31:05+00:00"
     },
@@ -17,7 +17,7 @@
       "url": "https://importai.substack.com/p/import-ai-463-self-improving-robots",
       "summary": "What eras bookend our interregnum?",
       "source": "Import AI",
-      "time": "9d",
+      "time": "10d",
       "tags": [],
       "published_at": "2026-06-29T13:03:27+00:00"
     },
@@ -26,7 +26,7 @@
       "url": "https://importai.substack.com/p/import-ai-462-superpersuasion-self",
       "summary": "How religious are beliefs in the singularity?",
       "source": "Import AI",
-      "time": "16d",
+      "time": "17d",
       "tags": [],
       "published_at": "2026-06-22T12:31:45+00:00"
     },
@@ -35,7 +35,7 @@
       "url": "https://importai.substack.com/p/import-ai-461-alignment-is-not-on",
       "summary": "Where are your agents right now?",
       "source": "Import AI",
-      "time": "23d",
+      "time": "24d",
       "tags": [],
       "published_at": "2026-06-15T11:30:53+00:00"
     }

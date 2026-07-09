@@ -1,23 +1,41 @@
 {
   "source": "Reddit ML",
   "layer": "community",
-  "updated": "2026-07-09T10:00:33+08:00",
+  "updated": "2026-07-10T07:24:36+08:00",
   "items": [
     {
-      "title": "[D] Self-Promotion Thread",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
-      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link",
+      "title": "Journals vs Conferences ML Research [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1urqqk6/journals_vs_conferences_ml_research_r/",
+      "summary": "Lately in the last two/three years, I have noticed ICML, Neurips becoming more prestigious than the actual journals. What is the actual reason of this culture? Is this due to the AI boom and rising de",
       "source": "Reddit ML",
-      "time": "6d",
+      "time": "9h",
       "tags": [],
-      "published_at": "2026-07-02T02:15:27+00:00"
+      "published_at": "2026-07-09T13:44:41+00:00"
+    },
+    {
+      "title": "Talos-XII: hand-written autograd + small RL/MLP stack in Rust, applied to gacha probability modeling (no tch-rs/ndarray/PyTorch) — looking for benchmark help on ARM/AVX-512/GPU [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1urvxgb/talosxii_handwritten_autograd_small_rlmlp_stack/",
+      "summary": "What it is Talos-XII is a CLI simulator for the gacha system in Arknights: Endfield. Rather than sampling from a static probability table, it trains a small set of neural nets to model environment unc",
+      "source": "Reddit ML",
+      "time": "6h",
+      "tags": [],
+      "published_at": "2026-07-09T16:52:11+00:00"
+    },
+    {
+      "title": "I built IMGNet – a face verification model that identifies people using sign patterns, not cosine similarity [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1urxvxh/i_built_imgnet_a_face_verification_model_that/",
+      "summary": "I want to share something I've been building as an independent researcher from Indonesia. TL;DR: Face verification model that replaces cosine similarity with sliding window sign pattern matching. Achi",
+      "source": "Reddit ML",
+      "time": "5h",
+      "tags": [],
+      "published_at": "2026-07-09T18:00:10+00:00"
     },
     {
       "title": "COLM 2026 Decision Discussion [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uqr2ev/colm_2026_decision_discussion_r/",
       "summary": "COLM 2026 Decision about to come soon so lets talk here. &#32; submitted by &#32; /u/North_Menu718 [link] &#32; [comments]",
       "source": "Reddit ML",
-      "time": "13h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-08T12:20:24+00:00"
     },
@@ -26,27 +44,27 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uqtamz/dinov2_way_worse_than_siglip_in_knn_is_this/",
       "summary": "Doing a bachelor thesis on fine-grained car classification (telling apart VW Golf generations from listing photos). Simple setup: frozen encoder → embeddings → weighted k-NN. On my small dataset (175 ",
       "source": "Reddit ML",
-      "time": "12h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-08T13:51:19+00:00"
-    },
-    {
-      "title": "First time ARR users - some questions [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uqx3f6/first_time_arr_users_some_questions_d/",
-      "summary": "We submitted our first paper to ARR, intending to commit to IJCNLP-AACL. Area: Multilingualism and Cross-Lingual NLP Scores: (3,4) (2.5,3) (3,3) - average 2.83 for reviews, 3.33 for confidence 3 for s",
-      "source": "Reddit ML",
-      "time": "9h",
-      "tags": [],
-      "published_at": "2026-07-08T16:06:41+00:00"
     },
     {
       "title": "LingBot-Video: sparse-MoE video diffusion transformer (13B total, 1.4B active) post-trained as an action-conditioned world model[R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ur0bxq/lingbotvideo_sparsemoe_video_diffusion/",
       "summary": "Single-stream diffusion transformer with a DeepSeek-V3-style sparse MoE (128 experts, top-8 routing, 1.4B active of 13B total). Six-reward RL post-training including a physical-plausibility reward, pl",
       "source": "Reddit ML",
-      "time": "8h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-08T17:58:32+00:00"
+    },
+    {
+      "title": "First time ARR users - some questions [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uqx3f6/first_time_arr_users_some_questions_d/",
+      "summary": "We submitted our first paper to ARR, intending to commit to IJCNLP-AACL. Area: Multilingualism and Cross-Lingual NLP Scores: (3,4) (2.5,3) (3,3) - average 2.83 for reviews, 3.33 for confidence 3 for s",
+      "source": "Reddit ML",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-08T16:06:41+00:00"
     },
     {
       "title": "ACL ARR May 2026[D]",
@@ -62,7 +80,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
       "summary": "Hi everyone! I wanted to share some recent progress on TorchJD that might be useful to the machine learning community. When training models with multiple losses (multiple tasks, constraints, auxiliary",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-07T16:20:47+00:00"
     },
@@ -71,7 +89,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uqj6i3/eccv_will_there_be_another_confirmation_after/",
       "summary": "I understand that it may not be appropriate to call it “officially accepted” yet because of the wording used in the notification, and I also saw on Twitter/X that they said they are working on it. How",
       "source": "Reddit ML",
-      "time": "20h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-08T05:12:13+00:00"
     },
@@ -80,34 +98,34 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1upvkp5/phd_thesis_on_differentiable_ray_tracing_for/",
       "summary": "Hi everyone, I recently finished my Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling. Instead of just compiling my published papers, I tried to write it as an accessible, self",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-07T13:45:40+00:00"
-    },
-    {
-      "title": "Agentic safety triggers aren't textual safety triggers — MCP attacks that beat SOTA guardrails more than half the time (code + dataset) [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ur1fnz/agentic_safety_triggers_arent_textual_safety/",
-      "summary": "Most safety alignment work treats &quot;detect the attack&quot; as a text classification problem — does the prompt contain language the model's safety guardrails should catch. That assumption breaks d",
-      "source": "Reddit ML",
-      "time": "7h",
-      "tags": [],
-      "published_at": "2026-07-08T18:36:04+00:00"
     },
     {
       "title": "What if a model could only learn what trusted LoRA adapters can express? [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uq68li/what_if_a_model_could_only_learn_what_trusted/",
       "summary": "Hello I published a paper. Most defenses against fine-tuning poisoning try to detect malicious data or reduce its impact. I explored a different question: What if the model simply could not learn cert",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-07T20:00:11+00:00"
+    },
+    {
+      "title": "Agentic safety triggers aren't textual safety triggers — MCP attacks that beat SOTA guardrails more than half the time (code + dataset) [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ur1fnz/agentic_safety_triggers_arent_textual_safety/",
+      "summary": "Most safety alignment work treats &quot;detect the attack&quot; as a text classification problem — does the prompt contain language the model's safety guardrails should catch. That assumption breaks d",
+      "source": "Reddit ML",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-08T18:36:04+00:00"
     },
     {
       "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/",
       "summary": "We're happy to release MIRA, a collaboration between General Intuition, Kyutai, and Epic Games. Mira was trained on 10k hours of synthetic Rocket League data. The model has 5B parameters and runs for ",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-07T07:59:10+00:00"
     },
@@ -116,27 +134,9 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1upxdvc/raffi_krikorian_cto_mozilla_ama_on_the_state_of/",
       "summary": "Hi r/MachineLearning, i’m Raffi, CTO at Mozilla. on Tuesday July 14 we publish our inaugural State of Open Source AI report, and i'll be here live answering whatever questions you throw at me! AMA tim",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-07T14:51:29+00:00"
-    },
-    {
-      "title": "ICML Position Track: Want Better ML Reviews? Stop Asking Nicely and Start Incentivizing with a Credit System [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1upjftu/icml_position_track_want_better_ml_reviews_stop/",
-      "summary": "“Maybe the real AGI was the friends we made along the way” is a sentiment that always hits me, and conferences are the places where I reunite with old friends and meet new ones. However, when it comes",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-07T03:32:18+00:00"
-    },
-    {
-      "title": "[D] Issue with arxiv - abstract not matching pdf/html [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1upr21d/d_issue_with_arxiv_abstract_not_matching_pdfhtml_d/",
-      "summary": "Hi, I was reading the openRLHF paper: https://arxiv.org/pdf/2501.03262v4 , but when I click the abstract page: https://arxiv.org/abs/2501.03262v4 , it shows &quot;REINFORCE++&quot;. Note that https://",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-07T10:26:18+00:00"
     }
   ]
 }

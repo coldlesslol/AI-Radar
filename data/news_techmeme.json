@@ -1,106 +1,115 @@
 {
   "source": "Techmeme",
   "layer": "news",
-  "updated": "2026-07-09T10:00:05+08:00",
+  "updated": "2026-07-10T07:24:27+08:00",
   "items": [
     {
-      "title": "Block agrees to pay $45M and offer live customer support for Cash App to settle claims by 46 US states that the company failed to protect users from fraud (Daniel Wiessner/Reuters)",
-      "url": "https://www.reuters.com/legal/government/cash-app-parent-settles-states-probe-over-fraud-protections-45-million-2026-07-08/",
-      "summary": "Daniel Wiessner / Reuters: Block agrees to pay $45M and offer live customer support for Cash App to settle claims by 46 US states that the company failed to protect users from fraud&nbsp; &mdash;&nbsp",
+      "title": "Mercor acquires Deeptune, which builds reinforcement learning environments for AI agents, three months after CEO Brendan Foody backed Deeptune's $43M Series A (Lily Mae Lazarus/Fortune)",
+      "url": "https://fortune.com/2026/07/09/ai-unicorn-mercor-acquires-deeptune-brendan-foody-investor-a16z-openai-anthropic/",
+      "summary": "Lily Mae Lazarus / Fortune: Mercor acquires Deeptune, which builds reinforcement learning environments for AI agents, three months after CEO Brendan Foody backed Deeptune's $43M Series A&nbsp; &mdash;",
       "source": "Techmeme",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-09T00:00:52+00:00"
+      "published_at": "2026-07-09T21:55:02+00:00"
     },
     {
-      "title": "The FTC settles with John Deere over a 2025 right-to-repair lawsuit, requiring the company to provide farmers and shops with equipment and software for 10 years (Boone Ashworth/Wired)",
-      "url": "https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/",
-      "summary": "Boone Ashworth / Wired: The FTC settles with John Deere over a 2025 right-to-repair lawsuit, requiring the company to provide farmers and shops with equipment and software for 10 years&nbsp; &mdash;&n",
+      "title": "Coinbase's chief legal officer, Paul Grewal, is stepping down after six years; VP of legal Molly Abraham moves into his role with the title of general counsel (Hannah Lang/Reuters)",
+      "url": "https://www.reuters.com/world/coinbases-top-attorney-who-has-led-cryptos-washington-fight-step-down-2026-07-09/",
+      "summary": "Hannah Lang / Reuters: Coinbase's chief legal officer, Paul Grewal, is stepping down after six years; VP of legal Molly Abraham moves into his role with the title of general counsel&nbsp; &mdash;&nbsp",
+      "source": "Techmeme",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-09T21:20:01+00:00"
+    },
+    {
+      "title": "Federal Reserve Chair Kevin Warsh names Marc Andreessen and Xbox CEO Asha Sharma to lead a task force on the economic impact of new technologies, including AI (Andrew Ackerman/Washington Post)",
+      "url": "https://www.washingtonpost.com/business/2026/07/09/federal-reserve-enlists-marc-andreessen-advise-ai-under-warsh/",
+      "summary": "Andrew Ackerman / Washington Post: Federal Reserve Chair Kevin Warsh names Marc Andreessen and Xbox CEO Asha Sharma to lead a task force on the economic impact of new technologies, including AI&nbsp; ",
+      "source": "Techmeme",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-09T20:45:11+00:00"
+    },
+    {
+      "title": "Google says it will automatically add a disclosure to ads that are made with its AI advertising tools, expanding the disclosure beyond election ads to all ads (Sarah Perez/TechCrunch)",
+      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "summary": "Sarah Perez / TechCrunch: Google says it will automatically add a disclosure to ads that are made with its AI advertising tools, expanding the disclosure beyond election ads to all ads&nbsp; &mdash;&n",
+      "source": "Techmeme",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-09T20:30:09+00:00"
+    },
+    {
+      "title": "PitchBook: US venture funding hit $412.7B in H1 2026, up 30% on all of 2025, with AI startup funding accounting for 86%, or $355.9B; Q2 saw seven $1B+ rounds (Duncan Riley/SiliconANGLE)",
+      "url": "https://siliconangle.com/2026/07/09/pitchbook-us-venture-funding-hits-412-7b-first-half-ai-deals-dominate/",
+      "summary": "Duncan Riley / SiliconANGLE: PitchBook: US venture funding hit $412.7B in H1 2026, up 30% on all of 2025, with AI startup funding accounting for 86%, or $355.9B; Q2 saw seven $1B+ rounds&nbsp; &mdash;",
       "source": "Techmeme",
       "time": "3h",
       "tags": [],
-      "published_at": "2026-07-08T22:25:01+00:00"
+      "published_at": "2026-07-09T20:10:02+00:00"
     },
     {
-      "title": "OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark (OpenAI)",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "summary": "OpenAI: OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark&nbsp; &mdash;&nbsp; Through a d",
+      "title": "Anthropic, set to add usage-based billing for Fable 5 on July 12, aims to return the model to Claude's subscription plans \"when sufficient capacity allows\" (Maxwell Zeff/Wired)",
+      "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+      "summary": "Maxwell Zeff / Wired: Anthropic, set to add usage-based billing for Fable 5 on July 12, aims to return the model to Claude's subscription plans &ldquo;when sufficient capacity allows&rdquo;&nbsp; &mda",
+      "source": "Techmeme",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-09T19:40:01+00:00"
+    },
+    {
+      "title": "The EU Parliament advances a bill letting tech companies scan for CSAM, reviving a proposal rejected in March, with an exemption for E2EE services like WhatsApp (Sam Clark/Politico)",
+      "url": "https://www.politico.eu/article/europes-conservatives-revive-zombie-bill-child-abuse-scanning/",
+      "summary": "Sam Clark / Politico: The EU Parliament advances a bill letting tech companies scan for CSAM, reviving a proposal rejected in March, with an exemption for E2EE services like WhatsApp&nbsp; &mdash;&nbs",
+      "source": "Techmeme",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-09T19:30:29+00:00"
+    },
+    {
+      "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser, in favor of the new ChatGPT desktop app (Zac Hall/9to5Mac)",
+      "url": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/",
+      "summary": "Zac Hall / 9to5Mac: OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser, in favor of the new ChatGPT desktop app&nbsp; &mdash;&nbsp; ChatGPT Atlas, OpenAI's standalone desktop browse",
+      "source": "Techmeme",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-09T19:25:04+00:00"
+    },
+    {
+      "title": "OpenAI merges Codex and ChatGPT desktop apps for Mac and Windows under a new ChatGPT desktop app, allowing users to switch between Codex, Chat, and Work (Zac Hall/9to5Mac)",
+      "url": "https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/",
+      "summary": "Zac Hall / 9to5Mac: OpenAI merges Codex and ChatGPT desktop apps for Mac and Windows under a new ChatGPT desktop app, allowing users to switch between Codex, Chat, and Work&nbsp; &mdash;&nbsp; OpenAI ",
       "source": "Techmeme",
       "time": "4h",
       "tags": [],
-      "published_at": "2026-07-08T21:10:01+00:00"
+      "published_at": "2026-07-09T18:25:01+00:00"
     },
     {
-      "title": "Meta announces its first data center in Canada, a 1GW facility in Alberta that will cost the company about $9B and take two to three years to construct (Jonathan Vanian/CNBC)",
-      "url": "https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html",
-      "summary": "Jonathan Vanian / CNBC: Meta announces its first data center in Canada, a 1GW facility in Alberta that will cost the company about $9B and take two to three years to construct&nbsp; &mdash;&nbsp; Meta",
+      "title": "GPT-5.6 Sol costs $5 per 1M input tokens and $30 per 1M output tokens, GPT-5.6 Terra costs $2.50 and $15, and GPT-5.6 Luna costs $1 and $6 (OpenAI)",
+      "url": "https://openai.com/index/gpt-5-6",
+      "summary": "OpenAI: GPT-5.6 Sol costs $5 per 1M input tokens and $30 per 1M output tokens, GPT-5.6 Terra costs $2.50 and $15, and GPT-5.6 Luna costs $1 and $6&nbsp; &mdash;&nbsp; More intelligence from every toke",
       "source": "Techmeme",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-08T20:00:54+00:00"
+      "published_at": "2026-07-09T17:35:02+00:00"
     },
     {
-      "title": "Grok 4.5 is available in Grok Build, in Cursor, and from the SpaceXAI console, but not in the EU; it costs $2 per 1M input tokens and $6 per 1M output tokens (Axios)",
-      "url": "https://www.axios.com/2026/07/08/spacexai-grok-new-model",
-      "summary": "Axios: Grok 4.5 is available in Grok Build, in Cursor, and from the SpaceXAI console, but not in the EU; it costs $2 per 1M input tokens and $6 per 1M output tokens&nbsp; &mdash;&nbsp; Elon Musk's Spa",
+      "title": "OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows (Axios)",
+      "url": "https://www.axios.com/2026/07/09/ai-openai-gpt-release",
+      "summary": "Axios: OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows&nbsp; &mdash;&nbsp; - Sol is the ",
       "source": "Techmeme",
-      "time": "7h",
+      "time": "6h",
       "tags": [],
-      "published_at": "2026-07-08T18:05:02+00:00"
+      "published_at": "2026-07-09T17:06:46+00:00"
     },
     {
-      "title": "OpenAI rolls out two versions of GPT-Live: GPT-Live-1, powering ChatGPT Voice for Go, Plus, and Pro users, and GPT-Live-1 mini, the default for free users (Sabrina Ortiz/The Deep View)",
-      "url": "https://www.thedeepview.com/articles/how-openai-s-voice-assistant-got-more-natural",
-      "summary": "Sabrina Ortiz / The Deep View: OpenAI rolls out two versions of GPT-Live: GPT-Live-1, powering ChatGPT Voice for Go, Plus, and Pro users, and GPT-Live-1 mini, the default for free users&nbsp; &mdash;&",
+      "title": "Microsoft President Brad Smith says the US now has AI \"regulation without transparent or complete rules\", and adds that \"without rules, businesses can't plan\" (Beatrice Nolan/Fortune)",
+      "url": "https://fortune.com/2026/07/09/microsoft-brad-smith-washingtons-ai-policy-regulation-without-transparent-rules/",
+      "summary": "Beatrice Nolan / Fortune: Microsoft President Brad Smith says the US now has AI &ldquo;regulation without transparent or complete rules&rdquo;, and adds that &ldquo;without rules, businesses can't pla",
       "source": "Techmeme",
-      "time": "8h",
+      "time": "6h",
       "tags": [],
-      "published_at": "2026-07-08T17:14:05+00:00"
-    },
-    {
-      "title": "OpenAI launches GPT-Live, a new generation of voice models built on a full-duplex architecture, meaning they can listen and speak at the same time (OpenAI)",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "summary": "OpenAI: OpenAI launches GPT-Live, a new generation of voice models built on a full-duplex architecture, meaning they can listen and speak at the same time&nbsp; &mdash;&nbsp; A new generation of voice",
-      "source": "Techmeme",
-      "time": "8h",
-      "tags": [],
-      "published_at": "2026-07-08T17:08:24+00:00"
-    },
-    {
-      "title": "Prime Intellect, which helps companies build their own AI agents by offering computing power and specialized tools, raised a $130M Series A at a $1B valuation (Marina Temkin/TechCrunch)",
-      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-      "summary": "Marina Temkin / TechCrunch: Prime Intellect, which helps companies build their own AI agents by offering computing power and specialized tools, raised a $130M Series A at a $1B valuation&nbsp; &mdash;",
-      "source": "Techmeme",
-      "time": "9h",
-      "tags": [],
-      "published_at": "2026-07-08T16:30:01+00:00"
-    },
-    {
-      "title": "Arkenstone Defense, which is building software to handle back-office work for defense tech startups, emerges from stealth with a $35M seed led by J2 Ventures (Barratt Dewey/Tectonic Defense)",
-      "url": "https://www.tectonicdefense.com/exclusive-arkenstone-emerges-with-35m-to-build-defense-techs-back-office/",
-      "summary": "Barratt Dewey / Tectonic Defense: Arkenstone Defense, which is building software to handle back-office work for defense tech startups, emerges from stealth with a $35M seed led by J2 Ventures&nbsp; &m",
-      "source": "Techmeme",
-      "time": "10h",
-      "tags": [],
-      "published_at": "2026-07-08T15:55:00+00:00"
-    },
-    {
-      "title": "China's Nexchip Semiconductor says it aims to raise around $890.37M in its Hong Kong share sale by offering 216.2M shares at ~$4.12/share, the top of its range (Rajasik Mukherjee/Reuters)",
-      "url": "https://www.reuters.com/world/asia-pacific/chinas-nexchip-raise-890-million-hong-kong-share-sale-2026-07-08/",
-      "summary": "Rajasik Mukherjee / Reuters: China's Nexchip Semiconductor says it aims to raise around $890.37M in its Hong Kong share sale by offering 216.2M shares at ~$4.12/share, the top of its range&nbsp; &mdas",
-      "source": "Techmeme",
-      "time": "10h",
-      "tags": [],
-      "published_at": "2026-07-08T15:40:01+00:00"
-    },
-    {
-      "title": "Israeli startup Alta, which develops an AI agent platform for marketing, sales, and business development teams, raised a $25M Series A led by IN Venture (Meir Orbach/CTech)",
-      "url": "https://www.calcalistech.com/ctechnews/article/byylhojqze",
-      "summary": "Meir Orbach / CTech: Israeli startup Alta, which develops an AI agent platform for marketing, sales, and business development teams, raised a $25M Series A led by IN Venture&nbsp; &mdash;&nbsp; The AI",
-      "source": "Techmeme",
-      "time": "10h",
-      "tags": [],
-      "published_at": "2026-07-08T15:25:03+00:00"
+      "published_at": "2026-07-09T16:40:01+00:00"
     }
   ]
 }

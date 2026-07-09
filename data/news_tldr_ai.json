@@ -1,8 +1,17 @@
 {
   "source": "TLDR AI",
   "layer": "newsletter",
-  "updated": "2026-07-09T10:00:34+08:00",
+  "updated": "2026-07-10T07:24:37+08:00",
   "items": [
+    {
+      "title": "Grok 4.5 🤖, GPT-Live 🎙️, SWE-1.7 👨‍💻",
+      "url": "https://tldr.tech/ai/2026-07-09",
+      "summary": "",
+      "source": "TLDR AI",
+      "time": "23h",
+      "tags": [],
+      "published_at": "2026-07-09T00:00:00+00:00"
+    },
     {
       "title": "GPT-5.6 Thursday ⭐️, Claude Cowork mobile 📱, Gemini API agents 🤖",
       "url": "https://tldr.tech/ai/2026-07-08",
@@ -173,15 +182,6 @@
       "time": "27d",
       "tags": [],
       "published_at": "2026-06-12T00:00:00+00:00"
-    },
-    {
-      "title": "Dario Amodei policy 🏛️, DiffusionGemma ⚡, WhatsApp to unblock bots 🤖",
-      "url": "https://tldr.tech/ai/2026-06-11",
-      "summary": "",
-      "source": "TLDR AI",
-      "time": "28d",
-      "tags": [],
-      "published_at": "2026-06-11T00:00:00+00:00"
     }
   ]
 }

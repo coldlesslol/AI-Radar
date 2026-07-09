@@ -1,61 +1,61 @@
 {
   "source": "NVIDIA",
   "layer": "company",
-  "updated": "2026-07-09T10:00:58+08:00",
+  "updated": "2026-07-10T07:24:57+08:00",
   "items": [
     {
       "title": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters - SemiAnalysis",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRMzZBLVVubkluVkNDXzRtX0Z3U0hDVnFiek9YUTFKeUdpVVAzVHQwRXlRS0lGM2wtNGJka3ZiQ3BsNkQzdllNSGx5dGctZWFiZF9RYzI4SkpUYU5mcTFIWWYwdGJ6T2hEbkZNbWJYTWJLQW10ZDQxN2p2alI?oc=5",
       "summary": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters&nbsp;&nbsp;SemiAnalysis",
       "source": "NVIDIA",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-06T21:54:51+00:00"
-    },
-    {
-      "title": "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks - The Register",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcXVRcUY5emNsRk4ybXE3WU1sWGJpNElJU0R2Q1Z5SElqYjRMeFJkd2NaTXFHLTBLT2NEcUlEcGNWVy1SN3hTbUtOMmNqSENja2FLOFFMVkN1NHRTalNlMHRXdkpvRTV1cEx5VTZDYThnMHp6ZjJtb3RFQjhsOXRTRnc5WFhYSWF0LUlWVlRmRmN5M2xTbXpPYjRrdENLeVZ6SHdOZjltYk9lVFBfNlVob0VrTUZ1SHpVd01lc0U4SW9sVTA0NDBpZ2hhSnJCbFI2ZkMtUnBLNVFybnFnclhLT1FXQVBXTF8yNFhnNkNR?oc=5",
-      "summary": "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks&nbsp;&nbsp;The Register",
-      "source": "NVIDIA",
-      "time": "5h",
-      "tags": [],
-      "published_at": "2026-07-08T20:19:03+00:00"
-    },
-    {
-      "title": "Parasail Adopts Heterogeneous AI Inference with d-Matrix Corsair and NVIDIA GPUs - HPCwire",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHRqc2ZGcDd1QnFxT2FXenhfRG54YmxrSmN5MjlPWTRaeVM5eVZrLU9TaGM2bHdvRmJTelgwXzVRT0VKWlFnODR6Y0RNcmw0Vld0M3FkbkFTTHhfZ1JScXZtNjJHYl9NRGF6ZHBtajNVbWhxT01uVmxiZE01S1BvOTNweUV1c1lBRU5RY1pmWHJsNl92d1FkX0VEMDQyVGxwS0pweU9qVEFKXzNzMHFXUFlRRERSU0JlS3c?oc=5",
-      "summary": "Parasail Adopts Heterogeneous AI Inference with d-Matrix Corsair and NVIDIA GPUs&nbsp;&nbsp;HPCwire",
-      "source": "NVIDIA",
-      "time": "3h",
-      "tags": [],
-      "published_at": "2026-07-08T22:28:26+00:00"
-    },
-    {
-      "title": "3 of the Top 5 Performers in the S&P 500 in the First Half Offer 1 Particular Thing for AI Customers. (Hint: It Isn't the GPU, and Nvidia Isn't Among Them.) - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWE0d3p0UHpOdHpFSUNzSkIyWmxKNGVlT2Z3Vkkta0lSRklvMGtnNC1jQWk0aExNN2c5VWozWUFQVjFzalY5ZHY5cnR2SjAyaHJ4bzhtSjNBX1pscjIzR3hxOHd3RTRkdDY2UExNanZKYWxYYkh0YnZBUFNKblRnUzJsR210ejZXOHpJQQ?oc=5",
-      "summary": "3 of the Top 5 Performers in the S&amp;P 500 in the First Half Offer 1 Particular Thing for AI Customers. (Hint: It Isn't the GPU, and Nvidia Isn't Among Them.)&nbsp;&nbsp;Yahoo Finance",
-      "source": "NVIDIA",
-      "time": "17h",
-      "tags": [],
-      "published_at": "2026-07-08T08:22:00+00:00"
     },
     {
       "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
       "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer",
       "source": "NVIDIA",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-07T15:13:37+00:00"
     },
     {
-      "title": "Intel’s Arc Pro B70 Beats NVIDIA’s RTX 5090D In DeepSeek R1 AI LLM, Despite Costing A Quarter As Much, Offers Over 2000 Tokens/s - Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1F0SmRnbDdQaHZQLWF0UkJrbk96OHhhaElmVktEdDdjOXdqeGJNWUNBb2xHa1g2U0o0dHFYRjFBWTBzNGFoVm5WT3Mxb1R4akN6ZkxpS2RrdUlNVEpwMlc0NVBnX3JqX0o1ZFBRbTBiSXNZNnVOWEVjcGdUbVIxVmV1YkUzRHhQOHRxbVZVXzFDSzFscUFZckhxSTNhbXZEQzJkYndNM1HSAa4BQVVfeXFMTlF3NUFVejRERlZtMDJDZkplVVdtOUhEMURZSmVCQlV0R0d0cTNRV2lMWndMbFpBWGxPdTl4M0U1RDJETjhTcm1TR2xDUFFhVWstVGt6NnJqWXNlaGh0MnJVa2ZaS2xGclg4T2luQ0s1UlpNZ3ZIbnZtRERXZ2FzSWtIbDlESGtDbC1RMGF6SzFUZ3gxbW93N3ExMktTeEg2V2llcGREWk9QVFUzUkhB?oc=5",
-      "summary": "Intel’s Arc Pro B70 Beats NVIDIA’s RTX 5090D In DeepSeek R1 AI LLM, Despite Costing A Quarter As Much, Offers Over 2000 Tokens/s&nbsp;&nbsp;Wccftech",
+      "title": "The 8 Best Features That Come With NVIDIA GPUs - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wV3c4aHZYU19aQ1NmMkhEV0Z1WTl1SzVjaHJheG12SmJDbUdZNGtUMGNzUmszTVE4b0VDcmJuTjd2VjAzTUpDUE51cEo4SGlrdURRV0ZtTGY1Y19GVzFiM3pwaw?oc=5",
+      "summary": "The 8 Best Features That Come With NVIDIA GPUs&nbsp;&nbsp;bgr.com",
       "source": "NVIDIA",
-      "time": "13h",
+      "time": "9h",
       "tags": [],
-      "published_at": "2026-07-08T12:10:04+00:00"
+      "published_at": "2026-07-09T14:02:00+00:00"
+    },
+    {
+      "title": "No One Can Afford to Buy Hardware, So Nvidia Made Trading Cards to Reminisce About the Good Times - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdkVmUTh4RE9Lc1lKUVZCNlRvMkswSzhsNEVOX0c0ekZBMXpCY205azhHZ1lwMnBvLTFmRVk2X0ctVzgxMjJGRl9rNkRmZy1xODFhUG1NV1pOc1NQZjAtN3E2bGdrMlpIcUhLa2Y1MTlyVWhMT25fX3NxLXE2MEc3bTlEUGZEeVZfTE5tNDFPclNLcVpNVWxQX3JDU2JLemFYMnFjZVZ4Vm1yLWc5OXhpSXNNa3ZEQjhOQzk5RURja2JDbUFWNmc?oc=5",
+      "summary": "No One Can Afford to Buy Hardware, So Nvidia Made Trading Cards to Reminisce About the Good Times&nbsp;&nbsp;Gizmodo",
+      "source": "NVIDIA",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-09T20:15:20+00:00"
+    },
+    {
+      "title": "NVIDIA Pairs Revenue Sharing With Credit Support to Finance AI Cloud Buildouts - StorageReview.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnBXWHRyZThZZXhKZEN0cVR0MTZ2RUF1TG40ck51a1g5R19KVjVXcDFFR2NIcVdYUUxNMktnMC1BU3gtSU5qWUNGX01UcklZbnlIS2xmWjNLNkxzV1BPeGluV054ME9TdnNRSmhibFJTRXlkMG5kQy1oSkozY3hFeUxDbEpaYzNGRXBTdVdyWHg0VGJwNmx2R3ZoRkk0N25MVE5FbE12QmlfdC1VRDNFS0JaVdIBuAFBVV95cUxNd0d5dHo2TlNMeC1XTkl6Wk5Vb2VkWUFFZXZUQ2dLWDlDTWxwR1d5MzI0TWxmU3JCU2xRdE1PNlZlbldsV1UwZDcwemtoaEM4ME80Y3IwWS1oT2pBU294eEV2X2NzUHNxZ05Ia1RBQnN3dlBzSDBTdmRfTXZ1cEw3c1k4aXdYQ3c1cTQzWUJNV2dTdUVXSVgyRVpYTmUwWnpIOUluVUN1UGJNZTFtbldUOHlYS0NSMWFB?oc=5",
+      "summary": "NVIDIA Pairs Revenue Sharing With Credit Support to Finance AI Cloud Buildouts&nbsp;&nbsp;StorageReview.com",
+      "source": "NVIDIA",
+      "time": "8h",
+      "tags": [],
+      "published_at": "2026-07-09T14:41:24+00:00"
+    },
+    {
+      "title": "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks - The Register",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcXVRcUY5emNsRk4ybXE3WU1sWGJpNElJU0R2Q1Z5SElqYjRMeFJkd2NaTXFHLTBLT2NEcUlEcGNWVy1SN3hTbUtOMmNqSENja2FLOFFMVkN1NHRTalNlMHRXdkpvRTV1cEx5VTZDYThnMHp6ZjJtb3RFQjhsOXRTRnc5WFhYSWF0LUlWVlRmRmN5M2xTbXpPYjRrdENLeVZ6SHdOZjltYk9lVFBfNlVob0VrTUZ1SHpVd01lc0U4SW9sVTA0NDBpZ2hhSnJCbFI2ZkMtUnBLNVFybnFnclhLT1FXQVBXTF8yNFhnNkNR?oc=5",
+      "summary": "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks&nbsp;&nbsp;The Register",
+      "source": "NVIDIA",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-08T20:19:03+00:00"
     }
   ]
 }

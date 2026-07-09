@@ -1,14 +1,23 @@
 {
   "source": "Latent Space",
   "layer": "newsletter",
-  "updated": "2026-07-09T10:00:36+08:00",
+  "updated": "2026-07-10T07:24:43+08:00",
   "items": [
+    {
+      "title": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
+      "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
+      "summary": "SpaceXAI continues to move faster than any other frontier lab on earth.",
+      "source": "Latent Space",
+      "time": "17h",
+      "tags": [],
+      "published_at": "2026-07-09T06:05:41+00:00"
+    },
     {
       "title": "Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO",
       "url": "https://www.latent.space/p/modal2026",
       "summary": "2 years after our first coverage, we return with Modal's other cofounder to explore why Agent Experience is working now, and everything they have learned building the new agent cloud.",
       "source": "Latent Space",
-      "time": "3h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-08T22:55:07+00:00"
     },
@@ -17,7 +26,7 @@
       "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
       "summary": "a quiet day lets us read some condensed insight",
       "source": "Latent Space",
-      "time": "23h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-08T02:20:25+00:00"
     },
@@ -26,7 +35,7 @@
       "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
       "summary": "a quiet day lets us digest the world's most significant model launch... to date.",
       "source": "Latent Space",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-07T04:44:53+00:00"
     },
@@ -35,7 +44,7 @@
       "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
       "summary": "The AI Engineer World&#8217;s Fair ended with a debate about loops, a report on the state of AI engineering, and closing keynotes focused on what to build next.",
       "source": "Latent Space",
-      "time": "5d",
+      "time": "6d",
       "tags": [],
       "published_at": "2026-07-03T05:11:43+00:00"
     },
@@ -53,7 +62,7 @@
       "url": "https://www.latent.space/p/the-website-of-the-future",
       "summary": "Adobe is experimenting with &#8220;agentic sites&#8221; that generate pages around an individual user&#8217;s intent. At AIEWF, we talked to Carlos Sanchez about the Web's future.",
       "source": "Latent Space",
-      "time": "6d",
+      "time": "7d",
       "tags": [],
       "published_at": "2026-07-02T21:25:14+00:00"
     },
@@ -62,7 +71,7 @@
       "url": "https://www.latent.space/p/skill-engineering-design",
       "summary": "Paul Bakaus talks to us about Impeccable, human judgment in a 'loopmaxxing' era, and why agents still need people to steer them.",
       "source": "Latent Space",
-      "time": "6d",
+      "time": "7d",
       "tags": [],
       "published_at": "2026-07-02T14:36:05+00:00"
     },
@@ -71,7 +80,7 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-900",
       "summary": "another quiet day.",
       "source": "Latent Space",
-      "time": "6d",
+      "time": "7d",
       "tags": [],
       "published_at": "2026-07-02T07:10:14+00:00"
     },
@@ -80,18 +89,9 @@
       "url": "https://www.latent.space/p/aiewf-daily-dispatch-agency",
       "summary": "The software factory vision met resistance today from speakers defending human understanding and control.",
       "source": "Latent Space",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-02T06:13:49+00:00"
-    },
-    {
-      "title": "Autoresearch: The feedback loop behind self-improving agents",
-      "url": "https://www.latent.space/p/autoresearch-introspection",
-      "summary": "Introspection co-founder Roland Gavrilescu explains autoresearch, agent &#8220;recipes,&#8221; self-improving loops, and why humans remain central to the software factory.",
-      "source": "Latent Space",
       "time": "7d",
       "tags": [],
-      "published_at": "2026-07-01T23:52:30+00:00"
+      "published_at": "2026-07-02T06:13:49+00:00"
     }
   ]
 }

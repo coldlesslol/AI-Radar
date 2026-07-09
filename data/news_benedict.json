@@ -1,6 +1,16 @@
 {
   "source": "Benedict Evans",
   "layer": "newsletter",
-  "updated": "2026-07-09T10:00:50+08:00",
-  "items": []
+  "updated": "2026-07-10T07:24:48+08:00",
+  "items": [
+    {
+      "title": "Ways to think about token pricing",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "summary": "AI is in a supply crunch today, but what happens when we come out of it? How and where will supply, demand, price, capacity and capex get back into equilibrium? Today, model labs can name their price,",
+      "source": "Benedict Evans",
+      "time": "9h",
+      "tags": [],
+      "published_at": "2026-07-09T14:15:51+00:00"
+    }
+  ]
 }

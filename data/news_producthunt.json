@@ -1,43 +1,70 @@
 {
   "source": "Product Hunt",
   "layer": "news",
-  "updated": "2026-07-09T10:00:51+08:00",
+  "updated": "2026-07-10T07:24:48+08:00",
   "items": [
     {
-      "title": "Willow Frontier Pro",
-      "url": "https://www.producthunt.com/products/willow-voice",
-      "summary": "The fastest, most accurate dictation model in the world Discussion | Link",
+      "title": "Opper AI",
+      "url": "https://www.producthunt.com/products/opper-ai",
+      "summary": "The european AI gateway for agents Discussion | Link",
+      "source": "Product Hunt",
+      "time": "3d",
+      "tags": [],
+      "published_at": "2026-07-06T16:51:59+00:00"
+    },
+    {
+      "title": "Coasty",
+      "url": "https://www.producthunt.com/products/coasty",
+      "summary": "A Computer-Use-Agent that runs legacy software like a human Discussion | Link",
       "source": "Product Hunt",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-08T01:32:13+00:00"
+      "published_at": "2026-07-08T18:52:30+00:00"
     },
     {
-      "title": "Knowledge Atlas by Fini",
-      "url": "https://www.producthunt.com/products/fini-2",
-      "summary": "The self-learning knowledge base that improves itself Discussion | Link",
+      "title": "Constellation Gate AI",
+      "url": "https://www.producthunt.com/products/gate-ai-2",
+      "summary": "Prompt injection and token savings - #1 in benchmarks Discussion | Link",
       "source": "Product Hunt",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-07T13:22:43+00:00"
+      "published_at": "2026-07-08T16:11:45+00:00"
     },
     {
-      "title": "Eodly",
-      "url": "https://www.producthunt.com/products/eodly",
-      "summary": "Know what your team actually shipped today Discussion | Link",
-      "source": "Product Hunt",
-      "time": "5d",
-      "tags": [],
-      "published_at": "2026-07-03T06:39:56+00:00"
-    },
-    {
-      "title": "Compendium",
-      "url": "https://www.producthunt.com/products/compendium-2",
-      "summary": "Keeping your team, agents, and data on one page Discussion | Link",
+      "title": "Just Ask by SEORCE",
+      "url": "https://www.producthunt.com/products/seorce",
+      "summary": "Talk to your SEO & AI Visibility data on WhatsApp. Discussion | Link",
       "source": "Product Hunt",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-07T08:15:49+00:00"
+      "published_at": "2026-07-08T09:13:36+00:00"
+    },
+    {
+      "title": "Auriko",
+      "url": "https://www.producthunt.com/products/auriko",
+      "summary": "Trading desk for LLM calls Discussion | Link",
+      "source": "Product Hunt",
+      "time": "4d",
+      "tags": [],
+      "published_at": "2026-07-05T23:00:28+00:00"
+    },
+    {
+      "title": "Lispr",
+      "url": "https://www.producthunt.com/products/lispr",
+      "summary": "Hold a key, speak, and Lispr writes it anywhere Discussion | Link",
+      "source": "Product Hunt",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-07T21:02:15+00:00"
+    },
+    {
+      "title": "GPT-Live",
+      "url": "https://www.producthunt.com/products/openai",
+      "summary": "Full-duplex voice for ChatGPT Discussion | Link",
+      "source": "Product Hunt",
+      "time": "19h",
+      "tags": [],
+      "published_at": "2026-07-09T03:32:35+00:00"
     },
     {
       "title": "LemonLime",
@@ -53,90 +80,63 @@
       "url": "https://www.producthunt.com/products/agents-cli",
       "summary": "The CLI your coding agent uses to ship agents Discussion | Link",
       "source": "Product Hunt",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-07T15:49:18+00:00"
     },
     {
-      "title": "Zoho Tables",
-      "url": "https://www.producthunt.com/products/zoho-tables",
-      "summary": "Smarter way to manage work and data. Discussion | Link",
+      "title": "Compendium",
+      "url": "https://www.producthunt.com/products/compendium-2",
+      "summary": "Keeping your team, agents, and data on one page Discussion | Link",
       "source": "Product Hunt",
       "time": "2d",
       "tags": [],
-      "published_at": "2026-07-06T06:04:23+00:00"
+      "published_at": "2026-07-07T08:15:49+00:00"
+    },
+    {
+      "title": "Eodly",
+      "url": "https://www.producthunt.com/products/eodly",
+      "summary": "Know what your team actually shipped today Discussion | Link",
+      "source": "Product Hunt",
+      "time": "6d",
+      "tags": [],
+      "published_at": "2026-07-03T06:39:56+00:00"
+    },
+    {
+      "title": "Knowledge Atlas by Fini",
+      "url": "https://www.producthunt.com/products/fini-2",
+      "summary": "The self-learning knowledge base that improves itself Discussion | Link",
+      "source": "Product Hunt",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-07T13:22:43+00:00"
+    },
+    {
+      "title": "Willow Frontier Pro",
+      "url": "https://www.producthunt.com/products/willow-voice",
+      "summary": "The fastest, most accurate dictation model in the world Discussion | Link",
+      "source": "Product Hunt",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-08T01:32:13+00:00"
     },
     {
       "title": "LongCat-2.0",
       "url": "https://www.producthunt.com/products/longcat",
       "summary": "1.6T MoE trained entirely on AI ASICs Discussion | Link",
       "source": "Product Hunt",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-07T06:27:32+00:00"
     },
     {
-      "title": "AirKaren",
-      "url": "https://www.producthunt.com/products/airkaren",
-      "summary": "AI that fights customer service for you Discussion | Link",
-      "source": "Product Hunt",
-      "time": "5d",
-      "tags": [],
-      "published_at": "2026-07-03T17:56:07+00:00"
-    },
-    {
-      "title": "Mozaik",
-      "url": "https://www.producthunt.com/products/mozaik-4",
-      "summary": "TypeScript runtime for self-organizing AI agents Discussion | Link",
+      "title": "Zoho Tables",
+      "url": "https://www.producthunt.com/products/zoho-tables",
+      "summary": "Smarter way to manage work and data. Discussion | Link",
       "source": "Product Hunt",
       "time": "3d",
       "tags": [],
-      "published_at": "2026-07-05T12:31:38+00:00"
-    },
-    {
-      "title": "Nixmac",
-      "url": "https://www.producthunt.com/products/nixmac",
-      "summary": "Nix-darwin that speaks plain English Discussion | Link",
-      "source": "Product Hunt",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-05T13:33:34+00:00"
-    },
-    {
-      "title": "CodeMote",
-      "url": "https://www.producthunt.com/products/codemote-remote-control-for-any-ai",
-      "summary": "Claude Code, Codex, any CLI agent. Driven from your iPhone Discussion | Link",
-      "source": "Product Hunt",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-05T13:39:06+00:00"
-    },
-    {
-      "title": "Edgee Claude Code Compressor V2",
-      "url": "https://www.producthunt.com/products/edgee",
-      "summary": "Fewer tokens, same context, 50% cost reduction Discussion | Link",
-      "source": "Product Hunt",
-      "time": "5d",
-      "tags": [],
-      "published_at": "2026-07-03T04:38:17+00:00"
-    },
-    {
-      "title": "Typeahead 2.0",
-      "url": "https://www.producthunt.com/products/typeahead",
-      "summary": "Private AI autocomplete for every app on your Mac Discussion | Link",
-      "source": "Product Hunt",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-02T21:39:18+00:00"
-    },
-    {
-      "title": "Termi Protocol",
-      "url": "https://www.producthunt.com/products/termi-protocol",
-      "summary": "Watch your AI coding agents build, live in 3D Discussion | Link",
-      "source": "Product Hunt",
-      "time": "5d",
-      "tags": [],
-      "published_at": "2026-07-03T21:14:15+00:00"
+      "published_at": "2026-07-06T06:04:23+00:00"
     }
   ]
 }

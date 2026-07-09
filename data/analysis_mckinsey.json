@@ -1,8 +1,35 @@
 {
   "source": "McKinsey",
   "layer": "analysis",
-  "updated": "2026-07-09T10:00:57+08:00",
+  "updated": "2026-07-10T07:24:54+08:00",
   "items": [
+    {
+      "title": "Agents, robots, and us: How AI reshapes work and skills in Latin America",
+      "url": "https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-latin-america",
+      "summary": "Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.",
+      "source": "McKinsey",
+      "time": "23h",
+      "tags": [],
+      "published_at": "2026-07-09T00:00:00+00:00"
+    },
+    {
+      "title": "Author Talks: In Hollywood and in business, it’s cool to be kind",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-in-hollywood-and-in-business-its-cool-to-be-kind",
+      "summary": "In Lead with Kindness, television writer and producer Melinda Hsu explores how so-called soft skills like empathy, mindfulness, and collaboration can result in better business relationships and perfor",
+      "source": "McKinsey",
+      "time": "23h",
+      "tags": [],
+      "published_at": "2026-07-09T00:00:00+00:00"
+    },
+    {
+      "title": "The real AI advantage",
+      "url": "https://www.mckinsey.com/mgi/our-research/the-real-ai-advantage",
+      "summary": "The next wave of value from AI will flow to those leaders who redesign business models, eliminate friction, and build organizations that learn faster than the competition.",
+      "source": "McKinsey",
+      "time": "23h",
+      "tags": [],
+      "published_at": "2026-07-09T00:00:00+00:00"
+    },
     {
       "title": "From adoption to impact: Three horizons of AI transformation",
       "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/from-adoption-to-impact-three-horizons-of-ai-transformation",
@@ -61,33 +88,6 @@
       "title": "Why accelerated resource allocation matters in the age of AI",
       "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/why-accelerated-resource-allocation-matters-in-the-age-of-ai",
       "summary": "In an era of rapid AI disruption, the winners may not be the companies that predict the future most accurately, but those that learn, reallocate resources, and adapt faster than their competitors.",
-      "source": "McKinsey",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-06T00:00:00+00:00"
-    },
-    {
-      "title": "Building America’s innovation engine: An interview with David Lebryk",
-      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/building-americas-innovation-engine-an-interview-with-david-lebryk",
-      "summary": "The former US Treasury official shares how government can deliver in moments of crisis and how America’s public–private sector dynamic can help fuel its next era of growth.",
-      "source": "McKinsey",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-06T00:00:00+00:00"
-    },
-    {
-      "title": "A microscope on small businesses: Chile’s productivity opportunity",
-      "url": "https://www.mckinsey.com/featured-insights/americas/a-microscope-on-small-businesses-chiles-productivity-opportunity",
-      "summary": "Overcoming scale-related barriers and strengthening ties with other firms—both large and small—can help small businesses in Chile maximize their potential and narrow the productivity gap.",
-      "source": "McKinsey",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-06T00:00:00+00:00"
-    },
-    {
-      "title": "How Covista is changing education for healthcare professionals",
-      "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/how-covista-is-changing-education-for-healthcare-professionals",
-      "summary": "Chairman and CEO Steve Beard explains how the organization’s multiyear transformation has reshaped its purpose, structure, and culture.",
       "source": "McKinsey",
       "time": "3d",
       "tags": [],

@@ -1,61 +1,61 @@
 {
   "source": "Alphabet",
   "layer": "company",
-  "updated": "2026-07-09T10:01:00+08:00",
+  "updated": "2026-07-10T07:24:59+08:00",
   "items": [
     {
       "title": "Opinion | The Problem With Google’s A.I. Overview - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2hHU2dKeTFxODhsWlUtS1UwSkRxUUtIRlFZbnJhcllYbDhGUTlYdzZmRFJPQ0xtR2Y0VGxva0RoUXdrZHExRDl4cmVwdmVNWDhLY3R5Sk5oekdfeDZEaWM4dFNDQi10NzBKYkNQRTVJcHRlZGhySUcycUhKdm5xaFhpMWhkaHhS?oc=5",
       "summary": "Opinion | The Problem With Google’s A.I. Overview&nbsp;&nbsp;The New York Times",
       "source": "Alphabet",
-      "time": "21h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-08T05:00:03+00:00"
     },
     {
-      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more - blog.google",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWp1bmwzWlpab184NHhzWFVPUWFCOVlvcGxTcldnUEdUbjl1Q0hnRlpMQ2N2VjBPVUoyNC1jRloxZVJyNVZkSy1lNmFJRW16bFZMNHVIUjFSR1R1THZ3WVZubEdRVmQ4TjVFM0c3SkM4cGdHRjQyRENCWmN5SEpnWFJhelFGTVN5OEVXM2VKV1BOTTJxSkw0V0NBM1UxTXNGVHZuQQ?oc=5",
-      "summary": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more&nbsp;&nbsp;blog.google",
+      "title": "I was tired of repeating myself to AI — so I built 5 Gemini Gems that already know what I want - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbWJUbkNIdTcxdTV4ckhIemppeE5jdWZtOGhlV3E2MEl6S2NwbHFudGhzWDZkY0gwTGN2U2xHZXJLN0kxSkd6U1pmWjYwdFZrVS1BQ0stYUdjRGE4VmJ4dGpJZzdkZUJ5NFR5VEYya21BcUlncVBBV05pLWtJWnc2OWI5TUJHWWpBeXhUUWJ2cHk1a3pUSzc4eW5GV1B6aFg2bVhLaDI2RGxEcmd5Z21aTGphVGxFVWNobEZfeGJ1UDBxekNZV2dveUV3T0NHTWlsQnhJ?oc=5",
+      "summary": "I was tired of repeating myself to AI — so I built 5 Gemini Gems that already know what I want&nbsp;&nbsp;TechRadar",
       "source": "Alphabet",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
-      "published_at": "2026-07-07T16:48:55+00:00"
+      "published_at": "2026-07-07T15:59:03+00:00"
+    },
+    {
+      "title": "Why Google fell behind in the AI race : The Indicator from Planet Money - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY2V5T1lVY2h1dnkzNmxUa1VJT1B3SkN1cUxpT2tLX0JRc1FVSHNCMTZFejFwaVFFX2x1Zll0SE9OS2ZUNklvVEZFeEpwRmNDM0pfSjdFZDVvQ0MzNm1xdFFnU2J2ZUlnc2puSDdyWmhnREZDcVpGT0RhMXJMVWNpTFZhRllwLTVBRmc?oc=5",
+      "summary": "Why Google fell behind in the AI race : The Indicator from Planet Money&nbsp;&nbsp;NPR",
+      "source": "Alphabet",
+      "time": "16h",
+      "tags": [],
+      "published_at": "2026-07-09T07:00:00+00:00"
     },
     {
       "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind - Ars Technica",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ3hDLTB4Q01JVkZNb0VkSVBRWkkxeFlLZlJBV091N2FLRmdLaHBPQ2NPWWNWTE56ZEpERmYxZEUyd0dMRUlTZmZKeEVPRjVISi15bXJVOHRWY0Z1UllHYVlPcVF3dUEwd0dfbzlYVWZaeVJTZDV5WkJFM1M2eEtsdFVwSzlwRlN5THRPSlUweDZkSURDS2VRazdqNFBreW5lUmVpNlVpZExUMmZtdUE?oc=5",
       "summary": "Google updates Android Bench with new LLMs, but Gemini still lags behind&nbsp;&nbsp;Ars Technica",
       "source": "Alphabet",
-      "time": "9h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-08T16:39:48+00:00"
     },
     {
-      "title": "Google Announces New 'Video Remix' Feature Its For AI Subscribers - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFhBX2xneXN3SlFzZnVxM0FSLU4wNEhXLXl0WjBvRDFjSDhSdFdWeE16S3N2Q3BXNEJ4UjZoc0hBVGlDazZtTGNNTXM2MHJsd21yMjBFbk1aOUFhZjhVX3NBVUswRXFtZ3VqVEZzRkRnazN2TjRYTklmVm8yUm5KMHJRRjRFSDRxM04zMnk2ZVNtNjlzS2hENg?oc=5",
-      "summary": "Google Announces New 'Video Remix' Feature Its For AI Subscribers&nbsp;&nbsp;Engadget",
+      "title": "You Can Now Remix Your Google Photos Into Stylized Videos With Gemini Omni - CNET",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMm84ejZiUDYwTXRDckNnelVza1ZCVXdGLVV5ZW1aRVNIYmhlN19sZ0haSDJGVFVRMEEtRlBWVEVER3NocDJ2Mko2N3BSTGRLWFlKY3lBNHFERDhwTHN2N19GcGJKV0ZQNUJUVjlzLWRrem9nYUZyMFA1T3daWWFxcGhfQlZEc0ZaZTdIQlhmUDBQLUJNUjFUZ21n?oc=5",
+      "summary": "You Can Now Remix Your Google Photos Into Stylized Videos With Gemini Omni&nbsp;&nbsp;CNET",
       "source": "Alphabet",
-      "time": "9h",
+      "time": "1d",
       "tags": [],
-      "published_at": "2026-07-08T17:00:00+00:00"
+      "published_at": "2026-07-08T20:25:00+00:00"
     },
     {
-      "title": "From hidden menus to frustrating trade-offs, our complete comparison of major AI chatbot privacy controls shows exactly how ChatGPT, Google Gemini, and others track your chats and what you can do to stop them - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYzlrbTZRNUg3NU5ZMll6M3pxOEpWVEpiNjE2OGJ6VXpLczRFOHRLMmQ4T1RmYVkxdnRNY29oZ3VXZjVWVUt5TjVnU0pJWjloRUN4ZW4tenlfYTNUMmNMM05rZUtHM1FvQkltcXNSOTlHQWxRUzBURFljenA2b3p6VnM5WWJhcEpvYmhXXzZDNDc3Qlo4QTBybHNGc1Jjb0pVNDR6SHFTLWVHQzQ1M1lnN3NwTGoyYXg5?oc=5",
-      "summary": "From hidden menus to frustrating trade-offs, our complete comparison of major AI chatbot privacy controls shows exactly how ChatGPT, Google Gemini, and others track your chats and what you can do to s",
+      "title": "Sony’s Indian Version of ‘Who Wants to Be a Millionaire?’ Hosted by Amitabh Bachchan, Adds Google Gemini as AI Guide (EXCLUSIVE) - Variety",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnJaTjBHMVVMUzFvVnA4ODVyTG14eHIzZHp1R3F1UlpmSUhlUWlvWU9YQ1RnUGJoVnZDbTVHclZ6UGx3NG96YXk5dXFnS0o0RGtDLVBkQVpYRTZpdEQ1QVZWbHJta2lhQnRZY3RCTkFRcG95YjJ1LUtyNHhGNDFZUGlrRDhxcmdjNW5ObQ?oc=5",
+      "summary": "Sony’s Indian Version of ‘Who Wants to Be a Millionaire?’ Hosted by Amitabh Bachchan, Adds Google Gemini as AI Guide (EXCLUSIVE)&nbsp;&nbsp;Variety",
       "source": "Alphabet",
-      "time": "5h",
+      "time": "6h",
       "tags": [],
-      "published_at": "2026-07-08T20:06:39+00:00"
-    },
-    {
-      "title": "People think Google is feeding their photos to Gemini, but the reality is worse - How-To Geek",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTU4YkxhOE5kOXFfb1FKLVJNNVdqX2JlSS1hVGhBdUZFb3NubzRLOVE1Z0IwLVZnN01hRTZDMTdyVHRKUU13aGpEbHE3Z0R3cmFGM2RxWWhGdnpZTXg5cGhsZWxzbDd5dkJGTTFReloyWFFnOEViWWIyN1RKVFc5c2I3VGR6MGsxbkxseURKSkNYbDl3LUpKTmlyZmR2cWZoVC1DWG5XNTk?oc=5",
-      "summary": "People think Google is feeding their photos to Gemini, but the reality is worse&nbsp;&nbsp;How-To Geek",
-      "source": "Alphabet",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-06T15:16:18+00:00"
+      "published_at": "2026-07-09T16:47:00+00:00"
     }
   ]
 }
