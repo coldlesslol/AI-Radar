@@ -1,14 +1,23 @@
 {
   "source": "The Verge",
   "layer": "news",
-  "updated": "2026-07-08T10:00:17+08:00",
+  "updated": "2026-07-09T10:00:06+08:00",
   "items": [
+    {
+      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to co",
+      "source": "The Verge",
+      "time": "9h",
+      "tags": [],
+      "published_at": "2026-07-08T17:00:00+00:00"
+    },
     {
       "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
       "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
       "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsAp",
       "source": "The Verge",
-      "time": "5h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-07T20:31:58+00:00"
     },
@@ -17,7 +26,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
       "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users o",
       "source": "The Verge",
-      "time": "8h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-07T17:46:59+00:00"
     },
@@ -26,7 +35,7 @@
       "url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
       "summary": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 gra",
       "source": "The Verge",
-      "time": "13h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-07T13:00:00+00:00"
     },
@@ -35,7 +44,7 @@
       "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
       "summary": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first t",
       "source": "The Verge",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-06T16:00:00+00:00"
     },
@@ -44,7 +53,7 @@
       "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
       "summary": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately",
       "source": "The Verge",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-06T13:30:00+00:00"
     },
@@ -53,7 +62,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
       "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, ",
       "source": "The Verge",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-05T22:30:54+00:00"
     },
@@ -62,7 +71,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
       "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turn",
       "source": "The Verge",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-05T14:23:11+00:00"
     },
@@ -71,7 +80,7 @@
       "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
       "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer co",
       "source": "The Verge",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-04T12:00:00+00:00"
     },
@@ -80,18 +89,9 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
       "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an",
       "source": "The Verge",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-03T13:56:52+00:00"
-    },
-    {
-      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-      "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk",
-      "source": "The Verge",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-07-03T11:49:10+00:00"
     }
   ]
 }

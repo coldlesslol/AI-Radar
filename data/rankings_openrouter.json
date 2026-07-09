@@ -2,83 +2,83 @@
   "key": "openrouter",
   "title": "OpenRouter 模型使用榜（按 token 用量）",
   "freq": "daily",
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "url": "https://openrouter.ai/rankings",
   "items": [
     {
       "rank": 1,
       "name": "Deepseek: Deepseek V4 Flash",
-      "value": "5443.0B"
+      "value": "5419.2B"
     },
     {
       "rank": 2,
       "name": "Xiaomi: Mimo V2.5",
-      "value": "4462.2B"
+      "value": "4491.1B"
     },
     {
       "rank": 3,
       "name": "Minimax: Minimax M3",
-      "value": "4241.5B"
+      "value": "4315.0B"
     },
     {
       "rank": 4,
       "name": "Z-ai: Glm 5.2",
-      "value": "2903.1B"
+      "value": "3054.6B"
     },
     {
       "rank": 5,
       "name": "Deepseek: Deepseek V4 Pro",
-      "value": "2710.4B"
+      "value": "2759.4B"
     },
     {
       "rank": 6,
       "name": "Anthropic: Claude 4.7 Opus",
-      "value": "2471.7B"
+      "value": "2603.3B"
     },
     {
       "rank": 7,
-      "name": "Tencent: Hy3 Preview",
-      "value": "2304.6B"
+      "name": "Anthropic: Claude 4.8 Opus",
+      "value": "2035.5B"
     },
     {
       "rank": 8,
-      "name": "Anthropic: Claude 4.8 Opus",
-      "value": "2061.7B"
+      "name": "Tencent: Hy3",
+      "value": "1898.7B"
     },
     {
       "rank": 9,
-      "name": "Stepfun: Step 3.7 Flash",
-      "value": "1532.3B"
+      "name": "Tencent: Hy3 Preview",
+      "value": "1821.0B"
     },
     {
       "rank": 10,
-      "name": "Anthropic: Claude 4.6 Sonnet",
-      "value": "1239.5B"
+      "name": "Stepfun: Step 3.7 Flash",
+      "value": "1475.0B"
     },
     {
       "rank": 11,
-      "name": "Openai: Gpt 5.5",
-      "value": "1121.9B"
+      "name": "Anthropic: Claude 4.6 Sonnet",
+      "value": "1187.1B"
     },
     {
       "rank": 12,
-      "name": "Nvidia: Nemotron 3 Ultra 550b A55b",
-      "value": "988.3B"
+      "name": "Openai: Gpt 5.5",
+      "value": "1103.1B"
     },
     {
       "rank": 13,
-      "name": "Google: Gemini 3 Flash Preview",
-      "value": "945.8B"
+      "name": "Nvidia: Nemotron 3 Ultra 550b A55b",
+      "value": "966.6B"
     },
     {
       "rank": 14,
-      "name": "Tencent: Hy3",
-      "value": "926.9B"
+      "name": "Google: Gemini 3 Flash Preview",
+      "value": "937.1B"
     },
     {
       "rank": 15,
       "name": "Anthropic: Claude Sonnet 5",
-      "value": "807.3B"
+      "value": "851.0B"
     }
   ]
 }

@@ -1,14 +1,50 @@
 {
   "source": "McKinsey",
   "layer": "analysis",
-  "updated": "2026-07-08T10:01:20+08:00",
+  "updated": "2026-07-09T10:00:57+08:00",
   "items": [
+    {
+      "title": "From adoption to impact: Three horizons of AI transformation",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/from-adoption-to-impact-three-horizons-of-ai-transformation",
+      "summary": "Most organizations are still early in their AI journeys. A new global survey reveals how companies can progress from individual adoption to enterprise-wide value capture.",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-08T00:00:00+00:00"
+    },
+    {
+      "title": "Cost versus value: Managing agentic AI system performance",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/cost-versus-value-managing-agentic-ai-system-performance",
+      "summary": "Per-token pricing has stopped being a useful measure for what enterprises actually pay for gen AI. A conversation with David Tepper, CEO of Pay-i, delves into the new economics of measurement.",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-08T00:00:00+00:00"
+    },
+    {
+      "title": "From healthcare to health: Asia’s longevity opportunity",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/from-healthcare-to-health-asias-longevity-opportunity",
+      "summary": "On average, people are living longer than before, raising a broader conversation about how to create an ecosystem that effectively combines the delivery of care with proven ways to prevent illness.",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-08T00:00:00+00:00"
+    },
+    {
+      "title": "Reimagining logistics pricing",
+      "url": "https://www.mckinsey.com/industries/logistics/our-insights/reimagining-logistics-pricing",
+      "summary": "Logistics players can focus on four pricing strategies in the AI era.",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-08T00:00:00+00:00"
+    },
     {
       "title": "The operating model advantage: Why AI winners are rewiring their organizations",
       "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-operating-model-advantage-why-ai-winners-are-rewiring-their-organizations",
       "summary": "The real AI advantage comes from redesigning how work is done and how decisions are made. Ultimately, success will depend on people and operating models supported by technology.",
       "source": "McKinsey",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-07T00:00:00+00:00"
     },
@@ -17,7 +53,7 @@
       "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/from-the-c-suite-to-the-boardroom-christiana-smith-shi-on-what-it-takes",
       "summary": "For executives, the developmental opportunity may be clear, but what does board service really entail?",
       "source": "McKinsey",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-07T00:00:00+00:00"
     },
@@ -26,7 +62,7 @@
       "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/why-accelerated-resource-allocation-matters-in-the-age-of-ai",
       "summary": "In an era of rapid AI disruption, the winners may not be the companies that predict the future most accurately, but those that learn, reallocate resources, and adapt faster than their competitors.",
       "source": "McKinsey",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-06T00:00:00+00:00"
     },
@@ -35,7 +71,7 @@
       "url": "https://www.mckinsey.com/industries/public-sector/our-insights/building-americas-innovation-engine-an-interview-with-david-lebryk",
       "summary": "The former US Treasury official shares how government can deliver in moments of crisis and how America’s public–private sector dynamic can help fuel its next era of growth.",
       "source": "McKinsey",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-06T00:00:00+00:00"
     },
@@ -44,7 +80,7 @@
       "url": "https://www.mckinsey.com/featured-insights/americas/a-microscope-on-small-businesses-chiles-productivity-opportunity",
       "summary": "Overcoming scale-related barriers and strengthening ties with other firms—both large and small—can help small businesses in Chile maximize their potential and narrow the productivity gap.",
       "source": "McKinsey",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-06T00:00:00+00:00"
     },
@@ -53,45 +89,9 @@
       "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/how-covista-is-changing-education-for-healthcare-professionals",
       "summary": "Chairman and CEO Steve Beard explains how the organization’s multiyear transformation has reshaped its purpose, structure, and culture.",
       "source": "McKinsey",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-06T00:00:00+00:00"
-    },
-    {
-      "title": "A dual transformation agenda for Europe’s chemicals industry",
-      "url": "https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry",
-      "summary": "The strongest chemical company transformations in Europe perform a difficult balancing act: improving performance while radically reshaping portfolios, operations, and capital allocation.",
-      "source": "McKinsey",
-      "time": "5d",
-      "tags": [],
-      "published_at": "2026-07-03T00:00:00+00:00"
-    },
-    {
-      "title": "The real future of work in healthcare",
-      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/the-real-future-of-work-in-healthcare",
-      "summary": "Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care depends on making automation work through human–AI workflows.",
-      "source": "McKinsey",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-02T00:00:00+00:00"
-    },
-    {
-      "title": "How Miro is redefining collaboration across the product development life cycle",
-      "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/how-miro-is-redefining-collaboration-across-the-product-development-life-cycle",
-      "summary": "Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping competitive advantage in software.",
-      "source": "McKinsey",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-02T00:00:00+00:00"
-    },
-    {
-      "title": "The serial builder advantage: Why repeat innovators win",
-      "url": "https://www.mckinsey.com/capabilities/business-building/our-insights/the-serial-builder-advantage-why-repeat-innovators-win",
-      "summary": "New McKinsey research explains why organizations that repeatedly build new ventures outperform those that approach innovation as a one-off effort.",
-      "source": "McKinsey",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-02T00:00:00+00:00"
     }
   ]
 }

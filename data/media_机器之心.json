@@ -1,25 +1,16 @@
 {
   "source": "机器之心",
   "layer": "media",
-  "updated": "2026-07-08T10:02:04+08:00",
+  "updated": "2026-07-09T10:01:33+08:00",
   "items": [
     {
-      "title": "Claude、GLM、GPT谁才是真正的AI软件工程师？首个持续更新Visual Spec-to-App Benchmark发布 - qq.com",
+      "title": "Claude、GLM、GPT谁才是真正的AI软件工程师？首个持续更新Visual Spec-to-App Benchmark发布 - QQ News",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfZkNJQ2w3d3VYNjdnS2Q3WGxDQW5jQ20zclFrYmVLb2wxd1pIbk9uWTliT0c0VGdDX2JUdXBwN3RXQUxMZkk2cXJiUHdhc0padV9vTXdB?oc=5",
-      "summary": "Claude、GLM、GPT谁才是真正的AI软件工程师？首个持续更新Visual Spec-to-App Benchmark发布&nbsp;&nbsp;qq.com",
+      "summary": "Claude、GLM、GPT谁才是真正的AI软件工程师？首个持续更新Visual Spec-to-App Benchmark发布&nbsp;&nbsp;QQ News",
       "source": "机器之心",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-06T03:30:00+00:00"
-    },
-    {
-      "title": "Claude Code偷查用户身份，时区、中国AI实验室全是关键词 - 安全内参",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1va01CNUFGUEVlRFNzeVBVQm96dmZyZmJ1NDFUclZJUGdlZmRyQzl3RU9MdzJWeWFmSkNSbzYtLWs2V0FsUmhESG4ySVE0UQ?oc=5",
-      "summary": "Claude Code偷查用户身份，时区、中国AI实验室全是关键词&nbsp;&nbsp;安全内参",
-      "source": "机器之心",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-01T09:54:42+00:00"
     }
   ]
 }

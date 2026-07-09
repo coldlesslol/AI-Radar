@@ -1,14 +1,32 @@
 {
   "source": "MIT Tech Review",
   "layer": "news",
-  "updated": "2026-07-08T10:00:23+08:00",
+  "updated": "2026-07-09T10:00:09+08:00",
   "items": [
+    {
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "summary": "",
+      "source": "MIT Tech Review",
+      "time": "9h",
+      "tags": [],
+      "published_at": "2026-07-08T16:26:10+00:00"
+    },
+    {
+      "title": "The Download: worms fight pollution, and geoengineering faces reality",
+      "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manu",
+      "source": "MIT Tech Review",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-07-08T12:10:00+00:00"
+    },
     {
       "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
       "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s pr",
       "source": "MIT Tech Review",
-      "time": "13h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-07T12:10:00+00:00"
     },
@@ -17,7 +35,7 @@
       "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
       "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces ris",
       "source": "MIT Tech Review",
-      "time": "14h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-07T11:10:52+00:00"
     },
@@ -26,16 +44,16 @@
       "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
       "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He re",
       "source": "MIT Tech Review",
-      "time": "16h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-07T10:00:00+00:00"
     },
     {
       "title": "Your family’s $300 stake in OpenAI",
       "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans w",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americ",
       "source": "MIT Tech Review",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-06T18:00:00+00:00"
     },
@@ -44,7 +62,7 @@
       "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip worke",
       "source": "MIT Tech Review",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-06T13:00:00+00:00"
     },
@@ -53,7 +71,7 @@
       "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
       "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents",
       "source": "MIT Tech Review",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-06T09:00:00+00:00"
     },
@@ -62,7 +80,7 @@
       "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
       "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the n",
       "source": "MIT Tech Review",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-03T17:34:37+00:00"
     },
@@ -71,27 +89,9 @@
       "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. ",
       "source": "MIT Tech Review",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-07-03T12:10:00+00:00"
-    },
-    {
-      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework",
-      "source": "MIT Tech Review",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-07-03T09:00:00+00:00"
-    },
-    {
-      "title": "Achieving operational excellence with AI",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Le",
-      "source": "MIT Tech Review",
       "time": "5d",
       "tags": [],
-      "published_at": "2026-07-02T15:37:08+00:00"
+      "published_at": "2026-07-03T12:10:00+00:00"
     }
   ]
 }

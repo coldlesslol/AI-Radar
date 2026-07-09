@@ -1,0 +1,58 @@
+{
+  "updated": "2026-07-09T10:02:01+08:00",
+  "status": "ok",
+  "critical_failed": false,
+  "push_status": "eligible",
+  "steps": [
+    {
+      "key": "openrouter",
+      "script": "pull_openrouter.py",
+      "criticality": "optional",
+      "status": "ok",
+      "return_code": 0
+    },
+    {
+      "key": "rss",
+      "script": "pull_rss.py",
+      "criticality": "optional",
+      "status": "ok",
+      "return_code": 0
+    },
+    {
+      "key": "stocks",
+      "script": "pull_stocks.py",
+      "criticality": "optional",
+      "status": "ok",
+      "return_code": 0
+    },
+    {
+      "key": "github_trending",
+      "script": "pull_github_trending.py",
+      "criticality": "optional",
+      "status": "ok",
+      "return_code": 0
+    },
+    {
+      "key": "huggingface_trending",
+      "script": "pull_huggingface.py",
+      "criticality": "optional",
+      "status": "ok",
+      "return_code": 0
+    },
+    {
+      "key": "filings",
+      "script": "pull_filings.py",
+      "criticality": "optional",
+      "status": "ok",
+      "return_code": 0
+    },
+    {
+      "key": "score",
+      "script": "pull_score.py",
+      "criticality": "critical",
+      "status": "ok",
+      "return_code": 0
+    }
+  ],
+  "failed_steps": []
+}

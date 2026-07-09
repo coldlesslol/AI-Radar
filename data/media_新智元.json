@@ -1,61 +1,61 @@
 {
   "source": "新智元",
   "layer": "media",
-  "updated": "2026-07-08T10:02:03+08:00",
+  "updated": "2026-07-09T10:01:33+08:00",
   "items": [
+    {
+      "title": "Reddit一张神图疯传！2年后，你的笔记本就能跑Fable 5 - 智源社区",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1iRVprWWFsRXhUZ2xVSWM2YTREaHhYOVQtblF6TGF1OFV6Z29LX0lDRGw1eHlGTzVWUGcxdUhhR1hqMTZJcDQ5cQ?oc=5",
+      "summary": "Reddit一张神图疯传！2年后，你的笔记本就能跑Fable 5&nbsp;&nbsp;智源社区",
+      "source": "新智元",
+      "time": "20h",
+      "tags": [],
+      "published_at": "2026-07-08T05:20:00+00:00"
+    },
     {
       "title": "OpenAI做不出的「中国式私教」！AI重构不可能三角，学而思超级大招 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeTBPQk80a3lWU05oT1UtblloRW5sQjRzOEs5UHJhWUFHWkQtY0xvNEdpM2hydzZLN0ZiWGJyNnlCT0VnY255VUNMUkVUSmhWZHZYZE9vajE4Y1lSZnh2NXY5bDFESnQ5YU9vUHhoaWFGYlZLX1F3X2FrcWdhYUVSZ2tsM3paRVE2eTNwRXd1RWM1bk1XckhSbFZOODN0eFlfM3FiMk1iWlpjMjg5a2c?oc=5",
       "summary": "OpenAI做不出的「中国式私教」！AI重构不可能三角，学而思超级大招&nbsp;&nbsp;新浪财经",
       "source": "新智元",
-      "time": "8h",
-      "tags": [],
-      "published_at": "2026-07-07T17:15:00+00:00"
-    },
-    {
-      "title": "突发！阿里全面禁用Claude，7月10日起卸载 - 智源社区",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15cDFrQ2tFLUhXRVpncFhDOGpOWWlYbGhBQVE3NGdQTVlGSkpsNnlzNUl4czR1VVFJUUFiMHBlWEFoQlVMQkRUUg?oc=5",
-      "summary": "突发！阿里全面禁用Claude，7月10日起卸载&nbsp;&nbsp;智源社区",
-      "source": "新智元",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-06T03:50:00+00:00"
+      "published_at": "2026-07-07T17:15:00+00:00"
     },
     {
       "title": "刚刚，Anthropic切开Claude大脑！AI自发长出类人「意识器官」 - 创业邦",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81Z0MwN1haeEhMNDBQYk5nT3Q0dDYxMnhaWnA0eUQ5bXV3X09Lbnh3dEhGakJuVXN6eEM4NWFzbGV4MGdaeF8teWRlMEc5VnJE?oc=5",
       "summary": "刚刚，Anthropic切开Claude大脑！AI自发长出类人「意识器官」&nbsp;&nbsp;创业邦",
       "source": "新智元",
-      "time": "23h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-07T02:15:31+00:00"
-    },
-    {
-      "title": "狂揽2.4万星标：一行命令，AI会自己找技能了 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VR0lBOGJkMmY5UVFUc29xWVJBRjduNjBMZWVkdDVib0ZacTJYNHpmTWpWbWpqUjBSM1VIWTVKOWV5UHhYNXhzT1JIcXlFa0ZKeHZpcl9zcmM0d3J6bXFqVWNoTVI3ZU5qb0tiRW9DRU1fd3ZHQko5MmQ2UGpvY1k?oc=5",
-      "summary": "狂揽2.4万星标：一行命令，AI会自己找技能了&nbsp;&nbsp;新浪网",
-      "source": "新智元",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-05T08:10:00+00:00"
     },
     {
       "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧 - 华尔街见闻",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaNno2OEJsNWNDa191SWRJSFVJTDYxSlh4VWhRR3BwcTJER0pnVWVaby1WTWkzMFZsSHE0a013Y292UEZNNnFkOU12NWtoZGJqdjdB?oc=5",
       "summary": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧&nbsp;&nbsp;华尔街见闻",
       "source": "新智元",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-05T06:02:52+00:00"
     },
     {
-      "title": "Fable 5手搓首个CUDA「超级内核」！2.5小时狂飙18.7倍|Claude Opus 4.8|Anthropic|GPT-5.5|GPU|rtx_手机新浪网 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNktpeXpSQnljNi05cjlPWGdkWEpjUVhTVU1rSHZKek56Yk50V0h2ZkpJTVJITVpqSHZqVk9QVXhXeXBJRnJNNjJyZkI0WXNhTmJuYi01Z0VWUzFwR0Rsb0JIZDk2bkc3T2p3clEyZ1Ewd1dvRm9yTXhyWTVrT25BLWx3YTBLMFZRS0dITWpiWjcwTUh0YkJmX1dGQUxJTXBlZVZ0QllueUJ1cGNmY1E?oc=5",
-      "summary": "Fable 5手搓首个CUDA「超级内核」！2.5小时狂飙18.7倍|Claude Opus 4.8|Anthropic|GPT-5.5|GPU|rtx_手机新浪网&nbsp;&nbsp;新浪财经",
+      "title": "Token吃掉三成工资！硅谷AI账单失控了 - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRM0FBUHlqRF95eDFLNFBkZTVoU1ZndktkNDJmMjJ6a2FCZGpUWXR2ZVlNR0FzcWwzSDI5dnpVWGxOcGNVSTJrVGtNY1RFQVhwN2czMTN3?oc=5",
+      "summary": "Token吃掉三成工资！硅谷AI账单失控了&nbsp;&nbsp;QQ News",
       "source": "新智元",
-      "time": "18h",
+      "time": "4d",
       "tags": [],
-      "published_at": "2026-07-07T07:23:00+00:00"
+      "published_at": "2026-07-04T05:09:00+00:00"
+    },
+    {
+      "title": "突发！阿里全面禁用Claude，7月10日起卸载 - 智源社区",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15cDFrQ2tFLUhXRVpncFhDOGpOWWlYbGhBQVE3NGdQTVlGSkpsNnlzNUl4czR1VVFJUUFiMHBlWEFoQlVMQkRUUg?oc=5",
+      "summary": "突发！阿里全面禁用Claude，7月10日起卸载&nbsp;&nbsp;智源社区",
+      "source": "新智元",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-06T03:50:00+00:00"
     }
   ]
 }

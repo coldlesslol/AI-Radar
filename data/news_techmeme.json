@@ -1,115 +1,106 @@
 {
   "source": "Techmeme",
   "layer": "news",
-  "updated": "2026-07-08T10:00:11+08:00",
+  "updated": "2026-07-09T10:00:05+08:00",
   "items": [
     {
-      "title": "Sleep apnea device maker ResMed agrees to sell its software business MatrixCare to PE firm Frazier for $490M in cash; ResMed bought MatrixCare for $750M in 2018 (Puyaan Singh/Reuters)",
-      "url": "https://www.reuters.com/legal/litigation/resmed-sell-software-business-matrixcare-490-million-2026-07-07/",
-      "summary": "Puyaan Singh / Reuters: Sleep apnea device maker ResMed agrees to sell its software business MatrixCare to PE firm Frazier for $490M in cash; ResMed bought MatrixCare for $750M in 2018&nbsp; &mdash;&n",
-      "source": "Techmeme",
-      "time": "15m",
-      "tags": [],
-      "published_at": "2026-07-08T01:45:01+00:00"
-    },
-    {
-      "title": "Meta announces that it will be updating its glasses with a new feature that disables the camera if someone tampers with the glasses' privacy LED light (Victoria Song/The Verge)",
-      "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik40dk1iWjJvWjMiLCJwIjoiL2dhZGdldHMvOTYyNTE0L21ldGEtcHJpdmFjeS1saWdodC10YW1wZXJpbmctc21hcnQtZ2xhc3Nlcy11cGRhdGUiLCJleHAiOjE3ODM5MDE0MjUsImlhdCI6MTc4MzQ2OTQyNX0.GZUi5dGuIr00bBayHW1_oTfEcfxURMnIKLk2tTpC2To&amp;utm_medium=gift-link",
-      "summary": "Victoria Song / The Verge: Meta announces that it will be updating its glasses with a new feature that disables the camera if someone tampers with the glasses' privacy LED light&nbsp; &mdash;&nbsp; Th",
+      "title": "Block agrees to pay $45M and offer live customer support for Cash App to settle claims by 46 US states that the company failed to protect users from fraud (Daniel Wiessner/Reuters)",
+      "url": "https://www.reuters.com/legal/government/cash-app-parent-settles-states-probe-over-fraud-protections-45-million-2026-07-08/",
+      "summary": "Daniel Wiessner / Reuters: Block agrees to pay $45M and offer live customer support for Cash App to settle claims by 46 US states that the company failed to protect users from fraud&nbsp; &mdash;&nbsp",
       "source": "Techmeme",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-08T00:55:02+00:00"
+      "published_at": "2026-07-09T00:00:52+00:00"
     },
     {
-      "title": "Meta says Muse Image includes an invisible watermarking system called Content Seal and previews a web tool to check whether an image was generated with Meta AI (Karissa Bell/Engadget)",
-      "url": "https://www.engadget.com/2210223/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models/",
-      "summary": "Karissa Bell / Engadget: Meta says Muse Image includes an invisible watermarking system called Content Seal and previews a web tool to check whether an image was generated with Meta AI&nbsp; &mdash;&n",
-      "source": "Techmeme",
-      "time": "1h",
-      "tags": [],
-      "published_at": "2026-07-08T00:10:02+00:00"
-    },
-    {
-      "title": "As part of Meta's Muse Image rollout, Instagram users with public accounts need to opt out to block AI generations of their content by other users (Reece Rogers/Wired)",
-      "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
-      "summary": "Reece Rogers / Wired: As part of Meta's Muse Image rollout, Instagram users with public accounts need to opt out to block AI generations of their content by other users&nbsp; &mdash;&nbsp; As part of ",
+      "title": "The FTC settles with John Deere over a 2025 right-to-repair lawsuit, requiring the company to provide farmers and shops with equipment and software for 10 years (Boone Ashworth/Wired)",
+      "url": "https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/",
+      "summary": "Boone Ashworth / Wired: The FTC settles with John Deere over a 2025 right-to-repair lawsuit, requiring the company to provide farmers and shops with equipment and software for 10 years&nbsp; &mdash;&n",
       "source": "Techmeme",
       "time": "3h",
       "tags": [],
-      "published_at": "2026-07-07T22:30:00+00:00"
+      "published_at": "2026-07-08T22:25:01+00:00"
     },
     {
-      "title": "Anthropic plans to lease a 16-story building in Lower Manhattan and double its NYC workforce to 1,000 people this year, as AI companies expand in the city (New York Times)",
-      "url": "https://www.nytimes.com/2026/07/07/nyregion/anthropic-ai-boom-nyc.html",
-      "summary": "New York Times: Anthropic plans to lease a 16-story building in Lower Manhattan and double its NYC workforce to 1,000 people this year, as AI companies expand in the city&nbsp; &mdash;&nbsp; Anthropic",
+      "title": "OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark (OpenAI)",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "summary": "OpenAI: OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark&nbsp; &mdash;&nbsp; Through a d",
       "source": "Techmeme",
       "time": "4h",
       "tags": [],
-      "published_at": "2026-07-07T22:00:01+00:00"
+      "published_at": "2026-07-08T21:10:01+00:00"
     },
     {
-      "title": "OpenAI Chief Futurist Joshua Achiam is leaving the company later this month after nearly nine years (Maxwell Zeff/Wired)",
-      "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
-      "summary": "Maxwell Zeff / Wired: OpenAI Chief Futurist Joshua Achiam is leaving the company later this month after nearly nine years&nbsp; &mdash;&nbsp; Joshua Achiam spent nearly nine years at OpenAI researchin",
-      "source": "Techmeme",
-      "time": "4h",
-      "tags": [],
-      "published_at": "2026-07-07T21:40:00+00:00"
-    },
-    {
-      "title": "Memo: SpaceXAI and Cursor plan to launch their first jointly developed AI model as soon as Wednesday, after pushing back the launch to improve model efficiency (Grace Kay/The Information)",
-      "url": "https://www.techmeme.com/260707/p34#a260707p34",
-      "summary": "Grace Kay / The Information: Memo: SpaceXAI and Cursor plan to launch their first jointly developed AI model as soon as Wednesday, after pushing back the launch to improve model efficiency&nbsp; &mdas",
-      "source": "Techmeme",
-      "time": "4h",
-      "tags": [],
-      "published_at": "2026-07-07T21:05:27+00:00"
-    },
-    {
-      "title": "Meta launches Muse Image in Meta AI, Instagram, and WhatsApp, and previews Muse Video, the first media generation models from its Superintelligence Labs (Meta)",
-      "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
-      "summary": "Meta: Meta launches Muse Image in Meta AI, Instagram, and WhatsApp, and previews Muse Video, the first media generation models from its Superintelligence Labs&nbsp; &mdash;&nbsp; We're excited to laun",
+      "title": "Meta announces its first data center in Canada, a 1GW facility in Alberta that will cost the company about $9B and take two to three years to construct (Jonathan Vanian/CNBC)",
+      "url": "https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html",
+      "summary": "Jonathan Vanian / CNBC: Meta announces its first data center in Canada, a 1GW facility in Alberta that will cost the company about $9B and take two to three years to construct&nbsp; &mdash;&nbsp; Meta",
       "source": "Techmeme",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-07T20:30:04+00:00"
+      "published_at": "2026-07-08T20:00:54+00:00"
     },
     {
-      "title": "Source: Kraken is pursuing a full banking license in Europe, with a focus on Lithuania as the jurisdiction to secure it (Ian Allison/CoinDesk)",
-      "url": "https://www.coindesk.com/business/2026/07/07/crypto-exchange-kraken-is-trying-to-become-a-bank-in-europe",
-      "summary": "Ian Allison / CoinDesk: Source: Kraken is pursuing a full banking license in Europe, with a focus on Lithuania as the jurisdiction to secure it&nbsp; &mdash;&nbsp; Kraken, the cryptocurrency exchange ",
-      "source": "Techmeme",
-      "time": "6h",
-      "tags": [],
-      "published_at": "2026-07-07T19:15:02+00:00"
-    },
-    {
-      "title": "Anthropic extends Claude Fable 5 access to all paid plans through July 12; access to the model was set to shift to token-based usage on July 7 (Zac Hall/9to5Mac)",
-      "url": "https://9to5mac.com/2026/07/07/anthropic-expanding-claude-cowork-to-mobile-and-web-details-here/",
-      "summary": "Zac Hall / 9to5Mac: Anthropic extends Claude Fable 5 access to all paid plans through July 12; access to the model was set to shift to token-based usage on July 7&nbsp; &mdash;&nbsp; Anthropic announc",
+      "title": "Grok 4.5 is available in Grok Build, in Cursor, and from the SpaceXAI console, but not in the EU; it costs $2 per 1M input tokens and $6 per 1M output tokens (Axios)",
+      "url": "https://www.axios.com/2026/07/08/spacexai-grok-new-model",
+      "summary": "Axios: Grok 4.5 is available in Grok Build, in Cursor, and from the SpaceXAI console, but not in the EU; it costs $2 per 1M input tokens and $6 per 1M output tokens&nbsp; &mdash;&nbsp; Elon Musk's Spa",
       "source": "Techmeme",
       "time": "7h",
       "tags": [],
-      "published_at": "2026-07-07T18:30:01+00:00"
+      "published_at": "2026-07-08T18:05:02+00:00"
     },
     {
-      "title": "Introducing Muse Image: Image Generation Built for Your World (Meta Newsroom)",
-      "url": "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/",
-      "summary": "Meta Newsroom: Introducing Muse Image: Image Generation Built for Your World&nbsp; &mdash;&nbsp; Today, Meta is rolling out Muse Image, the company's first image generation model from Meta Superintell",
-      "source": "Techmeme",
-      "time": "7h",
-      "tags": [],
-      "published_at": "2026-07-07T18:17:30+00:00"
-    },
-    {
-      "title": "Google announces a Pixel event on August 12 in NYC, where it is expected to launch Pixel 11 series of phones and Pixel Watch 5 (Abner Li/9to5Google)",
-      "url": "https://9to5google.com/2026/07/07/made-by-google-2026-invite/",
-      "summary": "Abner Li / 9to5Google: Google announces a Pixel event on August 12 in NYC, where it is expected to launch Pixel 11 series of phones and Pixel Watch 5&nbsp; &mdash;&nbsp; Made by Google 2026 is officia",
+      "title": "OpenAI rolls out two versions of GPT-Live: GPT-Live-1, powering ChatGPT Voice for Go, Plus, and Pro users, and GPT-Live-1 mini, the default for free users (Sabrina Ortiz/The Deep View)",
+      "url": "https://www.thedeepview.com/articles/how-openai-s-voice-assistant-got-more-natural",
+      "summary": "Sabrina Ortiz / The Deep View: OpenAI rolls out two versions of GPT-Live: GPT-Live-1, powering ChatGPT Voice for Go, Plus, and Pro users, and GPT-Live-1 mini, the default for free users&nbsp; &mdash;&",
       "source": "Techmeme",
       "time": "8h",
       "tags": [],
-      "published_at": "2026-07-07T17:01:09+00:00"
+      "published_at": "2026-07-08T17:14:05+00:00"
+    },
+    {
+      "title": "OpenAI launches GPT-Live, a new generation of voice models built on a full-duplex architecture, meaning they can listen and speak at the same time (OpenAI)",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "summary": "OpenAI: OpenAI launches GPT-Live, a new generation of voice models built on a full-duplex architecture, meaning they can listen and speak at the same time&nbsp; &mdash;&nbsp; A new generation of voice",
+      "source": "Techmeme",
+      "time": "8h",
+      "tags": [],
+      "published_at": "2026-07-08T17:08:24+00:00"
+    },
+    {
+      "title": "Prime Intellect, which helps companies build their own AI agents by offering computing power and specialized tools, raised a $130M Series A at a $1B valuation (Marina Temkin/TechCrunch)",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "summary": "Marina Temkin / TechCrunch: Prime Intellect, which helps companies build their own AI agents by offering computing power and specialized tools, raised a $130M Series A at a $1B valuation&nbsp; &mdash;",
+      "source": "Techmeme",
+      "time": "9h",
+      "tags": [],
+      "published_at": "2026-07-08T16:30:01+00:00"
+    },
+    {
+      "title": "Arkenstone Defense, which is building software to handle back-office work for defense tech startups, emerges from stealth with a $35M seed led by J2 Ventures (Barratt Dewey/Tectonic Defense)",
+      "url": "https://www.tectonicdefense.com/exclusive-arkenstone-emerges-with-35m-to-build-defense-techs-back-office/",
+      "summary": "Barratt Dewey / Tectonic Defense: Arkenstone Defense, which is building software to handle back-office work for defense tech startups, emerges from stealth with a $35M seed led by J2 Ventures&nbsp; &m",
+      "source": "Techmeme",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-08T15:55:00+00:00"
+    },
+    {
+      "title": "China's Nexchip Semiconductor says it aims to raise around $890.37M in its Hong Kong share sale by offering 216.2M shares at ~$4.12/share, the top of its range (Rajasik Mukherjee/Reuters)",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-nexchip-raise-890-million-hong-kong-share-sale-2026-07-08/",
+      "summary": "Rajasik Mukherjee / Reuters: China's Nexchip Semiconductor says it aims to raise around $890.37M in its Hong Kong share sale by offering 216.2M shares at ~$4.12/share, the top of its range&nbsp; &mdas",
+      "source": "Techmeme",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-08T15:40:01+00:00"
+    },
+    {
+      "title": "Israeli startup Alta, which develops an AI agent platform for marketing, sales, and business development teams, raised a $25M Series A led by IN Venture (Meir Orbach/CTech)",
+      "url": "https://www.calcalistech.com/ctechnews/article/byylhojqze",
+      "summary": "Meir Orbach / CTech: Israeli startup Alta, which develops an AI agent platform for marketing, sales, and business development teams, raised a $25M Series A led by IN Venture&nbsp; &mdash;&nbsp; The AI",
+      "source": "Techmeme",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-08T15:25:03+00:00"
     }
   ]
 }

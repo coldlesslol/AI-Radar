@@ -1,187 +1,178 @@
 {
   "source": "HN",
   "layer": "community",
-  "updated": "2026-07-08T10:00:40+08:00",
+  "updated": "2026-07-09T10:00:32+08:00",
   "items": [
     {
-      "title": "Show HN: Chiptune Radio",
-      "url": "https://chiptune-radio.alephvoid.com/",
-      "summary": "I built a chiptune song generator and its broadcasting algorithmically generated chiptune music. Comments URL: https://news.ycombinator.com/item?id=48826094 Points: 5 # Comments: 1",
+      "title": "Rewriting Bun in Rust",
+      "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/",
+      "summary": "Article URL: https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/ Comments URL: https://news.ycombinator.com/item?id=48839751 Points: 18 # Comments: 3",
+      "source": "HN",
+      "time": "38m",
+      "tags": [],
+      "published_at": "2026-07-09T01:22:24+00:00"
+    },
+    {
+      "title": "A software engineering interview question I like: computing the median",
+      "url": "https://krisshamloo.com/blog/007",
+      "summary": "Article URL: https://krisshamloo.com/blog/007 Comments URL: https://news.ycombinator.com/item?id=48839434 Points: 25 # Comments: 11",
       "source": "HN",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-08T00:55:19+00:00"
+      "published_at": "2026-07-09T00:38:02+00:00"
     },
     {
-      "title": "Rlm-Workflow",
-      "url": "https://try.works/projects#rlm-workflow",
-      "summary": "Article URL: https://try.works/projects#rlm-workflow Comments URL: https://news.ycombinator.com/item?id=48825906 Points: 5 # Comments: 0",
+      "title": "Remote Attestation",
+      "url": "https://www.liamcvw.com/p/remote-attestation",
+      "summary": "Article URL: https://www.liamcvw.com/p/remote-attestation Comments URL: https://news.ycombinator.com/item?id=48839397 Points: 19 # Comments: 9",
       "source": "HN",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-08T00:32:18+00:00"
+      "published_at": "2026-07-09T00:32:33+00:00"
     },
     {
-      "title": "An interactive explorer for Benford's Law across real datasets",
-      "url": "https://vatsalbakshi.com/blog/benfords-law/",
-      "summary": "Article URL: https://vatsalbakshi.com/blog/benfords-law/ Comments URL: https://news.ycombinator.com/item?id=48825816 Points: 14 # Comments: 3",
+      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "url": "https://mira-wm.com/",
+      "summary": "https://mira-wm.com/blog-post/ Comments URL: https://news.ycombinator.com/item?id=48839355 Points: 13 # Comments: 3",
       "source": "HN",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-08T00:18:39+00:00"
+      "published_at": "2026-07-09T00:27:57+00:00"
     },
     {
-      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "url": "https://kb.cert.org/vuls/id/213560",
-      "summary": "Article URL: https://kb.cert.org/vuls/id/213560 Comments URL: https://news.ycombinator.com/item?id=48825749 Points: 13 # Comments: 2",
-      "source": "HN",
-      "time": "1h",
-      "tags": [],
-      "published_at": "2026-07-08T00:08:51+00:00"
-    },
-    {
-      "title": "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
-      "url": "https://github.com/tiliondev/fortress",
-      "summary": "Article URL: https://github.com/tiliondev/fortress Comments URL: https://news.ycombinator.com/item?id=48825745 Points: 17 # Comments: 11",
-      "source": "HN",
-      "time": "1h",
-      "tags": [],
-      "published_at": "2026-07-08T00:08:21+00:00"
-    },
-    {
-      "title": "Structure and Interpretation of Computer Programs Video Lectures",
-      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
-      "summary": "Article URL: https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/ Comments URL: https://news.ycombinator.com/item?id=48825664",
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "summary": "Article URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02 Comments URL: https://news.ycombinator.com/item?id=48838876 Points: 283 # Comm",
       "source": "HN",
       "time": "2h",
       "tags": [],
-      "published_at": "2026-07-07T23:57:29+00:00"
+      "published_at": "2026-07-08T23:37:43+00:00"
     },
     {
-      "title": "Show HN: Free Mermaid Diagram Editor",
-      "url": "https://moxiedocs.com/mermaid-diagram-editor",
-      "summary": "I've been slowly adding some new free tools to Moxie Docs (partly for SEO, partly to illustrate some of our feature sets before any commitment) for some reason this mermaid editor one blew up on Googl",
+      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "summary": "Article URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off Comments URL: https://news.ycombinator.com/item?id=48838772 Points: 60 # Comments: 22",
       "source": "HN",
       "time": "2h",
       "tags": [],
-      "published_at": "2026-07-07T23:29:36+00:00"
+      "published_at": "2026-07-08T23:27:14+00:00"
     },
     {
-      "title": "Git Hash Chain Malleability",
-      "url": "https://arxiv.org/abs/2607.02820",
-      "summary": "Article URL: https://arxiv.org/abs/2607.02820 Comments URL: https://news.ycombinator.com/item?id=48825356 Points: 6 # Comments: 2",
+      "title": "Rewriting Bun in Rust",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "summary": "Article URL: https://bun.com/blog/bun-in-rust Comments URL: https://news.ycombinator.com/item?id=48837877 Points: 285 # Comments: 155",
       "source": "HN",
-      "time": "2h",
+      "time": "4h",
       "tags": [],
-      "published_at": "2026-07-07T23:21:03+00:00"
+      "published_at": "2026-07-08T21:49:59+00:00"
     },
     {
-      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-      "url": "https://www.gao.gov/products/gao-26-108193",
-      "summary": "Article URL: https://www.gao.gov/products/gao-26-108193 Comments URL: https://news.ycombinator.com/item?id=48824826 Points: 94 # Comments: 35",
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "summary": "Article URL: https://openai.com/index/separating-signal-from-noise-coding-evaluations/ Comments URL: https://news.ycombinator.com/item?id=48837396 Points: 158 # Comments: 61",
       "source": "HN",
-      "time": "3h",
+      "time": "4h",
       "tags": [],
-      "published_at": "2026-07-07T22:23:58+00:00"
+      "published_at": "2026-07-08T21:03:51+00:00"
     },
     {
-      "title": "Every new car sold in the European Union must include a driver monitoring camera",
-      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-      "summary": "Article URL: https://allaboutcookies.org/eu-mandatory-distracted-driver-system Comments URL: https://news.ycombinator.com/item?id=48823557 Points: 430 # Comments: 574",
+      "title": "Turning a pile of documents into a searchable useable knowledge base",
+      "url": "https://github.com/linuxrebel/DocuBrowser",
+      "summary": "Article URL: https://github.com/linuxrebel/DocuBrowser Comments URL: https://news.ycombinator.com/item?id=48837110 Points: 75 # Comments: 12",
       "source": "HN",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-07T20:50:46+00:00"
+      "published_at": "2026-07-08T20:37:29+00:00"
     },
     {
-      "title": "We charge $10k a week to delete AI-generated code",
-      "url": "https://odra.dev/slopfix/",
-      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 196 # Comments: 92",
+      "title": "FAANG Simulator",
+      "url": "https://www.abeyk.com/escape-the-rat-race/",
+      "summary": "Article URL: https://www.abeyk.com/escape-the-rat-race/ Comments URL: https://news.ycombinator.com/item?id=48836778 Points: 279 # Comments: 110",
       "source": "HN",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-07T20:35:42+00:00"
+      "published_at": "2026-07-08T20:05:42+00:00"
     },
     {
-      "title": "Show HN: Davit, a Apple Containers UI",
-      "url": "https://davit.app",
-      "summary": "Mostly vibe-coded Apple Containers front-end that I'd like to use myself. But if others want to use it, here's the source code. Comments URL: https://news.ycombinator.com/item?id=48821848 Points: 198 ",
+      "title": "New Sweden: the US's long-lost 'secret' colony",
+      "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
+      "summary": "Article URL: https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony Comments URL: https://news.ycombinator.com/item?id=48836324 Points: 47 # Comments: 7",
+      "source": "HN",
+      "time": "6h",
+      "tags": [],
+      "published_at": "2026-07-08T19:26:18+00:00"
+    },
+    {
+      "title": "Cloudflare Drop",
+      "url": "https://www.cloudflare.com/drop/",
+      "summary": "Article URL: https://www.cloudflare.com/drop/ Comments URL: https://news.ycombinator.com/item?id=48836233 Points: 251 # Comments: 130",
+      "source": "HN",
+      "time": "6h",
+      "tags": [],
+      "published_at": "2026-07-08T19:18:26+00:00"
+    },
+    {
+      "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
+      "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
+      "summary": "Article URL: https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997 Comments URL: https://news.ycombinator.com/item?id=48835439 Points: 75 # Comments: 13",
       "source": "HN",
       "time": "7h",
       "tags": [],
-      "published_at": "2026-07-07T18:44:29+00:00"
+      "published_at": "2026-07-08T18:21:53+00:00"
     },
     {
-      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749 Points: 80 # Comments: 9",
+      "title": "Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5",
+      "summary": "https://cursor.com/blog/grok-4-5 Comments URL: https://news.ycombinator.com/item?id=48835111 Points: 475 # Comments: 588",
       "source": "HN",
-      "time": "7h",
+      "time": "8h",
       "tags": [],
-      "published_at": "2026-07-07T18:36:35+00:00"
+      "published_at": "2026-07-08T18:00:32+00:00"
     },
     {
-      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-      "summary": "Article URL: https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/ Comments URL: https://news.ycombinator.com/item?id=48821576 Points: 293 # Comments: 68",
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "summary": "Data visualizations are the bridge between user and data.But building AI agents that can generate visualizations reliably can be very tricky:- simple chart specs can be reliable, but generated charts ",
       "source": "HN",
-      "time": "7h",
+      "time": "8h",
       "tags": [],
-      "published_at": "2026-07-07T18:24:10+00:00"
+      "published_at": "2026-07-08T17:46:12+00:00"
     },
     {
-      "title": "Notes on Software Quality",
-      "url": "https://anthonyhobday.com/blog/20260410",
-      "summary": "Article URL: https://anthonyhobday.com/blog/20260410 Comments URL: https://news.ycombinator.com/item?id=48821441 Points: 78 # Comments: 43",
+      "title": "GPT‑Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-live/ Comments URL: https://news.ycombinator.com/item?id=48834405 Points: 602 # Comments: 405",
       "source": "HN",
-      "time": "7h",
+      "time": "8h",
       "tags": [],
-      "published_at": "2026-07-07T18:14:50+00:00"
+      "published_at": "2026-07-08T17:03:19+00:00"
     },
     {
-      "title": "l: A new runtime for k and q",
-      "url": "https://lv1.sh/",
-      "summary": "https://lv1.sh/blog/why-l/ Comments URL: https://news.ycombinator.com/item?id=48821378 Points: 105 # Comments: 61",
-      "source": "HN",
-      "time": "7h",
-      "tags": [],
-      "published_at": "2026-07-07T18:08:29+00:00"
-    },
-    {
-      "title": "Jim's TrueType QR Code Font",
-      "url": "https://github.com/jimparis/qr-font",
-      "summary": "https://qr.jim.sh/ Comments URL: https://news.ycombinator.com/item?id=48820119 Points: 132 # Comments: 20",
-      "source": "HN",
-      "time": "9h",
-      "tags": [],
-      "published_at": "2026-07-07T16:30:42+00:00"
-    },
-    {
-      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "summary": "Claude’s desktop app is brilliant, but for our own daily work we kept wanting it to be less like a chat app and more like a full-fledged work app. Rowboat is our attempt at that, including the ability",
-      "source": "HN",
-      "time": "9h",
-      "tags": [],
-      "published_at": "2026-07-07T16:10:44+00:00"
-    },
-    {
-      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-      "url": "https://30papers.com/",
-      "summary": "Article URL: https://30papers.com/ Comments URL: https://news.ycombinator.com/item?id=48819608 Points: 356 # Comments: 60",
+      "title": "Chatto is now open source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "summary": "Article URL: https://www.hmans.dev/blog/chatto-is-open-source Comments URL: https://news.ycombinator.com/item?id=48833116 Points: 737 # Comments: 195",
       "source": "HN",
       "time": "10h",
       "tags": [],
-      "published_at": "2026-07-07T15:58:13+00:00"
+      "published_at": "2026-07-08T15:19:50+00:00"
     },
     {
-      "title": "Why we built yet another Postgres connection pooler",
-      "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
-      "summary": "Article URL: https://pgdog.dev/blog/why-yet-another-connection-pooler Comments URL: https://news.ycombinator.com/item?id=48819308 Points: 131 # Comments: 35",
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "summary": "Article URL: https://mistral.ai/news/robostral-navigate/ Comments URL: https://news.ycombinator.com/item?id=48832212 Points: 415 # Comments: 96",
       "source": "HN",
-      "time": "10h",
+      "time": "11h",
       "tags": [],
-      "published_at": "2026-07-07T15:36:49+00:00"
+      "published_at": "2026-07-08T14:09:17+00:00"
+    },
+    {
+      "title": "A bug which affected only left handed users",
+      "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/ Comments URL: https://news.ycombinator.com/item?id=48831587 Points: 84 # Comments: 43",
+      "source": "HN",
+      "time": "12h",
+      "tags": [],
+      "published_at": "2026-07-08T13:20:05+00:00"
     }
   ]
 }
