@@ -206,3 +206,10 @@ date: 2026-06-29
 - 判断：数据管线未瘫痪，风险在前端加载/渲染层或线上缓存/部署状态。当前执行环境访问 GitHub/GitHub Pages 全部失败，无法用本机网络直接判定线上页面，但本地静态站 + 页面脚本模拟能渲染“今日 10:02 已更新”。
 - 修复：`web/index.html` 增加 `safeRender()` / `reportRuntimeError()`，各区块独立容错；`Chart.js` 未加载时股票曲线直接降级，不再抛错影响投资页或整页刷新。
 - 验证：新增前端容错静态测试；`pipeline.tests.test_pipeline_safety` 7 tests OK；Python 编译 OK；`bash -n schedule/run_daily.sh` OK；`git diff --check` OK；Node 最小 DOM 执行页面脚本通过，首屏 feed/model/archive 均有内容，未出现渲染错误。
+
+## 2026-07-10 手动更新推送（Codex）
+- 触发：用户要求“更新推送”。
+- 执行：手动运行 `schedule/run_daily.sh`，并将 PATH 调整为系统 Git 优先，避免 Codex runtime Git 缺少 `credential-osxkeychain` 导致 push 失败。
+- 结果：OpenRouter / RSS / 股票 / GitHub Trending / HuggingFace / 财报 / score 全部完成；score 因本机 Claude CLI 未登录继续走 fallback。`data/digest.json` 更新为 `2026-07-10T07:25:52+08:00`，114 条；`data/_index.json` 更新为 `2026-07-10T07:25:53+08:00`，985 项；股票 19 标的 + 5 指数；财报 26 条。
+- 上线：自动提交 `b545cdd data: daily update 2026-07-10` 并推送 main；线上 `digest.json` / `_index.json` 已拉取验证为 2026-07-10 07:25 版本。
+- 验证：本地索引无缺失/多余文件；`run_status.json` 为 `ok`；`pipeline.tests.test_pipeline_safety` 7 tests OK。
