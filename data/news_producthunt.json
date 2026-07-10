@@ -1,34 +1,16 @@
 {
   "source": "Product Hunt",
   "layer": "news",
-  "updated": "2026-07-10T07:24:48+08:00",
+  "updated": "2026-07-10T10:00:41+08:00",
   "items": [
     {
-      "title": "Opper AI",
-      "url": "https://www.producthunt.com/products/opper-ai",
-      "summary": "The european AI gateway for agents Discussion | Link",
+      "title": "Lispr",
+      "url": "https://www.producthunt.com/products/lispr",
+      "summary": "Hold a key, speak, and Lispr writes it anywhere Discussion | Link",
       "source": "Product Hunt",
-      "time": "3d",
+      "time": "2d",
       "tags": [],
-      "published_at": "2026-07-06T16:51:59+00:00"
-    },
-    {
-      "title": "Coasty",
-      "url": "https://www.producthunt.com/products/coasty",
-      "summary": "A Computer-Use-Agent that runs legacy software like a human Discussion | Link",
-      "source": "Product Hunt",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-08T18:52:30+00:00"
-    },
-    {
-      "title": "Constellation Gate AI",
-      "url": "https://www.producthunt.com/products/gate-ai-2",
-      "summary": "Prompt injection and token savings - #1 in benchmarks Discussion | Link",
-      "source": "Product Hunt",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-08T16:11:45+00:00"
+      "published_at": "2026-07-07T21:02:15+00:00"
     },
     {
       "title": "Just Ask by SEORCE",
@@ -40,6 +22,15 @@
       "published_at": "2026-07-08T09:13:36+00:00"
     },
     {
+      "title": "Coasty",
+      "url": "https://www.producthunt.com/products/coasty",
+      "summary": "A Computer-Use-Agent that runs legacy software like a human Discussion | Link",
+      "source": "Product Hunt",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-08T18:52:30+00:00"
+    },
+    {
       "title": "Auriko",
       "url": "https://www.producthunt.com/products/auriko",
       "summary": "Trading desk for LLM calls Discussion | Link",
@@ -49,20 +40,29 @@
       "published_at": "2026-07-05T23:00:28+00:00"
     },
     {
-      "title": "Lispr",
-      "url": "https://www.producthunt.com/products/lispr",
-      "summary": "Hold a key, speak, and Lispr writes it anywhere Discussion | Link",
+      "title": "Constellation Gate AI",
+      "url": "https://www.producthunt.com/products/gate-ai-2",
+      "summary": "Prompt injection and token savings - #1 in benchmarks Discussion | Link",
       "source": "Product Hunt",
-      "time": "2d",
+      "time": "1d",
       "tags": [],
-      "published_at": "2026-07-07T21:02:15+00:00"
+      "published_at": "2026-07-08T16:11:45+00:00"
+    },
+    {
+      "title": "Opper AI",
+      "url": "https://www.producthunt.com/products/opper-ai",
+      "summary": "The european AI gateway for agents Discussion | Link",
+      "source": "Product Hunt",
+      "time": "3d",
+      "tags": [],
+      "published_at": "2026-07-06T16:51:59+00:00"
     },
     {
       "title": "GPT-Live",
       "url": "https://www.producthunt.com/products/openai",
       "summary": "Full-duplex voice for ChatGPT Discussion | Link",
       "source": "Product Hunt",
-      "time": "19h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-09T03:32:35+00:00"
     },
@@ -71,7 +71,7 @@
       "url": "https://www.producthunt.com/products/lemonlime",
       "summary": "Automates your existing workflows with a single prompt. Discussion | Link",
       "source": "Product Hunt",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-08T01:20:45+00:00"
     },
@@ -94,13 +94,13 @@
       "published_at": "2026-07-07T08:15:49+00:00"
     },
     {
-      "title": "Eodly",
-      "url": "https://www.producthunt.com/products/eodly",
-      "summary": "Know what your team actually shipped today Discussion | Link",
+      "title": "Willow Frontier Pro",
+      "url": "https://www.producthunt.com/products/willow-voice",
+      "summary": "The fastest, most accurate dictation model in the world Discussion | Link",
       "source": "Product Hunt",
-      "time": "6d",
+      "time": "2d",
       "tags": [],
-      "published_at": "2026-07-03T06:39:56+00:00"
+      "published_at": "2026-07-08T01:32:13+00:00"
     },
     {
       "title": "Knowledge Atlas by Fini",
@@ -112,22 +112,13 @@
       "published_at": "2026-07-07T13:22:43+00:00"
     },
     {
-      "title": "Willow Frontier Pro",
-      "url": "https://www.producthunt.com/products/willow-voice",
-      "summary": "The fastest, most accurate dictation model in the world Discussion | Link",
+      "title": "Eodly",
+      "url": "https://www.producthunt.com/products/eodly",
+      "summary": "Know what your team actually shipped today Discussion | Link",
       "source": "Product Hunt",
-      "time": "1d",
+      "time": "6d",
       "tags": [],
-      "published_at": "2026-07-08T01:32:13+00:00"
-    },
-    {
-      "title": "LongCat-2.0",
-      "url": "https://www.producthunt.com/products/longcat",
-      "summary": "1.6T MoE trained entirely on AI ASICs Discussion | Link",
-      "source": "Product Hunt",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-07T06:27:32+00:00"
+      "published_at": "2026-07-03T06:39:56+00:00"
     },
     {
       "title": "Zoho Tables",
@@ -137,6 +128,15 @@
       "time": "3d",
       "tags": [],
       "published_at": "2026-07-06T06:04:23+00:00"
+    },
+    {
+      "title": "LongCat-2.0",
+      "url": "https://www.producthunt.com/products/longcat",
+      "summary": "1.6T MoE trained entirely on AI ASICs Discussion | Link",
+      "source": "Product Hunt",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-07T06:27:32+00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "key": "github_trending",
   "title": "GitHub Trending AI",
   "freq": "daily",
-  "updated": "2026-07-10T07:25:37+08:00",
+  "updated": "2026-07-10T10:01:56+08:00",
   "url": "https://github.com/trending?since=daily",
   "total_trending": 15,
   "items": [
@@ -10,8 +10,8 @@
       "full_name": "MadsLorentzen/ai-job-search",
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "language": "TypeScript",
-      "stars": 18863,
-      "stars_today": 3728,
+      "stars": 19159,
+      "stars_today": 3716,
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "rank": 1
     },
@@ -19,8 +19,8 @@
       "full_name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars": 75828,
-      "stars_today": 2582,
+      "stars": 75931,
+      "stars_today": 2554,
       "url": "https://github.com/addyosmani/agent-skills",
       "rank": 2
     },
@@ -28,8 +28,8 @@
       "full_name": "VoltAgent/awesome-design-md",
       "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
       "language": null,
-      "stars": 99606,
-      "stars_today": 1233,
+      "stars": 99772,
+      "stars_today": 1391,
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "rank": 3
     },
@@ -37,8 +37,8 @@
       "full_name": "iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars": 13375,
-      "stars_today": 1923,
+      "stars": 13515,
+      "stars_today": 1929,
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "rank": 4
     },
@@ -46,7 +46,7 @@
       "full_name": "wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars": 6565,
+      "stars": 6586,
       "stars_today": 185,
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "rank": 5
@@ -55,8 +55,8 @@
       "full_name": "anthropics/claude-cookbooks",
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
-      "stars": 47128,
-      "stars_today": 347,
+      "stars": 47186,
+      "stars_today": 194,
       "url": "https://github.com/anthropics/claude-cookbooks",
       "rank": 6
     },
@@ -64,8 +64,8 @@
       "full_name": "vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
-      "stars": 19361,
-      "stars_today": 543,
+      "stars": 19438,
+      "stars_today": 535,
       "url": "https://github.com/vxcontrol/pentagi",
       "rank": 7
     },
@@ -73,8 +73,8 @@
       "full_name": "unclecode/crawl4ai",
       "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
       "language": "Python",
-      "stars": 71795,
-      "stars_today": 195,
+      "stars": 71860,
+      "stars_today": 215,
       "url": "https://github.com/unclecode/crawl4ai",
       "rank": 8
     },
@@ -82,8 +82,8 @@
       "full_name": "bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars": 6659,
-      "stars_today": 727,
+      "stars": 6733,
+      "stars_today": 718,
       "url": "https://github.com/bradautomates/claude-video",
       "rank": 9
     },
@@ -91,8 +91,8 @@
       "full_name": "asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars": 55117,
-      "stars_today": 1135,
+      "stars": 55187,
+      "stars_today": 1125,
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "rank": 10
     }

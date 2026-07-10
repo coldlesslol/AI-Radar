@@ -1,14 +1,41 @@
 {
   "source": "Techmeme",
   "layer": "news",
-  "updated": "2026-07-10T07:24:27+08:00",
+  "updated": "2026-07-10T10:00:04+08:00",
   "items": [
+    {
+      "title": "1X says its humanoid robot Neo's five-fingered hands have tendon-style actuators that give it 25 degrees of freedom of movement, nearly the same as a human hand (Boone Ashworth/Wired)",
+      "url": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
+      "summary": "Boone Ashworth / Wired: 1X says its humanoid robot Neo's five-fingered hands have tendon-style actuators that give it 25 degrees of freedom of movement, nearly the same as a human hand&nbsp; &mdash;&n",
+      "source": "Techmeme",
+      "time": "20m",
+      "tags": [],
+      "published_at": "2026-07-10T01:40:01+00:00"
+    },
+    {
+      "title": "How the internet, smartphones, social media, and now generative AI are accelerating a drop in the reading of longer works like books (Rose Horowitch/The Atlantic)",
+      "url": "https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/?gift=uP40aMSD1nXws5OJJf7PNon2RgfL5TMR77HEOKk96eg&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share",
+      "summary": "Rose Horowitch / The Atlantic: How the internet, smartphones, social media, and now generative AI are accelerating a drop in the reading of longer works like books&nbsp; &mdash;&nbsp; twenty-three hun",
+      "source": "Techmeme",
+      "time": "58m",
+      "tags": [],
+      "published_at": "2026-07-10T01:01:08+00:00"
+    },
+    {
+      "title": "SAP will make it easier for customers to switch to rival service providers or end contracts, averting a possible EU antitrust fine after a September 2025 probe (Foo Yun Chee/Reuters)",
+      "url": "https://www.reuters.com/business/sap-averts-eu-antitrust-fine-regulators-accept-offer-address-competition-2026-07-09/",
+      "summary": "Foo Yun Chee / Reuters: SAP will make it easier for customers to switch to rival service providers or end contracts, averting a possible EU antitrust fine after a September 2025 probe&nbsp; &mdash;&nb",
+      "source": "Techmeme",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-09T23:45:16+00:00"
+    },
     {
       "title": "Mercor acquires Deeptune, which builds reinforcement learning environments for AI agents, three months after CEO Brendan Foody backed Deeptune's $43M Series A (Lily Mae Lazarus/Fortune)",
       "url": "https://fortune.com/2026/07/09/ai-unicorn-mercor-acquires-deeptune-brendan-foody-investor-a16z-openai-anthropic/",
       "summary": "Lily Mae Lazarus / Fortune: Mercor acquires Deeptune, which builds reinforcement learning environments for AI agents, three months after CEO Brendan Foody backed Deeptune's $43M Series A&nbsp; &mdash;",
       "source": "Techmeme",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-09T21:55:02+00:00"
     },
@@ -17,7 +44,7 @@
       "url": "https://www.reuters.com/world/coinbases-top-attorney-who-has-led-cryptos-washington-fight-step-down-2026-07-09/",
       "summary": "Hannah Lang / Reuters: Coinbase's chief legal officer, Paul Grewal, is stepping down after six years; VP of legal Molly Abraham moves into his role with the title of general counsel&nbsp; &mdash;&nbsp",
       "source": "Techmeme",
-      "time": "2h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-09T21:20:01+00:00"
     },
@@ -26,7 +53,7 @@
       "url": "https://www.washingtonpost.com/business/2026/07/09/federal-reserve-enlists-marc-andreessen-advise-ai-under-warsh/",
       "summary": "Andrew Ackerman / Washington Post: Federal Reserve Chair Kevin Warsh names Marc Andreessen and Xbox CEO Asha Sharma to lead a task force on the economic impact of new technologies, including AI&nbsp; ",
       "source": "Techmeme",
-      "time": "2h",
+      "time": "5h",
       "tags": [],
       "published_at": "2026-07-09T20:45:11+00:00"
     },
@@ -35,7 +62,7 @@
       "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
       "summary": "Sarah Perez / TechCrunch: Google says it will automatically add a disclosure to ads that are made with its AI advertising tools, expanding the disclosure beyond election ads to all ads&nbsp; &mdash;&n",
       "source": "Techmeme",
-      "time": "2h",
+      "time": "5h",
       "tags": [],
       "published_at": "2026-07-09T20:30:09+00:00"
     },
@@ -44,7 +71,7 @@
       "url": "https://siliconangle.com/2026/07/09/pitchbook-us-venture-funding-hits-412-7b-first-half-ai-deals-dominate/",
       "summary": "Duncan Riley / SiliconANGLE: PitchBook: US venture funding hit $412.7B in H1 2026, up 30% on all of 2025, with AI startup funding accounting for 86%, or $355.9B; Q2 saw seven $1B+ rounds&nbsp; &mdash;",
       "source": "Techmeme",
-      "time": "3h",
+      "time": "5h",
       "tags": [],
       "published_at": "2026-07-09T20:10:02+00:00"
     },
@@ -53,7 +80,7 @@
       "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
       "summary": "Maxwell Zeff / Wired: Anthropic, set to add usage-based billing for Fable 5 on July 12, aims to return the model to Claude's subscription plans &ldquo;when sufficient capacity allows&rdquo;&nbsp; &mda",
       "source": "Techmeme",
-      "time": "3h",
+      "time": "6h",
       "tags": [],
       "published_at": "2026-07-09T19:40:01+00:00"
     },
@@ -62,7 +89,7 @@
       "url": "https://www.politico.eu/article/europes-conservatives-revive-zombie-bill-child-abuse-scanning/",
       "summary": "Sam Clark / Politico: The EU Parliament advances a bill letting tech companies scan for CSAM, reviving a proposal rejected in March, with an exemption for E2EE services like WhatsApp&nbsp; &mdash;&nbs",
       "source": "Techmeme",
-      "time": "3h",
+      "time": "6h",
       "tags": [],
       "published_at": "2026-07-09T19:30:29+00:00"
     },
@@ -71,45 +98,9 @@
       "url": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/",
       "summary": "Zac Hall / 9to5Mac: OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser, in favor of the new ChatGPT desktop app&nbsp; &mdash;&nbsp; ChatGPT Atlas, OpenAI's standalone desktop browse",
       "source": "Techmeme",
-      "time": "3h",
+      "time": "6h",
       "tags": [],
       "published_at": "2026-07-09T19:25:04+00:00"
-    },
-    {
-      "title": "OpenAI merges Codex and ChatGPT desktop apps for Mac and Windows under a new ChatGPT desktop app, allowing users to switch between Codex, Chat, and Work (Zac Hall/9to5Mac)",
-      "url": "https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/",
-      "summary": "Zac Hall / 9to5Mac: OpenAI merges Codex and ChatGPT desktop apps for Mac and Windows under a new ChatGPT desktop app, allowing users to switch between Codex, Chat, and Work&nbsp; &mdash;&nbsp; OpenAI ",
-      "source": "Techmeme",
-      "time": "4h",
-      "tags": [],
-      "published_at": "2026-07-09T18:25:01+00:00"
-    },
-    {
-      "title": "GPT-5.6 Sol costs $5 per 1M input tokens and $30 per 1M output tokens, GPT-5.6 Terra costs $2.50 and $15, and GPT-5.6 Luna costs $1 and $6 (OpenAI)",
-      "url": "https://openai.com/index/gpt-5-6",
-      "summary": "OpenAI: GPT-5.6 Sol costs $5 per 1M input tokens and $30 per 1M output tokens, GPT-5.6 Terra costs $2.50 and $15, and GPT-5.6 Luna costs $1 and $6&nbsp; &mdash;&nbsp; More intelligence from every toke",
-      "source": "Techmeme",
-      "time": "5h",
-      "tags": [],
-      "published_at": "2026-07-09T17:35:02+00:00"
-    },
-    {
-      "title": "OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows (Axios)",
-      "url": "https://www.axios.com/2026/07/09/ai-openai-gpt-release",
-      "summary": "Axios: OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows&nbsp; &mdash;&nbsp; - Sol is the ",
-      "source": "Techmeme",
-      "time": "6h",
-      "tags": [],
-      "published_at": "2026-07-09T17:06:46+00:00"
-    },
-    {
-      "title": "Microsoft President Brad Smith says the US now has AI \"regulation without transparent or complete rules\", and adds that \"without rules, businesses can't plan\" (Beatrice Nolan/Fortune)",
-      "url": "https://fortune.com/2026/07/09/microsoft-brad-smith-washingtons-ai-policy-regulation-without-transparent-rules/",
-      "summary": "Beatrice Nolan / Fortune: Microsoft President Brad Smith says the US now has AI &ldquo;regulation without transparent or complete rules&rdquo;, and adds that &ldquo;without rules, businesses can't pla",
-      "source": "Techmeme",
-      "time": "6h",
-      "tags": [],
-      "published_at": "2026-07-09T16:40:01+00:00"
     }
   ]
 }

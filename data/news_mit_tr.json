@@ -1,14 +1,14 @@
 {
   "source": "MIT Tech Review",
   "layer": "news",
-  "updated": "2026-07-10T07:24:30+08:00",
+  "updated": "2026-07-10T10:00:07+08:00",
   "items": [
     {
       "title": "Anthropic found a hidden space where Claude puzzles over concepts",
       "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
       "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they",
       "source": "MIT Tech Review",
-      "time": "3h",
+      "time": "5h",
       "tags": [],
       "published_at": "2026-07-09T20:22:28+00:00"
     },
@@ -17,7 +17,7 @@
       "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the U",
       "source": "MIT Tech Review",
-      "time": "11h",
+      "time": "13h",
       "tags": [],
       "published_at": "2026-07-09T12:10:00+00:00"
     },
@@ -26,7 +26,7 @@
       "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
       "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump ad",
       "source": "MIT Tech Review",
-      "time": "15h",
+      "time": "18h",
       "tags": [],
       "published_at": "2026-07-09T08:00:00+00:00"
     },

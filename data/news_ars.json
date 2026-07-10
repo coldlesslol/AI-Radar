@@ -1,14 +1,14 @@
 {
   "source": "Ars Technica",
   "layer": "news",
-  "updated": "2026-07-10T07:24:30+08:00",
+  "updated": "2026-07-10T10:00:07+08:00",
   "items": [
     {
       "title": "OpenAI wants its new tool to do your work for you and with you",
       "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
       "summary": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
       "source": "Ars Technica",
-      "time": "1h",
+      "time": "4h",
       "tags": [],
       "published_at": "2026-07-09T21:25:55+00:00"
     },
@@ -17,7 +17,7 @@
       "url": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
       "summary": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
       "source": "Ars Technica",
-      "time": "3h",
+      "time": "5h",
       "tags": [],
       "published_at": "2026-07-09T20:12:03+00:00"
     },
@@ -26,7 +26,7 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
       "summary": "OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.",
       "source": "Ars Technica",
-      "time": "4h",
+      "time": "7h",
       "tags": [],
       "published_at": "2026-07-09T18:57:53+00:00"
     },

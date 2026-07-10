@@ -1,34 +1,25 @@
 {
   "source": "新智元",
   "layer": "media",
-  "updated": "2026-07-10T07:25:24+08:00",
+  "updated": "2026-07-10T10:01:44+08:00",
   "items": [
-    {
-      "title": "DeepSeek之后，中国AI「自己出题」杀进Nature通讯！全球仅4家 - 智源社区",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1MjZ4T3drX0F5aW9OYVZWazNPZllUWkNRWUYyWWw2eTJlTVVobWFORHYwcGxTb3o3UE5raDlQMU1rTzNyQjdsTA?oc=5",
-      "summary": "DeepSeek之后，中国AI「自己出题」杀进Nature通讯！全球仅4家&nbsp;&nbsp;智源社区",
-      "source": "新智元",
-      "time": "11h",
-      "tags": [],
-      "published_at": "2026-07-09T12:20:00+00:00"
-    },
     {
       "title": "现代AI之父新作：13个大模型实测，检索agent真的可信吗？ - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wUVJlZzdrcnFuWW1QRTIwYlQzZ1BWb2RSN1Rvb3hNMTdFbTJYbTM0YWtfQjhBelZnYnpEOWhpNkxFanpSZHZyU2R6X2QyZFAtU0owc0NnQTYwcDBVVjhYUktOZ0RMZ0Nab1ZnYnZhdk9OaDBZY2NvQ0VIRjE5b3M?oc=5",
       "summary": "现代AI之父新作：13个大模型实测，检索agent真的可信吗？&nbsp;&nbsp;新浪网",
       "source": "新智元",
-      "time": "17h",
+      "time": "20h",
       "tags": [],
       "published_at": "2026-07-09T05:52:11+00:00"
     },
     {
-      "title": "DeepSeek掀起换芯潮！这个局，国产算力半壁江山全来了 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnVaTS1kVWE4Yk80T1BFemRiMUkxTy12RFZjRmg5WXJzUjA5R2lOZkxXMElSSlZxOXVtaWFVMnQxcENsMS1sTTFTOHlPMmFBSzB6VER3NGVBZW9XREkzbU5QeE11YXNKWHFoUGszMXM2T19XZGFENW02eWU3Vm5ZMUtCYW1FdHZU?oc=5",
-      "summary": "DeepSeek掀起换芯潮！这个局，国产算力半壁江山全来了&nbsp;&nbsp;搜狐网",
+      "title": "Reddit一张神图疯传！2年后，你的笔记本就能跑Fable 5 - 智源社区",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1iRVprWWFsRXhUZ2xVSWM2YTREaHhYOVQtblF6TGF1OFV6Z29LX0lDRGw1eHlGTzVWUGcxdUhhR1hqMTZJcDQ5cQ?oc=5",
+      "summary": "Reddit一张神图疯传！2年后，你的笔记本就能跑Fable 5&nbsp;&nbsp;智源社区",
       "source": "新智元",
-      "time": "15h",
+      "time": "1d",
       "tags": [],
-      "published_at": "2026-07-09T07:35:00+00:00"
+      "published_at": "2026-07-08T05:20:00+00:00"
     },
     {
       "title": "OpenAI做不出的「中国式私教」！AI重构不可能三角，学而思超级大招 - 新浪财经",
@@ -38,6 +29,15 @@
       "time": "2d",
       "tags": [],
       "published_at": "2026-07-07T17:15:00+00:00"
+    },
+    {
+      "title": "DeepSeek掀起换芯潮！这个局，国产算力半壁江山全来了 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnVaTS1kVWE4Yk80T1BFemRiMUkxTy12RFZjRmg5WXJzUjA5R2lOZkxXMElSSlZxOXVtaWFVMnQxcENsMS1sTTFTOHlPMmFBSzB6VER3NGVBZW9XREkzbU5QeE11YXNKWHFoUGszMXM2T19XZGFENW02eWU3Vm5ZMUtCYW1FdHZU?oc=5",
+      "summary": "DeepSeek掀起换芯潮！这个局，国产算力半壁江山全来了&nbsp;&nbsp;搜狐网",
+      "source": "新智元",
+      "time": "18h",
+      "tags": [],
+      "published_at": "2026-07-09T07:35:00+00:00"
     },
     {
       "title": "刚刚，Anthropic切开Claude大脑！AI自发长出类人「意识器官」 - 创业邦",

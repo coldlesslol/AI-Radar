@@ -1,50 +1,113 @@
 {
   "source": "钛媒体",
   "layer": "news",
-  "updated": "2026-07-10T07:24:33+08:00",
+  "updated": "2026-07-10T10:00:12+08:00",
   "items": [
+    {
+      "title": "GPT-5.6全量放送，Codex正式并入ChatGPT",
+      "url": "https://www.tmtpost.com/8059414.html",
+      "summary": "另一边，Claude为所有用户重置了限额。",
+      "source": "钛媒体",
+      "time": "15m",
+      "tags": [],
+      "published_at": "2026-07-10T01:44:58+00:00"
+    },
+    {
+      "title": "深度拆解美的、海尔、格力的战略密码与投资价值",
+      "url": "https://www.tmtpost.com/8059426.html",
+      "summary": "穿越估值周期，静待价值回归",
+      "source": "钛媒体",
+      "time": "15m",
+      "tags": [],
+      "published_at": "2026-07-10T01:44:55+00:00"
+    },
+    {
+      "title": "A股盈利能力百强榜：谁在真正把利润赚到手？",
+      "url": "https://www.tmtpost.com/8059539.html",
+      "summary": "盈利能力，是企业经营质量最直接的体现。它不仅关系到企业当期业绩表现，也决定着企业能否持续投入研发、扩大生产、回报股东、抵御周期波动。对于投资者而言，盈利能力更是识别上市公司真实竞争力的重要切口。",
+      "source": "钛媒体",
+      "time": "23m",
+      "tags": [],
+      "published_at": "2026-07-10T01:36:25+00:00"
+    },
+    {
+      "title": "价值判断：跌停板的投资机会和风险提示（7月8日）｜上市公司观察",
+      "url": "https://www.tmtpost.com/8059535.html",
+      "summary": "整体来看，市场缩量调整，资金持续从高位高估资源、题材股撤离，转向低位低估个股与国资云主线，板块轮动速度快、持续性偏弱。操作上需规避短期涨幅大、估值显著偏高的高位题材股，避免抄底高位回调标的；可重点关注电力设备、算力基建、新材料等深度低估赛道，依靠估值安全垫抵御市场波动，短期保持控仓，等待市场企稳信号。",
+      "source": "钛媒体",
+      "time": "23m",
+      "tags": [],
+      "published_at": "2026-07-10T01:36:15+00:00"
+    },
+    {
+      "title": "价值判断：涨停板的投资机会和风险提示（7月8日）｜上市公司观察",
+      "url": "https://www.tmtpost.com/8059529.html",
+      "summary": "整体来看，市场延续缩量调整态势，资金主动从高位资源、科技题材撤离，转向低位深度低估个股与国资云主线避险，板块轮动节奏加快，持续性偏弱。操作层面应当规避短期连续拉升、估值溢价较高的连板题材股，警惕大盘波动带来的集中回撤；可逢低布局电力设备、算力基建、硅基材料等深度低估赛道，依托充足估值安全垫对冲市场震荡，短期保持控仓观望，等待市场企稳信号。",
+      "source": "钛媒体",
+      "time": "24m",
+      "tags": [],
+      "published_at": "2026-07-10T01:36:05+00:00"
+    },
+    {
+      "title": "阿里财报前瞻：云开启AI新叙事",
+      "url": "https://www.tmtpost.com/8059228.html",
+      "summary": "从“卖流量”到“卖Token”。",
+      "source": "钛媒体",
+      "time": "38m",
+      "tags": [],
+      "published_at": "2026-07-10T01:21:45+00:00"
+    },
+    {
+      "title": "99万的仿生陪伴机器人，泡沫有多大？",
+      "url": "https://www.tmtpost.com/8059444.html",
+      "summary": "算一算仿生机器人的成本账。",
+      "source": "钛媒体",
+      "time": "38m",
+      "tags": [],
+      "published_at": "2026-07-10T01:21:41+00:00"
+    },
+    {
+      "title": "Unchecked Reliance on AI is Upending Corporate Workflows",
+      "url": "https://www.tmtpost.com/8059420.html",
+      "summary": "As generative AI shifts from a workplace novelty to a daily corporate fixture, white-collar professionals face a new and invisible vulnerability: the AI hallucination trap. While these language models",
+      "source": "钛媒体",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-10T00:11:03+00:00"
+    },
+    {
+      "title": "贸易顺差是国民储蓄用到了国外，刘世锦：顺差越高，内需越弱",
+      "url": "https://www.tmtpost.com/8059408.html",
+      "summary": "高储蓄、高投资、高出口，重生产、轻消费。这套框架在短缺经济时代和投资高增长时期有效运转了几十年，如今已触达边界。",
+      "source": "钛媒体",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-10T00:02:19+00:00"
+    },
+    {
+      "title": "伯南克加入Anthropic长期利益信托：美联储独立性逻辑能否延伸到AI治理",
+      "url": "https://www.tmtpost.com/8059401.html",
+      "summary": "一个研究了一辈子系统如何崩溃的前美联储主席，加入了Anthropic的治理信托。在危机到来之前把制度搭好。",
+      "source": "钛媒体",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-09T23:48:07+00:00"
+    },
     {
       "title": "【钛晨报】事关“十五五”时期碳达峰工作，国务院部署5方面重点任务；微信6月密集更新AI功能：开发者可接入AI生态，企业微信\"大圆\"内测；商务部等9部门：支持符合条件的新型优质零售企业上市",
       "url": "https://www.tmtpost.com/8059200.html",
       "summary": "阶跃星辰将发布AI智能体手机；比亚迪储能与阿联酋Masdar签署11.275GWh储能合作协议；SpaceXAI联手Cursor发布Grok 4.5，面向编程与智能体任务；英伟达将与Hugging Face合作开发机器人开源模型；雀巢将斥资6.88亿美元在泰国新建咖啡工厂和配送中心；未来5年，城镇新增就业将保持相当规模；国家基本药物目录迎来新调整；中国城乡三级养老服务网络2029年基本建成；中办、",
       "source": "钛媒体",
-      "time": "4m",
+      "time": "2h",
       "tags": [],
       "published_at": "2026-07-09T23:20:00+00:00"
-    },
-    {
-      "title": "为什么英伟达股价突破关键位，投资者再次对其趋之若鹜",
-      "url": "https://www.tmtpost.com/8059291.html",
-      "summary": "英伟达股价已从低点反弹，而SpaceX发布的一款新的AI模型可能会助力这一涨势延续。",
-      "source": "钛媒体",
-      "time": "8h",
-      "tags": [],
-      "published_at": "2026-07-09T14:28:59+00:00"
-    },
-    {
-      "title": "特斯拉AI潜力“巨大”，为什么你不该买它",
-      "url": "https://www.tmtpost.com/8059289.html",
-      "summary": "花旗银行开始对特斯拉股票进行研究覆盖，给予“持有”评级，未设定目标价。",
-      "source": "钛媒体",
-      "time": "8h",
-      "tags": [],
-      "published_at": "2026-07-09T14:28:24+00:00"
-    },
-    {
-      "title": "人工智能正在改变个人计算体验，这只股票将从中获利",
-      "url": "https://www.tmtpost.com/8059285.html",
-      "summary": "罗技正在重新构想其全系列办公和游戏设备产品线。其股价有望上涨40%。",
-      "source": "钛媒体",
-      "time": "8h",
-      "tags": [],
-      "published_at": "2026-07-09T14:27:39+00:00"
     },
     {
       "title": "留置、候查、再立案，业绩变脸雪上加霜，佳缘科技20cm跌停",
       "url": "https://www.tmtpost.com/8059266.html",
       "summary": "实控人曾被留置、卷入思科瑞造假案，如今因信披违法遭立案",
       "source": "钛媒体",
-      "time": "9h",
+      "time": "11h",
       "tags": [],
       "published_at": "2026-07-09T14:24:07+00:00"
     },
@@ -53,7 +116,7 @@
       "url": "https://www.tmtpost.com/8059189.html",
       "summary": "左手收缩回血，右手砸钱扩产，亿田智能在算力业务遇挫后再投5.5亿采购服务器",
       "source": "钛媒体",
-      "time": "9h",
+      "time": "11h",
       "tags": [],
       "published_at": "2026-07-09T14:01:49+00:00"
     },
@@ -62,7 +125,7 @@
       "url": "https://www.tmtpost.com/8058180.html",
       "summary": "报告期内宇特光电存在显著大客户依赖问题，2025 年前五大客户合计贡献近七成营收，仅第一大客户光迅科技就占据超四成收入，客户结构高度集中。",
       "source": "钛媒体",
-      "time": "9h",
+      "time": "12h",
       "tags": [],
       "published_at": "2026-07-09T13:30:18+00:00"
     },
@@ -71,72 +134,9 @@
       "url": "https://www.tmtpost.com/8058188.html",
       "summary": "报告期内文峰光电经营端风险集中，公司超七成营收来源于前五大客户，客户结构高度集中，存在显著的大客户依赖风险。",
       "source": "钛媒体",
-      "time": "9h",
+      "time": "12h",
       "tags": [],
       "published_at": "2026-07-09T13:28:57+00:00"
-    },
-    {
-      "title": "小米造车，向“增程”低头",
-      "url": "https://www.tmtpost.com/8057489.html",
-      "summary": "小米的转向，绝不是孤例。它是整个中国新能源汽车行业从狂热技术崇拜走向务实商业闭环的缩影。",
-      "source": "钛媒体",
-      "time": "13h",
-      "tags": [],
-      "published_at": "2026-07-09T10:18:23+00:00"
-    },
-    {
-      "title": "雷军开始抢李想的饭碗",
-      "url": "https://www.tmtpost.com/8058324.html",
-      "summary": "增程市场在降温，小米却杀了进来。雷军盯上的，恰好是理想最核心的那块地盘。",
-      "source": "钛媒体",
-      "time": "13h",
-      "tags": [],
-      "published_at": "2026-07-09T10:13:05+00:00"
-    },
-    {
-      "title": "3个月狂吸百亿，世界模型打响2026生死卡位战",
-      "url": "https://www.tmtpost.com/8057843.html",
-      "summary": "是真物理引擎，还是下一个PPT泡沫？",
-      "source": "钛媒体",
-      "time": "13h",
-      "tags": [],
-      "published_at": "2026-07-09T10:12:44+00:00"
-    },
-    {
-      "title": "三次港股递表，累计亏损超8亿，景泽生物等得起吗？",
-      "url": "https://www.tmtpost.com/8058250.html",
-      "summary": "账上现金仅8100万元，IPO是续命之战。",
-      "source": "钛媒体",
-      "time": "13h",
-      "tags": [],
-      "published_at": "2026-07-09T10:09:04+00:00"
-    },
-    {
-      "title": "外国游客迷上重庆“落地签”？",
-      "url": "https://www.tmtpost.com/8058855.html",
-      "summary": "一张没有公章的“签证”，让全世界游客争相去重庆“报到”。",
-      "source": "钛媒体",
-      "time": "13h",
-      "tags": [],
-      "published_at": "2026-07-09T09:50:00+00:00"
-    },
-    {
-      "title": "洋品牌改姓背后，中国餐桌上的权力交接",
-      "url": "https://www.tmtpost.com/8058845.html",
-      "summary": "中国资本攻向餐桌。",
-      "source": "钛媒体",
-      "time": "13h",
-      "tags": [],
-      "published_at": "2026-07-09T09:45:00+00:00"
-    },
-    {
-      "title": "日本监狱魔改奢华酒店，上海提篮桥还远吗？",
-      "url": "https://www.tmtpost.com/8058671.html",
-      "summary": "重焕新生。",
-      "source": "钛媒体",
-      "time": "13h",
-      "tags": [],
-      "published_at": "2026-07-09T09:41:00+00:00"
     }
   ]
 }

@@ -1,14 +1,32 @@
 {
   "source": "The Verge",
   "layer": "news",
-  "updated": "2026-07-10T07:24:28+08:00",
+  "updated": "2026-07-10T10:00:05+08:00",
   "items": [
+    {
+      "title": "Microsoft’s carbon emissions went up 25 percent last year",
+      "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+      "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions ",
+      "source": "The Verge",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-10T00:04:13+00:00"
+    },
+    {
+      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in Apri",
+      "source": "The Verge",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-09T23:24:04+00:00"
+    },
     {
       "title": "The ChatGPT browser is already dead",
       "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
       "summary": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of n",
       "source": "The Verge",
-      "time": "2h",
+      "time": "5h",
       "tags": [],
       "published_at": "2026-07-09T20:34:05+00:00"
     },
@@ -17,7 +35,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
       "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced o",
       "source": "The Verge",
-      "time": "3h",
+      "time": "5h",
       "tags": [],
       "published_at": "2026-07-09T20:11:38+00:00"
     },
@@ -26,7 +44,7 @@
       "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
       "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"cust",
       "source": "The Verge",
-      "time": "6h",
+      "time": "9h",
       "tags": [],
       "published_at": "2026-07-09T17:00:00+00:00"
     },
@@ -35,7 +53,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
       "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump a",
       "source": "The Verge",
-      "time": "6h",
+      "time": "9h",
       "tags": [],
       "published_at": "2026-07-09T17:00:00+00:00"
     },
@@ -44,7 +62,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
       "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta ",
       "source": "The Verge",
-      "time": "9h",
+      "time": "12h",
       "tags": [],
       "published_at": "2026-07-09T14:00:00+00:00"
     },
@@ -53,7 +71,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
       "summary": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"",
       "source": "The Verge",
-      "time": "9h",
+      "time": "12h",
       "tags": [],
       "published_at": "2026-07-09T13:30:00+00:00"
     },
@@ -62,7 +80,7 @@
       "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
       "summary": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-",
       "source": "The Verge",
-      "time": "10h",
+      "time": "12h",
       "tags": [],
       "published_at": "2026-07-09T13:11:53+00:00"
     },
@@ -71,27 +89,9 @@
       "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
       "summary": "Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instruction",
       "source": "The Verge",
-      "time": "10h",
+      "time": "13h",
       "tags": [],
       "published_at": "2026-07-09T13:00:00+00:00"
-    },
-    {
-      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to co",
-      "source": "The Verge",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-08T17:00:00+00:00"
-    },
-    {
-      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsAp",
-      "source": "The Verge",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-07T20:31:58+00:00"
     }
   ]
 }

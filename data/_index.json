@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T07:25:53+08:00",
+  "updated": "2026-07-10T10:02:15+08:00",
   "files": {
     "analysis_inter": "analysis_inter.json",
     "analysis_mckinsey": "analysis_mckinsey.json",
@@ -63,7 +63,7 @@
     "stocks": "stocks.json"
   },
   "stats": {
-    "total_items": 985,
+    "total_items": 982,
     "last_run_status": "ok",
     "errors": [
       {
@@ -250,18 +250,18 @@
       "company_oracle": 6,
       "company_runway": 2,
       "company_spacex": 6,
-      "company_tesla": 4,
+      "company_tesla": 5,
       "company_中际旭创": 6,
       "company_商汤": 2,
       "company_字节豆包": 6,
       "company_寒武纪": 6,
       "company_拓维信息": 0,
-      "company_智谱ai": 5,
+      "company_智谱ai": 4,
       "company_月之暗面": 6,
       "company_百度ai": 0,
       "company_腾讯": 6,
-      "company_阿里巴巴": 3,
-      "digest": 114,
+      "company_阿里巴巴": 2,
+      "digest": 113,
       "filings": 26,
       "github_trending": 10,
       "huggingface_trending": 15,
@@ -278,7 +278,7 @@
       "news_producthunt": 15,
       "news_qbitai": 10,
       "news_semianalysis": 0,
-      "news_techmeme": 12,
+      "news_techmeme": 11,
       "news_tldr_ai": 20,
       "news_tmtpost": 15,
       "news_venturebeat": 0,

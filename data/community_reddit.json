@@ -1,23 +1,32 @@
 {
   "source": "Reddit ML",
   "layer": "community",
-  "updated": "2026-07-10T07:24:36+08:00",
+  "updated": "2026-07-10T10:00:30+08:00",
   "items": [
     {
       "title": "Journals vs Conferences ML Research [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1urqqk6/journals_vs_conferences_ml_research_r/",
       "summary": "Lately in the last two/three years, I have noticed ICML, Neurips becoming more prestigious than the actual journals. What is the actual reason of this culture? Is this due to the AI boom and rising de",
       "source": "Reddit ML",
-      "time": "9h",
+      "time": "12h",
       "tags": [],
       "published_at": "2026-07-09T13:44:41+00:00"
+    },
+    {
+      "title": "Hyperparameter tuning approach question [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1usa46w/hyperparameter_tuning_approach_question_r/",
+      "summary": "I am doing some work with cell type classification, where I have 4.3 million cells and 512 features (condensed embeddings from the encoder of a transformer). The broader goal is to implement a context",
+      "source": "Reddit ML",
+      "time": "4m",
+      "tags": [],
+      "published_at": "2026-07-10T01:55:38+00:00"
     },
     {
       "title": "Talos-XII: hand-written autograd + small RL/MLP stack in Rust, applied to gacha probability modeling (no tch-rs/ndarray/PyTorch) — looking for benchmark help on ARM/AVX-512/GPU [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1urvxgb/talosxii_handwritten_autograd_small_rlmlp_stack/",
       "summary": "What it is Talos-XII is a CLI simulator for the gacha system in Arknights: Endfield. Rather than sampling from a static probability table, it trains a small set of neural nets to model environment unc",
       "source": "Reddit ML",
-      "time": "6h",
+      "time": "9h",
       "tags": [],
       "published_at": "2026-07-09T16:52:11+00:00"
     },
@@ -26,7 +35,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1urxvxh/i_built_imgnet_a_face_verification_model_that/",
       "summary": "I want to share something I've been building as an independent researcher from Indonesia. TL;DR: Face verification model that replaces cosine similarity with sliding window sign pattern matching. Achi",
       "source": "Reddit ML",
-      "time": "5h",
+      "time": "8h",
       "tags": [],
       "published_at": "2026-07-09T18:00:10+00:00"
     },
@@ -71,7 +80,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uqdpdb/acl_arr_may_2026d/",
       "summary": "Reviews are released. Lets discuss scores here. &#32; submitted by &#32; /u/Historical_Pause247 [link] &#32; [comments]",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-08T00:50:27+00:00"
     },
@@ -128,15 +137,6 @@
       "time": "2d",
       "tags": [],
       "published_at": "2026-07-07T07:59:10+00:00"
-    },
-    {
-      "title": "Raffi Krikorian (CTO, Mozilla) — AMA on the State of Open Source AI (July 14 @ 1pm EDT) [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1upxdvc/raffi_krikorian_cto_mozilla_ama_on_the_state_of/",
-      "summary": "Hi r/MachineLearning, i’m Raffi, CTO at Mozilla. on Tuesday July 14 we publish our inaugural State of Open Source AI report, and i'll be here live answering whatever questions you throw at me! AMA tim",
-      "source": "Reddit ML",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-07T14:51:29+00:00"
     }
   ]
 }

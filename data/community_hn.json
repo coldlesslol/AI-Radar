@@ -1,50 +1,68 @@
 {
   "source": "HN",
   "layer": "community",
-  "updated": "2026-07-10T07:24:34+08:00",
+  "updated": "2026-07-10T10:00:28+08:00",
   "items": [
+    {
+      "title": "Build your own vulnerability harness",
+      "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+      "summary": "Article URL: https://blog.cloudflare.com/build-your-own-vulnerability-harness/ Comments URL: https://news.ycombinator.com/item?id=48854681 Points: 5 # Comments: 0",
+      "source": "HN",
+      "time": "31m",
+      "tags": [],
+      "published_at": "2026-07-10T01:28:43+00:00"
+    },
+    {
+      "title": "Star Just Ate a Planet, and It's Not Done Yet",
+      "url": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html Comments URL: https://news.ycombinator.com/item?id=48854638 Points: 6 # Comments: 3",
+      "source": "HN",
+      "time": "40m",
+      "tags": [],
+      "published_at": "2026-07-10T01:20:16+00:00"
+    },
+    {
+      "title": "Focus",
+      "url": "https://boz.com/articles/focus",
+      "summary": "Article URL: https://boz.com/articles/focus Comments URL: https://news.ycombinator.com/item?id=48854363 Points: 9 # Comments: 0",
+      "source": "HN",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-10T00:40:33+00:00"
+    },
     {
       "title": "Why American ambulance rides are so expensive",
       "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
-      "summary": "Article URL: https://davidoks.blog/p/why-american-ambulance-rides-are Comments URL: https://news.ycombinator.com/item?id=48853091 Points: 29 # Comments: 11",
+      "summary": "Article URL: https://davidoks.blog/p/why-american-ambulance-rides-are Comments URL: https://news.ycombinator.com/item?id=48853091 Points: 92 # Comments: 124",
       "source": "HN",
-      "time": "1h",
+      "time": "3h",
       "tags": [],
       "published_at": "2026-07-09T22:15:56+00:00"
     },
     {
-      "title": "Show HN: Rubiks Cube Solver",
-      "url": "https://speedcube.com.br/",
-      "summary": "Speedcube is an open-source platform for speedcubers featuring a Rubik's Cube solver, competition timer, algorithm library, and AI-assisted cube recognition directly in the browser.Built with React, T",
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "summary": "Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a real",
       "source": "HN",
-      "time": "2h",
+      "time": "5h",
       "tags": [],
-      "published_at": "2026-07-09T21:09:05+00:00"
+      "published_at": "2026-07-09T20:51:06+00:00"
     },
     {
       "title": "GLM 5.2 is nearly as accurate as a human book keeper",
       "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "summary": "Article URL: https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark Comments URL: https://news.ycombinator.com/item?id=48850414 Points: 163 # Comments: 97",
+      "summary": "Article URL: https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark Comments URL: https://news.ycombinator.com/item?id=48850414 Points: 187 # Comments: 111",
       "source": "HN",
-      "time": "4h",
+      "time": "7h",
       "tags": [],
       "published_at": "2026-07-09T18:29:41+00:00"
     },
     {
-      "title": "How to Start a Ruby Meetup",
-      "url": "https://guides.rubyevents.org/meetups/",
-      "summary": "Article URL: https://guides.rubyevents.org/meetups/ Comments URL: https://news.ycombinator.com/item?id=48850372 Points: 55 # Comments: 13",
-      "source": "HN",
-      "time": "4h",
-      "tags": [],
-      "published_at": "2026-07-09T18:27:06+00:00"
-    },
-    {
       "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
       "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "summary": "Article URL: https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/ Comments URL: https://news.ycombinator.com/item?id=48849292 Points: 50 # Comments: 11",
+      "summary": "Article URL: https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/ Comments URL: https://news.ycombinator.com/item?id=48849292 Points: 121 # Comments: 47",
       "source": "HN",
-      "time": "6h",
+      "time": "8h",
       "tags": [],
       "published_at": "2026-07-09T17:17:16+00:00"
     },
@@ -53,97 +71,79 @@
       "url": "https://openai.com/index/gpt-5-6/",
       "summary": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdfhttps://developers.openai.com/api/docs/guides/latest-modelhttps://x.com/levie/status/2075287443411222628, https://xcancel.com/levie/status/207528",
       "source": "HN",
-      "time": "6h",
+      "time": "8h",
       "tags": [],
       "published_at": "2026-07-09T17:04:14+00:00"
-    },
-    {
-      "title": "ChatGPT Work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-      "summary": "Article URL: https://openai.com/index/chatgpt-for-your-most-ambitious-work/ Comments URL: https://news.ycombinator.com/item?id=48849059 Points: 305 # Comments: 147",
-      "source": "HN",
-      "time": "6h",
-      "tags": [],
-      "published_at": "2026-07-09T17:03:53+00:00"
     },
     {
       "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
       "url": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
       "summary": "Article URL: https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer Comments URL: https://news.ycombinator.com/item?id=48849011 Points: 0 # Comments: 0",
       "source": "HN",
-      "time": "6h",
+      "time": "8h",
       "tags": [],
       "published_at": "2026-07-09T17:00:37+00:00"
-    },
-    {
-      "title": "AI content is everywhere on social media, especially LinkedIn",
-      "url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 160 # Comments: 139",
-      "source": "HN",
-      "time": "7h",
-      "tags": [],
-      "published_at": "2026-07-09T15:50:09+00:00"
     },
     {
       "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
       "url": "https://www.context.dev",
       "summary": "Hi Hacker News, I’m Yahia. I built Context.dev (https://www.context.dev/) to make it really easy to integrate web data into your products and agents.Here’s a demo video: https://www.tella.tv/video/bui",
       "source": "HN",
-      "time": "7h",
+      "time": "10h",
       "tags": [],
       "published_at": "2026-07-09T15:28:39+00:00"
     },
     {
       "title": "Hy3",
       "url": "https://hy.tencent.com/research/hy3",
-      "summary": "Article URL: https://hy.tencent.com/research/hy3 Comments URL: https://news.ycombinator.com/item?id=48847552 Points: 342 # Comments: 75",
+      "summary": "Article URL: https://hy.tencent.com/research/hy3 Comments URL: https://news.ycombinator.com/item?id=48847552 Points: 388 # Comments: 83",
       "source": "HN",
-      "time": "7h",
+      "time": "10h",
       "tags": [],
       "published_at": "2026-07-09T15:27:48+00:00"
     },
     {
       "title": "A possible future for Damn Interesting",
       "url": "https://www.damninteresting.com/a-possible-future/",
-      "summary": "Article URL: https://www.damninteresting.com/a-possible-future/ Comments URL: https://news.ycombinator.com/item?id=48847511 Points: 207 # Comments: 23",
+      "summary": "Article URL: https://www.damninteresting.com/a-possible-future/ Comments URL: https://news.ycombinator.com/item?id=48847511 Points: 234 # Comments: 29",
       "source": "HN",
-      "time": "7h",
+      "time": "10h",
       "tags": [],
       "published_at": "2026-07-09T15:25:25+00:00"
     },
     {
       "title": "Opinionated and easy Pi.dev configuration",
       "url": "https://lazypi.org/",
-      "summary": "Article URL: https://lazypi.org/ Comments URL: https://news.ycombinator.com/item?id=48847407 Points: 94 # Comments: 57",
+      "summary": "Article URL: https://lazypi.org/ Comments URL: https://news.ycombinator.com/item?id=48847407 Points: 109 # Comments: 61",
       "source": "HN",
-      "time": "8h",
+      "time": "10h",
       "tags": [],
       "published_at": "2026-07-09T15:19:33+00:00"
     },
     {
       "title": "TLS certificates for internal services done right",
       "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
-      "summary": "Article URL: https://tuxnet.dev/posts/tls-for-internal-services/ Comments URL: https://news.ycombinator.com/item?id=48846995 Points: 123 # Comments: 83",
+      "summary": "Article URL: https://tuxnet.dev/posts/tls-for-internal-services/ Comments URL: https://news.ycombinator.com/item?id=48846995 Points: 132 # Comments: 94",
       "source": "HN",
-      "time": "8h",
+      "time": "11h",
       "tags": [],
       "published_at": "2026-07-09T14:57:02+00:00"
     },
     {
       "title": "SimPolitics: America’s quest to solve politics with computers",
       "url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
-      "summary": "https://direct.mit.edu/books/oa-monograph/6166/SimPoliticsAm... Comments URL: https://news.ycombinator.com/item?id=48846332 Points: 67 # Comments: 8",
+      "summary": "https://direct.mit.edu/books/oa-monograph/6166/SimPoliticsAm... Comments URL: https://news.ycombinator.com/item?id=48846332 Points: 82 # Comments: 13",
       "source": "HN",
-      "time": "9h",
+      "time": "11h",
       "tags": [],
       "published_at": "2026-07-09T14:20:14+00:00"
     },
     {
       "title": "No leap second will be introduced at the end of December 2026",
       "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-      "summary": "Article URL: https://datacenter.iers.org/data/latestVersion/bulletinC.txt Comments URL: https://news.ycombinator.com/item?id=48846281 Points: 216 # Comments: 169",
+      "summary": "Article URL: https://datacenter.iers.org/data/latestVersion/bulletinC.txt Comments URL: https://news.ycombinator.com/item?id=48846281 Points: 239 # Comments: 181",
       "source": "HN",
-      "time": "9h",
+      "time": "11h",
       "tags": [],
       "published_at": "2026-07-09T14:16:34+00:00"
     },
@@ -152,34 +152,34 @@
       "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
       "summary": "https://ai.meta.com/static-resource/muse-spark-1-1-evaluatio... [pdf]https://developer.meta.com/ai/resources/blog/build-with-muse...https://www.bloomberg.com/news/articles/2026-07-09/meta-star..., htt",
       "source": "HN",
-      "time": "9h",
+      "time": "11h",
       "tags": [],
       "published_at": "2026-07-09T14:10:22+00:00"
     },
     {
       "title": "The glass backbone: Why the Army's logistics will break in the next war",
       "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-      "summary": "Article URL: https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/ Comments URL: https://news.ycombinator.com/item?id=48845442 Points: 257 # Comments: 343",
+      "summary": "Article URL: https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/ Comments URL: https://news.ycombinator.com/item?id=48845442 Points: 294 # Comments: 383",
       "source": "HN",
-      "time": "9h",
+      "time": "12h",
       "tags": [],
       "published_at": "2026-07-09T13:24:43+00:00"
     },
     {
       "title": "A road to Lisp: Why Lisp",
       "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
-      "summary": "Article URL: https://scotto.me/blog/2026-07-09-why-lisp/ Comments URL: https://news.ycombinator.com/item?id=48845209 Points: 91 # Comments: 84",
+      "summary": "Article URL: https://scotto.me/blog/2026-07-09-why-lisp/ Comments URL: https://news.ycombinator.com/item?id=48845209 Points: 114 # Comments: 109",
       "source": "HN",
-      "time": "10h",
+      "time": "12h",
       "tags": [],
       "published_at": "2026-07-09T13:06:04+00:00"
     },
     {
       "title": "Show HN: 18 Words",
       "url": "https://18words.com/",
-      "summary": "Article URL: https://18words.com/ Comments URL: https://news.ycombinator.com/item?id=48845049 Points: 766 # Comments: 276",
+      "summary": "Article URL: https://18words.com/ Comments URL: https://news.ycombinator.com/item?id=48845049 Points: 826 # Comments: 284",
       "source": "HN",
-      "time": "10h",
+      "time": "13h",
       "tags": [],
       "published_at": "2026-07-09T12:48:52+00:00"
     }

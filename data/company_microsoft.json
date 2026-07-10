@@ -1,8 +1,17 @@
 {
   "source": "Microsoft",
   "layer": "company",
-  "updated": "2026-07-10T07:24:58+08:00",
+  "updated": "2026-07-10T10:01:14+08:00",
   "items": [
+    {
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kYWhpU0pHLVpwM0RlNzgxX1JGRlVaSmxPelVHcXJXQmFYZGszLUp4Nmw0SlRGbTBiUnR5emtEaURDXzBUUDBIWEI4Y0Q0SWZZdGNoeGxLNTZZS1BxUEdQcGduSFFlNjRTdVRxMDZiSVNtTWJSNHZfRWptNA?oc=5",
+      "summary": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot&nbsp;&nbsp;OpenAI",
+      "source": "Microsoft",
+      "time": "5h",
+      "tags": [],
+      "published_at": "2026-07-09T20:02:38+00:00"
+    },
     {
       "title": "Moving sales and service organizations forward with agentic CX and Microsoft 365 Copilot - Microsoft",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZV9EQ2x1M1MxYmhKX1dhVTNQRDA5RkNKTWdqSHE3SDNTem1NX3dNREtnU0REVi1IZUdULTJBa0k0Q1Nua1ZFZ3U4bTNYU3VCY3JuMThQQ0JxVm9Nc2NrRGlsSGtkTnI5MllSWXpIOThMT3ZlTGxHR21FcllBYWNKM19sendQUnVpUmc2TXRsamlDMVV1OU5QNE1mTlgwdnZNYVlCbk8yeUNZT1NaeG56TzB5aF9yTmpKbENBRndYR2lrSmlYT0hMOGxRNGw0TFF3eTZlVDlvbVk3cm8tMXRUQTNUV19HdUlrWHZCWFBLaDBfRmRlYlZFNVhn?oc=5",
@@ -11,24 +20,6 @@
       "time": "2d",
       "tags": [],
       "published_at": "2026-07-07T16:00:00+00:00"
-    },
-    {
-      "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWFDTlgwWnhTVWt4Tkp6aEN0TXV6dGUyNU14bnppNjlkOUlUYWlISVdLUDl3TTB0bjVzNTRGSElwZ19mVVZBamR0X0RWazVzd2xPS1R4bTItZW9DNzg3RmNZUVJJWVdjUDdYUHlPZ21wQWZDeXFPckltVGhZM3lpTXB1Vi15YnZsQmU2UUt4QVM1NExLT05TeTI1endXVndBZmptbGE2ZXVjcU1I?oc=5",
-      "summary": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs&nbsp;&nbsp;the-decoder.com",
-      "source": "Microsoft",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-07T18:40:40+00:00"
-    },
-    {
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kYWhpU0pHLVpwM0RlNzgxX1JGRlVaSmxPelVHcXJXQmFYZGszLUp4Nmw0SlRGbTBiUnR5emtEaURDXzBUUDBIWEI4Y0Q0SWZZdGNoeGxLNTZZS1BxUEdQcGduSFFlNjRTdVRxMDZiSVNtTWJSNHZfRWptNA?oc=5",
-      "summary": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot&nbsp;&nbsp;OpenAI",
-      "source": "Microsoft",
-      "time": "3h",
-      "tags": [],
-      "published_at": "2026-07-09T20:02:38+00:00"
     },
     {
       "title": "Exclusive: In the capital of AI, government adoption is all over the place - San Francisco Chronicle",
@@ -49,13 +40,22 @@
       "published_at": "2026-07-08T15:35:24+00:00"
     },
     {
-      "title": "Is Microsoft's latest AI upgrade enough to win the battle over Google Forms? - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEQtdG9PZk41UlY0U0dFc2IzRG51Z3o3LUlvOXY3NjExYVJsbXIwYVZCd1Z1WmN0dGR3TWtlNDRZWHFhdFZyZl96d3hmSXdaX2l1M0ZtaUphLURqZWVtNnVGS0VBbGREcm9Ca2h6RUxJNHZQSzhRZENmTGVlZXBNemxRalM0bXVVREl0NWp2YmFlOTNfUXhjdUJnUXdIWE5JRUhDdUthZDZqSmpPeUVMN0ljWXg5YUFfM2JzNUt2a29meGlnajJtRXFqemU?oc=5",
-      "summary": "Is Microsoft's latest AI upgrade enough to win the battle over Google Forms?&nbsp;&nbsp;Windows Central",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHpKYVNrMUdfcEtpTkM4Q2VVczFna1VodlE5UU02MTI2aGtGVVhrbzM5amNnU2dMREJrcHEySUI5Z2NOMHUtOXZZeVAzZTRDcHNtQXN3cXJPNGZYdXpLcWtHSl9kamwtVEdDM2lpcEhoTWlnYUpJVlQ5Rl9UMERnZlU0MHZDa2N2bXpZVnRReGgzRFh2c2dZbDhORGZfakhUemszYkYzYUp5ZUEwSVJSWFFpdXZtYTdRTmdKMQ?oc=5",
+      "summary": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter&nbsp;&nbsp;TechCrunch",
       "source": "Microsoft",
-      "time": "11h",
+      "time": "1h",
       "tags": [],
-      "published_at": "2026-07-09T12:06:51+00:00"
+      "published_at": "2026-07-10T00:16:54+00:00"
+    },
+    {
+      "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWFDTlgwWnhTVWt4Tkp6aEN0TXV6dGUyNU14bnppNjlkOUlUYWlISVdLUDl3TTB0bjVzNTRGSElwZ19mVVZBamR0X0RWazVzd2xPS1R4bTItZW9DNzg3RmNZUVJJWVdjUDdYUHlPZ21wQWZDeXFPckltVGhZM3lpTXB1Vi15YnZsQmU2UUt4QVM1NExLT05TeTI1endXVndBZmptbGE2ZXVjcU1I?oc=5",
+      "summary": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs&nbsp;&nbsp;the-decoder.com",
+      "source": "Microsoft",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-07T18:40:40+00:00"
     }
   ]
 }

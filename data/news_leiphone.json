@@ -1,14 +1,32 @@
 {
   "source": "雷峰网",
   "layer": "news",
-  "updated": "2026-07-10T07:24:32+08:00",
+  "updated": "2026-07-10T10:00:11+08:00",
   "items": [
+    {
+      "title": "曹操充电携手支付宝碰一下，发布智能新桩开启两轮充电新纪元",
+      "url": "https://www.leiphone.com/category/industrynews/tZFgcHOrn6vbGOe7.html",
+      "summary": "7月8日支付宝“碰一下”期间，支付宝宣布“碰一下”线下AI经营网络扩容强劲，已拥有4亿用户、2300余家生态服务商、超3000万线下AI触点。这一庞大的数字背后，是“碰一下”从支付向线下AI经营入口的加速跃迁。充电桩行业标杆企业——曹操充电在大会上分享了与“碰一下”深度协同的创新实践，并发布基于AI大模型的全新智能充电桩。“碰一下”充电 充电体验全面焕新据悉，曹操充电成立于2019年，是一家专注于",
+      "source": "雷峰网",
+      "time": "38m",
+      "tags": [],
+      "published_at": "2026-07-10T01:22:00+00:00"
+    },
+    {
+      "title": "顺网科技携手支付宝“碰一下”，重塑线下电竞新体验",
+      "url": "https://www.leiphone.com/category/industrynews/lDbHAwU9ZcbQpcpT.html",
+      "summary": "7月8日，2026支付宝碰一下生态大会上，支付宝宣布 “碰一下”完成 AI 升级，自“碰一下”服务上线以来，已有4亿用户、2300余家生态服务商、超3000万线下AI触点，覆盖餐饮、商超、景区、酒店等多种业态，为不同行业创造了新的经营机遇。会上，顺网科技展示了其与支付宝“碰一下”联合打造的云电竞解决方案，为电竞行业带来了轻资产、无人值守的全新经营模式。为解决传统电竞馆经营长期面临的场景固定、资产重",
+      "source": "雷峰网",
+      "time": "45m",
+      "tags": [],
+      "published_at": "2026-07-10T01:15:00+00:00"
+    },
     {
       "title": "移远通信发布 Hawk 系列 AR 眼镜与 Dolphin XR 算力单元：以一站式制造能力推动 XR 规模化落地",
       "url": "https://www.leiphone.com/category/arvr/5zNZCHth6f2indzb.html",
       "summary": "7月9日，“方寸镜·无限远”——2026移远XR解决方案与生态战略发布会在深圳举办。会上，移远通信正式发布全链路自研的AI+AR眼镜Hawk系列，以及配套算力单元Dolphin系列，标志着这家物联网领军企业全面入局XR赛道。三年沉淀，从“智联”到“视界”的战略跨越活动现场，移远通信联合创始人&amp;首席运营官张栋以物联网发展的三次演进为脉络，阐述了移远从“智联”到“视界”的战略跃迁。移远通信联合",
       "source": "雷峰网",
-      "time": "10h",
+      "time": "12h",
       "tags": [],
       "published_at": "2026-07-09T13:03:00+00:00"
     },
@@ -17,7 +35,7 @@
       "url": "https://www.leiphone.com/category/industrynews/RDpPRL52VCMB19vs.html",
       "summary": "人与 AI 的沟通正在变得越来越像人与人之间的沟通。一位店员用 AI 制作门店宣传视频时，不再把需求列成一段非常细致的 Prompt 发给 AI，然后等待它返回结果；而是直接开启一个与 AI 的对话，告诉它“帮我剪一条今天新品上架的视频”，然后通过连续对话敲定任务的具体细节，就像与人类剪辑师一样。同样的情况已经发生在很多具体场景中。一些程序员在通勤或散步时会用语音和 Agent 讨论一个功能该怎么",
       "source": "雷峰网",
-      "time": "12h",
+      "time": "15h",
       "tags": [],
       "published_at": "2026-07-09T10:40:00+00:00"
     },
@@ -26,7 +44,7 @@
       "url": "https://www.leiphone.com/category/private/CkhbgnZgFR3PMdyw.html",
       "summary": "7月9日，机器学习领域最具影响力的顶级学术会议ICML 2026进入正会第三天。本次大会共接收6352篇论文，其中Spotlight论文536篇（占投稿总数的 2.2%），Oral 论文168篇 （仅占投稿总数的 0.7 %）。作为国际顶级的机器学习会议，今年的ICML吸引了数千篇论文投稿，其中Spotlight论文更是百里挑一，代表着当前AI研究的最前沿方向。雷峰网已派出报道小组赴首尔COEX会",
       "source": "雷峰网",
-      "time": "12h",
+      "time": "15h",
       "tags": [],
       "published_at": "2026-07-09T10:34:00+00:00"
     },
@@ -35,7 +53,7 @@
       "url": "https://www.leiphone.com/category/private/zFZn6BMEReiFggmy.html",
       "summary": "7月8日，机器学习领域最具影响力的顶级学术会议ICML 2026进入正会第二天。本次大会共接收6352篇论文，其中Spotlight论文536篇（占投稿总数的 2.2%），Oral 论文168篇 （仅占投稿总数的 0.7 %）。作为国际顶级的机器学习会议，今年的ICML吸引了数千篇论文投稿，其中Spotlight论文更是百里挑一，代表着当前AI研究的最前沿方向。雷峰网已派出报道小组赴首尔COEX会",
       "source": "雷峰网",
-      "time": "13h",
+      "time": "15h",
       "tags": [],
       "published_at": "2026-07-09T10:11:00+00:00"
     },
@@ -44,7 +62,7 @@
       "url": "https://www.leiphone.com/category/industrynews/8vXcyUPwjmiDAvr3.html",
       "summary": "7月9日，美团发布首届司南口腔榜，33城576家专业机构、367位医生入选，覆盖正畸、种植牙等10大品类。榜单采用“医疗专业性”与“用户口碑”双轨评估，由9位学科教授领衔，联合40余位三甲专家独立评审，综合超5000万用户交易数据、328万条真实评价，助力万千家庭找到值得信赖的机构和医生。&nbsp;",
       "source": "雷峰网",
-      "time": "13h",
+      "time": "16h",
       "tags": [],
       "published_at": "2026-07-09T09:29:00+00:00"
     },
@@ -53,7 +71,7 @@
       "url": "https://www.leiphone.com/category/ai/PfbwTKDLzwL99jmZ.html",
       "summary": "北京时间7月7日，联合国机构国际电信联盟（ITU）2026年“人工智能向善”全球峰会（AI for Good Global Summit）在瑞士日内瓦举办，公布了年度“AI for Good创新影响力案例集”。天立国际旗下智慧教育公司启鸣达人（以下简称“天立启鸣”）自主研发的“天立学科大脑：AI驱动的个性化公平学习路径”入选“Generative Al for Creativity, Educat",
       "source": "雷峰网",
-      "time": "14h",
+      "time": "17h",
       "tags": [],
       "published_at": "2026-07-09T08:59:00+00:00"
     },
@@ -62,7 +80,7 @@
       "url": "https://www.leiphone.com/category/private/bqJj0gBbZjw1sZNB.html",
       "summary": "7月9日，人工智能与计算机视觉领域的风向标盛会ICML 2026正式开启了三天的核心议程。本届大会在创纪录的投递量中严选出6352篇录用论文，其中包含代表前沿风向的Spotlight论文536篇（占投稿总数的 2.2%），以及极具开创性的Oral 论文168篇 （仅占投稿总数的 0.7 %）。本届入选的研究方向展现了极高的多元性，全面覆盖了从多模态大模型到三维高斯泼溅、从具身智能视觉到神经辐射场优",
       "source": "雷峰网",
-      "time": "14h",
+      "time": "17h",
       "tags": [],
       "published_at": "2026-07-09T08:53:00+00:00"
     },
@@ -71,7 +89,7 @@
       "url": "https://www.leiphone.com/category/industrynews/27C8eEaw1r1xfTzp.html",
       "summary": "7月8日，继发布全栈AI支付体系后，支付宝AI支付再推Agent经营方案。从AI开发、AI经营、AI营销三大方向探索Agent时代的商业新机会，帮助商家在AI时代实现产品创新、用户连接与经营增长。全新推出开发套件AIS让Agent可构建完整商业链路随着企业探索AI应用，开发Agent的复杂度也在快速提升。一个真正服务用户的&nbsp;Agent，需要连接推荐商品、库存管理、订单处理、售后服务等完整",
       "source": "雷峰网",
-      "time": "16h",
+      "time": "19h",
       "tags": [],
       "published_at": "2026-07-09T06:30:00+00:00"
     },
@@ -80,7 +98,7 @@
       "url": "https://www.leiphone.com/category/industrynews/G37AgItr75dHXX0i.html",
       "summary": "7月9日，中国AI创新力量再次引发全球关注。中国具身智能公司——蚂蚁灵波科技升级全栈大脑2.0，一口气发布了涵盖视觉、动作、操作以及物理预测等方向的具身智能大模型，在海外开发者社区掀起热潮，发布即登上海外社交媒体热榜。图说：蚂蚁灵波世界模型LingBot-World 2.0（Infinity）及具身模型LingBot-VLA2.0登上X科技热榜在Reddit、X（原Twitter）及Hugging",
       "source": "雷峰网",
-      "time": "17h",
+      "time": "19h",
       "tags": [],
       "published_at": "2026-07-09T06:12:00+00:00"
     },
@@ -89,7 +107,7 @@
       "url": "https://www.leiphone.com/category/smartretailing/AXQriqGk77iNHtFU.html",
       "summary": "7月8日，新鲜零食“开创者”金粒门华南首店正式开业，位于深圳布吉万象汇。这是金粒门开启“出湘”以来，开出的第二个大区首店，其将以“新鲜短保、高质价比”的差异化新鲜零食模式，为深圳乃至华南新鲜零食消费市场带来全新升级体验。作为品牌布局华南的开篇之作，金粒门深圳布吉万象汇店坐落于商场B1层核心区位，地铁5号线百鸽笼站C口直达。&nbsp;记者走访看到，约400平方米的店面延续品牌高辨识度的年轻化视觉体",
       "source": "雷峰网",
-      "time": "17h",
+      "time": "20h",
       "tags": [],
       "published_at": "2026-07-09T05:42:00+00:00"
     },
@@ -98,7 +116,7 @@
       "url": "https://www.leiphone.com/category/ai/aFTmWZkO6CAIPGvW.html",
       "summary": "&nbsp;打破具身行业最快交付纪录&nbsp; &nbsp; 作者丨邓哲敏&nbsp; &nbsp; 编辑丨齐铖湧&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
       "source": "雷峰网",
-      "time": "19h",
+      "time": "21h",
       "tags": [],
       "published_at": "2026-07-09T04:01:00+00:00"
     },
@@ -107,7 +125,7 @@
       "url": "https://www.leiphone.com/category/ai/tc6oPeh2ZD5DST6g.html",
       "summary": "至简动力联合北大、港中文、乙太科技—不代替真机，人手与真机数据共生&nbsp; &nbsp; 作者丨邓哲敏&nbsp; &nbsp; 编辑丨齐铖湧&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
       "source": "雷峰网",
-      "time": "19h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-09T03:57:00+00:00"
     },
@@ -116,7 +134,7 @@
       "url": "https://www.leiphone.com/category/industrynews/6Hyio1NHDBM1d5Iw.html",
       "summary": "&nbsp;7 月 9 日，蚂蚁灵波开源&nbsp;LingBot-Video，这是全球首个基于 Mixture-of-Experts（MoE）架构、面向具身智能的开源视频生成基础模型。该模型围绕机器人和具身智能的核心需求重新设计视频预训练范式，在推理效率、物理合理性、动作理解和任务完成度等方面取得系统性提升，为视频基础模型从数字内容创作走向具身智能提供了新的开源底座。&nbsp;在北京大学联合字",
       "source": "雷峰网",
-      "time": "19h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-09T03:57:00+00:00"
     },
@@ -125,7 +143,7 @@
       "url": "https://www.leiphone.com/category/industrynews/xHoScn0mDGYxjjem.html",
       "summary": "7月7日，支付宝AI开放平台正式上线邀测，顺心捷达已接入其AI生态，将全网大件快运服务能力嵌入AI版支付宝“阿宝”。用户可直接通过语音或文字与“阿宝”对话，获取寄件指导、网点位置或上门取件服务。&nbsp;如用户在“阿宝”中发出“我要寄快递”或“发顺心快递”等指令，填写相关信息后，就可通过“我的快递”服务卡片下单顺心捷达服务。指令识别、信息生成、订单确认，全流程环环相扣，真正实现“对话即服务”。此",
       "source": "雷峰网",
-      "time": "19h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-09T03:45:00+00:00"
     },
@@ -134,7 +152,7 @@
       "url": "https://www.leiphone.com/category/industrynews/P1RW5pSlLbX6EKfq.html",
       "summary": "7&nbsp;月&nbsp;9&nbsp;日，蚂蚁灵波科技开源新一代实时交互世界模型&nbsp;LingBot-World 2.0（又称&nbsp;LingBot-World-Infinity）。该模型全面升级世界预测与交互能力，支持小时级实时生成、720p/60fps&nbsp;高清实时输出以及更丰富的交互动作与事件，并在业界首次将&nbsp;Agent&nbsp;机制引入世界模型，让生成的世界",
       "source": "雷峰网",
-      "time": "19h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-09T03:42:00+00:00"
     },
@@ -143,7 +161,7 @@
       "url": "https://www.leiphone.com/category/academic/2xndXGiVd0MVqPAD.html",
       "summary": "JEPA 比生成式世界模型，天然更具有结构性优势。&nbsp; &nbsp; 作者丨幸丽娟&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
       "source": "雷峰网",
-      "time": "19h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-09T03:40:00+00:00"
     },
@@ -152,7 +170,7 @@
       "url": "https://www.leiphone.com/category/chips/0LbefboyRMfPxvBe.html",
       "summary": "一家传统企业的财务总监第一次拿到Token账单时，通常只有两个感受：一是怎么这么贵，二是怎么算出来的。第一个问题可以通过预算来回答；第二个问题，则要复杂得多，账单上的算法，不同厂商有不同的版本，但剥开来看，核心逻辑都长得很像——不过是“单价乘以用量”的某种变体。变化就发生在这个乘法里。2024年初，中国日均Token调用量是1000亿。到2026年3月，这个数字突破了140万亿——两年，超过100",
       "source": "雷峰网",
-      "time": "20h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-09T03:23:00+00:00"
     },
@@ -161,27 +179,9 @@
       "url": "https://www.leiphone.com/category/industrynews/I7tF0IFX1Q8hH4Im.html",
       "summary": "7&nbsp;月&nbsp;9&nbsp;日，蚂蚁灵波开源&nbsp;LingBot-Video，这是全球首个基于&nbsp;Mixture-of-Experts（MoE）架构、面向具身智能的开源视频生成基础模型。该模型围绕机器人和具身智能的核心需求重新设计视频预训练范式，在推理效率、物理合理性、动作理解和任务完成度等方面取得系统性提升，为视频基础模型从数字内容创作走向具身智能提供了新的开源底座。",
       "source": "雷峰网",
-      "time": "20h",
+      "time": "22h",
       "tags": [],
       "published_at": "2026-07-09T03:14:00+00:00"
-    },
-    {
-      "title": "ICML 2026 时间检验奖现场实况：主创戳破学术创新三大真相",
-      "url": "https://www.leiphone.com/category/ai/WXxu5gpyc5w1i7It.html",
-      "summary": "最小的创新，最大的影响：ICML 2026时间检验奖里的“反共识”与“苦涩教训”&nbsp; &nbsp; 作者丨齐铖湧&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n",
-      "source": "雷峰网",
-      "time": "20h",
-      "tags": [],
-      "published_at": "2026-07-09T02:51:00+00:00"
-    },
-    {
-      "title": "独家丨快造科技估值翻数倍至70亿元，参照拓竹融资史，老股东「包场」",
-      "url": "https://www.leiphone.com/category/weiwu/CsC1g1qRPrdEDQoM.html",
-      "summary": "未来两三年，充足的现金储备是快造科技有力的竞争筹码。作者丨姚单编辑丨张贤雷峰网·鲸犀获悉，快造科技近期完成新一轮10亿元融资，投后估值近70亿人民币。其这一轮融资估值定价有多个维度，其中一个维度主要参照拓竹当年的估值逻辑。知情人士透露，拓竹在首款产品发布前估值已达20亿人民币；2023年旗舰产品发布半年后，估值飙升至20亿美金，对应当年20亿至30亿元收入。而快造科技本轮10亿美金估值，对应的是2",
-      "source": "雷峰网",
-      "time": "20h",
-      "tags": [],
-      "published_at": "2026-07-09T02:42:00+00:00"
     }
   ]
 }

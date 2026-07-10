@@ -1,14 +1,14 @@
 {
   "source": "Latent Space",
   "layer": "newsletter",
-  "updated": "2026-07-10T07:24:43+08:00",
+  "updated": "2026-07-10T10:00:34+08:00",
   "items": [
     {
       "title": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
       "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
       "summary": "SpaceXAI continues to move faster than any other frontier lab on earth.",
       "source": "Latent Space",
-      "time": "17h",
+      "time": "19h",
       "tags": [],
       "published_at": "2026-07-09T06:05:41+00:00"
     },
@@ -53,7 +53,7 @@
       "url": "https://www.latent.space/p/vercel-agents-new-software",
       "summary": "The Vercel Chief of Software explains how its agent framework, eve, was created &#8212; and why skills, sandboxes and agent-readable websites now matter.",
       "source": "Latent Space",
-      "time": "6d",
+      "time": "7d",
       "tags": [],
       "published_at": "2026-07-03T00:08:18+00:00"
     },
