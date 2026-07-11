@@ -1,16 +1,52 @@
 {
   "source": "机器之心",
   "layer": "media",
-  "updated": "2026-07-10T10:01:45+08:00",
+  "updated": "2026-07-11T10:01:28+08:00",
   "items": [
     {
-      "title": "Claude、GLM、GPT谁才是真正的AI软件工程师？首个持续更新Visual Spec-to-App Benchmark发布 - qq.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfZkNJQ2w3d3VYNjdnS2Q3WGxDQW5jQ20zclFrYmVLb2wxd1pIbk9uWTliT0c0VGdDX2JUdXBwN3RXQUxMZkk2cXJiUHdhc0padV9vTXdB?oc=5",
-      "summary": "Claude、GLM、GPT谁才是真正的AI软件工程师？首个持续更新Visual Spec-to-App Benchmark发布&nbsp;&nbsp;qq.com",
+      "title": "「十万卡时代」，谁在定义新标准？ - 网易",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wOUIwX05HNGZoZkgwQW9SX1ZxM2pKTkd2ZjNGUUVRbFo0ZXdSRDl0c2NsYl9KTElCaDRtUktteXNfeXlyZmZzNlRxakZhVjdrZExVWjlnS1Ftc1lsbVV5alRB?oc=5",
+      "summary": "「十万卡时代」，谁在定义新标准？&nbsp;&nbsp;网易",
       "source": "机器之心",
-      "time": "3d",
+      "time": "14h",
+      "tags": [],
+      "published_at": "2026-07-10T11:09:12+00:00"
+    },
+    {
+      "title": "Claude、GLM、GPT谁才是真正的AI软件工程师？首个持续更新Visual Spec-to-App Benchmark发布 - 腾讯新闻",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfZkNJQ2w3d3VYNjdnS2Q3WGxDQW5jQ20zclFrYmVLb2wxd1pIbk9uWTliT0c0VGdDX2JUdXBwN3RXQUxMZkk2cXJiUHdhc0padV9vTXdB?oc=5",
+      "summary": "Claude、GLM、GPT谁才是真正的AI软件工程师？首个持续更新Visual Spec-to-App Benchmark发布&nbsp;&nbsp;腾讯新闻",
+      "source": "机器之心",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-06T03:30:00+00:00"
+    },
+    {
+      "title": "DeepSeek被曝自研AI推理芯片 - 网易",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0TGxMNklua1d3Tm83NTB2ajZqOGZ0S05TLTNvcFNsUVYyeGdRcFJjeWhRRGxMLV9WdU1EN2dTS1k5RGlRVllTaDVBT3BsM3N2RDRjckNTNGJwcWdCTVFSNjBB?oc=5",
+      "summary": "DeepSeek被曝自研AI推理芯片&nbsp;&nbsp;网易",
+      "source": "机器之心",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-08T06:18:27+00:00"
+    },
+    {
+      "title": "WWW时间检验奖颁给唐建博士：图神经网络的十年远征与AI制药的底层逻辑 - 腾讯新闻",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tdDNOOVVVVUJvVE9rb0xfU1BLcHdvNWNUYXdCNHRfaURHX3lrQTVwNjN5TTBDSXBsMElNTjFpZV8zbEFnMk4xbHRoeWx1eW9ueDAtXzNB?oc=5",
+      "summary": "WWW时间检验奖颁给唐建博士：图神经网络的十年远征与AI制药的底层逻辑&nbsp;&nbsp;腾讯新闻",
+      "source": "机器之心",
+      "time": "4d",
+      "tags": [],
+      "published_at": "2026-07-06T10:31:00+00:00"
+    },
+    {
+      "title": "AI 时代的编程语言，这次是来自中国的底层创新 - 网易",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NeE9jN1ZfUjMzeFlJSVBwX0o1ZXVIVDd2VWxFNDZGY3l6c05EcXV1cmU3VUw1aVJlR3BnVWZzcHNPODEycmNRRGkyTllxckRjQVBnTlc1RGw3V2FydnNScFd3?oc=5",
+      "summary": "AI 时代的编程语言，这次是来自中国的底层创新&nbsp;&nbsp;网易",
+      "source": "机器之心",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-09T10:02:20+00:00"
     }
   ]
 }

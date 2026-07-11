@@ -1,187 +1,187 @@
 {
   "source": "arXiv AI",
   "layer": "research",
-  "updated": "2026-07-10T10:00:44+08:00",
+  "updated": "2026-07-11T10:00:54+08:00",
   "items": [
     {
-      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-      "url": "https://arxiv.org/abs/2607.06624",
-      "summary": "arXiv:2607.06624v1 Announce Type: new Abstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the ta",
+      "title": "Context Graphs for Proactive Enterprise Agents",
+      "url": "https://arxiv.org/abs/2607.07721",
+      "summary": "arXiv:2607.07721v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wai",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
-      "url": "https://arxiv.org/abs/2607.06720",
-      "summary": "arXiv:2607.06720v1 Announce Type: new Abstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise ",
+      "title": "AI-integrated models for assessing agricultural resilience",
+      "url": "https://arxiv.org/abs/2607.07759",
+      "summary": "arXiv:2607.07759v1 Announce Type: new Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates ",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "LLM-powered reasoning in agent-based modeling",
-      "url": "https://arxiv.org/abs/2607.06757",
-      "summary": "arXiv:2607.06757v1 Announce Type: new Abstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs ",
+      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+      "url": "https://arxiv.org/abs/2607.07760",
+      "summary": "arXiv:2607.07760v1 Announce Type: new Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
-      "url": "https://arxiv.org/abs/2607.06760",
-      "summary": "arXiv:2607.06760v1 Announce Type: new Abstract: Autonomous systems under partial observability act on beliefs, not raw sensor events. QANTIS treats the quantum processor as a calibrated belief-update ",
+      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+      "url": "https://arxiv.org/abs/2607.07761",
+      "summary": "arXiv:2607.07761v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This surv",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
-      "url": "https://arxiv.org/abs/2607.06764",
-      "summary": "arXiv:2607.06764v1 Announce Type: new Abstract: Recent progress on ARC-AGI-1 from disclosed architectures has come broadly from two regimes: heavy test-time compute over frontier models (evolutionary ",
+      "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
+      "url": "https://arxiv.org/abs/2607.07766",
+      "summary": "arXiv:2607.07766v1 Announce Type: new Abstract: Large language models (LLMs) have become significant providers of mental health support, yet they remain products of an attention economy whose operatio",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
-      "url": "https://arxiv.org/abs/2607.06820",
-      "summary": "arXiv:2607.06820v1 Announce Type: new Abstract: Recent advances in AI for Mathematics have focused largely on autoformalization and theorem proving, leaving the role of Computer Algebra Systems (CAS) ",
+      "title": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
+      "url": "https://arxiv.org/abs/2607.07775",
+      "summary": "arXiv:2607.07775v1 Announce Type: new Abstract: The human body is at the center of a growing family of technologies designed to tightly and persistently couple biological and digital systems. Robotic ",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
-      "url": "https://arxiv.org/abs/2607.06906",
-      "summary": "arXiv:2607.06906v1 Announce Type: new Abstract: Agentic AI development today runs on token maxing: buying capability with tokens -- longer reasoning traces, more turns, wider tool payloads, bigger rep",
+      "title": "Infinity-Parser2 Technical Report",
+      "url": "https://arxiv.org/abs/2607.07836",
+      "summary": "arXiv:2607.07836v1 Announce Type: new Abstract: We present Infinity-Parser2, a large multimodal model that couples a controllable data-synthesis pipeline with multi-task reinforcement learning for end",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix",
-      "url": "https://arxiv.org/abs/2607.06925",
-      "summary": "arXiv:2607.06925v1 Announce Type: new Abstract: Compact world models that condition on a language goal promise to ground relations such as ``put the red block left of the blue block'' using a sparse s",
+      "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
+      "url": "https://arxiv.org/abs/2607.07846",
+      "summary": "arXiv:2607.07846v1 Announce Type: new Abstract: VectorizationLLM is a specialized Large Language Model based on Google open-weight LLMs. The model is designed to assist students to learn smart vectori",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "Large Behavior Model: A Promptable Digital Twin of the Retail Customer",
-      "url": "https://arxiv.org/abs/2607.06993",
-      "summary": "arXiv:2607.06993v1 Announce Type: new Abstract: Customer behavior modeling underpins recommendation, marketing, and decision support, yet existing approaches either optimize predictive accuracy withou",
+      "title": "A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals",
+      "url": "https://arxiv.org/abs/2607.07850",
+      "summary": "arXiv:2607.07850v1 Announce Type: new Abstract: For seemless control of advanced hand prostheses and augmented reality, accurate and immediate hand gestures recognition is essential. Surface electromy",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "Learning social norms enhances compatibility in dynamic human-AI coordination",
-      "url": "https://arxiv.org/abs/2607.07021",
-      "summary": "arXiv:2607.07021v1 Announce Type: new Abstract: Humans continuously coordinate with others in dynamic interactions, often through implicit, hard-to-quantify social norms that act as shared tacit expec",
+      "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
+      "url": "https://arxiv.org/abs/2607.07858",
+      "summary": "arXiv:2607.07858v1 Announce Type: new Abstract: Artificial intelligence (AI) is beginning to reshape actuarial practice, particularly in domains that require reasoning over unstructured documents, het",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "Measuring Intelligence Beyond Human Scale",
-      "url": "https://arxiv.org/abs/2607.07040",
-      "summary": "arXiv:2607.07040v1 Announce Type: new Abstract: How can we measure intelligence beyond human capability? Human-authored benchmarks saturate, and above human capability, examiners may not know which ta",
+      "title": "Feedback Manipulation Regularization: Enabling Offline Agent Alignment for Imitation Learning",
+      "url": "https://arxiv.org/abs/2607.07859",
+      "summary": "arXiv:2607.07859v1 Announce Type: new Abstract: Reinforcement learning (RL) research has increasingly shifted focus towards alignment, ensuring agents learn behaviors adhering to human values. While h",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety",
-      "url": "https://arxiv.org/abs/2607.07097",
-      "summary": "arXiv:2607.07097v1 Announce Type: new Abstract: Safety evaluations of multi-agent LLM systems often compare a direct prompt with a planner-executor pipeline and report the difference as a single \"pipe",
+      "title": "Nigeria Machinery: A Low-Resource Industrial Dataset with a Domain-Grounded Reasoning Layer",
+      "url": "https://arxiv.org/abs/2607.07883",
+      "summary": "arXiv:2607.07883v1 Announce Type: new Abstract: There is relatively little, public, and model-ready data on industrial machinery for African economies. This makes it hard to do quantitative analysis o",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks",
-      "url": "https://arxiv.org/abs/2607.07189",
-      "summary": "arXiv:2607.07189v1 Announce Type: new Abstract: Vision-language models (VLMs) and agentic AI have shown strong performance on semantic visual tasks, but it remains unclear whether they can handle the ",
+      "title": "Persona Cartography: Charting Language Model Personality Traits in Weight Space",
+      "url": "https://arxiv.org/abs/2607.07916",
+      "summary": "arXiv:2607.07916v1 Announce Type: new Abstract: Large language models exhibit recurring behavioural patterns -- personas -- that shape generalisation and safety, but we lack reliable tools for decompo",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "Reasoning Consistency Scanning: A Framework for Auditing Chain-of-Thought Validity in AI Safety Evaluations",
-      "url": "https://arxiv.org/abs/2607.07229",
-      "summary": "arXiv:2607.07229v1 Announce Type: new Abstract: Prior work has shown that chain-of-thought (CoT) reasoning is often unfaithful: a model's stated reasoning does not reliably reflect the process that pr",
+      "title": "Evaluating the Effect of Frame Rate in Sequence-Based Classification of Autism-Related Self-Stimulatory Hand Idiosyncrasies",
+      "url": "https://arxiv.org/abs/2607.07957",
+      "summary": "arXiv:2607.07957v1 Announce Type: new Abstract: Autism spectrum disorder (ASD) affects over 75 million individuals worldwide, yet scalable computational methods for remote behavioral screening remain ",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents",
-      "url": "https://arxiv.org/abs/2607.07321",
-      "summary": "arXiv:2607.07321v1 Announce Type: new Abstract: Tool utilization enables Large Language Model (LLM) agents to interact with the real world and resolve complex tasks. However, existing agent frameworks",
+      "title": "Agentic Neural Architecture Search",
+      "url": "https://arxiv.org/abs/2607.07984",
+      "summary": "arXiv:2607.07984v1 Announce Type: new Abstract: Neural architecture search (NAS) methods have grown increasingly efficient, yet they remain bounded by manually engineered search spaces that require su",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "Physics-Audited Agentic Discovery in Scientific Machine Learning",
-      "url": "https://arxiv.org/abs/2607.07379",
-      "summary": "arXiv:2607.07379v1 Announce Type: new Abstract: In agentic scientific machine learning (SciML), large language model (LLM) agents can discover surrogate models and select one by an automated score, ty",
+      "title": "Concretized Proposition Prompting Resolves Composition-Knowledge Dichotomy in Large Language Models",
+      "url": "https://arxiv.org/abs/2607.08018",
+      "summary": "arXiv:2607.08018v1 Announce Type: new Abstract: LLMs often struggle to balance compositionality with knowledgeability, a challenge we define as Composition-Knowledge Dichotomy. To address this, we pro",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "MIRA-Math: A Benchmark for Minimal Information Requesting and Mathematical Reasoning",
-      "url": "https://arxiv.org/abs/2607.07391",
-      "summary": "arXiv:2607.07391v1 Announce Type: new Abstract: Mathematical reasoning benchmarks typically provide all facts needed to solve each problem, while interactive benchmarks often mix reasoning with tools,",
+      "title": "From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents",
+      "url": "https://arxiv.org/abs/2607.08028",
+      "summary": "arXiv:2607.08028v1 Announce Type: new Abstract: Enterprise large language model (LLM) applications often begin as prototypes whose behavior is carried by prompts and retrieval context. Productization ",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "Agentic Data Environments",
-      "url": "https://arxiv.org/abs/2607.07397",
-      "summary": "arXiv:2607.07397v1 Announce Type: new Abstract: Autonomous agents promise substantial gains in speed, scale, and labor efficiency, but their failures can impose abrupt and often irreversible costs. Th",
+      "title": "A safety-oriented hypothetico-deductive framework for AI-assisted differential diagnosis",
+      "url": "https://arxiv.org/abs/2607.08038",
+      "summary": "arXiv:2607.08038v1 Announce Type: new Abstract: Diagnostic error is a major threat to patient safety, yet current large language model (LLM) systems often treat diagnosis as a one-shot prediction task",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "Reason Less, Verify More: Deterministic Gates Recover a Silent Policy-Violation Failure Mode in Tool-Using LLM Agents",
-      "url": "https://arxiv.org/abs/2607.07405",
-      "summary": "arXiv:2607.07405v1 Announce Type: new Abstract: Tool-using LLM agents can violate the very policies they are deployed to enforce while appearing to complete the task successfully. In policy-permissive",
+      "title": "When LLMs Agree, Are They Right? Auditing Self-Consistency and Cross-Model Agreement as Confidence Signals",
+      "url": "https://arxiv.org/abs/2607.08065",
+      "summary": "arXiv:2607.08065v1 Announce Type: new Abstract: LLM-as-judge (Zheng et al., 2023) is increasingly the default for evaluating AI systems in enterprise pipelines, often scaled to ensembles (Verga et al.",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     },
     {
-      "title": "InductWave: Inductive Multi-Hop Logical Query Answering on Knowledge Graphs",
-      "url": "https://arxiv.org/abs/2607.07422",
-      "summary": "arXiv:2607.07422v1 Announce Type: new Abstract: Logical Multi-Hop Query Answering over Knowledge Graphs (KGs) can be formulated as querying, with an implicit completeness assumption. Current works mai",
+      "title": "Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring",
+      "url": "https://arxiv.org/abs/2607.08066",
+      "summary": "arXiv:2607.08066v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising safety mechanism for AI agents, based on the premise that visible reasoning traces can surface misalign",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-09T04:00:00+00:00"
+      "published_at": "2026-07-10T04:00:00+00:00"
     }
   ]
 }

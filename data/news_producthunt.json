@@ -1,142 +1,142 @@
 {
   "source": "Product Hunt",
   "layer": "news",
-  "updated": "2026-07-10T10:00:41+08:00",
+  "updated": "2026-07-11T10:00:53+08:00",
   "items": [
     {
-      "title": "Lispr",
-      "url": "https://www.producthunt.com/products/lispr",
-      "summary": "Hold a key, speak, and Lispr writes it anywhere Discussion | Link",
+      "title": "Muse Spark 1.1 by Meta AI",
+      "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
+      "summary": "Multimodal reasoning model built for agentic tasks Discussion | Link",
+      "source": "Product Hunt",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-09T15:01:28+00:00"
+    },
+    {
+      "title": "ChatCut",
+      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
+      "summary": "Your AI video editor in ChatGPT, desktop, and web Discussion | Link",
+      "source": "Product Hunt",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-09T06:50:16+00:00"
+    },
+    {
+      "title": "Yasmine Works",
+      "url": "https://www.producthunt.com/products/yasmine-works",
+      "summary": "An AI coworker that lives in your Slack to get work done Discussion | Link",
+      "source": "Product Hunt",
+      "time": "4d",
+      "tags": [],
+      "published_at": "2026-07-06T13:29:46+00:00"
+    },
+    {
+      "title": "GPT-5.6",
+      "url": "https://www.producthunt.com/products/openai",
+      "summary": "A new standard for intelligence and efficiency Discussion | Link",
+      "source": "Product Hunt",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-09T17:08:01+00:00"
+    },
+    {
+      "title": "StoryChief Connect",
+      "url": "https://www.producthunt.com/products/storychief-io",
+      "summary": "Publish content from Claude to your website and socials Discussion | Link",
+      "source": "Product Hunt",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-09T10:43:58+00:00"
+    },
+    {
+      "title": "PlugThis",
+      "url": "https://www.producthunt.com/products/plugthis-chrome-extension-generator",
+      "summary": "Create your own Chrome Extensions by chatting with AI Discussion | Link",
+      "source": "Product Hunt",
+      "time": "4d",
+      "tags": [],
+      "published_at": "2026-07-06T12:06:48+00:00"
+    },
+    {
+      "title": "Mispher",
+      "url": "https://www.producthunt.com/products/mispher-agentic-transcription-for-mac",
+      "summary": "Dictate, rewrite, translate, and an agent in a single device Discussion | Link",
+      "source": "Product Hunt",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-09T09:36:54+00:00"
+    },
+    {
+      "title": "Scarlett.",
+      "url": "https://www.producthunt.com/products/tryscarlett",
+      "summary": "Your AI Co-Worker in Slack & iMessage Discussion | Link",
+      "source": "Product Hunt",
+      "time": "6d",
+      "tags": [],
+      "published_at": "2026-07-04T14:17:47+00:00"
+    },
+    {
+      "title": "Ship OS by Notion",
+      "url": "https://www.producthunt.com/products/notion",
+      "summary": "The agent-native way to ship software Discussion | Link",
+      "source": "Product Hunt",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-09T18:19:56+00:00"
+    },
+    {
+      "title": "Sim",
+      "url": "https://www.producthunt.com/products/sim-studio",
+      "summary": "Open-source workspace for AI agents and workflows Discussion | Link",
       "source": "Product Hunt",
       "time": "2d",
       "tags": [],
-      "published_at": "2026-07-07T21:02:15+00:00"
-    },
-    {
-      "title": "Just Ask by SEORCE",
-      "url": "https://www.producthunt.com/products/seorce",
-      "summary": "Talk to your SEO & AI Visibility data on WhatsApp. Discussion | Link",
-      "source": "Product Hunt",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-08T09:13:36+00:00"
-    },
-    {
-      "title": "Coasty",
-      "url": "https://www.producthunt.com/products/coasty",
-      "summary": "A Computer-Use-Agent that runs legacy software like a human Discussion | Link",
-      "source": "Product Hunt",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-08T18:52:30+00:00"
+      "published_at": "2026-07-08T18:55:06+00:00"
     },
     {
       "title": "Auriko",
       "url": "https://www.producthunt.com/products/auriko",
       "summary": "Trading desk for LLM calls Discussion | Link",
       "source": "Product Hunt",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-05T23:00:28+00:00"
     },
     {
-      "title": "Constellation Gate AI",
-      "url": "https://www.producthunt.com/products/gate-ai-2",
-      "summary": "Prompt injection and token savings - #1 in benchmarks Discussion | Link",
-      "source": "Product Hunt",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-08T16:11:45+00:00"
-    },
-    {
-      "title": "Opper AI",
-      "url": "https://www.producthunt.com/products/opper-ai",
-      "summary": "The european AI gateway for agents Discussion | Link",
+      "title": "Lispr",
+      "url": "https://www.producthunt.com/products/lispr",
+      "summary": "Hold a key, speak, and Lispr writes it anywhere Discussion | Link",
       "source": "Product Hunt",
       "time": "3d",
       "tags": [],
-      "published_at": "2026-07-06T16:51:59+00:00"
+      "published_at": "2026-07-07T21:02:15+00:00"
     },
     {
       "title": "GPT-Live",
       "url": "https://www.producthunt.com/products/openai",
       "summary": "Full-duplex voice for ChatGPT Discussion | Link",
       "source": "Product Hunt",
-      "time": "22h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-09T03:32:35+00:00"
     },
     {
-      "title": "LemonLime",
-      "url": "https://www.producthunt.com/products/lemonlime",
-      "summary": "Automates your existing workflows with a single prompt. Discussion | Link",
+      "title": "Just Ask by SEORCE",
+      "url": "https://www.producthunt.com/products/seorce",
+      "summary": "Talk to your SEO & AI Visibility data on WhatsApp. Discussion | Link",
       "source": "Product Hunt",
       "time": "2d",
       "tags": [],
-      "published_at": "2026-07-08T01:20:45+00:00"
+      "published_at": "2026-07-08T09:13:36+00:00"
     },
     {
-      "title": "agents-cli",
-      "url": "https://www.producthunt.com/products/agents-cli",
-      "summary": "The CLI your coding agent uses to ship agents Discussion | Link",
+      "title": "Constellation Gate AI",
+      "url": "https://www.producthunt.com/products/gate-ai-2",
+      "summary": "Prompt injection and token savings - #1 in benchmarks Discussion | Link",
       "source": "Product Hunt",
       "time": "2d",
       "tags": [],
-      "published_at": "2026-07-07T15:49:18+00:00"
-    },
-    {
-      "title": "Compendium",
-      "url": "https://www.producthunt.com/products/compendium-2",
-      "summary": "Keeping your team, agents, and data on one page Discussion | Link",
-      "source": "Product Hunt",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-07T08:15:49+00:00"
-    },
-    {
-      "title": "Willow Frontier Pro",
-      "url": "https://www.producthunt.com/products/willow-voice",
-      "summary": "The fastest, most accurate dictation model in the world Discussion | Link",
-      "source": "Product Hunt",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-08T01:32:13+00:00"
-    },
-    {
-      "title": "Knowledge Atlas by Fini",
-      "url": "https://www.producthunt.com/products/fini-2",
-      "summary": "The self-learning knowledge base that improves itself Discussion | Link",
-      "source": "Product Hunt",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-07T13:22:43+00:00"
-    },
-    {
-      "title": "Eodly",
-      "url": "https://www.producthunt.com/products/eodly",
-      "summary": "Know what your team actually shipped today Discussion | Link",
-      "source": "Product Hunt",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-03T06:39:56+00:00"
-    },
-    {
-      "title": "Zoho Tables",
-      "url": "https://www.producthunt.com/products/zoho-tables",
-      "summary": "Smarter way to manage work and data. Discussion | Link",
-      "source": "Product Hunt",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-06T06:04:23+00:00"
-    },
-    {
-      "title": "LongCat-2.0",
-      "url": "https://www.producthunt.com/products/longcat",
-      "summary": "1.6T MoE trained entirely on AI ASICs Discussion | Link",
-      "source": "Product Hunt",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-07T06:27:32+00:00"
+      "published_at": "2026-07-08T16:11:45+00:00"
     }
   ]
 }

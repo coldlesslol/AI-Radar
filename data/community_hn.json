@@ -1,187 +1,187 @@
 {
   "source": "HN",
   "layer": "community",
-  "updated": "2026-07-10T10:00:28+08:00",
+  "updated": "2026-07-11T10:00:44+08:00",
   "items": [
     {
-      "title": "Build your own vulnerability harness",
-      "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
-      "summary": "Article URL: https://blog.cloudflare.com/build-your-own-vulnerability-harness/ Comments URL: https://news.ycombinator.com/item?id=48854681 Points: 5 # Comments: 0",
-      "source": "HN",
-      "time": "31m",
-      "tags": [],
-      "published_at": "2026-07-10T01:28:43+00:00"
-    },
-    {
-      "title": "Star Just Ate a Planet, and It's Not Done Yet",
-      "url": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html Comments URL: https://news.ycombinator.com/item?id=48854638 Points: 6 # Comments: 3",
-      "source": "HN",
-      "time": "40m",
-      "tags": [],
-      "published_at": "2026-07-10T01:20:16+00:00"
-    },
-    {
-      "title": "Focus",
-      "url": "https://boz.com/articles/focus",
-      "summary": "Article URL: https://boz.com/articles/focus Comments URL: https://news.ycombinator.com/item?id=48854363 Points: 9 # Comments: 0",
+      "title": "FreeCAD in the Browser",
+      "url": "https://magik.net/freecad/",
+      "summary": "Article URL: https://magik.net/freecad/ Comments URL: https://news.ycombinator.com/item?id=48867264 Points: 15 # Comments: 10",
       "source": "HN",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-10T00:40:33+00:00"
+      "published_at": "2026-07-11T00:44:00+00:00"
     },
     {
-      "title": "Why American ambulance rides are so expensive",
-      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
-      "summary": "Article URL: https://davidoks.blog/p/why-american-ambulance-rides-are Comments URL: https://news.ycombinator.com/item?id=48853091 Points: 92 # Comments: 124",
+      "title": "Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
+      "url": "https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/",
+      "summary": "Article URL: https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/ Comments URL: https://news.ycombinator.com/item?id=48867261 Points: 6 # Comments: ",
+      "source": "HN",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-11T00:43:39+00:00"
+    },
+    {
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c2dy6e8klw0o Comments URL: https://news.ycombinator.com/item?id=48867233 Points: 7 # Comments: 1",
+      "source": "HN",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-11T00:40:36+00:00"
+    },
+    {
+      "title": "Show HN: We beat Cloudflare's bot detection (open-source stealth browser)",
+      "url": "https://tilion.dev/blog/cloudflare-blocks-agents",
+      "summary": "Article URL: https://tilion.dev/blog/cloudflare-blocks-agents Comments URL: https://news.ycombinator.com/item?id=48867124 Points: 6 # Comments: 0",
+      "source": "HN",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-11T00:26:16+00:00"
+    },
+    {
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "summary": "Article URL: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity Comments URL: https://news.ycombinator.com/item?id=48866134 Points: 94 # Comments: 37",
       "source": "HN",
       "time": "3h",
       "tags": [],
-      "published_at": "2026-07-09T22:15:56+00:00"
+      "published_at": "2026-07-10T22:30:44+00:00"
     },
     {
-      "title": "Building a real-time AI tutor for 5-year-olds",
-      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-      "summary": "Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a real",
+      "title": "Moss (YC F25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
+      "summary": "Article URL: https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk Comments URL: https://news.ycombinator.com/item?id=48865332 Points: 0 # Comments: 0",
+      "source": "HN",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-10T21:11:18+00:00"
+    },
+    {
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/ Comments URL: https://news.ycombinator.com/item?id=48865019 Points: 523 # Comments: 252",
       "source": "HN",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-09T20:51:06+00:00"
+      "published_at": "2026-07-10T20:47:09+00:00"
     },
     {
-      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "summary": "Article URL: https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark Comments URL: https://news.ycombinator.com/item?id=48850414 Points: 187 # Comments: 111",
+      "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "summary": "Article URL: https://nebusec.ai/research/ionstack-part-2/ Comments URL: https://news.ycombinator.com/item?id=48864969 Points: 35 # Comments: 9",
+      "source": "HN",
+      "time": "5h",
+      "tags": [],
+      "published_at": "2026-07-10T20:43:02+00:00"
+    },
+    {
+      "title": "An update on residential proxies and the scraper situation",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/ Comments URL: https://news.ycombinator.com/item?id=48864252 Points: 83 # Comments: 68",
+      "source": "HN",
+      "time": "6h",
+      "tags": [],
+      "published_at": "2026-07-10T19:38:34+00:00"
+    },
+    {
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: ht",
       "source": "HN",
       "time": "7h",
       "tags": [],
-      "published_at": "2026-07-09T18:29:41+00:00"
+      "published_at": "2026-07-10T18:29:19+00:00"
     },
     {
-      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "summary": "Article URL: https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/ Comments URL: https://news.ycombinator.com/item?id=48849292 Points: 121 # Comments: 47",
+      "title": "New York City to to ban deceptive subscription practices",
+      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "summary": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani... Comments URL: https://news.ycombinator.com/item?id=48863464 Points: 415 # Comments: 215",
+      "source": "HN",
+      "time": "7h",
+      "tags": [],
+      "published_at": "2026-07-10T18:26:24+00:00"
+    },
+    {
+      "title": "War Atlas: An interactive cartography of every named war in human history",
+      "url": "https://waratlas.org",
+      "summary": "Article URL: https://waratlas.org Comments URL: https://news.ycombinator.com/item?id=48863080 Points: 113 # Comments: 58",
       "source": "HN",
       "time": "8h",
       "tags": [],
-      "published_at": "2026-07-09T17:17:16+00:00"
+      "published_at": "2026-07-10T17:52:48+00:00"
     },
     {
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "summary": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdfhttps://developers.openai.com/api/docs/guides/latest-modelhttps://x.com/levie/status/2075287443411222628, https://xcancel.com/levie/status/207528",
+      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+      "summary": "Article URL: https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/ Comments URL: https://news.ycombinator.com/item?id=48863064 Points: 73 # Comments:",
       "source": "HN",
       "time": "8h",
       "tags": [],
-      "published_at": "2026-07-09T17:04:14+00:00"
+      "published_at": "2026-07-10T17:51:07+00:00"
     },
     {
-      "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
-      "url": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer Comments URL: https://news.ycombinator.com/item?id=48849011 Points: 0 # Comments: 0",
+      "title": "The tech of 'Terminator 2' – an oral history (2017)",
+      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "summary": "Article URL: https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/ Comments URL: https://news.ycombinator.com/item?id=48862365 Points: 163 # Comments: 67",
       "source": "HN",
-      "time": "8h",
+      "time": "9h",
       "tags": [],
-      "published_at": "2026-07-09T17:00:37+00:00"
+      "published_at": "2026-07-10T16:48:41+00:00"
     },
     {
-      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
-      "url": "https://www.context.dev",
-      "summary": "Hi Hacker News, I’m Yahia. I built Context.dev (https://www.context.dev/) to make it really easy to integrate web data into your products and agents.Here’s a demo video: https://www.tella.tv/video/bui",
+      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/ Comments URL: https://news.ycombinator.com/item?id=48862252 Points:",
       "source": "HN",
-      "time": "10h",
+      "time": "9h",
       "tags": [],
-      "published_at": "2026-07-09T15:28:39+00:00"
+      "published_at": "2026-07-10T16:37:52+00:00"
     },
     {
-      "title": "Hy3",
-      "url": "https://hy.tencent.com/research/hy3",
-      "summary": "Article URL: https://hy.tencent.com/research/hy3 Comments URL: https://news.ycombinator.com/item?id=48847552 Points: 388 # Comments: 83",
-      "source": "HN",
-      "time": "10h",
-      "tags": [],
-      "published_at": "2026-07-09T15:27:48+00:00"
-    },
-    {
-      "title": "A possible future for Damn Interesting",
-      "url": "https://www.damninteresting.com/a-possible-future/",
-      "summary": "Article URL: https://www.damninteresting.com/a-possible-future/ Comments URL: https://news.ycombinator.com/item?id=48847511 Points: 234 # Comments: 29",
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/ Comments URL: https://news.ycombinator.com/item?id=48861717 Points: 451 # Comments: 172",
       "source": "HN",
       "time": "10h",
       "tags": [],
-      "published_at": "2026-07-09T15:25:25+00:00"
+      "published_at": "2026-07-10T15:59:53+00:00"
     },
     {
-      "title": "Opinionated and easy Pi.dev configuration",
-      "url": "https://lazypi.org/",
-      "summary": "Article URL: https://lazypi.org/ Comments URL: https://news.ycombinator.com/item?id=48847407 Points: 109 # Comments: 61",
+      "title": "A love letter to flashcards",
+      "url": "https://lesleylai.info/en/flashcards/",
+      "summary": "Article URL: https://lesleylai.info/en/flashcards/ Comments URL: https://news.ycombinator.com/item?id=48861319 Points: 125 # Comments: 80",
       "source": "HN",
       "time": "10h",
       "tags": [],
-      "published_at": "2026-07-09T15:19:33+00:00"
+      "published_at": "2026-07-10T15:30:44+00:00"
     },
     {
-      "title": "TLS certificates for internal services done right",
-      "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
-      "summary": "Article URL: https://tuxnet.dev/posts/tls-for-internal-services/ Comments URL: https://news.ycombinator.com/item?id=48846995 Points: 132 # Comments: 94",
+      "title": "Computation as a universal and fundamental concept",
+      "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
+      "summary": "Article URL: https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept Comments URL: https://news.ycombinator.com/item?id=48861213 Points: 86 # Comments: 72",
       "source": "HN",
-      "time": "11h",
+      "time": "10h",
       "tags": [],
-      "published_at": "2026-07-09T14:57:02+00:00"
+      "published_at": "2026-07-10T15:23:42+00:00"
     },
     {
-      "title": "SimPolitics: America’s quest to solve politics with computers",
-      "url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
-      "summary": "https://direct.mit.edu/books/oa-monograph/6166/SimPoliticsAm... Comments URL: https://news.ycombinator.com/item?id=48846332 Points: 82 # Comments: 13",
-      "source": "HN",
-      "time": "11h",
-      "tags": [],
-      "published_at": "2026-07-09T14:20:14+00:00"
-    },
-    {
-      "title": "No leap second will be introduced at the end of December 2026",
-      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-      "summary": "Article URL: https://datacenter.iers.org/data/latestVersion/bulletinC.txt Comments URL: https://news.ycombinator.com/item?id=48846281 Points: 239 # Comments: 181",
-      "source": "HN",
-      "time": "11h",
-      "tags": [],
-      "published_at": "2026-07-09T14:16:34+00:00"
-    },
-    {
-      "title": "Muse Spark 1.1",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-      "summary": "https://ai.meta.com/static-resource/muse-spark-1-1-evaluatio... [pdf]https://developer.meta.com/ai/resources/blog/build-with-muse...https://www.bloomberg.com/news/articles/2026-07-09/meta-star..., htt",
-      "source": "HN",
-      "time": "11h",
-      "tags": [],
-      "published_at": "2026-07-09T14:10:22+00:00"
-    },
-    {
-      "title": "The glass backbone: Why the Army's logistics will break in the next war",
-      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-      "summary": "Article URL: https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/ Comments URL: https://news.ycombinator.com/item?id=48845442 Points: 294 # Comments: 383",
+      "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
+      "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+      "summary": "Article URL: https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html Comments URL: https://news.ycombinator.com/item?id=48859673 Points: 79 # ",
       "source": "HN",
       "time": "12h",
       "tags": [],
-      "published_at": "2026-07-09T13:24:43+00:00"
+      "published_at": "2026-07-10T13:30:41+00:00"
     },
     {
-      "title": "A road to Lisp: Why Lisp",
-      "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
-      "summary": "Article URL: https://scotto.me/blog/2026-07-09-why-lisp/ Comments URL: https://news.ycombinator.com/item?id=48845209 Points: 114 # Comments: 109",
+      "title": "Laylo (YC S20) Is Hiring a Head of Finance",
+      "url": "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance",
+      "summary": "Article URL: https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance Comments URL: https://news.ycombinator.com/item?id=48858745 Points: 0 # Comments: 0",
       "source": "HN",
-      "time": "12h",
+      "time": "14h",
       "tags": [],
-      "published_at": "2026-07-09T13:06:04+00:00"
-    },
-    {
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "summary": "Article URL: https://18words.com/ Comments URL: https://news.ycombinator.com/item?id=48845049 Points: 826 # Comments: 284",
-      "source": "HN",
-      "time": "13h",
-      "tags": [],
-      "published_at": "2026-07-09T12:48:52+00:00"
+      "published_at": "2026-07-10T12:00:36+00:00"
     }
   ]
 }

@@ -1,23 +1,14 @@
 {
   "source": "Alphabet",
   "layer": "company",
-  "updated": "2026-07-10T10:01:15+08:00",
+  "updated": "2026-07-11T10:01:02+08:00",
   "items": [
-    {
-      "title": "I stopped using ChatGPT as my default AI — here is when Gemini wins - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdm5zcGxWUmZuMl82VVhCNzFDRGpSWmUycHRSMUZZcW9iT1JlNl9GcEJXdy0tSmd3Ul9xWm9HTVAyWUhBOXhyd2RNZTdoamlKSjFZekJVaDFMdGRyd0VDUFR4OXlpOGhXak83OWZwMWN3dGg2WHZxVVBMa3ZaeENZakZDVWhVR2daZTAtSm5uSUlWcmdMOG02cm9n?oc=5",
-      "summary": "I stopped using ChatGPT as my default AI — here is when Gemini wins&nbsp;&nbsp;Tom's Guide",
-      "source": "Alphabet",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-07T08:30:00+00:00"
-    },
     {
       "title": "Opinion | The Problem With Google’s A.I. Overview - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2hHU2dKeTFxODhsWlUtS1UwSkRxUUtIRlFZbnJhcllYbDhGUTlYdzZmRFJPQ0xtR2Y0VGxva0RoUXdrZHExRDl4cmVwdmVNWDhLY3R5Sk5oekdfeDZEaWM4dFNDQi10NzBKYkNQRTVJcHRlZGhySUcycUhKdm5xaFhpMWhkaHhS?oc=5",
       "summary": "Opinion | The Problem With Google’s A.I. Overview&nbsp;&nbsp;The New York Times",
       "source": "Alphabet",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-08T05:00:03+00:00"
     },
@@ -26,16 +17,25 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY2V5T1lVY2h1dnkzNmxUa1VJT1B3SkN1cUxpT2tLX0JRc1FVSHNCMTZFejFwaVFFX2x1Zll0SE9OS2ZUNklvVEZFeEpwRmNDM0pfSjdFZDVvQ0MzNm1xdFFnU2J2ZUlnc2puSDdyWmhnREZDcVpGT0RhMXJMVWNpTFZhRllwLTVBRmc?oc=5",
       "summary": "Why Google fell behind in the AI race : The Indicator from Planet Money&nbsp;&nbsp;NPR",
       "source": "Alphabet",
-      "time": "19h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-09T07:00:00+00:00"
+    },
+    {
+      "title": "Sony’s Indian Version of ‘Who Wants to Be a Millionaire?’ Hosted by Amitabh Bachchan, Adds Google Gemini as AI Guide (EXCLUSIVE) - Variety",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnJaTjBHMVVMUzFvVnA4ODVyTG14eHIzZHp1R3F1UlpmSUhlUWlvWU9YQ1RnUGJoVnZDbTVHclZ6UGx3NG96YXk5dXFnS0o0RGtDLVBkQVpYRTZpdEQ1QVZWbHJta2lhQnRZY3RCTkFRcG95YjJ1LUtyNHhGNDFZUGlrRDhxcmdjNW5ObQ?oc=5",
+      "summary": "Sony’s Indian Version of ‘Who Wants to Be a Millionaire?’ Hosted by Amitabh Bachchan, Adds Google Gemini as AI Guide (EXCLUSIVE)&nbsp;&nbsp;Variety",
+      "source": "Alphabet",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-09T16:47:00+00:00"
     },
     {
       "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind - Ars Technica",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ3hDLTB4Q01JVkZNb0VkSVBRWkkxeFlLZlJBV091N2FLRmdLaHBPQ2NPWWNWTE56ZEpERmYxZEUyd0dMRUlTZmZKeEVPRjVISi15bXJVOHRWY0Z1UllHYVlPcVF3dUEwd0dfbzlYVWZaeVJTZDV5WkJFM1M2eEtsdFVwSzlwRlN5THRPSlUweDZkSURDS2VRazdqNFBreW5lUmVpNlVpZExUMmZtdUE?oc=5",
       "summary": "Google updates Android Bench with new LLMs, but Gemini still lags behind&nbsp;&nbsp;Ars Technica",
       "source": "Alphabet",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-08T16:39:48+00:00"
     },
@@ -44,18 +44,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LREdVTFYyY20yQ3Jma2FVUEwxcUV3RGY5NUlPYzVDNk55WkkyZ3diUGd6Sm41SXFyOHpWMktXcmluMUt4T2pJR2UwVHlUTTFXdWhBWFE1YkF3dmVaajJSR3JmcjE?oc=5",
       "summary": "The Gmail AI Inbox I dreaded turned into the best email change I've had in years&nbsp;&nbsp;Android Police",
       "source": "Alphabet",
-      "time": "10h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-09T15:15:11+00:00"
     },
     {
-      "title": "Google DeepMind director behind Gemini leaves for Hong Kong university after 20 years in US - VnExpress International",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZDBic1pZNkNYeW1WeTA5ZEt4N0ozUUxyLUxEdHl3TjJXZmdfTEphQVg0VEdVd1pnZXR0Ty1VQUNScV9QNExidlZQWWkxSF84LWJPT1dTa3N2RDBTcW5ZVXNubDltX1FxdkdnQ0gyRldCUTEwWEVuLUNnRkIzTmxndGpUbi1WNFozazNuWkdoOFd3NUJzbGxiUDJJLWUtZTMxanp1Rl9JZmlkYk05b2Q2eklLWWlxN0xJdlNJLXlPTzEyZWFZb2V1UldOdk1sTFduX0ZTSTNrM3Ffd0dPbUJTQUp3?oc=5",
-      "summary": "Google DeepMind director behind Gemini leaves for Hong Kong university after 20 years in US&nbsp;&nbsp;VnExpress International",
+      "title": "Bridging the Domain Gap: AI Race Coach built with Antigravity and Gemini - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeUhBZDN5M1IxLWNmQTA5emNDMk9aYXNQNW9MTWFyendwdElTeVJkNy1NNnZ5UXdpeVdRN0VfaXRYeWNuZTc2TTV5M1pqNUpWN0tpNlBFcGRoak1lZDdYOGE2Ni11QjdTcV9oZ0hLX0JOdU9lZTZzYWlLQlM1Y1ItNU12elBocU9DRUR5WjlDZlBPcDBoUE5wcTJOLU15VmNYTUZGQ2xSaldDUQ?oc=5",
+      "summary": "Bridging the Domain Gap: AI Race Coach built with Antigravity and Gemini&nbsp;&nbsp;blog.google",
       "source": "Alphabet",
-      "time": "23h",
+      "time": "2d",
       "tags": [],
-      "published_at": "2026-07-09T02:30:34+00:00"
+      "published_at": "2026-07-08T16:16:09+00:00"
     }
   ]
 }

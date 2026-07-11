@@ -1,106 +1,124 @@
 {
   "source": "Techmeme",
   "layer": "news",
-  "updated": "2026-07-10T10:00:04+08:00",
+  "updated": "2026-07-11T10:00:06+08:00",
   "items": [
     {
-      "title": "1X says its humanoid robot Neo's five-fingered hands have tendon-style actuators that give it 25 degrees of freedom of movement, nearly the same as a human hand (Boone Ashworth/Wired)",
-      "url": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
-      "summary": "Boone Ashworth / Wired: 1X says its humanoid robot Neo's five-fingered hands have tendon-style actuators that give it 25 degrees of freedom of movement, nearly the same as a human hand&nbsp; &mdash;&n",
+      "title": "OpenAI's head of safety, Johannes Heidecke, is leaving as OpenAI integrates its research and safety teams; Mia Glaese will become VP of research and safety (Maxwell Zeff/Wired)",
+      "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "summary": "Maxwell Zeff / Wired: OpenAI's head of safety, Johannes Heidecke, is leaving as OpenAI integrates its research and safety teams; Mia Glaese will become VP of research and safety&nbsp; &mdash;&nbsp; Jo",
       "source": "Techmeme",
-      "time": "20m",
+      "time": "15m",
       "tags": [],
-      "published_at": "2026-07-10T01:40:01+00:00"
+      "published_at": "2026-07-11T01:45:01+00:00"
     },
     {
-      "title": "How the internet, smartphones, social media, and now generative AI are accelerating a drop in the reading of longer works like books (Rose Horowitch/The Atlantic)",
-      "url": "https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/?gift=uP40aMSD1nXws5OJJf7PNon2RgfL5TMR77HEOKk96eg&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share",
-      "summary": "Rose Horowitch / The Atlantic: How the internet, smartphones, social media, and now generative AI are accelerating a drop in the reading of longer works like books&nbsp; &mdash;&nbsp; twenty-three hun",
+      "title": "Thinking Machines says its mission is to build AI that people and organizations can shape and make their own, and that \"extends human will and judgment\" (Thinking Machines Lab)",
+      "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
+      "summary": "Thinking Machines Lab: Thinking Machines says its mission is to build AI that people and organizations can shape and make their own, and that &ldquo;extends human will and judgment&rdquo;&nbsp; &mdash",
       "source": "Techmeme",
-      "time": "58m",
+      "time": "1h",
       "tags": [],
-      "published_at": "2026-07-10T01:01:08+00:00"
+      "published_at": "2026-07-11T00:25:01+00:00"
     },
     {
-      "title": "SAP will make it easier for customers to switch to rival service providers or end contracts, averting a possible EU antitrust fine after a September 2025 probe (Foo Yun Chee/Reuters)",
-      "url": "https://www.reuters.com/business/sap-averts-eu-antitrust-fine-regulators-accept-offer-address-competition-2026-07-09/",
-      "summary": "Foo Yun Chee / Reuters: SAP will make it easier for customers to switch to rival service providers or end contracts, averting a possible EU antitrust fine after a September 2025 probe&nbsp; &mdash;&nb",
+      "title": "SK Hynix CEO Kwak Noh-Jung says the memory industry is heading for its worst-ever supply shortage in 2027 and demand will outstrip supply beyond 2030 (Reuters)",
+      "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-ceo-sees-worst-ever-memory-supply-shortage-2027-says-demand-outstrip-2026-07-10/",
+      "summary": "Reuters: SK Hynix CEO Kwak Noh-Jung says the memory industry is heading for its worst-ever supply shortage in 2027 and demand will outstrip supply beyond 2030&nbsp; &mdash;&nbsp; SK Hynix (000660.KS) ",
       "source": "Techmeme",
       "time": "2h",
       "tags": [],
-      "published_at": "2026-07-09T23:45:16+00:00"
+      "published_at": "2026-07-10T23:45:00+00:00"
     },
     {
-      "title": "Mercor acquires Deeptune, which builds reinforcement learning environments for AI agents, three months after CEO Brendan Foody backed Deeptune's $43M Series A (Lily Mae Lazarus/Fortune)",
-      "url": "https://fortune.com/2026/07/09/ai-unicorn-mercor-acquires-deeptune-brendan-foody-investor-a16z-openai-anthropic/",
-      "summary": "Lily Mae Lazarus / Fortune: Mercor acquires Deeptune, which builds reinforcement learning environments for AI agents, three months after CEO Brendan Foody backed Deeptune's $43M Series A&nbsp; &mdash;",
+      "title": "Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism (Corbin Bolies/Variety)",
+      "url": "https://variety.com/2026/biz/news/meta-suspends-ai-image-instagram-feature-backlash-1236806989/",
+      "summary": "Corbin Bolies / Variety: Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism&nbsp; &mdash;&nbsp; Meta ",
+      "source": "Techmeme",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-10T23:20:08+00:00"
+    },
+    {
+      "title": "In response to Apple's trade secret theft lawsuit, OpenAI says \"we have no interest in other companies' trade secrets\" (Marcus Mendes/9to5Mac)",
+      "url": "https://9to5mac.com/2026/07/10/openai-responds-to-apples-trade-secret-theft-lawsuit/",
+      "summary": "Marcus Mendes / 9to5Mac: In response to Apple's trade secret theft lawsuit, OpenAI says &ldquo;we have no interest in other companies' trade secrets&rdquo;&nbsp; &mdash;&nbsp; OpenAI has issued a form",
+      "source": "Techmeme",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-10T23:10:01+00:00"
+    },
+    {
+      "title": "CISA says weak security controls around the use of public GitHub repos allowed a contractor to accidentally leak private cloud access keys and other credentials (Eric Geller/Cybersecurity Dive)",
+      "url": "https://www.cybersecuritydive.com/news/cisa-github-passwords-leak-contractor-report/824953/",
+      "summary": "Eric Geller / Cybersecurity Dive: CISA says weak security controls around the use of public GitHub repos allowed a contractor to accidentally leak private cloud access keys and other credentials&nbsp;",
+      "source": "Techmeme",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-10T23:00:38+00:00"
+    },
+    {
+      "title": "Bluesky interim CEO Toni Schneider becomes the company's permanent CEO, four months after succeeding Jay Graber (Lucas Ropek/TechCrunch)",
+      "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+      "summary": "Lucas Ropek / TechCrunch: Bluesky interim CEO Toni Schneider becomes the company's permanent CEO, four months after succeeding Jay Graber&nbsp; &mdash;&nbsp; In March, Bluesky's longtime CEO, Jay Grab",
+      "source": "Techmeme",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-10T22:10:02+00:00"
+    },
+    {
+      "title": "A US NLRB judge rules that Atlassian had illegally fired an employee in 2023 for pushing back against manager layoffs, and orders reinstatement and compensation (Noam Scheiber/New York Times)",
+      "url": "https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html",
+      "summary": "Noam Scheiber / New York Times: A US NLRB judge rules that Atlassian had illegally fired an employee in 2023 for pushing back against manager layoffs, and orders reinstatement and compensation&nbsp; &",
       "source": "Techmeme",
       "time": "4h",
       "tags": [],
-      "published_at": "2026-07-09T21:55:02+00:00"
+      "published_at": "2026-07-10T21:50:01+00:00"
     },
     {
-      "title": "Coinbase's chief legal officer, Paul Grewal, is stepping down after six years; VP of legal Molly Abraham moves into his role with the title of general counsel (Hannah Lang/Reuters)",
-      "url": "https://www.reuters.com/world/coinbases-top-attorney-who-has-led-cryptos-washington-fight-step-down-2026-07-09/",
-      "summary": "Hannah Lang / Reuters: Coinbase's chief legal officer, Paul Grewal, is stepping down after six years; VP of legal Molly Abraham moves into his role with the title of general counsel&nbsp; &mdash;&nbsp",
+      "title": "Apple says OpenAI leadership \"normalized\" misconduct and OpenAI's hardware business is \"rotten to its core by its illegal reliance\" on stolen trade secrets (Sarah Perez/TechCrunch)",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "summary": "Sarah Perez / TechCrunch: Apple says OpenAI leadership &ldquo;normalized&rdquo; misconduct and OpenAI's hardware business is &ldquo;rotten to its core by its illegal reliance&rdquo; on stolen trade se",
       "source": "Techmeme",
       "time": "4h",
       "tags": [],
-      "published_at": "2026-07-09T21:20:01+00:00"
+      "published_at": "2026-07-10T21:21:37+00:00"
     },
     {
-      "title": "Federal Reserve Chair Kevin Warsh names Marc Andreessen and Xbox CEO Asha Sharma to lead a task force on the economic impact of new technologies, including AI (Andrew Ackerman/Washington Post)",
-      "url": "https://www.washingtonpost.com/business/2026/07/09/federal-reserve-enlists-marc-andreessen-advise-ai-under-warsh/",
-      "summary": "Andrew Ackerman / Washington Post: Federal Reserve Chair Kevin Warsh names Marc Andreessen and Xbox CEO Asha Sharma to lead a task force on the economic impact of new technologies, including AI&nbsp; ",
+      "title": "Apple alleges that a former Apple engineer kept a work-issued Apple laptop and exploited a bug to access Apple's cloud file storage while employed by OpenAI (Megan Morrone/Axios)",
+      "url": "https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+      "summary": "Megan Morrone / Axios: Apple alleges that a former Apple engineer kept a work-issued Apple laptop and exploited a bug to access Apple's cloud file storage while employed by OpenAI&nbsp; &mdash;&nbsp; ",
       "source": "Techmeme",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-09T20:45:11+00:00"
+      "published_at": "2026-07-10T20:50:02+00:00"
     },
     {
-      "title": "Google says it will automatically add a disclosure to ads that are made with its AI advertising tools, expanding the disclosure beyond election ads to all ads (Sarah Perez/TechCrunch)",
-      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-      "summary": "Sarah Perez / TechCrunch: Google says it will automatically add a disclosure to ads that are made with its AI advertising tools, expanding the disclosure beyond election ads to all ads&nbsp; &mdash;&n",
+      "title": "Apple alleges that Tang Tan, OpenAI's chief hardware officer and a former Apple VP, has directed Apple staffers interviewing at OpenAI to share Apple secrets (CNBC)",
+      "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+      "summary": "CNBC: Apple alleges that Tang Tan, OpenAI's chief hardware officer and a former Apple VP, has directed Apple staffers interviewing at OpenAI to share Apple secrets&nbsp; &mdash;&nbsp; Apple on Friday ",
       "source": "Techmeme",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-09T20:30:09+00:00"
+      "published_at": "2026-07-10T20:40:02+00:00"
     },
     {
-      "title": "PitchBook: US venture funding hit $412.7B in H1 2026, up 30% on all of 2025, with AI startup funding accounting for 86%, or $355.9B; Q2 saw seven $1B+ rounds (Duncan Riley/SiliconANGLE)",
-      "url": "https://siliconangle.com/2026/07/09/pitchbook-us-venture-funding-hits-412-7b-first-half-ai-deals-dominate/",
-      "summary": "Duncan Riley / SiliconANGLE: PitchBook: US venture funding hit $412.7B in H1 2026, up 30% on all of 2025, with AI startup funding accounting for 86%, or $355.9B; Q2 saw seven $1B+ rounds&nbsp; &mdash;",
+      "title": "Apple sues OpenAI, alleging that ex-Apple employees stole \"Apple's trade secrets for the benefit of OpenAI\", and says OpenAI never responded to its concerns (Chance Miller/9to5Mac)",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "summary": "Chance Miller / 9to5Mac: Apple sues OpenAI, alleging that ex-Apple employees stole &ldquo;Apple's trade secrets for the benefit of OpenAI&rdquo;, and says OpenAI never responded to its concerns&nbsp; ",
       "source": "Techmeme",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-09T20:10:02+00:00"
+      "published_at": "2026-07-10T20:36:21+00:00"
     },
     {
-      "title": "Anthropic, set to add usage-based billing for Fable 5 on July 12, aims to return the model to Claude's subscription plans \"when sufficient capacity allows\" (Maxwell Zeff/Wired)",
-      "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
-      "summary": "Maxwell Zeff / Wired: Anthropic, set to add usage-based billing for Fable 5 on July 12, aims to return the model to Claude's subscription plans &ldquo;when sufficient capacity allows&rdquo;&nbsp; &mda",
+      "title": "Source: Greg Brockman will continue to oversee OpenAI's products as the company doesn't plan to hire anyone to replace Fidji Simo after she stepped down (CNBC)",
+      "url": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html",
+      "summary": "CNBC: Source: Greg Brockman will continue to oversee OpenAI's products as the company doesn't plan to hire anyone to replace Fidji Simo after she stepped down&nbsp; &mdash;&nbsp; There's a new second-",
       "source": "Techmeme",
-      "time": "6h",
+      "time": "5h",
       "tags": [],
-      "published_at": "2026-07-09T19:40:01+00:00"
-    },
-    {
-      "title": "The EU Parliament advances a bill letting tech companies scan for CSAM, reviving a proposal rejected in March, with an exemption for E2EE services like WhatsApp (Sam Clark/Politico)",
-      "url": "https://www.politico.eu/article/europes-conservatives-revive-zombie-bill-child-abuse-scanning/",
-      "summary": "Sam Clark / Politico: The EU Parliament advances a bill letting tech companies scan for CSAM, reviving a proposal rejected in March, with an exemption for E2EE services like WhatsApp&nbsp; &mdash;&nbs",
-      "source": "Techmeme",
-      "time": "6h",
-      "tags": [],
-      "published_at": "2026-07-09T19:30:29+00:00"
-    },
-    {
-      "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser, in favor of the new ChatGPT desktop app (Zac Hall/9to5Mac)",
-      "url": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/",
-      "summary": "Zac Hall / 9to5Mac: OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser, in favor of the new ChatGPT desktop app&nbsp; &mdash;&nbsp; ChatGPT Atlas, OpenAI's standalone desktop browse",
-      "source": "Techmeme",
-      "time": "6h",
-      "tags": [],
-      "published_at": "2026-07-09T19:25:04+00:00"
+      "published_at": "2026-07-10T20:00:57+00:00"
     }
   ]
 }

@@ -1,32 +1,104 @@
 {
   "source": "Reddit ML",
   "layer": "community",
-  "updated": "2026-07-10T10:00:30+08:00",
+  "updated": "2026-07-11T10:00:46+08:00",
   "items": [
     {
-      "title": "Journals vs Conferences ML Research [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1urqqk6/journals_vs_conferences_ml_research_r/",
-      "summary": "Lately in the last two/three years, I have noticed ICML, Neurips becoming more prestigious than the actual journals. What is the actual reason of this culture? Is this due to the AI boom and rising de",
+      "title": "Why doesn't the ML research community limit the number of submissions per author? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1usq43t/why_doesnt_the_ml_research_community_limit_the/",
+      "summary": "I am currently working across multiple research communities, and I've noticed that the ML community is struggling with a massive volume of submissions, which is affecting review quality (as we are see",
+      "source": "Reddit ML",
+      "time": "11h",
+      "tags": [],
+      "published_at": "2026-07-10T14:59:23+00:00"
+    },
+    {
+      "title": "Please help me understand figure on subspace similarity in LoRA paper. [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uso667/please_help_me_understand_figure_on_subspace/",
+      "summary": "I am studying the LoRA paper and have trouble understanding this figure. The function essentially measures how much of the subspace spanned by the top i vectors is contained in the subspace spanned by",
       "source": "Reddit ML",
       "time": "12h",
       "tags": [],
-      "published_at": "2026-07-09T13:44:41+00:00"
+      "published_at": "2026-07-10T13:46:15+00:00"
+    },
+    {
+      "title": "How does *ACL conferences acceptance work [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ut5krb/how_does_acl_conferences_acceptance_work_d/",
+      "summary": "Even after getting ARR reviews and a meta review, how is the acceptance decided at the *ACL venues, because I have seen meta review 3.5 getting to findings and 3 getting to main or even getting reject",
+      "source": "Reddit ML",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-11T00:47:14+00:00"
+    },
+    {
+      "title": "multiple linear regression in scratch [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uszkri/multiple_linear_regression_in_scratch_p/",
+      "summary": "i made a multiple linear regression trainer that can be used with custom data in scratch nothing more to say, the impressive part is the scratch part https://scratch.mit.edu/projects/1352102064/ &#32;",
+      "source": "Reddit ML",
+      "time": "5h",
+      "tags": [],
+      "published_at": "2026-07-10T20:42:20+00:00"
+    },
+    {
+      "title": "On Adversarial RL [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1usx96p/on_adversarial_rl_r/",
+      "summary": "Zhang et al. paper's introducing the SA-MDP framework (2020) (state adversarial MDP) argues that an attack using the critic network (V(s)) is expected and supposed to produce a weaker attack than an a",
+      "source": "Reddit ML",
+      "time": "6h",
+      "tags": [],
+      "published_at": "2026-07-10T19:15:02+00:00"
     },
     {
       "title": "Hyperparameter tuning approach question [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1usa46w/hyperparameter_tuning_approach_question_r/",
       "summary": "I am doing some work with cell type classification, where I have 4.3 million cells and 512 features (condensed embeddings from the encoder of a transformer). The broader goal is to implement a context",
       "source": "Reddit ML",
-      "time": "4m",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-10T01:55:38+00:00"
+    },
+    {
+      "title": "Mapping world model taxonomy [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1usp482/mapping_world_model_taxonomy_p/",
+      "summary": "Hey ML community! I’ve been exploring world models and wrote a short article aimed at making the concept easier to understand. I also propose a framework for classifying different approaches and highl",
+      "source": "Reddit ML",
+      "time": "11h",
+      "tags": [],
+      "published_at": "2026-07-10T14:22:02+00:00"
+    },
+    {
+      "title": "How should I approach training this specific ML model for my startup project [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1usnuc0/how_should_i_approach_training_this_specific_ml/",
+      "summary": "So, I am working on this startup project with pretty low budget and one of the features is sentiment analysis based on political news, x posts and Instagram hashtag trends in which will be in Indian l",
+      "source": "Reddit ML",
+      "time": "12h",
+      "tags": [],
+      "published_at": "2026-07-10T13:33:11+00:00"
+    },
+    {
+      "title": "ML Papers with hundreds of authors should just collapse down to the organization response instead of listing every author [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1usz695/ml_papers_with_hundreds_of_authors_should_just/",
+      "summary": "I've had this feeling for a while when reading the citation pages of ML papers and had to continuously scroll down for like 2+ pages because a citation with hundreds of authors, such as the Llama herd",
+      "source": "Reddit ML",
+      "time": "5h",
+      "tags": [],
+      "published_at": "2026-07-10T20:26:50+00:00"
+    },
+    {
+      "title": "Journals vs Conferences ML Research [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1urqqk6/journals_vs_conferences_ml_research_r/",
+      "summary": "Lately in the last two/three years, I have noticed ICML, Neurips becoming more prestigious than the actual journals. What is the actual reason of this culture? Is this due to the AI boom and rising de",
+      "source": "Reddit ML",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-09T13:44:41+00:00"
     },
     {
       "title": "Talos-XII: hand-written autograd + small RL/MLP stack in Rust, applied to gacha probability modeling (no tch-rs/ndarray/PyTorch) — looking for benchmark help on ARM/AVX-512/GPU [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1urvxgb/talosxii_handwritten_autograd_small_rlmlp_stack/",
       "summary": "What it is Talos-XII is a CLI simulator for the gacha system in Arknights: Endfield. Rather than sampling from a static probability table, it trains a small set of neural nets to model environment unc",
       "source": "Reddit ML",
-      "time": "9h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-09T16:52:11+00:00"
     },
@@ -35,7 +107,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1urxvxh/i_built_imgnet_a_face_verification_model_that/",
       "summary": "I want to share something I've been building as an independent researcher from Indonesia. TL;DR: Face verification model that replaces cosine similarity with sliding window sign pattern matching. Achi",
       "source": "Reddit ML",
-      "time": "8h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-09T18:00:10+00:00"
     },
@@ -44,7 +116,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uqr2ev/colm_2026_decision_discussion_r/",
       "summary": "COLM 2026 Decision about to come soon so lets talk here. &#32; submitted by &#32; /u/North_Menu718 [link] &#32; [comments]",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-08T12:20:24+00:00"
     },
@@ -53,7 +125,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uqtamz/dinov2_way_worse_than_siglip_in_knn_is_this/",
       "summary": "Doing a bachelor thesis on fine-grained car classification (telling apart VW Golf generations from listing photos). Simple setup: frozen encoder → embeddings → weighted k-NN. On my small dataset (175 ",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-08T13:51:19+00:00"
     },
@@ -62,81 +134,9 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ur0bxq/lingbotvideo_sparsemoe_video_diffusion/",
       "summary": "Single-stream diffusion transformer with a DeepSeek-V3-style sparse MoE (128 experts, top-8 routing, 1.4B active of 13B total). Six-reward RL post-training including a physical-plausibility reward, pl",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-08T17:58:32+00:00"
-    },
-    {
-      "title": "First time ARR users - some questions [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uqx3f6/first_time_arr_users_some_questions_d/",
-      "summary": "We submitted our first paper to ARR, intending to commit to IJCNLP-AACL. Area: Multilingualism and Cross-Lingual NLP Scores: (3,4) (2.5,3) (3,3) - average 2.83 for reviews, 3.33 for confidence 3 for s",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-08T16:06:41+00:00"
-    },
-    {
-      "title": "ACL ARR May 2026[D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uqdpdb/acl_arr_may_2026d/",
-      "summary": "Reviews are released. Lets discuss scores here. &#32; submitted by &#32; /u/Historical_Pause247 [link] &#32; [comments]",
-      "source": "Reddit ML",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-08T00:50:27+00:00"
-    },
-    {
-      "title": "TorchJD: Training with multiple losses in PyTorch [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
-      "summary": "Hi everyone! I wanted to share some recent progress on TorchJD that might be useful to the machine learning community. When training models with multiple losses (multiple tasks, constraints, auxiliary",
-      "source": "Reddit ML",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-07T16:20:47+00:00"
-    },
-    {
-      "title": "ECCV: Will there be another confirmation after “provisionally accepted”? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uqj6i3/eccv_will_there_be_another_confirmation_after/",
-      "summary": "I understand that it may not be appropriate to call it “officially accepted” yet because of the wording used in the notification, and I also saw on Twitter/X that they said they are working on it. How",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-08T05:12:13+00:00"
-    },
-    {
-      "title": "Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1upvkp5/phd_thesis_on_differentiable_ray_tracing_for/",
-      "summary": "Hi everyone, I recently finished my Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling. Instead of just compiling my published papers, I tried to write it as an accessible, self",
-      "source": "Reddit ML",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-07T13:45:40+00:00"
-    },
-    {
-      "title": "What if a model could only learn what trusted LoRA adapters can express? [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uq68li/what_if_a_model_could_only_learn_what_trusted/",
-      "summary": "Hello I published a paper. Most defenses against fine-tuning poisoning try to detect malicious data or reduce its impact. I explored a different question: What if the model simply could not learn cert",
-      "source": "Reddit ML",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-07T20:00:11+00:00"
-    },
-    {
-      "title": "Agentic safety triggers aren't textual safety triggers — MCP attacks that beat SOTA guardrails more than half the time (code + dataset) [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ur1fnz/agentic_safety_triggers_arent_textual_safety/",
-      "summary": "Most safety alignment work treats &quot;detect the attack&quot; as a text classification problem — does the prompt contain language the model's safety guardrails should catch. That assumption breaks d",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-08T18:36:04+00:00"
-    },
-    {
-      "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/",
-      "summary": "We're happy to release MIRA, a collaboration between General Intuition, Kyutai, and Epic Games. Mira was trained on 10k hours of synthetic Rocket League data. The model has 5B parameters and runs for ",
-      "source": "Reddit ML",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-07T07:59:10+00:00"
     }
   ]
 }

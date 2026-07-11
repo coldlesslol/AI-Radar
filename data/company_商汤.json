@@ -1,25 +1,25 @@
 {
   "source": "商汤",
   "layer": "company",
-  "updated": "2026-07-10T10:01:30+08:00",
+  "updated": "2026-07-11T10:01:14+08:00",
   "items": [
-    {
-      "title": "AI第一股冲出『低谷』 - 维科号",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LSldyUmZ0QlZ6S2tsY3E1S2ZxYVplRndEMlk3VUxnWndHNmZyRjBpYWJhUk80T3lBbU9wclBiUThaX3BKbHFqakEtSkdKNDZUcTdXWlc5Zw?oc=5",
-      "summary": "AI第一股冲出『低谷』&nbsp;&nbsp;维科号",
-      "source": "商汤",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-08T06:01:00+00:00"
-    },
     {
       "title": "商汤科技完成从烧钱研发到体系化造血的蜕变？ - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IN3dkRXlTQ2hfM09wNml0ZGpqd1AxUnQzRnUzNENGcDZ3MkJ4cVdENktFWFpwZ1c3ZHptVGh0Vnl4Z05kZW5fZWtpbEhHV2l6Rl9lTnhHXzZCZEJKNkZZWFFXT0NERmNDeUZwaHJZWXBQdw?oc=5",
       "summary": "商汤科技完成从烧钱研发到体系化造血的蜕变？&nbsp;&nbsp;新浪财经",
       "source": "商汤",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-07T02:27:53+00:00"
+    },
+    {
+      "title": "AI第一股冲出『低谷』 - 网易",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TRHVJd3VIT1J5QWFUSlZJRXJBSTZrR0tsVE05NWdKaTB5MkdpZ1lBejdIb09DekxNdU1iZUdIYk5KRnozeWtKVTBFeWRZVlFmN3FaZFYxUDhQTXo2V095LXNR?oc=5",
+      "summary": "AI第一股冲出『低谷』&nbsp;&nbsp;网易",
+      "source": "商汤",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-08T02:02:20+00:00"
     }
   ]
 }
