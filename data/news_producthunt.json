@@ -1,142 +1,142 @@
 {
   "source": "Product Hunt",
   "layer": "news",
-  "updated": "2026-07-11T10:00:53+08:00",
+  "updated": "2026-07-12T10:00:40+08:00",
   "items": [
     {
-      "title": "Muse Spark 1.1 by Meta AI",
-      "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
-      "summary": "Multimodal reasoning model built for agentic tasks Discussion | Link",
+      "title": "Basedash SCIM",
+      "url": "https://www.producthunt.com/products/basedash",
+      "summary": "Your org changes. Access keeps up. Discussion | Link",
       "source": "Product Hunt",
-      "time": "1d",
+      "time": "23h",
       "tags": [],
-      "published_at": "2026-07-09T15:01:28+00:00"
+      "published_at": "2026-07-11T02:40:25+00:00"
     },
     {
-      "title": "ChatCut",
-      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
-      "summary": "Your AI video editor in ChatGPT, desktop, and web Discussion | Link",
-      "source": "Product Hunt",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-09T06:50:16+00:00"
-    },
-    {
-      "title": "Yasmine Works",
-      "url": "https://www.producthunt.com/products/yasmine-works",
-      "summary": "An AI coworker that lives in your Slack to get work done Discussion | Link",
+      "title": "Kickbacks CLI",
+      "url": "https://www.producthunt.com/products/kickbacks-cli",
+      "summary": "The terminal and Mac menu bar companion for Kickbacks.ai Discussion | Link",
       "source": "Product Hunt",
       "time": "4d",
       "tags": [],
-      "published_at": "2026-07-06T13:29:46+00:00"
+      "published_at": "2026-07-07T02:18:04+00:00"
     },
     {
-      "title": "GPT-5.6",
-      "url": "https://www.producthunt.com/products/openai",
-      "summary": "A new standard for intelligence and efficiency Discussion | Link",
+      "title": "ChatGPT Work",
+      "url": "https://www.producthunt.com/products/chatgpt-work",
+      "summary": "Partner for your most ambitious work Discussion | Link",
       "source": "Product Hunt",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
-      "published_at": "2026-07-09T17:08:01+00:00"
-    },
-    {
-      "title": "StoryChief Connect",
-      "url": "https://www.producthunt.com/products/storychief-io",
-      "summary": "Publish content from Claude to your website and socials Discussion | Link",
-      "source": "Product Hunt",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-09T10:43:58+00:00"
+      "published_at": "2026-07-09T17:16:44+00:00"
     },
     {
       "title": "PlugThis",
       "url": "https://www.producthunt.com/products/plugthis-chrome-extension-generator",
       "summary": "Create your own Chrome Extensions by chatting with AI Discussion | Link",
       "source": "Product Hunt",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-06T12:06:48+00:00"
     },
     {
-      "title": "Mispher",
-      "url": "https://www.producthunt.com/products/mispher-agentic-transcription-for-mac",
-      "summary": "Dictate, rewrite, translate, and an agent in a single device Discussion | Link",
+      "title": "StoryChief Connect",
+      "url": "https://www.producthunt.com/products/storychief-io",
+      "summary": "Publish content from Claude to your website and socials Discussion | Link",
       "source": "Product Hunt",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
-      "published_at": "2026-07-09T09:36:54+00:00"
+      "published_at": "2026-07-09T10:43:58+00:00"
     },
     {
-      "title": "Scarlett.",
-      "url": "https://www.producthunt.com/products/tryscarlett",
-      "summary": "Your AI Co-Worker in Slack & iMessage Discussion | Link",
+      "title": "Yasmine Works",
+      "url": "https://www.producthunt.com/products/yasmine-works",
+      "summary": "An AI coworker that lives in your Slack to get work done Discussion | Link",
       "source": "Product Hunt",
-      "time": "6d",
+      "time": "5d",
       "tags": [],
-      "published_at": "2026-07-04T14:17:47+00:00"
+      "published_at": "2026-07-06T13:29:46+00:00"
     },
     {
       "title": "Ship OS by Notion",
       "url": "https://www.producthunt.com/products/notion",
       "summary": "The agent-native way to ship software Discussion | Link",
       "source": "Product Hunt",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-09T18:19:56+00:00"
+    },
+    {
+      "title": "GPT-5.6",
+      "url": "https://www.producthunt.com/products/openai",
+      "summary": "A new standard for intelligence and efficiency Discussion | Link",
+      "source": "Product Hunt",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-09T17:08:01+00:00"
+    },
+    {
+      "title": "Muse Spark 1.1 by Meta AI",
+      "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
+      "summary": "Multimodal reasoning model built for agentic tasks Discussion | Link",
+      "source": "Product Hunt",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-09T15:01:28+00:00"
+    },
+    {
+      "title": "Mispher",
+      "url": "https://www.producthunt.com/products/mispher-agentic-transcription-for-mac",
+      "summary": "Dictate, rewrite, translate, and an agent in a single device Discussion | Link",
+      "source": "Product Hunt",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-09T09:36:54+00:00"
+    },
+    {
+      "title": "ChatCut",
+      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
+      "summary": "Your AI video editor in ChatGPT, desktop, and web Discussion | Link",
+      "source": "Product Hunt",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-09T06:50:16+00:00"
     },
     {
       "title": "Sim",
       "url": "https://www.producthunt.com/products/sim-studio",
       "summary": "Open-source workspace for AI agents and workflows Discussion | Link",
       "source": "Product Hunt",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-08T18:55:06+00:00"
     },
     {
-      "title": "Auriko",
-      "url": "https://www.producthunt.com/products/auriko",
-      "summary": "Trading desk for LLM calls Discussion | Link",
+      "title": "Coasty",
+      "url": "https://www.producthunt.com/products/coasty",
+      "summary": "A Computer-Use-Agent that runs legacy software like a human Discussion | Link",
       "source": "Product Hunt",
-      "time": "5d",
+      "time": "3d",
       "tags": [],
-      "published_at": "2026-07-05T23:00:28+00:00"
+      "published_at": "2026-07-08T18:52:30+00:00"
     },
     {
       "title": "Lispr",
       "url": "https://www.producthunt.com/products/lispr",
       "summary": "Hold a key, speak, and Lispr writes it anywhere Discussion | Link",
       "source": "Product Hunt",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-07T21:02:15+00:00"
     },
     {
-      "title": "GPT-Live",
-      "url": "https://www.producthunt.com/products/openai",
-      "summary": "Full-duplex voice for ChatGPT Discussion | Link",
+      "title": "Opper AI",
+      "url": "https://www.producthunt.com/products/opper-ai",
+      "summary": "The european AI gateway for agents Discussion | Link",
       "source": "Product Hunt",
-      "time": "1d",
+      "time": "5d",
       "tags": [],
-      "published_at": "2026-07-09T03:32:35+00:00"
-    },
-    {
-      "title": "Just Ask by SEORCE",
-      "url": "https://www.producthunt.com/products/seorce",
-      "summary": "Talk to your SEO & AI Visibility data on WhatsApp. Discussion | Link",
-      "source": "Product Hunt",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-08T09:13:36+00:00"
-    },
-    {
-      "title": "Constellation Gate AI",
-      "url": "https://www.producthunt.com/products/gate-ai-2",
-      "summary": "Prompt injection and token savings - #1 in benchmarks Discussion | Link",
-      "source": "Product Hunt",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-08T16:11:45+00:00"
+      "published_at": "2026-07-06T16:51:59+00:00"
     }
   ]
 }

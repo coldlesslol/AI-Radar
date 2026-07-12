@@ -1,14 +1,77 @@
 {
   "source": "Techmeme",
   "layer": "news",
-  "updated": "2026-07-11T10:00:06+08:00",
+  "updated": "2026-07-12T10:00:06+08:00",
   "items": [
+    {
+      "title": "Current AI market dynamics point to frontier models becoming commodity infrastructure as the token crunch eases, with value shifting to products built on top (Benedict Evans)",
+      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+      "summary": "Benedict Evans: Current AI market dynamics point to frontier models becoming commodity infrastructure as the token crunch eases, with value shifting to products built on top&nbsp; &mdash;&nbsp; There ",
+      "source": "Techmeme",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-11T22:45:01+00:00"
+    },
+    {
+      "title": "Psychologist Peter Gray argues that school stress, not smartphone use, is the main driver of the teen mental health crisis, challenging Jonathan Haidt's thesis (Kaitlyn Tiffany/The Atlantic)",
+      "url": "https://www.theatlantic.com/technology/2026/07/phones-haidt-play-gray/687846/?gift=NBdGSmKfDQzLc1B6N1F-gZWfgmC0LBdSSsf8j0CnBOQ&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share",
+      "summary": "Kaitlyn Tiffany / The Atlantic: Psychologist Peter Gray argues that school stress, not smartphone use, is the main driver of the teen mental health crisis, challenging Jonathan Haidt's thesis&nbsp; &m",
+      "source": "Techmeme",
+      "time": "5h",
+      "tags": [],
+      "published_at": "2026-07-11T20:15:02+00:00"
+    },
+    {
+      "title": "Apple's lawsuit could sidetrack OpenAI's hardware aspirations for years, or possibly forever, as the startup gets into yet another controversy and messy divorce (M.G. Siegler/Spyglass)",
+      "url": "https://spyglass.org/apple-vs-openai/",
+      "summary": "M.G. Siegler / Spyglass: Apple's lawsuit could sidetrack OpenAI's hardware aspirations for years, or possibly forever, as the startup gets into yet another controversy and messy divorce&nbsp; &mdash;&",
+      "source": "Techmeme",
+      "time": "7h",
+      "tags": [],
+      "published_at": "2026-07-11T18:15:02+00:00"
+    },
+    {
+      "title": "Filing: Google urged the European Commission not to target DNS resolvers, VPNs, or IPs to fight piracy, calling the measures ineffective and easily circumvented (Ernesto Van der Sar/TorrentFreak)",
+      "url": "https://torrentfreak.com/google-opposes-site-blocking-in-europe-as-u-s-piracy-blocking-plans-gain-momentum/",
+      "summary": "Ernesto Van der Sar / TorrentFreak: Filing: Google urged the European Commission not to target DNS resolvers, VPNs, or IPs to fight piracy, calling the measures ineffective and easily circumvented&nbs",
+      "source": "Techmeme",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-11T15:45:01+00:00"
+    },
+    {
+      "title": "US software development job postings on Indeed have grown by ~15% since the launch of Claude Code in February 2025, while overall job postings fell by 7% (Guillermo Gallacher/Indeed Hiring Lab)",
+      "url": "https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/",
+      "summary": "Guillermo Gallacher / Indeed Hiring Lab: US software development job postings on Indeed have grown by ~15% since the launch of Claude Code in February 2025, while overall job postings fell by 7%&nbsp;",
+      "source": "Techmeme",
+      "time": "12h",
+      "tags": [],
+      "published_at": "2026-07-11T13:45:02+00:00"
+    },
+    {
+      "title": "How members of the extremist group Boko Haram are using AI chatbots to design explosives, fix or upgrade weapons, and brainstorm attack ideas (New York Times)",
+      "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&amp;smid=url-share",
+      "summary": "New York Times: How members of the extremist group Boko Haram are using AI chatbots to design explosives, fix or upgrade weapons, and brainstorm attack ideas&nbsp; &mdash;&nbsp; A.I. chatbots are not ",
+      "source": "Techmeme",
+      "time": "16h",
+      "tags": [],
+      "published_at": "2026-07-11T09:45:00+00:00"
+    },
+    {
+      "title": "An analysis of 1M+ social media posts from April 24 to June 30: ~25% of longform posts with 250+ words were fully AI-generated; on LinkedIn, the figure was 41% (Max Spero/Pangram Labs)",
+      "url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "summary": "Max Spero / Pangram Labs: An analysis of 1M+ social media posts from April 24 to June 30: ~25% of longform posts with 250+ words were fully AI-generated; on LinkedIn, the figure was 41%&nbsp; &mdash;&",
+      "source": "Techmeme",
+      "time": "20h",
+      "tags": [],
+      "published_at": "2026-07-11T05:50:01+00:00"
+    },
     {
       "title": "OpenAI's head of safety, Johannes Heidecke, is leaving as OpenAI integrates its research and safety teams; Mia Glaese will become VP of research and safety (Maxwell Zeff/Wired)",
       "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
       "summary": "Maxwell Zeff / Wired: OpenAI's head of safety, Johannes Heidecke, is leaving as OpenAI integrates its research and safety teams; Mia Glaese will become VP of research and safety&nbsp; &mdash;&nbsp; Jo",
       "source": "Techmeme",
-      "time": "15m",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-11T01:45:01+00:00"
     },
@@ -17,7 +80,7 @@
       "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
       "summary": "Thinking Machines Lab: Thinking Machines says its mission is to build AI that people and organizations can shape and make their own, and that &ldquo;extends human will and judgment&rdquo;&nbsp; &mdash",
       "source": "Techmeme",
-      "time": "1h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-11T00:25:01+00:00"
     },
@@ -26,99 +89,9 @@
       "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-ceo-sees-worst-ever-memory-supply-shortage-2027-says-demand-outstrip-2026-07-10/",
       "summary": "Reuters: SK Hynix CEO Kwak Noh-Jung says the memory industry is heading for its worst-ever supply shortage in 2027 and demand will outstrip supply beyond 2030&nbsp; &mdash;&nbsp; SK Hynix (000660.KS) ",
       "source": "Techmeme",
-      "time": "2h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-10T23:45:00+00:00"
-    },
-    {
-      "title": "Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism (Corbin Bolies/Variety)",
-      "url": "https://variety.com/2026/biz/news/meta-suspends-ai-image-instagram-feature-backlash-1236806989/",
-      "summary": "Corbin Bolies / Variety: Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism&nbsp; &mdash;&nbsp; Meta ",
-      "source": "Techmeme",
-      "time": "2h",
-      "tags": [],
-      "published_at": "2026-07-10T23:20:08+00:00"
-    },
-    {
-      "title": "In response to Apple's trade secret theft lawsuit, OpenAI says \"we have no interest in other companies' trade secrets\" (Marcus Mendes/9to5Mac)",
-      "url": "https://9to5mac.com/2026/07/10/openai-responds-to-apples-trade-secret-theft-lawsuit/",
-      "summary": "Marcus Mendes / 9to5Mac: In response to Apple's trade secret theft lawsuit, OpenAI says &ldquo;we have no interest in other companies' trade secrets&rdquo;&nbsp; &mdash;&nbsp; OpenAI has issued a form",
-      "source": "Techmeme",
-      "time": "2h",
-      "tags": [],
-      "published_at": "2026-07-10T23:10:01+00:00"
-    },
-    {
-      "title": "CISA says weak security controls around the use of public GitHub repos allowed a contractor to accidentally leak private cloud access keys and other credentials (Eric Geller/Cybersecurity Dive)",
-      "url": "https://www.cybersecuritydive.com/news/cisa-github-passwords-leak-contractor-report/824953/",
-      "summary": "Eric Geller / Cybersecurity Dive: CISA says weak security controls around the use of public GitHub repos allowed a contractor to accidentally leak private cloud access keys and other credentials&nbsp;",
-      "source": "Techmeme",
-      "time": "2h",
-      "tags": [],
-      "published_at": "2026-07-10T23:00:38+00:00"
-    },
-    {
-      "title": "Bluesky interim CEO Toni Schneider becomes the company's permanent CEO, four months after succeeding Jay Graber (Lucas Ropek/TechCrunch)",
-      "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
-      "summary": "Lucas Ropek / TechCrunch: Bluesky interim CEO Toni Schneider becomes the company's permanent CEO, four months after succeeding Jay Graber&nbsp; &mdash;&nbsp; In March, Bluesky's longtime CEO, Jay Grab",
-      "source": "Techmeme",
-      "time": "3h",
-      "tags": [],
-      "published_at": "2026-07-10T22:10:02+00:00"
-    },
-    {
-      "title": "A US NLRB judge rules that Atlassian had illegally fired an employee in 2023 for pushing back against manager layoffs, and orders reinstatement and compensation (Noam Scheiber/New York Times)",
-      "url": "https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html",
-      "summary": "Noam Scheiber / New York Times: A US NLRB judge rules that Atlassian had illegally fired an employee in 2023 for pushing back against manager layoffs, and orders reinstatement and compensation&nbsp; &",
-      "source": "Techmeme",
-      "time": "4h",
-      "tags": [],
-      "published_at": "2026-07-10T21:50:01+00:00"
-    },
-    {
-      "title": "Apple says OpenAI leadership \"normalized\" misconduct and OpenAI's hardware business is \"rotten to its core by its illegal reliance\" on stolen trade secrets (Sarah Perez/TechCrunch)",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "summary": "Sarah Perez / TechCrunch: Apple says OpenAI leadership &ldquo;normalized&rdquo; misconduct and OpenAI's hardware business is &ldquo;rotten to its core by its illegal reliance&rdquo; on stolen trade se",
-      "source": "Techmeme",
-      "time": "4h",
-      "tags": [],
-      "published_at": "2026-07-10T21:21:37+00:00"
-    },
-    {
-      "title": "Apple alleges that a former Apple engineer kept a work-issued Apple laptop and exploited a bug to access Apple's cloud file storage while employed by OpenAI (Megan Morrone/Axios)",
-      "url": "https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-      "summary": "Megan Morrone / Axios: Apple alleges that a former Apple engineer kept a work-issued Apple laptop and exploited a bug to access Apple's cloud file storage while employed by OpenAI&nbsp; &mdash;&nbsp; ",
-      "source": "Techmeme",
-      "time": "5h",
-      "tags": [],
-      "published_at": "2026-07-10T20:50:02+00:00"
-    },
-    {
-      "title": "Apple alleges that Tang Tan, OpenAI's chief hardware officer and a former Apple VP, has directed Apple staffers interviewing at OpenAI to share Apple secrets (CNBC)",
-      "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
-      "summary": "CNBC: Apple alleges that Tang Tan, OpenAI's chief hardware officer and a former Apple VP, has directed Apple staffers interviewing at OpenAI to share Apple secrets&nbsp; &mdash;&nbsp; Apple on Friday ",
-      "source": "Techmeme",
-      "time": "5h",
-      "tags": [],
-      "published_at": "2026-07-10T20:40:02+00:00"
-    },
-    {
-      "title": "Apple sues OpenAI, alleging that ex-Apple employees stole \"Apple's trade secrets for the benefit of OpenAI\", and says OpenAI never responded to its concerns (Chance Miller/9to5Mac)",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "summary": "Chance Miller / 9to5Mac: Apple sues OpenAI, alleging that ex-Apple employees stole &ldquo;Apple's trade secrets for the benefit of OpenAI&rdquo;, and says OpenAI never responded to its concerns&nbsp; ",
-      "source": "Techmeme",
-      "time": "5h",
-      "tags": [],
-      "published_at": "2026-07-10T20:36:21+00:00"
-    },
-    {
-      "title": "Source: Greg Brockman will continue to oversee OpenAI's products as the company doesn't plan to hire anyone to replace Fidji Simo after she stepped down (CNBC)",
-      "url": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html",
-      "summary": "CNBC: Source: Greg Brockman will continue to oversee OpenAI's products as the company doesn't plan to hire anyone to replace Fidji Simo after she stepped down&nbsp; &mdash;&nbsp; There's a new second-",
-      "source": "Techmeme",
-      "time": "5h",
-      "tags": [],
-      "published_at": "2026-07-10T20:00:57+00:00"
     }
   ]
 }

@@ -1,61 +1,43 @@
 {
   "source": "Amazon",
   "layer": "company",
-  "updated": "2026-07-11T10:01:03+08:00",
+  "updated": "2026-07-12T10:00:49+08:00",
   "items": [
     {
       "title": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0ZBbWdwb0JoNWxLZlpGZF96S0JHeklnOEJYNXpPb1NadHBVX1JmMkszdGxiNHkzVndYZlRCYS1SelZVS2F5dzMta2lsYXlZTFVJTVdnRTNIM0pTbFktVWttOWVPa1VCcWxaOW10XzdMY3Bzb3ktamxzR1BFNkpXaFcxWjJOWDJtbUdCZms3T1o4ZUdkRnNIdlRjYUxKV0tjWHN2am9Eb3hmT2tIeldZRHN3?oc=5",
       "summary": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore&nbsp;&nbsp;Amazon Web Services (AWS)",
       "source": "Amazon",
-      "time": "10h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-10T15:23:25+00:00"
     },
     {
-      "title": "Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYmZSRzRFaHZSOVBRLXpkNC1qZjBFSEVlXzN3YzJCTW9LNXpRejg4WE5UR3kwam1ZVUl0NlN4MTlpeklHT00zUHRNaENTMGI3V1AxN3N3UnJHZGZLWjJNQjFveHBncmRtM2RLaGd0Y0MzXzNlZGUyaGdTVFIxem15eU9HTF9WUklmcTV4UHBrakI5amNkeXg1WFU5QUx5YVVBZ3hJREpJQkNjNEhIei1NR0l0YVdWd3pnYjJ1dGVhTGREQjRlVTlLb0pKY2oxZw?oc=5",
-      "summary": "Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore&nbsp;&nbsp;Amazon Web Services (AWS)",
-      "source": "Amazon",
-      "time": "10h",
-      "tags": [],
-      "published_at": "2026-07-10T15:31:12+00:00"
-    },
-    {
-      "title": "Securing Amazon Bedrock AgentCore Runtime with AWS WAF | Artificial Intelligence - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFZFR1hnSkRBWE5US1dQeTZKY3hmRzE0X25YSWd2SE1BMThhYjUxbzRaaGFDTTMtVFFSclFBZ1YyZHZpN0Uwc3VrRTNoT2xNak5oMTNBMHRMaEh5R2J2Yk5XWEVEbElxbkxnRk9kbnA2MkR4blM4YWVZUTdsc1dfUzI4WXZXNi1TN2hnb0p5M1dqZVppRU9NclRyNDlHOFp4UmtZ?oc=5",
-      "summary": "Securing Amazon Bedrock AgentCore Runtime with AWS WAF | Artificial Intelligence&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yUmlDZ29pZlZFNHNfSzBVbXkxRkZXNTZ0cjVpOG5DWHMtTGpNOV82dG5WeVZpbVktQjViSHRRZ0lEVWx3N0ZIZGo0UllDV3A4Z1R1R29HbzU?oc=5",
+      "summary": "OpenAI models, Codex, and Managed Agents come to AWS&nbsp;&nbsp;OpenAI",
       "source": "Amazon",
       "time": "2d",
       "tags": [],
-      "published_at": "2026-07-08T15:57:33+00:00"
+      "published_at": "2026-07-09T07:00:00+00:00"
     },
     {
-      "title": "Manage AI applications on Mac with Jamf’s AI Governance and Amazon Bedrock - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnNDa3YwREJZS1BzLWwtM2ZaMFZIYkNjS1pTX0JabTZVaS10eTExRFJkYTZOZW9aZ3RMWkplcEJYT240eHRIcE5iREtZWTdidjRMZVV1cmp2SWlTSzA1OU85dngxMDh5VTlDUzJHcU9fblh0SHNLM1BlWEJuTTdKS1ozWnZTOUdwQURhbWhQWXowbm5hYTJhaHUxdk9CWjRNV1NGeHlxZGdUQmhpaUNJaFFkWGplWjc5R2Jv?oc=5",
-      "summary": "Manage AI applications on Mac with Jamf’s AI Governance and Amazon Bedrock&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "title": "Building secure AI agents at scale: Introducing Loom for AWS | Amazon Web Services - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU182OFY5X2NYVG5XaFlKWDJQaDY5N0dPVV9GM3RhcEZsdmFDSWhuOERrbi1DdFBOa1UtZnE4QzZSOGVLZjA1Y2cyTXlSUXBfbTRDbmpjM1BMdnVPSWtBWnhObTBiUWQ4U2FPN1JrTzdQMG82TVNxY2hVX3FRc1o3cHYzdkU1VUJ3SGk1bEsyNGlma2RIczBBaWEwZi1HRWZFM0E?oc=5",
+      "summary": "Building secure AI agents at scale: Introducing Loom for AWS | Amazon Web Services&nbsp;&nbsp;Amazon Web Services (AWS)",
       "source": "Amazon",
       "time": "2d",
       "tags": [],
-      "published_at": "2026-07-08T15:53:08+00:00"
+      "published_at": "2026-07-09T21:16:33+00:00"
     },
     {
       "title": "Introducing Claude apps gateway for AWS | Amazon Web Services - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczdaTVpjWHhOblAyTDdtOTlsdnZpcmt1aG1Vc0hSOW56VkFUdzR5ZFFWaldJenVsMHhUSWE4djRmUlNpNkNId0pfbzQxNDlkX3V4dGFpTzRMSEdMLU1HVmt6a2ZOTko3c3diTHdRSXJxRm9YYWhZeUsyQzE3Q29NSHZ3X2J1RXl0TW14MXNjRQ?oc=5",
       "summary": "Introducing Claude apps gateway for AWS | Amazon Web Services&nbsp;&nbsp;Amazon Web Services (AWS)",
       "source": "Amazon",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-08T19:49:22+00:00"
-    },
-    {
-      "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026) - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWJFeDNKNVA3aWVraUVlRVNlUGJ3dkdEYThUbXRIdnFsOFEwZ0hkdUxQaE1aR0MtX25kdjFkQVlUZ0JGSlRlZ1Zjek93cmFtd3VmSWM2djNuWDFWVlZaczhXOGk2dnNxTkkybGJPbEswMF9vTWZ3RzhpV2pJM1E2SWJabGNKb1N3TjNtY09nNDJvY0V0RHhBZy1YUEo5VHhOVGJzalpmN2ZCNGVrWDlGWWk4Q0ItNG42T0EyVGpHWk9GNmp6LVFBS0xZV2wzQnh0eDg1WU85SUs1ZWgwd0E1MTE0TGhUS1FIQ2NuMnNGcDZ4OVU?oc=5",
-      "summary": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)&nbsp;&nbsp;Amazon Web Services (AWS)",
-      "source": "Amazon",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-07-06T15:46:43+00:00"
     }
   ]
 }

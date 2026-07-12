@@ -1,14 +1,41 @@
 {
   "source": "量子位",
   "layer": "news",
-  "updated": "2026-07-11T10:00:09+08:00",
+  "updated": "2026-07-12T10:00:09+08:00",
   "items": [
+    {
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "url": "https://www.qbitai.com/2026/07/447902.html",
+      "summary": "已跑通300余项应用",
+      "source": "量子位",
+      "time": "15h",
+      "tags": [],
+      "published_at": "2026-07-11T10:07:17+00:00"
+    },
+    {
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "url": "https://www.qbitai.com/2026/07/447891.html",
+      "summary": "从FP64到INT8，全精度覆盖。",
+      "source": "量子位",
+      "time": "19h",
+      "tags": [],
+      "published_at": "2026-07-11T06:26:46+00:00"
+    },
+    {
+      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+      "url": "https://www.qbitai.com/2026/07/447873.html",
+      "summary": "神话级大模型驾驭宝典",
+      "source": "量子位",
+      "time": "20h",
+      "tags": [],
+      "published_at": "2026-07-11T05:30:11+00:00"
+    },
     {
       "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
       "url": "https://www.qbitai.com/2026/07/447846.html",
       "summary": "四大方向，奖金直给",
       "source": "量子位",
-      "time": "8h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-10T17:18:11+00:00"
     },
@@ -17,7 +44,7 @@
       "url": "https://www.qbitai.com/2026/07/447832.html",
       "summary": "AI变为研发流程的“组织者”",
       "source": "量子位",
-      "time": "11h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-10T14:13:37+00:00"
     },
@@ -26,7 +53,7 @@
       "url": "https://www.qbitai.com/2026/07/447796.html",
       "summary": "把数据闭环搬进卧室",
       "source": "量子位",
-      "time": "16h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-10T09:45:01+00:00"
     },
@@ -35,7 +62,7 @@
       "url": "https://www.qbitai.com/2026/07/447691.html",
       "summary": "",
       "source": "量子位",
-      "time": "16h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-10T09:41:25+00:00"
     },
@@ -44,7 +71,7 @@
       "url": "https://www.qbitai.com/2026/07/447682.html",
       "summary": "",
       "source": "量子位",
-      "time": "16h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-10T09:32:09+00:00"
     },
@@ -53,7 +80,7 @@
       "url": "https://www.qbitai.com/2026/07/447681.html",
       "summary": "agent时代来了",
       "source": "量子位",
-      "time": "16h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-10T09:27:52+00:00"
     },
@@ -62,36 +89,9 @@
       "url": "https://www.qbitai.com/2026/07/447627.html",
       "summary": "开源第四弹：LingBot-VA 2.0",
       "source": "量子位",
-      "time": "17h",
-      "tags": [],
-      "published_at": "2026-07-10T08:01:00+00:00"
-    },
-    {
-      "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
-      "url": "https://www.qbitai.com/2026/07/447602.html",
-      "summary": "字节也入局了",
-      "source": "量子位",
-      "time": "21h",
-      "tags": [],
-      "published_at": "2026-07-10T04:44:38+00:00"
-    },
-    {
-      "title": "行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0",
-      "url": "https://www.qbitai.com/2026/07/447597.html",
-      "summary": "",
-      "source": "量子位",
-      "time": "22h",
-      "tags": [],
-      "published_at": "2026-07-10T03:28:59+00:00"
-    },
-    {
-      "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
-      "url": "https://www.qbitai.com/2026/07/447508.html",
-      "summary": "“已经出现泛化涌现”",
-      "source": "量子位",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-09T12:18:17+00:00"
+      "published_at": "2026-07-10T08:01:00+00:00"
     }
   ]
 }
