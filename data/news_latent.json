@@ -1,14 +1,14 @@
 {
   "source": "Latent Space",
   "layer": "newsletter",
-  "updated": "2026-07-12T10:00:35+08:00",
+  "updated": "2026-07-13T10:10:44+08:00",
   "items": [
     {
       "title": "[AINews] not much happened today",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
       "summary": "a quiet day after a week of nonstop model releases",
       "source": "Latent Space",
-      "time": "23h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-11T02:53:08+00:00"
     },
@@ -17,7 +17,7 @@
       "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
       "summary": "A big day for OpenAI.",
       "source": "Latent Space",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-10T06:19:40+00:00"
     },
@@ -26,7 +26,7 @@
       "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
       "summary": "SpaceXAI continues to move faster than any other frontier lab on earth.",
       "source": "Latent Space",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-09T06:05:41+00:00"
     },
@@ -35,7 +35,7 @@
       "url": "https://www.latent.space/p/modal2026",
       "summary": "2 years after our first coverage, we return with Modal's other cofounder to explore why Agent Experience is working now, and everything they have learned building the new agent cloud.",
       "source": "Latent Space",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-08T22:55:07+00:00"
     },
@@ -44,7 +44,7 @@
       "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
       "summary": "a quiet day lets us read some condensed insight",
       "source": "Latent Space",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-08T02:20:25+00:00"
     },
@@ -53,7 +53,7 @@
       "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
       "summary": "a quiet day lets us digest the world's most significant model launch... to date.",
       "source": "Latent Space",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-07T04:44:53+00:00"
     },
@@ -62,7 +62,7 @@
       "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
       "summary": "The AI Engineer World&#8217;s Fair ended with a debate about loops, a report on the state of AI engineering, and closing keynotes focused on what to build next.",
       "source": "Latent Space",
-      "time": "8d",
+      "time": "9d",
       "tags": [],
       "published_at": "2026-07-03T05:11:43+00:00"
     },
@@ -71,7 +71,7 @@
       "url": "https://www.latent.space/p/vercel-agents-new-software",
       "summary": "The Vercel Chief of Software explains how its agent framework, eve, was created &#8212; and why skills, sandboxes and agent-readable websites now matter.",
       "source": "Latent Space",
-      "time": "9d",
+      "time": "10d",
       "tags": [],
       "published_at": "2026-07-03T00:08:18+00:00"
     },
@@ -80,7 +80,7 @@
       "url": "https://www.latent.space/p/the-website-of-the-future",
       "summary": "Adobe is experimenting with &#8220;agentic sites&#8221; that generate pages around an individual user&#8217;s intent. At AIEWF, we talked to Carlos Sanchez about the Web's future.",
       "source": "Latent Space",
-      "time": "9d",
+      "time": "10d",
       "tags": [],
       "published_at": "2026-07-02T21:25:14+00:00"
     },
@@ -89,7 +89,7 @@
       "url": "https://www.latent.space/p/skill-engineering-design",
       "summary": "Paul Bakaus talks to us about Impeccable, human judgment in a 'loopmaxxing' era, and why agents still need people to steer them.",
       "source": "Latent Space",
-      "time": "9d",
+      "time": "10d",
       "tags": [],
       "published_at": "2026-07-02T14:36:05+00:00"
     }

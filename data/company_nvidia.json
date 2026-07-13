@@ -1,14 +1,23 @@
 {
   "source": "NVIDIA",
   "layer": "company",
-  "updated": "2026-07-12T10:00:45+08:00",
+  "updated": "2026-07-13T10:10:55+08:00",
   "items": [
+    {
+      "title": "Forget GPUs. Nvidia’s Next AI Gold Mine Could Be Even Bigger. - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0hRWkVWNjNpXzJVNng5U2dpN0pFQzBGWE5FcGdiWTFWYVViY2ZTQ3dVUm1tT3BZd08zcV96Zmt0RGwyWlZGQVlTcndzVkwyU3dXZGdyd3JHWFRYenUzYjQtRG1YMURKRXhHYUNXdTdHV0FXUk9rb1FzY09mZW5KOGlXSVhkYzJVVC10aXpqQXRYUkktSk5DVTN4WlF1OE5lU0J1TQ?oc=5",
+      "summary": "Forget GPUs. Nvidia’s Next AI Gold Mine Could Be Even Bigger.&nbsp;&nbsp;Barchart.com",
+      "source": "NVIDIA",
+      "time": "6h",
+      "tags": [],
+      "published_at": "2026-07-12T20:01:42+00:00"
+    },
     {
       "title": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters - SemiAnalysis",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRMzZBLVVubkluVkNDXzRtX0Z3U0hDVnFiek9YUTFKeUdpVVAzVHQwRXlRS0lGM2wtNGJka3ZiQ3BsNkQzdllNSGx5dGctZWFiZF9RYzI4SkpUYU5mcTFIWWYwdGJ6T2hEbkZNbWJYTWJLQW10ZDQxN2p2alI?oc=5",
       "summary": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters&nbsp;&nbsp;SemiAnalysis",
       "source": "NVIDIA",
-      "time": "5d",
+      "time": "6d",
       "tags": [],
       "published_at": "2026-07-06T21:53:44+00:00"
     },
@@ -17,45 +26,36 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
       "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer",
       "source": "NVIDIA",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-07T15:13:37+00:00"
-    },
-    {
-      "title": "GPU Memory Crisis Prices RTX 5090 Above $4,300 as Nvidia Offers Paper Cards - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWGxmVGZYV1RTd0FqVDFKQjZNdnpzWnBaT3dmTEZGLU4xV2xJc25mdTFyczQ0QXlEaG8weGlhQ2ZLUzEtSVFQT1habWdBLUdBMy1IRzlCa014X0lsc3AtTzNiM2c3clhMbG5ERXZBeHo4ZGRqLTdQTlkxRWVLUGRzUlo0REl2d2V2WVdxT1REOHItTml3VFVhM0pRTVlEb0hQRkd3MkZEdjVOblMydGpKVUlVX1VpRHB0WDBkeWI5RkJ4QmM?oc=5",
-      "summary": "GPU Memory Crisis Prices RTX 5090 Above $4,300 as Nvidia Offers Paper Cards&nbsp;&nbsp;Tech Times",
-      "source": "NVIDIA",
-      "time": "11h",
-      "tags": [],
-      "published_at": "2026-07-11T14:37:57+00:00"
     },
     {
       "title": "The 8 Best Features That Come With NVIDIA GPUs - bgr.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wV3c4aHZYU19aQ1NmMkhEV0Z1WTl1SzVjaHJheG12SmJDbUdZNGtUMGNzUmszTVE4b0VDcmJuTjd2VjAzTUpDUE51cEo4SGlrdURRV0ZtTGY1Y19GVzFiM3pwaw?oc=5",
       "summary": "The 8 Best Features That Come With NVIDIA GPUs&nbsp;&nbsp;bgr.com",
       "source": "NVIDIA",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-09T14:02:00+00:00"
     },
     {
-      "title": "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks - The Register",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcXVRcUY5emNsRk4ybXE3WU1sWGJpNElJU0R2Q1Z5SElqYjRMeFJkd2NaTXFHLTBLT2NEcUlEcGNWVy1SN3hTbUtOMmNqSENja2FLOFFMVkN1NHRTalNlMHRXdkpvRTV1cEx5VTZDYThnMHp6ZjJtb3RFQjhsOXRTRnc5WFhYSWF0LUlWVlRmRmN5M2xTbXpPYjRrdENLeVZ6SHdOZjltYk9lVFBfNlVob0VrTUZ1SHpVd01lc0U4SW9sVTA0NDBpZ2hhSnJCbFI2ZkMtUnBLNVFybnFnclhLT1FXQVBXTF8yNFhnNkNR?oc=5",
-      "summary": "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks&nbsp;&nbsp;The Register",
+      "title": "Nvidia is a victim of the compute marketplace it created - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMjJzN3NsbGtpZTBPNGdUMXFaVkZxc183U3dGWV9iSFhlSmVQNmdYMWNOU0xQUWFWeVdodmloN1U5RHkxUmdHamhPNUZRZXE3dXdDYTRuNDlPU2gxY2d3N09hZWdiWXM0NkNVS2tSOXZMTHUtWVhpX0tqd1FFbDhuamxHRTdFcm80Q3VJQ1BqVjI3d0ZkVEE?oc=5",
+      "summary": "Nvidia is a victim of the compute marketplace it created&nbsp;&nbsp;TechCrunch",
       "source": "NVIDIA",
       "time": "3d",
       "tags": [],
-      "published_at": "2026-07-08T20:19:03+00:00"
+      "published_at": "2026-07-09T17:06:11+00:00"
     },
     {
-      "title": "3 of the Top 5 Performers in the S&P 500 in the First Half Offer 1 Particular Thing for AI Customers. (Hint: It Isn't the GPU, and Nvidia Isn't Among Them.) - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWE0d3p0UHpOdHpFSUNzSkIyWmxKNGVlT2Z3Vkkta0lSRklvMGtnNC1jQWk0aExNN2c5VWozWUFQVjFzalY5ZHY5cnR2SjAyaHJ4bzhtSjNBX1pscjIzR3hxOHd3RTRkdDY2UExNanZKYWxYYkh0YnZBUFNKblRnUzJsR210ejZXOHpJQQ?oc=5",
-      "summary": "3 of the Top 5 Performers in the S&amp;P 500 in the First Half Offer 1 Particular Thing for AI Customers. (Hint: It Isn't the GPU, and Nvidia Isn't Among Them.)&nbsp;&nbsp;Yahoo Finance",
+      "title": "Nvidia’s $1-trillion wipeout leaves AI titan trading at pre-boom prices - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNDhTUm9nUVIzTWJhSUFiT3Y2SGw0alhfLTNFVHJjYmIzeFBST2xzdUhRamg1ZE83M18tVjlZcDRQblVCLXhvNnptY2pqdWtuRjRpRUcyOVc2YzNPQl9LQzgxYXU0SDJaWGlObHhNVHlnLTc1X1N2ZGFlQzRCaVJIdE1vSEYtSGN2b3JsbGtfcVNXM0tGVmpQV0dnaWp0V0lILVVoRUx3WndIeGx4enhxS2dNSWFnU21SbTFj?oc=5",
+      "summary": "Nvidia’s $1-trillion wipeout leaves AI titan trading at pre-boom prices&nbsp;&nbsp;Los Angeles Times",
       "source": "NVIDIA",
-      "time": "3d",
+      "time": "2d",
       "tags": [],
-      "published_at": "2026-07-08T08:22:00+00:00"
+      "published_at": "2026-07-10T14:13:24+00:00"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "source": "MIT Tech Review",
   "layer": "news",
-  "updated": "2026-07-12T10:00:09+08:00",
+  "updated": "2026-07-13T10:10:24+08:00",
   "items": [
     {
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
       "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzle",
       "source": "MIT Tech Review",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-10T12:10:00+00:00"
     },
@@ -17,7 +17,7 @@
       "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
       "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherland",
       "source": "MIT Tech Review",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-10T09:00:00+00:00"
     },
@@ -26,7 +26,7 @@
       "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
       "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they",
       "source": "MIT Tech Review",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-09T20:22:28+00:00"
     },
@@ -35,7 +35,7 @@
       "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the U",
       "source": "MIT Tech Review",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-09T12:10:00+00:00"
     },
@@ -44,7 +44,7 @@
       "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
       "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump ad",
       "source": "MIT Tech Review",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-09T08:00:00+00:00"
     },
@@ -53,7 +53,7 @@
       "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
       "summary": "",
       "source": "MIT Tech Review",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-08T16:26:10+00:00"
     },
@@ -62,7 +62,7 @@
       "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manu",
       "source": "MIT Tech Review",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-08T12:10:00+00:00"
     },
@@ -71,7 +71,7 @@
       "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s pr",
       "source": "MIT Tech Review",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-07T12:10:00+00:00"
     },
@@ -80,7 +80,7 @@
       "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
       "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces ris",
       "source": "MIT Tech Review",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-07T11:10:52+00:00"
     },
@@ -89,7 +89,7 @@
       "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
       "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He re",
       "source": "MIT Tech Review",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-07T10:00:00+00:00"
     }

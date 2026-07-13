@@ -1,14 +1,14 @@
 {
   "source": "Amazon",
   "layer": "company",
-  "updated": "2026-07-12T10:00:49+08:00",
+  "updated": "2026-07-13T10:11:00+08:00",
   "items": [
     {
       "title": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0ZBbWdwb0JoNWxLZlpGZF96S0JHeklnOEJYNXpPb1NadHBVX1JmMkszdGxiNHkzVndYZlRCYS1SelZVS2F5dzMta2lsYXlZTFVJTVdnRTNIM0pTbFktVWttOWVPa1VCcWxaOW10XzdMY3Bzb3ktamxzR1BFNkpXaFcxWjJOWDJtbUdCZms3T1o4ZUdkRnNIdlRjYUxKV0tjWHN2am9Eb3hmT2tIeldZRHN3?oc=5",
       "summary": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore&nbsp;&nbsp;Amazon Web Services (AWS)",
       "source": "Amazon",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-10T15:23:25+00:00"
     },
@@ -17,25 +17,43 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yUmlDZ29pZlZFNHNfSzBVbXkxRkZXNTZ0cjVpOG5DWHMtTGpNOV82dG5WeVZpbVktQjViSHRRZ0lEVWx3N0ZIZGo0UllDV3A4Z1R1R29HbzU?oc=5",
       "summary": "OpenAI models, Codex, and Managed Agents come to AWS&nbsp;&nbsp;OpenAI",
       "source": "Amazon",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-09T07:00:00+00:00"
+    },
+    {
+      "title": "BNB Agent Studio deploys AI agents on AWS Bedrock AgentCore for continuous operation - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcHZBaGVJSVRMVEhkMW1zaUFhbDBOMmxta1AtS0FOUmxyQkI0X0V6aDNUSHROcTEyVXpyNzJkemU1aFI1TEJvRHotZXdlSV9IcVBFRVZpOUFRZEFUWld3NTZGeG1FZGFzaVo1dVhLWklsNmVBbHpYajEzbDMybzBZMjhmOA?oc=5",
+      "summary": "BNB Agent Studio deploys AI agents on AWS Bedrock AgentCore for continuous operation&nbsp;&nbsp;Crypto Briefing",
+      "source": "Amazon",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-12T04:06:55+00:00"
     },
     {
       "title": "Building secure AI agents at scale: Introducing Loom for AWS | Amazon Web Services - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU182OFY5X2NYVG5XaFlKWDJQaDY5N0dPVV9GM3RhcEZsdmFDSWhuOERrbi1DdFBOa1UtZnE4QzZSOGVLZjA1Y2cyTXlSUXBfbTRDbmpjM1BMdnVPSWtBWnhObTBiUWQ4U2FPN1JrTzdQMG82TVNxY2hVX3FRc1o3cHYzdkU1VUJ3SGk1bEsyNGlma2RIczBBaWEwZi1HRWZFM0E?oc=5",
       "summary": "Building secure AI agents at scale: Introducing Loom for AWS | Amazon Web Services&nbsp;&nbsp;Amazon Web Services (AWS)",
       "source": "Amazon",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-09T21:16:33+00:00"
+    },
+    {
+      "title": "Amazon’s Bedrock and Titan Generative AI Services Enter General Availability - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNckFpajZhRE5MMXFZaHJmeWRUMjJzeUFoX3dMSlJCR0d0NVZndWxBSWdmMHNxVDJlS2c3Z1ZuY3FpY3FmdVN0TlJrdGcwQzJpMHl2a2NjNVdPcWlHbUdQbHFlX0RiUG5yaVN6eEpuU2pwVUtJQVhrUEJwYndrTmdGTVpSS1ZqQU1DMU8ybEhEZEo0Z3V1WFE?oc=5",
+      "summary": "Amazon’s Bedrock and Titan Generative AI Services Enter General Availability&nbsp;&nbsp;TechRepublic",
+      "source": "Amazon",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-10T07:00:00+00:00"
     },
     {
       "title": "Introducing Claude apps gateway for AWS | Amazon Web Services - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczdaTVpjWHhOblAyTDdtOTlsdnZpcmt1aG1Vc0hSOW56VkFUdzR5ZFFWaldJenVsMHhUSWE4djRmUlNpNkNId0pfbzQxNDlkX3V4dGFpTzRMSEdMLU1HVmt6a2ZOTko3c3diTHdRSXJxRm9YYWhZeUsyQzE3Q29NSHZ3X2J1RXl0TW14MXNjRQ?oc=5",
       "summary": "Introducing Claude apps gateway for AWS | Amazon Web Services&nbsp;&nbsp;Amazon Web Services (AWS)",
       "source": "Amazon",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-08T19:49:22+00:00"
     }

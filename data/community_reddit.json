@@ -1,23 +1,68 @@
 {
   "source": "Reddit ML",
   "layer": "community",
-  "updated": "2026-07-12T10:00:33+08:00",
+  "updated": "2026-07-13T10:10:42+08:00",
   "items": [
+    {
+      "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/",
+      "summary": "TL:DR: I’m a grad student in AI, I saw that Google released TabFM and TimesFM last week, I built an MCP wrapper to serve both transformer models in a single Docker container so you can connect their n",
+      "source": "Reddit ML",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-07-12T12:32:29+00:00"
+    },
+    {
+      "title": "Ph.D. in Operations Research / Big Tech Eng: How to transition into intermediate/advanced ML for high-value industries (Robotics, Defense, Finance)? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uumkkg/phd_in_operations_research_big_tech_eng_how_to/",
+      "summary": "I hold a Ph.D. in Operations Research, along with a BSc/MSc in Engineering and OR. I previously worked in Big Tech, but I’m currently looking to transition. My primary goal is to upgrade my technical ",
+      "source": "Reddit ML",
+      "time": "8h",
+      "tags": [],
+      "published_at": "2026-07-12T17:58:18+00:00"
+    },
     {
       "title": "Public Library Find [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1utplzc/public_library_find_d/",
       "summary": "Pleasantly surprised to find O’Reilly books on ML at a public library &#32; submitted by &#32; /u/ai_hedge_fund [link] &#32; [comments]",
       "source": "Reddit ML",
-      "time": "8h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-11T17:07:33+00:00"
+    },
+    {
+      "title": "Where to publish a construction BIM Benchmark? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uufp11/where_to_publish_a_construction_bim_benchmark_d/",
+      "summary": "Hey! I'm an ML Engineer at a startup building AI for construction cost estimation, and we're getting ready to publish some research. We've paid professional construction estimators to create item-leve",
+      "source": "Reddit ML",
+      "time": "12h",
+      "tags": [],
+      "published_at": "2026-07-12T13:36:08+00:00"
+    },
+    {
+      "title": "Context and average best linear mappings [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uu2p63/context_and_average_best_linear_mappings_d/",
+      "summary": "The context (in a border sense) viewpoint of neural networks is not thought about too much but it leads to a simple best average linear mapping viewpoint of a layer. https://archive.org/details/a-cont",
+      "source": "Reddit ML",
+      "time": "23h",
+      "tags": [],
+      "published_at": "2026-07-12T02:18:08+00:00"
+    },
+    {
+      "title": "Obtaining Irregular Learning Curves with HyberBand Tuned ANN model for Price Prediction [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uud3qj/obtaining_irregular_learning_curves_with/",
+      "summary": "I have used Hyperband automatic tuning for an ANN model to predict price. After running HyberBand automatic tuning to get the 'best' architecture, I am obtaining a strange Val/Training loss learning c",
+      "source": "Reddit ML",
+      "time": "14h",
+      "tags": [],
+      "published_at": "2026-07-12T11:38:41+00:00"
     },
     {
       "title": "Withdraw from ACL ARR and resubmit to a workshop? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uth7j8/withdraw_from_acl_arr_and_resubmit_to_a_workshop_d/",
       "summary": "Hey guys, I received mediocre scores for my EMNLP paper during the May ACL ARR cycle: 2.5/3, 3/4, 2.5/4. The paper is in the Interpretability track. The reviewers had no larger issue with the methodol",
       "source": "Reddit ML",
-      "time": "14h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-11T11:09:15+00:00"
     },
@@ -26,25 +71,16 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1utdj1f/predicting_human_preference_for_generated_image/",
       "summary": "Hey! I'm looking for ways to predict human preference for a project I'm building. (imagebench.ai) I've tryed HPSv3, https://github.com/MizzenAI/HPSv3 and made post about it here: https://imagebench.ai",
       "source": "Reddit ML",
-      "time": "18h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-11T07:36:36+00:00"
-    },
-    {
-      "title": "VultronRetriever family of models released on HuggingFace![R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1utmxq8/vultronretriever_family_of_models_released_on/",
-      "summary": "Thrilled to announce the VultronRetriever family of models, which were revealed during Raise Summit Paris and demonstrated running Q&amp;A and embedding documents on the iPhone, fully offline! 📱 Some ",
-      "source": "Reddit ML",
-      "time": "10h",
-      "tags": [],
-      "published_at": "2026-07-11T15:22:33+00:00"
     },
     {
       "title": "Why doesn't the ML research community limit the number of submissions per author? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1usq43t/why_doesnt_the_ml_research_community_limit_the/",
       "summary": "I am currently working across multiple research communities, and I've noticed that the ML community is struggling with a massive volume of submissions, which is affecting review quality (as we are see",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-10T14:59:23+00:00"
     },
@@ -53,7 +89,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ut5krb/how_does_acl_conferences_acceptance_work_d/",
       "summary": "Even after getting ARR reviews and a meta review, how is the acceptance decided at the *ACL venues, because I have seen meta review 3.5 getting to findings and 3 getting to main or even getting reject",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-11T00:47:14+00:00"
     },
@@ -62,7 +98,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uso667/please_help_me_understand_figure_on_subspace/",
       "summary": "I am studying the LoRA paper and have trouble understanding this figure. The function essentially measures how much of the subspace spanned by the top i vectors is contained in the subspace spanned by",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-10T13:46:15+00:00"
     },
@@ -71,7 +107,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uszkri/multiple_linear_regression_in_scratch_p/",
       "summary": "i made a multiple linear regression trainer that can be used with custom data in scratch nothing more to say, the impressive part is the scratch part https://scratch.mit.edu/projects/1352102064/ &#32;",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-10T20:42:20+00:00"
     },
@@ -80,7 +116,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1usnuc0/how_should_i_approach_training_this_specific_ml/",
       "summary": "So, I am working on this startup project with pretty low budget and one of the features is sentiment analysis based on political news, x posts and Instagram hashtag trends in which will be in Indian l",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-10T13:33:11+00:00"
     },
@@ -89,7 +125,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1usa46w/hyperparameter_tuning_approach_question_r/",
       "summary": "I am doing some work with cell type classification, where I have 4.3 million cells and 512 features (condensed embeddings from the encoder of a transformer). The broader goal is to implement a context",
       "source": "Reddit ML",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-10T01:55:38+00:00"
     },
@@ -98,45 +134,9 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1urqqk6/journals_vs_conferences_ml_research_r/",
       "summary": "Lately in the last two/three years, I have noticed ICML, Neurips becoming more prestigious than the actual journals. What is the actual reason of this culture? Is this due to the AI boom and rising de",
       "source": "Reddit ML",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-09T13:44:41+00:00"
-    },
-    {
-      "title": "Talos-XII: hand-written autograd + small RL/MLP stack in Rust, applied to gacha probability modeling (no tch-rs/ndarray/PyTorch) — looking for benchmark help on ARM/AVX-512/GPU [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1urvxgb/talosxii_handwritten_autograd_small_rlmlp_stack/",
-      "summary": "What it is Talos-XII is a CLI simulator for the gacha system in Arknights: Endfield. Rather than sampling from a static probability table, it trains a small set of neural nets to model environment unc",
-      "source": "Reddit ML",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-09T16:52:11+00:00"
-    },
-    {
-      "title": "COLM 2026 Decision Discussion [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uqr2ev/colm_2026_decision_discussion_r/",
-      "summary": "COLM 2026 Decision about to come soon so lets talk here. &#32; submitted by &#32; /u/North_Menu718 [link] &#32; [comments]",
-      "source": "Reddit ML",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-08T12:20:24+00:00"
-    },
-    {
-      "title": "DINOv2 way worse than SigLIP in k-NN. Is this expected? [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uqtamz/dinov2_way_worse_than_siglip_in_knn_is_this/",
-      "summary": "Doing a bachelor thesis on fine-grained car classification (telling apart VW Golf generations from listing photos). Simple setup: frozen encoder → embeddings → weighted k-NN. On my small dataset (175 ",
-      "source": "Reddit ML",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-08T13:51:19+00:00"
-    },
-    {
-      "title": "LingBot-Video: sparse-MoE video diffusion transformer (13B total, 1.4B active) post-trained as an action-conditioned world model[R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ur0bxq/lingbotvideo_sparsemoe_video_diffusion/",
-      "summary": "Single-stream diffusion transformer with a DeepSeek-V3-style sparse MoE (128 experts, top-8 routing, 1.4B active of 13B total). Six-reward RL post-training including a physical-plausibility reward, pl",
-      "source": "Reddit ML",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-08T17:58:32+00:00"
     }
   ]
 }

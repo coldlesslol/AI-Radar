@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T10:01:35+08:00",
+  "updated": "2026-07-13T10:11:50+08:00",
   "files": {
     "analysis_inter": "analysis_inter.json",
     "analysis_mckinsey": "analysis_mckinsey.json",
@@ -63,7 +63,7 @@
     "stocks": "stocks.json"
   },
   "stats": {
-    "total_items": 979,
+    "total_items": 978,
     "last_run_status": "ok",
     "errors": [
       {
@@ -225,6 +225,31 @@
         "file": "community_hn",
         "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))",
         "at": "2026-07-07T10:00:35+08:00"
+      },
+      {
+        "file": "rankings_openrouter",
+        "error": "HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/frontend/v1/rankings/models (Caused by NameResolutionError(\"HTTPSConnection(host='openrouter.ai', port=443): Failed to resolve 'openrouter.ai' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-13T10:09:52+08:00"
+      },
+      {
+        "file": "news_techmeme",
+        "error": "HTTPSConnectionPool(host='www.techmeme.com', port=443): Max retries exceeded with url: /feed.xml (Caused by NameResolutionError(\"HTTPSConnection(host='www.techmeme.com', port=443): Failed to resolve 'www.techmeme.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-13T10:09:59+08:00"
+      },
+      {
+        "file": "news_venturebeat",
+        "error": "HTTPSConnectionPool(host='venturebeat.com', port=443): Max retries exceeded with url: /category/ai/feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='venturebeat.com', port=443): Failed to resolve 'venturebeat.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-13T10:10:05+08:00"
+      },
+      {
+        "file": "news_verge_ai",
+        "error": "HTTPSConnectionPool(host='www.theverge.com', port=443): Max retries exceeded with url: /rss/ai-artificial-intelligence/index.xml (Caused by NameResolutionError(\"HTTPSConnection(host='www.theverge.com', port=443): Failed to resolve 'www.theverge.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-13T10:10:11+08:00"
+      },
+      {
+        "file": "news_ars",
+        "error": "HTTPSConnectionPool(host='arstechnica.com', port=443): Max retries exceeded with url: /ai/feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='arstechnica.com', port=443): Failed to resolve 'arstechnica.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-13T10:10:17+08:00"
       }
     ],
     "per_file": {
@@ -233,10 +258,10 @@
       "analysis_raschka": 1,
       "analysis_tisi": 0,
       "archive": 400,
-      "community_hn": 19,
+      "community_hn": 20,
       "community_reddit": 15,
       "company_alphabet": 6,
-      "company_amazon": 4,
+      "company_amazon": 6,
       "company_amd": 0,
       "company_arm": 6,
       "company_broadcom": 6,
@@ -250,20 +275,20 @@
       "company_oracle": 6,
       "company_runway": 3,
       "company_spacex": 6,
-      "company_tesla": 4,
+      "company_tesla": 2,
       "company_中际旭创": 6,
       "company_商汤": 3,
       "company_字节豆包": 6,
-      "company_寒武纪": 6,
-      "company_拓维信息": 2,
-      "company_智谱ai": 5,
+      "company_寒武纪": 5,
+      "company_拓维信息": 1,
+      "company_智谱ai": 4,
       "company_月之暗面": 6,
       "company_百度ai": 0,
       "company_腾讯": 6,
       "company_阿里巴巴": 4,
-      "digest": 118,
+      "digest": 117,
       "filings": 26,
-      "github_trending": 8,
+      "github_trending": 10,
       "huggingface_trending": 15,
       "media_新智元": 6,
       "media_机器之心": 6,
