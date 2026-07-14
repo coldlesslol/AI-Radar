@@ -1,6 +1,187 @@
 {
   "source": "arXiv AI",
   "layer": "research",
-  "updated": "2026-07-13T10:10:51+08:00",
-  "items": []
+  "updated": "2026-07-14T10:05:04+08:00",
+  "items": [
+    {
+      "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+      "url": "https://arxiv.org/abs/2607.08773",
+      "summary": "arXiv:2607.08773v1 Announce Type: new Abstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. In particular, we show t",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+      "url": "https://arxiv.org/abs/2607.08774",
+      "summary": "arXiv:2607.08774v1 Announce Type: new Abstract: Reliability in large language model (LLM) systems is typically framed as a function of model capability. We challenge this by demonstrating that reliabi",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+      "url": "https://arxiv.org/abs/2607.08894",
+      "summary": "arXiv:2607.08894v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language Agent Tree Search) and Re",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+      "url": "https://arxiv.org/abs/2607.08964",
+      "summary": "arXiv:2607.08964v1 Announce Type: new Abstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple prob",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
+      "url": "https://arxiv.org/abs/2607.08986",
+      "summary": "arXiv:2607.08986v1 Announce Type: new Abstract: We formalize a research result in the Lean 4 proof assistant by having a mathematician direct an AI system, and frame the activity as a formalization ga",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
+      "url": "https://arxiv.org/abs/2607.09059",
+      "summary": "arXiv:2607.09059v1 Announce Type: new Abstract: We present ARCANA, a collaborative multi agent framework for solving ARC AGI 2 tasks under strict test time and hardware constraints. ARCANA decomposes ",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+      "url": "https://arxiv.org/abs/2607.09076",
+      "summary": "arXiv:2607.09076v1 Announce Type: new Abstract: Cyberattacks on operational technology are increasingly causing costly downtime and physical damage, exposing the limitations of traditional rule-based ",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
+      "url": "https://arxiv.org/abs/2607.09099",
+      "summary": "arXiv:2607.09099v1 Announce Type: new Abstract: While multi-agent debate (MAD) frameworks have shown significant potential in general reasoning, their effectiveness in highly structured, knowledge-hea",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
+      "url": "https://arxiv.org/abs/2607.09142",
+      "summary": "arXiv:2607.09142v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in online medical consultation, yet existing benchmarks remain poorly aligned with real clinical ",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
+      "url": "https://arxiv.org/abs/2607.09153",
+      "summary": "arXiv:2607.09153v1 Announce Type: new Abstract: Process Reward Models (PRMs) have been proven to be highly effective in guiding test-time scaling (TTS) methods, which significantly boost the capabilit",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift",
+      "url": "https://arxiv.org/abs/2607.09175",
+      "summary": "arXiv:2607.09175v1 Announce Type: new Abstract: Deployed LLM agents rely on agentic context, the model-external textual control content assembled by an operational harness. In this work, the mutable c",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.09195",
+      "summary": "arXiv:2607.09195v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly expected to play a central role in AI-driven scientific discovery. Equipped with broad knowledge, fle",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "OpenProver: Agentic and Interactive Theorem Proving with Lean 4",
+      "url": "https://arxiv.org/abs/2607.09217",
+      "summary": "arXiv:2607.09217v1 Announce Type: new Abstract: In this system paper, we present OpenProver, an open-source system for LLM-driven automated theorem proving (ATP) with integrated Lean 4 formal verifica",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making",
+      "url": "https://arxiv.org/abs/2607.09322",
+      "summary": "arXiv:2607.09322v1 Announce Type: new Abstract: In this work, we introduce LongMedBench, a real-world EHR-based benchmark for long-horizon clinical decision-making. Prior evaluations of LLM-based medi",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks",
+      "url": "https://arxiv.org/abs/2607.09330",
+      "summary": "arXiv:2607.09330v1 Announce Type: new Abstract: Embodied agent teams powered by heterogeneous large language models (LLMs) are being widely deployed in physical artificial intelligence such as smart f",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review",
+      "url": "https://arxiv.org/abs/2607.09403",
+      "summary": "arXiv:2607.09403v1 Announce Type: new Abstract: Worldbuilding, the construction of coherent fictional worlds, is a foundational task in game design and literary creation. Large Language Models (LLMs) ",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "How Does Bayesian Causal Discovery Fail? Characterising Structural Consequences in Linear Gaussian Networks under Latent Confounding",
+      "url": "https://arxiv.org/abs/2607.09449",
+      "summary": "arXiv:2607.09449v1 Announce Type: new Abstract: Bayesian causal discovery is widely used for its ability to quantify epistemic uncertainty over directed acyclic graphs (DAGs) through posterior inferen",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "ProofCouncil: An LLM Agent for Solving Open Mathematical Problems",
+      "url": "https://arxiv.org/abs/2607.09474",
+      "summary": "arXiv:2607.09474v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in solving open problems in mathematics. However, their performance can be further improved t",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "Ceci n'est pas une pipe: AI systems as semantic abstractions",
+      "url": "https://arxiv.org/abs/2607.09489",
+      "summary": "arXiv:2607.09489v1 Announce Type: new Abstract: An AI system's output is not the fact or world state it appears to describe, but rather an engineered representation. We propose a semantic framework to",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "title": "Multimodal Reward Hacking in Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.09492",
+      "summary": "arXiv:2607.09492v1 Announce Type: new Abstract: Reinforcement learning (RL) is increasingly used to align multimodal large language models (MLLMs), but higher rewards do not always imply better task p",
+      "source": "arXiv AI",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-13T04:00:00+00:00"
+    }
+  ]
 }

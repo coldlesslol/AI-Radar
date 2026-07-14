@@ -1,6 +1,877 @@
 {
-  "updated": "2026-07-13T02:11:50.658534+00:00",
+  "updated": "2026-07-14T02:06:09.268131+00:00",
   "items": [
+    {
+      "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg - Spaceflight Now",
+      "summary_cn": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg Spaceflight Now",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUENGOGpjOWZlU1VCQVhWVE1kemtXSFBpWWRDV2UzcU1WOVJjWWNBbGw2azNydEdKMncxWFZFbDFYUXhqZ0o5VVB1SWZTWV9DQjZyamtINnM4dFpQajFGNzNpMDFZdWdXRlpsN29QX2E3YXJCNlc1RUVKRGFGSHNEU1gwUUREc2dRTW5BUG5iS0JrYVFnTjUxTEh2TENsb2lzTmNWU2pUb3gwMXBINi1hNXNIZ1VWeTAwLUF5THNxM3NWS2theUZEVA?oc=5",
+      "sources": [
+        "SpaceX"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "published_at": "2026-07-14T00:51:42+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "SoftBank, Yaskawa Demonstrate Physical AI Development Using AI Data Center GPU Cloud - The Fast Mode",
+      "summary_cn": "SoftBank, Yaskawa Demonstrate Physical AI Development Using AI Data Center GPU Cloud The Fast Mode",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWpXQ2NkTy1GN2RmbEFQMnlibUpiMHJnWnVQQmNHZjBEUkl5SGNubnhyNVR1RWJOZC1oblY4S2k2czJmVnNDWkQxeHJrZVJfY2ZyYjRmWi1qSkxhR3VPLU9obE5DWGxONGVZbUJmQ201XzB4d0NfelNfSWlNX0U3dS1OVENtMUgxanhyUkNDNkFHLTZZdV9ZTUhSbHNhN05qU0RQNlVYX096aWJ6Z0FKcTJjRV9OdzhNckxyZmdKbjZFRDJ6MWcycGcwM3g5V1JvRTNxdw?oc=5",
+      "sources": [
+        "NVIDIA"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "算力供应链",
+      "published_at": "2026-07-14T00:13:26+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "全球首创！AI看一眼视频就能“读出”双手，三个世界第一 - thepaper.cn",
+      "summary_cn": "全球首创！AI看一眼视频就能“读出”双手，三个世界第一 thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96TnJVMGJVZXdiNUMyN1k4YjVuWXJ5ejVMa3ljYTJHOUtIeGRpVjNweFZsTFFneXREZHRHdmROU181UHFiZ3c0VWE0bXcxLVh5dzg2ZzNMRHd3c3JDTF9rUQ?oc=5",
+      "sources": [
+        "新智元"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "published_at": "2026-07-13T23:47:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Copilot Could Soon Answer Questions About Your PC's Hardware, Health - PCMag",
+      "summary_cn": "Copilot Could Soon Answer Questions About Your PC's Hardware, Health PCMag",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTEJXMWxSZ2loTU1KMEV2eWJodk52cUpUdmp2YTdwTHlGNUFVQ0l4M3ZaWnJYZGczTlphWmxiQzllN3ZLNHRheWctcnE0cHNFb1hzS2RHRGlVc0Q1U1p4QUw0MFNBRU5NaTVlWEh5NExWNFplWHhSZ3F3SllySHlRV1ROTUR0NTFTMlpvLUFaWTF0Yml0UWY4ZQ?oc=5",
+      "sources": [
+        "Microsoft"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "published_at": "2026-07-13T21:30:16+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Oracle hikes debt to chase AI cloud, spooking markets and S&P - CHOSUNBIZ - Chosunbiz",
+      "summary_cn": "Oracle hikes debt to chase AI cloud, spooking markets and S&P - CHOSUNBIZ Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MSHIzV0xGVndva25KVXBoX3FCYlVudS0xX1YwRVlTV2xhMWt4RzQxZng1SHJWS3hFVS1VX3BYNmwwNmdlVVdndUd3VkV4VlZ4aFUyRjI4NldYRXNPZUh1UEQ3Tnp1XzhjalRVTHNaR1VCdjB6dzBQYzlB0gGOAUFVX3lxTE1UdXRNSGNCWWVpM3J1VTlwMElXM2hERkpOWS1neHQxeWRGSXpsYlFSb080U1RpWEpmY3JPdjk5TThMdkVZVjM5dEFBTGQwSnhRMndBWk1xeFBlZlVkajZjc3NoellfQTA3dHRFR2MzVEREV252c1o1UFN1Yk9yanBkYkZlVXNNMlFieG4yQ1E?oc=5",
+      "sources": [
+        "Oracle"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T21:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Oracle Fusion Cloud SCM 26C: Practical Innovation Across the Supply Chain - Oracle Blogs",
+      "summary_cn": "Oracle Fusion Cloud SCM 26C: Practical Innovation Across the Supply Chain Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcnlFa0tSdHE1RUVuWlJmcU5XdXE1bjNtT2hzamFKdjNwbUl6c0pXc1JCXzRZREt0d3lCWThxWlRyVVZzLTFjTXYwcTBiOG1fS0pBZ3AwLXZtZjBVdUJ5T0NlYVRpY1BsRnNfUVlmMzZsTjJ5cVl6M1V6bTdzUzB1NDdBMktuNklvVmt3aTA2TVZVVFh2ZkxyZGpCazlhdGhBV3Rr?oc=5",
+      "sources": [
+        "Oracle"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T19:41:54+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "商汤开源视觉大模型 - 手机网易网",
+      "summary_cn": "商汤开源视觉大模型 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWRmhfWVpVRVBKQjFiZi1wQWRxMmpVRG91OV9BTzhsc2E2QkdHUVRkQlBHenpzLTZIbmlMZF93alpZM1BoSnI1V1pHMVJtQjd1UVlkMkRLUDNQRjhuc3Z2TGdB?oc=5",
+      "sources": [
+        "商汤"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "模型发布",
+      "published_at": "2026-07-13T19:34:34+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Oracle Is Now Down 28% in a Month. Will the 52-Week Low of $132 Hold or Fold? - 24/7 Wall St.",
+      "summary_cn": "Oracle Is Now Down 28% in a Month. Will the 52-Week Low of $132 Hold or Fold? 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTThKYjBLaHdUNDc1V0NycmllMXZoNDdadWFwTzB0TEhDZEVrN0lmakpUblNUTnBicjBxTjBHczBtWC1QTGtjQ3JnWGh2UjdYVjFmTzF4bklOcmV3NzJKRy14bG1HMVRxQVRBbW9XdE9ib053MllxVVdSdHdlTUZSRUZQbWpwNlE5MHh0N19LSkUybzdXWlJkOTZfZGsxNG1XMGxjYjhKZlppbmFJQjBVVkFSQ0V0THFw?oc=5",
+      "sources": [
+        "Oracle"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T18:31:14+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Building an agentic AI solution at Bluesight with Amazon Bedrock - Amazon Web Services (AWS)",
+      "summary_cn": "Building an agentic AI solution at Bluesight with Amazon Bedrock Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYi1BVHd0Z0lVNkxMeDFTaWMycldub1dlc05VMWhjM3AzandNR3poZkVJeTdCXzVjLUdXR2kwdHE1ckV4NVlIeWpoLUlBS3dFNG1KQ3RydDd5MVhCbzM0UW1DRDd6WVVuQUduVUVQRGxKeUtsdDd1QWlBX3hoZ0xBZlNqWFhPeGdfdUtRVS1UM241RUpzTFdTMWFCZUxHdElUR2FBbERiYW1sZ2VZRUdtZQ?oc=5",
+      "sources": [
+        "Amazon"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "AI Agent",
+      "published_at": "2026-07-13T17:34:38+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Windows questions? How Copilot can analyze your PC settings now - ZDNET",
+      "summary_cn": "Windows questions? How Copilot can analyze your PC settings now ZDNET",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XRHlIanJZd0FwcjRQc3NNZDZiSkZWNXRXZHJGN3AxOGxHUXFUSDNSd3U4YVotYkVobm9vVGY3aTdkRDNJeFFpR25WQWdhQmJ2azJWZ01XVDhCSUdENkx0TV8tYm5reEsxdzc3aVQyVlo0UQ?oc=5",
+      "sources": [
+        "Microsoft"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "published_at": "2026-07-13T17:21:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "DDN and Nebul Validate KV Cache Acceleration for NVIDIA-Based AI Factories - StorageReview.com",
+      "summary_cn": "DDN and Nebul Validate KV Cache Acceleration for NVIDIA-Based AI Factories StorageReview.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOejBXYmhmWEtoQUxaYmtWQm82TzRwSnZ1SkpzVVlEV2xwT1hOZDVwMHNSUE9GdzNzX1AwVDFzdnVKSmUzclpxUVRwbTRzdHl0ZXBLM2tRLWc0dElra0hCY3phZE4yUGY2U2tCQTZIaTc5VEE3eXRLUTZiMUVXZVhHV2V6SkVSVk1PdVBiYllMLXNtWlZtaC16dFJFZ29vaVBCNGdUV2R4TkpKdFhhTHfSAbMBQVVfeXFMTTNyeGJxSlIzRDdGZkprWHRNTHdRMVdEaFFCaERXbWdKSllUUEE2Z2ZnXzJXdy05UjFROXRXdDF4REZYVTFYeW0xRzFiSlRCSEVGSk1WUGxMaEZhczBFQ015QXZaVDczeG5EbXpFdFhmMFk4dUJmTmRMLU1QUDljYVlsWlFpZzlULXZCMERKMU5FVndkMnlZYzNLRTg0NHZzanBKVWU5VmZfVGg3czRjTXFmQmc?oc=5",
+      "sources": [
+        "NVIDIA"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "算力供应链",
+      "published_at": "2026-07-13T17:01:10+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Meta AI Pricing Strategy vs OpenAI - Blockchain Council",
+      "summary_cn": "Meta AI Pricing Strategy vs OpenAI Blockchain Council",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQVB3bExMWUtOOHowOEt3VHlyT1dIb0NrSjRON1FFcHRPVWNEUjdDaHRoMEJHOFdrNFdzdFctNlhWQ2NmdWpxeThmYUJxUGdaY1lFenJFbHZJNmQ4cmFZYjIyUVZiUG5ZRk1KVjc1TEVmRFdwS1ZpWFFLeDVYZXJ5YWk1Q2Z0ZzltWVpTdVZPVFlKRWc?oc=5",
+      "sources": [
+        "Meta"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "行业动态",
+      "published_at": "2026-07-13T16:56:08+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "有AI功能的手机推荐哪款？努比亚豆包AI手机深度评测+FAQ - 新浪网",
+      "summary_cn": "有AI功能的手机推荐哪款？努比亚豆包AI手机深度评测+FAQ 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUF9udUpBV2lQa3h0dXp0eHZ2eEtNWFVnSnpNTHlRQjNGbGRzNjYya3pHTDBUUUlqSDQzYm5MQkswblRHc052RlVVdXVaMTVnM1NuMHA2TXlpNHNOT1NGVWJxVXdwLW9NZnJRcG9melppQ0hBWDZJR0hWRm9PZ2FmLQ?oc=5",
+      "sources": [
+        "字节豆包"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "published_at": "2026-07-13T16:48:55+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "AI爆改陶哲轩30年主页，顺手揪出两个藏了20多年的bug - 搜狐网",
+      "summary_cn": "AI爆改陶哲轩30年主页，顺手揪出两个藏了20多年的bug 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdmZZajd1MmdXRF9hN3g0LVFQdldnNG5GallSdmxoZkdWOXpmTktLUEhwTjNFVEZ4X0xKTXAxUkYtcmJjRk5NeEZzM3JGbG1lZC13Wm55WXA3aDZTOTg2TDUxOFAwX3Axdy0zSHlUX0VUN0Y1enpSUFlQN25Yc0thV0ZWZC1GNGs4TDEySA?oc=5",
+      "sources": [
+        "新智元"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T15:52:48+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "SpaceX Stock: Bernstein Cuts AT&T, Verizon, T-Mobile Price Targets Amid Starlink Threat - Investor's Business Daily",
+      "summary_cn": "SpaceX Stock: Bernstein Cuts AT&T, Verizon, T-Mobile Price Targets Amid Starlink Threat Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbG1yMjcyR2hYZTNURjJxcExFSmZtdmxDLXJremtyYldoME13NE4zVlpwUFJ4bkFzQ3NGajZ3ODlrcG9hbDUzdWdOc1huSG41ckwxTnFOdEFjVlhRMmVJUTIxOUhRZDYtM2ZyWlF6a0xOS2RnQXBKLVBZaFUzWnB1YlppbHJTVGZOUHJOOUpLdVpDcDJza1prWDdCMHFQb3JHRGNnX3BrcE5sY1ZJOW9nSE82Y2huOGp4YXIxWER5a1I4dFFtSkZz?oc=5",
+      "sources": [
+        "SpaceX"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T14:54:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "SpaceX to Briefly Test V3 Starlink Satellites on Next Starship Flight - PCMag",
+      "summary_cn": "SpaceX to Briefly Test V3 Starlink Satellites on Next Starship Flight PCMag",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZnBhMDRySmZlN2pLWkpBYlJrMnpMbkdzQ2JiaDdLUkdhMUpfRy1kcjdGZ2U5SmVYQzRVZGRpeVpaVnBqZmg2QWV5dFF6UnhfTGZsdlBCZGtGVDJ5SjZvb213X2s4aFFRMHVzeXdtaF8zbFplTE1WZk9EbHlqVHZ0U080TVZldENsNGNFdWhyRzBPeWlyYlQxZGNjdVc?oc=5",
+      "sources": [
+        "SpaceX"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T14:41:02+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "NTT Docomo Starlink Direct soars past 5M subscribers - Light Reading",
+      "summary_cn": "NTT Docomo Starlink Direct soars past 5M subscribers Light Reading",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQkRqRHBCTW54S1FQbDNBNmJuc2J2Z3lxRElBaUlxWlRwUFdaa21ZRzdNME1NQm1razFzclkwSmxib1BPR0ZnS3JFNWlZODA4dFdYN2JWWjFVNDN3LTZIa0VtaXZmSmdzNFBkdnVXWEhzRjNiWDc5VklJeGpCYlJLWDBPai11eExQMUJlY01Pb2RUUU54WXc?oc=5",
+      "sources": [
+        "SpaceX"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T14:20:52+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Waze adds new AI-powered features and customization updates - TechCrunch",
+      "summary_cn": "Waze adds new AI-powered features and customization updates TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZzVWOW9zWVBnbWtueDhULU9UY19pdVZOVVhUWkQxMmtIaFQ2MUsxMVhWd1Z3V3VrUGZaUjJwaG4yQnU1VDRmaFhrLXVydlJvZjM2eFRIeFlUUE5HX0F2TjBMRW80UzRleGdCYVFPN1lvR2s1bkN0ZzRCVTQtZmVXZHZreVhYSTlJcE5oR1ctRXp6cWFBNGw5OFRn?oc=5",
+      "sources": [
+        "Alphabet"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "published_at": "2026-07-13T14:18:16+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Experts warn AI gateways connected to Amazon Bedrock are being hijacked to steal crypto - TechRadar",
+      "summary_cn": "Experts warn AI gateways connected to Amazon Bedrock are being hijacked to steal crypto TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUFkwejV1TmRTQUdscENYZllqWlNjbk50MElNMHZxNXF3V1poSWNCQ0MzTnBWdDkxU0lHRTlKajQzeGRCQmZpYmVkN1VvRVM5ZENkaVhOVDZLZm5KalZKOGxRQ0x0aDZBUUdXUkxJNzBycDIteVhRYjFrLXNOUGdiR2xOZ2xBSXM2VUo1ZG5nQ1hXWWZOb2VFVUtoSUNHZUtleV9iOVM1WEtwQjJJRXEzRnlTNndMclotbTBITno3Qk1sU2lwNkxaUWVJN19aX01TS1pVZHl6SUNDdUFjdkFkdU93Q2c3NmNJZF9EUVJ3V2F2UTIxUVZVOE84SHI5d014b2Y5ejg4cm1WaWVxeXJfZXpIaHc5aC1mYm1pV042WmRqYWRGR1BZaHFOUjZsUQ?oc=5",
+      "sources": [
+        "Amazon"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T14:15:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed - Tech Times",
+      "summary_cn": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUWlWdnRnVnA0OWZYUVp5SFFUNERtbVg4OGY4MTc3ZXNVTEJKMjhDNlpxMzFoNTZEd2dTUnVrR01ucjRYbWVqd1g2aGh4V09LTENqQktIczFiR0FCbm11MUhVMmQxbnhNNHJ0TVk1SVJ5XzJzUk9kREtxTHN4cGp0RHJDVzBjay1iWEhvcWZZNDE2SEtfcE9VU3JhaDF1S1E4dXZiNTZIdFBDRTBHUTJYTHlwbXF2RG90MHJINzlUNnYxZzJkYVFDYk9mME9JenM?oc=5",
+      "sources": [
+        "Alphabet"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "模型发布",
+      "published_at": "2026-07-13T14:14:31+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "GoEnhance AI Releases New Analysis of Grok Imagine, Veo, Runway, and Kling Video Workflows - EIN News",
+      "summary_cn": "GoEnhance AI Releases New Analysis of Grok Imagine, Veo, Runway, and Kling Video Workflows EIN News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY2doOVlNb3gwdlBFZXVPSVR3LVBuNy00cm9MQWJsMnNVa2RnNkEwcUQyWDdkZGNJQ29tRThLdjRtMUZxa1dEM3BkaFBYcUtZR1RXZDF2TWZqVFNWc3h2dC12Vy1rVlpKRjBoSHlMOF80WnVRZW91V2N6bUIycVZ6T1V0VVg5dm93WmtldDZDazR5Z19NRmIyaTRXd2xZZzB4V2xlc2psWkhjendPOTRfMlEtdEw5aFYxbnBFRFp2OXpwa05LQmluNWV4bWxtRWvSAc8BQVVfeXFMTmNnaDlZTW94MHZQRWV1T0lUdy1QbjctNHJvTEFibDJzVWtkZzZBMHFEMlg3ZGRjSUNvbUU4S3Y0bTFGcWtXRDNwZGhQWHFLWUdUV2Qxdk1malRTVnN4dnQtdlcta1ZaSkYwaEh5TDhfNFp1UWVvdVdjem1CMnFWek9VdFVYOXZvd1prZXQ2Q2s0eWdfTUZiMmk0V3dsWWcweFdsZXNqbFpIY3p3Tzk0XzJRLXRMOWhWMW5wRURadjl6cGtOS0JpbjVleG1sbUVr?oc=5",
+      "sources": [
+        "Runway"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "AI Agent",
+      "published_at": "2026-07-13T14:06:40+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "当一个年轻人空降：改造腾讯混元的 300 天 - 网易新闻客户端",
+      "summary_cn": "当一个年轻人空降：改造腾讯混元的 300 天 网易新闻客户端",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPOFZlVmhrOXl2aGNTTW1nLXBVQk5WY180dU96SFV1cmNvSnRSWkNHcDQxWE5VQjFOUzVvazJycHlTZ1FYX1ZaQUNKZ0hHZmtpWVlHRG1qMEQ1SDVa?oc=5",
+      "sources": [
+        "腾讯"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T14:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "I taught ChatGPT and Gemini one thing Claude does by default, and the responses are better than ever - MakeUseOf",
+      "summary_cn": "I taught ChatGPT and Gemini one thing Claude does by default, and the responses are better than ever MakeUseOf",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNXYxWF8tSUhlaS1FdWxfMTVFTjFHaE5ldkVuNmh0UmN3dkh5bElzRjBHbFpHVWo1MW0tTk5JZGZXZ29rZElhUVlIanVVUVhVOXp6Y0U3OTlJQ3ppdTlJUEtBd0hndjNic0trdGVicElteE1vQWNGeUpnSmtRcXU4TS1tZUtEeG05cTJydWtzWWl1Wnk3eElHb2lTOFZmT1k?oc=5",
+      "sources": [
+        "Alphabet"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.63,
+      "category": "模型发布",
+      "published_at": "2026-07-13T13:31:16+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Nvidia, Broadcom, AMD Lead AI Chip Stock Selloff After SK Hynix Slump - Yahoo Finance",
+      "summary_cn": "Nvidia, Broadcom, AMD Lead AI Chip Stock Selloff After SK Hynix Slump Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbFM0VDZXTHpwT2VpN3dRdzgxc0x4clVjb1gxXzVtcUNUaDdNc0pLOXYwU2kwb2xkeHlCYkluOTE2OGVvTXZWemNaU2txWkl5ZW1zMklYOVNDdXJidjNjN2E5NWphTlBYWm5Na1FwbEtyMVM5YlNDTC1fYUNaLTM3a0VCUng3cktTMHA1WHFUOHBGWHhLa1E?oc=5",
+      "sources": [
+        "Broadcom"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "算力供应链",
+      "published_at": "2026-07-13T13:06:43+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Oracle Targets Faster Patching as AI Threats Intensify | Cloud Wars Live - Cloud Wars",
+      "summary_cn": "Oracle Targets Faster Patching as AI Threats Intensify | Cloud Wars Live Cloud Wars",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXZuTXgxX2x1TDI4WEJRV1ByWTVZQVVVWUVoWjZFQmMwVFBOaFYteG1SR2ZFVHNFYkRuSjBkbUdzY1E1bW1YWmdxV3F1LUFTLXhtcmVtODFLS05UTFhydW9rSG9jUFhkVzFCd2E2MUt5X0FHNUdvVXk5VURjZTNVTTJrRWVpUjF2Z2VTX1JoMW9aZjY4SmtBeWNya0k?oc=5",
+      "sources": [
+        "Oracle"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T13:01:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Seed吃肉，Flow喝汤，当字节不再“All in”一个AI - 光通信Pro",
+      "summary_cn": "Seed吃肉，Flow喝汤，当字节不再“All in”一个AI 光通信Pro",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55MlFUQ0FpYXRNT1otWWtxYTRvRzU3b0FzQU5VT0VQTE9ReERwMTZkMUxKN3ByUlczSHNZRWs5akR4djkxcWhkd3Jnd0hBSUxHajg2NWR3?oc=5",
+      "sources": [
+        "字节豆包"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T12:59:42+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Broadcom and Marvell Are Bigger Threats to Nvidia Than You Know - 24/7 Wall St.",
+      "summary_cn": "Broadcom and Marvell Are Bigger Threats to Nvidia Than You Know 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQXZDajItV1R2RkpySkltcVNzbWpCeFFaR0NLLXNpSFNkYk5uT1F4Y1ZrYzFfbVBKS3JOck41b3o2bzVjZ2NVN0R5UWtvRFl4Z2ZOdFpDakYtZEgtc1JJbVgtV3ZieWVXOS1kLW9YcTJLa2dXYmtyVlFXQlRPWFpQcVNpVEJycTFkbWZteDNRSzdwb05jN3BsTG83LVJhMjV5c2E5NmRmMnB5YXc?oc=5",
+      "sources": [
+        "Broadcom"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "算力供应链",
+      "published_at": "2026-07-13T12:43:51+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight - The Motley Fool",
+      "summary_cn": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcTFhRGF6MDE0dHFHQ1R0RzE0dTNqZloxOUR4aVZSUmREYW1HaGRubUJ3cFJTam9xQ0RsSXBienhGaVZaQzA3WDJXd3NULVRhUGpvZzJXcnBwY1drNjNqcFAwaWRhS3B2cUdldGR4aE94SjFBdkExYUJTQWFjWHBvVEJCZ2tNbHdGclEtNGl6MmpSN3ZXMmZMMQ?oc=5",
+      "sources": [
+        "Broadcom"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "算力供应链",
+      "published_at": "2026-07-13T12:06:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight - AOL.com",
+      "summary_cn": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd0tXM1RuSGZNSVg0enQ5R3JPdmEyTGNYOTNIaERNSTB0UWc1bEw5QmdJdk9ZVlpmV3VVa25Ub0ZUZFZHVl9QWlJvTldITGtvaGRGTGJ6enpyZEZIeU03NC1pdEtlRzNiQXlIWlcxTnR0Y0ZhcS1qaWdjMS1ZWjMyQVlR?oc=5",
+      "sources": [
+        "NVIDIA"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "算力供应链",
+      "published_at": "2026-07-13T11:35:56+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight - Yahoo Finance",
+      "summary_cn": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFNKZFpKOW1YMENScXJlbjJHbmZSS2xNZzdUZnNfVlFoYlN2TlBKempoejlYRnhURmZwcWVZbjFNWjc3NHZoMlVtV3NFaXZvM1hneU5aTEVJV2dob1pnSXhwWnBJbk5lNERaLUhRZnA1aXVzdnZnc1EzanFIdEFqZV9mVGNVU0YxcG1lZVdHRjlZQnNrUkstaDZ4VUE?oc=5",
+      "sources": [
+        "NVIDIA"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "算力供应链",
+      "published_at": "2026-07-13T11:26:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "中际旭创383亿成交！机构连夜辟谣“小作文”，1.23万亿巨头绝地反击，这是黄金坑还是下跌中继？ - 中金在线",
+      "summary_cn": "中际旭创383亿成交！机构连夜辟谣“小作文”，1.23万亿巨头绝地反击，这是黄金坑还是下跌中继？ 中金在线",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iYlN5WkpGWmJwVWlZbWwyUjdjVVVKQXlxajBURUdDQ0xXdFFsUVFONmt4OHBHN0VGTFRNOWhzSzZmQlFobmpaNW1uM1J0Mkdhc1oyb1psTFFmckJaZF9OS1FQU3l2MUFUMUhjMXdB?oc=5",
+      "sources": [
+        "中际旭创"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T10:58:11+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "板块巨震，公募仍积极“光里”调研，有企业一周被调研83次 - 财联社",
+      "summary_cn": "板块巨震，公募仍积极“光里”调研，有企业一周被调研83次 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HcFB0UjJJUlAwNmdzbklvZGRrMUt5dzRHeURuYzdKTlE3ci0wc3l1RTRBSmVjaGxCMWtnWUdncXFLRWNmajJFag?oc=5",
+      "sources": [
+        "中际旭创"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T10:30:53+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "字节跳动否认进军自动驾驶：在物理AI领域有探索，但没有智能驾驶业务计划 - thepaper.cn",
+      "summary_cn": "字节跳动否认进军自动驾驶：在物理AI领域有探索，但没有智能驾驶业务计划 thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Cb1BwRGgydWFLN2NrdmpVQWdXaVZzV3BTTmVoLXpvNVVicTBHRkJBeFYxMHNvZGhWRi1Fb0pNQmJ2LVNSXzhGRDdSR0djRzdqY1prV2dBTGdvak9sS2NybA?oc=5",
+      "sources": [
+        "字节豆包"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "published_at": "2026-07-13T10:21:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Waze is getting a bunch of new AI-powered features - The Verge",
+      "summary_cn": "Waze is getting a bunch of new AI-powered features The Verge",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa1E2ZWU4cWRpNGZoTEplV0g0eDhjbFpPa21fOTF0SHp5THlkVEdIemNPM05jdXU5QjRhUkV2R2NWdk5PamV4bWIzUjQyYTQ1eFpQc1cwUUxBYXc0cWVyNWJNbkdCUm9paE1SM3NvR1dYc20xb2VFazVadzIxLWkzNTdhQ0kwcXJ6RGo5TWs0c2xCdw?oc=5",
+      "sources": [
+        "Alphabet"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "published_at": "2026-07-13T09:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "收盘简评｜满盘杀跌，冰火两重天全天行情惨淡，涨跌停比例32:176，大盘近2000亿资金出逃，前期爆炒的科技赛道集体大幅回调，盛宴落幕抛压集中释放。分化行情凸显龙头韧性：光模块龙头中际旭创、AI芯片龙头寒武纪逆势抗跌，核心主线龙头抗风险优势尽显。避险 - 新浪网",
+      "summary_cn": "收盘简评｜满盘杀跌，冰火两重天全天行情惨淡，涨跌停比例32:176，大盘近2000亿资金出逃，前期爆炒的科技赛道集体大幅回调，盛宴落幕抛压集中释放。分化行情凸显龙头韧性：光模块龙头中际旭创、AI芯片龙头寒武纪逆势抗跌，核心主线龙头抗风险优势尽显。避险 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wcVVRQkV0cVNZSkNyc3RKcGw4T3BQT3Q2d25PcXRsd3h5b3ZLX3VfaFBubWZKWFZFZUpoVWlkM2FrWFotM29yWHQ4UE1MMkpKYXo4SzhENnJ3Wnhwa28xRmJRRQ?oc=5",
+      "sources": [
+        "寒武纪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "算力供应链",
+      "published_at": "2026-07-13T08:44:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "超越 Vision Banana 商汤开源 SenseNova-Vision：视觉任务大统一 经典视觉并入大模型 - 驱动之家",
+      "summary_cn": "超越 Vision Banana 商汤开源 SenseNova-Vision：视觉任务大统一 经典视觉并入大模型 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xVFRacjV6QWlTcktlY1U4MTZWTUc1alVFRldsMWxCNmI3QkxndXBLRGRhYW5STlNhSmlvSUZYeDQzRXVTaThxc0s0QW81MGlVS2xZZXpKX3k?oc=5",
+      "sources": [
+        "商汤"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "模型发布",
+      "published_at": "2026-07-13T08:16:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "百鸟哀鸣收评|中际旭创|寒武纪|达仁堂|片仔癀|存储芯片|券商etf|创新药etf_新浪新闻 - 新浪网",
+      "summary_cn": "百鸟哀鸣收评|中际旭创|寒武纪|达仁堂|片仔癀|存储芯片|券商etf|创新药etf_新浪新闻 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jMEhtR1czajZEcHVNMnVxOUUtaHZQX3dnV0x5VGV2M0tBUVE4YmcyeHptc2hPUnUtbzdLY0VuX2RyWDJuWWFXVVRrTVJmTmEyd1UyaTFDdUxkNXMxZ1VoajZ3MA?oc=5",
+      "sources": [
+        "寒武纪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "算力供应链",
+      "published_at": "2026-07-13T07:55:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "人类刚赢一次，AI一天就反杀！爆火「幽灵字体」被一句话攻破 - 手机网易网",
+      "summary_cn": "人类刚赢一次，AI一天就反杀！爆火「幽灵字体」被一句话攻破 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6Z0hXbkx1ZERGZ3NncHJxdFlZcS01Undadlg1YUNtTjdDSTNPcnp3U3NidVJQeEVLLWNnbVBiSkhUYkhrOElPZHFOYTlIRnRfLWlaZnQ4NEtzb3BTNnRMQVFR?oc=5",
+      "sources": [
+        "新智元"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T07:30:26+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Microsoft Teams: Disable Copilot and Facilitator during a meeting - Notebookcheck",
+      "summary_cn": "Microsoft Teams: Disable Copilot and Facilitator during a meeting Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmcwYWpyc2VKd0R4d1lvcEs3RlBoanlDYlI2N0lPVEVQQ2s4c2NqU3NNMUJuSnlpbGlYaFV3cHhIR204UGNLalhhXzdCY29SUW9zUmswZUNaNnRORldLNDJ3Wk1GZW1lM1RtNzl0Ul9yeXloLTNpYnEtSHQ2a2tKbnBXbGxVbEREMWhOczVITkd2YUVIMXJVWWJiaGlqSl9sTVE0YUtVODgydlVpWmc?oc=5",
+      "sources": [
+        "Microsoft"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "published_at": "2026-07-13T07:27:04+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "商汤开源统一视觉大模型SenseNova-Vision - 品玩",
+      "summary_cn": "商汤开源统一视觉大模型SenseNova-Vision 品玩",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCeU9qRnpCT25iMEs5TGdRQllUb08xakZ4UnpWYlBBbmViQXYwY09VNXpTVzhtRGtJTDFlZDRFRTNOaUw1Z0tVVw?oc=5",
+      "sources": [
+        "商汤"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "模型发布",
+      "published_at": "2026-07-13T06:37:16+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "实锤！Claude Code危害严重被点名 - 智源社区",
+      "summary_cn": "实锤！Claude Code危害严重被点名 智源社区",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsNHlKYXlKWnR1b2NiaWhqbnpJSXVQMVZOaW43NnlYcVh1YW1CYWNsWVFUYi0xTXlKcEQzZ1ZsOUlvY2pWb1NxQw?oc=5",
+      "sources": [
+        "新智元"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "模型发布",
+      "published_at": "2026-07-13T06:30:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务 - article.9466.com",
+      "summary_cn": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务 article.9466.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rVWpVVkhWRkJ3NWFXc05kQzBFZHdVMmJLOEg5YjZTbHJTX0lvZk82QnE1X2I1RFhWZmgtY09JeGhycWlWN0hvV1ZWUlR6TkU?oc=5",
+      "sources": [
+        "商汤"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "模型发布",
+      "published_at": "2026-07-13T06:20:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "宇树科技牵手湖南钢铁，一家物理AI公司浮出水面 - 网易新闻客户端",
+      "summary_cn": "宇树科技牵手湖南钢铁，一家物理AI公司浮出水面 网易新闻客户端",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnWVZibXQ0b0N0TkRndVNLZWRjQW0wRHVxdDVHMjJFUmhRWlZ2bEEzOXk3ck1oVTRWaFktVTJJaGwzd1MwZk10dURVa19zZk5MVm5uemVNbE5vVHBE?oc=5",
+      "sources": [
+        "机器之心"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T05:27:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "中际旭创紧急澄清传言！否认故意压股价，高端光模块需求强劲 - 奥一网",
+      "summary_cn": "中际旭创紧急澄清传言！否认故意压股价，高端光模块需求强劲 奥一网",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GWmpuT1htdXJockRTY0xSWlBic2FTSmg3UVh6TEFHY3B5S1drZF92ZE5OdlQyUW1LUjcwTHpTaWNVQ0l4M244QmZSTDJ2Y3I4VHBxUFZpNVNKY2pLMVhmWEJiNGJEQQ?oc=5",
+      "sources": [
+        "中际旭创"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "算力供应链",
+      "published_at": "2026-07-13T05:13:51+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+      "summary_cn": "arXiv:2607.08964v1 Announce Type: new Abstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely ",
+      "url": "https://arxiv.org/abs/2607.08964",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.63,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
+      "summary_cn": "arXiv:2607.09059v1 Announce Type: new Abstract: We present ARCANA, a collaborative multi agent framework for solving ARC AGI 2 tasks under strict test time and hardware constraints",
+      "url": "https://arxiv.org/abs/2607.09059",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.63,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
+      "summary_cn": "arXiv:2607.09099v1 Announce Type: new Abstract: While multi-agent debate (MAD) frameworks have shown significant potential in general reasoning, their effectiveness in highly struc",
+      "url": "https://arxiv.org/abs/2607.09099",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.63,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making",
+      "summary_cn": "arXiv:2607.09322v1 Announce Type: new Abstract: In this work, we introduce LongMedBench, a real-world EHR-based benchmark for long-horizon clinical decision-making. Prior evaluatio",
+      "url": "https://arxiv.org/abs/2607.09322",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.63,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+      "summary_cn": "arXiv:2607.08894v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language Agent",
+      "url": "https://arxiv.org/abs/2607.08894",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+      "summary_cn": "arXiv:2607.09076v1 Announce Type: new Abstract: Cyberattacks on operational technology are increasingly causing costly downtime and physical damage, exposing the limitations of tra",
+      "url": "https://arxiv.org/abs/2607.09076",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
+      "summary_cn": "arXiv:2607.09142v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in online medical consultation, yet existing benchmarks remain poorly aligned",
+      "url": "https://arxiv.org/abs/2607.09142",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
+      "summary_cn": "arXiv:2607.09153v1 Announce Type: new Abstract: Process Reward Models (PRMs) have been proven to be highly effective in guiding test-time scaling (TTS) methods, which significantly",
+      "url": "https://arxiv.org/abs/2607.09153",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift",
+      "summary_cn": "arXiv:2607.09175v1 Announce Type: new Abstract: Deployed LLM agents rely on agentic context, the model-external textual control content assembled by an operational harness. In this",
+      "url": "https://arxiv.org/abs/2607.09175",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
+      "summary_cn": "arXiv:2607.09195v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly expected to play a central role in AI-driven scientific discovery. Equipped with ",
+      "url": "https://arxiv.org/abs/2607.09195",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "OpenProver: Agentic and Interactive Theorem Proving with Lean 4",
+      "summary_cn": "arXiv:2607.09217v1 Announce Type: new Abstract: In this system paper, we present OpenProver, an open-source system for LLM-driven automated theorem proving (ATP) with integrated Le",
+      "url": "https://arxiv.org/abs/2607.09217",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks",
+      "summary_cn": "arXiv:2607.09330v1 Announce Type: new Abstract: Embodied agent teams powered by heterogeneous large language models (LLMs) are being widely deployed in physical artificial intellig",
+      "url": "https://arxiv.org/abs/2607.09330",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Fictional Worldbuilding: Multi-Agent LLM Collaboration with Hierarchical Context Compression and Iterative Review",
+      "summary_cn": "arXiv:2607.09403v1 Announce Type: new Abstract: Worldbuilding, the construction of coherent fictional worlds, is a foundational task in game design and literary creation. Large Lan",
+      "url": "https://arxiv.org/abs/2607.09403",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "ProofCouncil: An LLM Agent for Solving Open Mathematical Problems",
+      "summary_cn": "arXiv:2607.09474v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in solving open problems in mathematics. However, their performance can b",
+      "url": "https://arxiv.org/abs/2607.09474",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+      "summary_cn": "arXiv:2607.08773v1 Announce Type: new Abstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. In p",
+      "url": "https://arxiv.org/abs/2607.08773",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+      "summary_cn": "arXiv:2607.08774v1 Announce Type: new Abstract: Reliability in large language model (LLM) systems is typically framed as a function of model capability. We challenge this by demons",
+      "url": "https://arxiv.org/abs/2607.08774",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
+      "summary_cn": "arXiv:2607.08986v1 Announce Type: new Abstract: We formalize a research result in the Lean 4 proof assistant by having a mathematician direct an AI system, and frame the activity a",
+      "url": "https://arxiv.org/abs/2607.08986",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "How Does Bayesian Causal Discovery Fail? Characterising Structural Consequences in Linear Gaussian Networks under Latent Confounding",
+      "summary_cn": "arXiv:2607.09449v1 Announce Type: new Abstract: Bayesian causal discovery is widely used for its ability to quantify epistemic uncertainty over directed acyclic graphs (DAGs) throu",
+      "url": "https://arxiv.org/abs/2607.09449",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Ceci n'est pas une pipe: AI systems as semantic abstractions",
+      "summary_cn": "arXiv:2607.09489v1 Announce Type: new Abstract: An AI system's output is not the fact or world state it appears to describe, but rather an engineered representation. We propose a s",
+      "url": "https://arxiv.org/abs/2607.09489",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "Multimodal Reward Hacking in Reinforcement Learning",
+      "summary_cn": "arXiv:2607.09492v1 Announce Type: new Abstract: Reinforcement learning (RL) is increasingly used to align multimodal large language models (MLLMs), but higher rewards do not always",
+      "url": "https://arxiv.org/abs/2607.09492",
+      "sources": [
+        "arXiv AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "腾讯AI，翻身了吗？ - 36Kr",
+      "summary_cn": "腾讯AI，翻身了吗？ 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XQ1Vva3ZkdDg1b2k3WmJPWnJ6UUI4aGhSWmlmSjRLWWtjeS1zUUN5WUwxbGtrbWw3RGJuYjVYdi1scnRSRnNJNnM1T1EyUQ?oc=5",
+      "sources": [
+        "腾讯"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T03:53:30+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "为什么前沿AI公司都想自己造芯片？ - 手机网易网",
+      "summary_cn": "为什么前沿AI公司都想自己造芯片？ 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JYlU4QkZRNWFud25GdHZ6TExObWRwY2l4QUl4Y0pnMmlnVFVkTW9NZXduX2k5T183eGxEUWJyZlRNM2paZk1WOXpDVHVYOU01OGdLdFdsRElDdHhaNHhJSE1R?oc=5",
+      "sources": [
+        "机器之心"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "算力供应链",
+      "published_at": "2026-07-13T02:34:28+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
+      "title": "中际旭创市值超贵州茅台，资金从消费流向AI - 第一财经",
+      "summary_cn": "中际旭创市值超贵州茅台，资金从消费流向AI 第一财经",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByT2lGUG5tckY1LXdzMm5HN0phVHg2OUZPTGlyVW0zRHRMX1pYMm05ZTItQUIzZkF4Vmh0NTRoNDJkN0pnVWx5eng4NTg3VExZZDI0?oc=5",
+      "sources": [
+        "中际旭创"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T02:16:03+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
     {
       "title": "5秒挖出15年Linux漏洞，AI却让无辜记者成了偷车嫌犯 - 搜狐网",
       "summary_cn": "5秒挖出15年Linux漏洞，AI却让无辜记者成了偷车嫌犯 搜狐网",
@@ -65,6 +936,19 @@
       "category": "社区信号",
       "published_at": "2026-07-13T01:24:20+00:00",
       "first_seen_at": "2026-07-13T02:11:50.658534+00:00"
+    },
+    {
+      "title": "中际旭创回应1.6T需求延迟担忧 称2027年需求强劲客户增加 - 观点网",
+      "summary_cn": "中际旭创回应1.6T需求延迟担忧 称2027年需求强劲客户增加 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SaGtwaTg2SUw4Vjg4WmQ5cm5kM2tnZ3hidEFhWGRrYXdYYzRudU1mV1REZEJjQy1OZXZPZ3NyaWI5clFWNjFhQWRFSWxhcl95SmFGUkpEM044R0l5R0ZTX2N3?oc=5",
+      "sources": [
+        "中际旭创"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-13T00:56:56+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
     },
     {
       "title": "GPT-5.6来了，Fable 5慌了？",
@@ -143,6 +1027,19 @@
       "category": "算力供应链",
       "published_at": "2026-07-12T23:20:00+00:00",
       "first_seen_at": "2026-07-13T02:11:50.658534+00:00"
+    },
+    {
+      "title": "Playground",
+      "summary_cn": "Earn $100K+ in weekly rewards for hacking AI agents. Discussion | Link",
+      "url": "https://www.producthunt.com/products/nyx-4",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "AI Agent",
+      "published_at": "2026-07-12T22:32:12+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
     },
     {
       "title": "Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom - Yahoo Finance",
@@ -483,6 +1380,19 @@
       "first_seen_at": "2026-07-13T02:11:50.658534+00:00"
     },
     {
+      "title": "$1,000 in Nvidia vs. $1,000 in Broadcom: Which AI Chip Bet Paid Off More? - Yahoo Finance",
+      "summary_cn": "$1,000 in Nvidia vs. $1,000 in Broadcom: Which AI Chip Bet Paid Off More? Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVnlPVjBMWDYtWldkcENXOG1BNXB5OUxNbjV5QzcyRkJaTE1pZXQwdlp0VW55UmtFRW5GUHF5ckFpRDI4cHdKcG5Hdk1ZRGFJV2NQTlp4R29OU1FWNzJkOUg0Wjc5My0xZUFuNWkzWV82U1NZYWlXSkphZzVPaHJKWGxUOFFkaXFyZXc?oc=5",
+      "sources": [
+        "Broadcom"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "算力供应链",
+      "published_at": "2026-07-12T08:18:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
       "title": "腾讯重仓一个IPO",
       "summary_cn": "图片来源：视觉中国 作者/杨继云 报道/投资界PEdaily 深圳超级IPO来了。 日前，深圳云豹智能股份有限公司（简称“云豹智能”）创业板IPO申请正式获深交所受理，成为又一家选用创业板第四套上市标准申报上市的企业，冲刺“国产DPU第一股”。 回想6年前，斯坦福博士萧启阳在深圳创办云豹智能，专注于DPU赛道。这个团队启航两个月后，千亿DPU赛道开始爆发。至",
       "url": "https://36kr.com/p/3892352153942530?f=rss",
@@ -585,6 +1495,19 @@
       "category": "融资并购",
       "published_at": "2026-07-12T02:16:07+00:00",
       "first_seen_at": "2026-07-13T02:11:50.658534+00:00"
+    },
+    {
+      "title": "Windows 11 Copilot now tells you what’s slowing down your PC, while using 1GB RAM itself - Windows Latest",
+      "summary_cn": "Windows 11 Copilot now tells you what’s slowing down your PC, while using 1GB RAM itself Windows Latest",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUWtGRjJqa2RoS3hXeFdjUU9XaTJFODUtMXUxNUtsbkw5MjRwNlJMdmFFVWloUEM2eWxEcHFMTTQ4eGlEZ1R3SE9HWmRUX2xWUE03Q21OSEk0VVZaU1RJZlowWDZzU29pd1RiaXRRUV9vdHZpMWNmSkdHODdmemZnY3RKMmoxbkFvMmhWQU5vNVZKTmlaaTVlSFM0Z1JxN1BFbTdDdVJ3TnFCWDNqT09xc1VyLTVBWTU5UmJtMm1Pd0NwY05tRV9mRU9hMi1jUEF3TkIw?oc=5",
+      "sources": [
+        "Microsoft"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "产品动态",
+      "published_at": "2026-07-12T01:55:37+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
     },
     {
       "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
@@ -886,6 +1809,19 @@
       "first_seen_at": "2026-07-12T02:01:35.592597+00:00"
     },
     {
+      "title": "月之暗面 K2.7 Code 高速版模型正式登陆 Kimi Code，成为常驻可选模式 - 新浪网",
+      "summary_cn": "月之暗面 K2.7 Code 高速版模型正式登陆 Kimi Code，成为常驻可选模式 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOY1JLbThKcEcxN3RFRVR5bXl2aS00ME9tcEhyMlJ6bUFuWW5MV25XRHI0dDd2aUk0WUlrcGp0blJSdWRCbENKSk45dmdWRXplQkh1MjE4b3RoTGtDVTBwbmx5MHN1blhVN09RWndnUUUyajVQckhEdURJdDZranowYVNiempJZW5fN3pvdjJoWXVaNU5RYlBURjRaNE9oR1AweEFzdVpjQ2F6aHZxS1gyRXhHMEpoYXlreng5RXpxZ1c4V2Nvbi1WR2NRbERia2U1ZGFwZUxpZmdTUHpaWVRrN0lSbmh5YVlFeVZMYzhyYjlrYUd0Yl9PNQ?oc=5",
+      "sources": [
+        "月之暗面"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "模型发布",
+      "published_at": "2026-07-11T14:50:34+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
       "title": "GPU Memory Crisis Prices RTX 5090 Above $4,300 as Nvidia Offers Paper Cards - Tech Times",
       "summary_cn": "GPU Memory Crisis Prices RTX 5090 Above $4,300 as Nvidia Offers Paper Cards Tech Times",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWGxmVGZYV1RTd0FqVDFKQjZNdnpzWnBaT3dmTEZGLU4xV2xJc25mdTFyczQ0QXlEaG8weGlhQ2ZLUzEtSVFQT1habWdBLUdBMy1IRzlCa014X0lsc3AtTzNiM2c3clhMbG5ERXZBeHo4ZGRqLTdQTlkxRWVLUGRzUlo0REl2d2V2WVdxT1REOHItTml3VFVhM0pRTVlEb0hQRkd3MkZEdjVOblMydGpKVUlVX1VpRHB0WDBkeWI5RkJ4QmM?oc=5",
@@ -1014,6 +1950,19 @@
       "category": "行业动态",
       "published_at": "2026-07-11T10:46:16+00:00",
       "first_seen_at": "2026-07-12T02:01:35.592597+00:00"
+    },
+    {
+      "title": "新玩家入场！农行官宣Kimi联名信用卡，“消费即算力”赛道竞争升温 - 新浪财经",
+      "summary_cn": "新玩家入场！农行官宣Kimi联名信用卡，“消费即算力”赛道竞争升温 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOZ3o2TjFhS1drbmJPd2tfdDFyd08tdGlaSWEzVU1HaUExdzVoUG52Tlc0LXZCZEJpd3lmU2NmcklWTTU1THBlaGswMHpLS0VPbkJQR00yRE9Ob3ZkM3FiQjlscHpmV1lXalFrQlUwV29pV1VYZ3paaWFWR29tWm5mVll5cGFuWmFIZVVLS054ejN4ZTB6WENKbUNMUV9hd0RMUURTN3hWc3FEZjNoYk0wZTBRUGhkcEliclpoamdUdE9uczA0bThJMXg2cTNfeE13c2EzamZLQUtPbGwwZEQ4Y29mRHoyWHVHSEZ0emVKeWtxcDUzR2V0ZjNRelg4X0FTMDJRX3owQ1ptNXVCNGN4Vk9sTy05ZDFrWUgycGt2U1FMbGZSRGcxSkJYS0t1YlNnSjhQckswVDNYZU43NUhsdVhGVGFHYnEwTktwV1VTNFAyTGRLVWFtaXo3MmxIV2FfbFVwa25KUnFYRnRUU01UeVp3ZHVpVkhvNldqQw?oc=5",
+      "sources": [
+        "月之暗面"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "算力供应链",
+      "published_at": "2026-07-11T10:20:39+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
     },
     {
       "title": "WorkBuddy与姚顺雨，腾讯AI的两条命?",
@@ -1185,6 +2134,19 @@
       "first_seen_at": "2026-07-12T02:01:35.592597+00:00"
     },
     {
+      "title": "仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒 - 腾讯新闻",
+      "summary_cn": "仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒 腾讯新闻",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWdnlmdE94bi14RWV4WXVYNGFSU1RHTnJxYjR4YTgtTmJYaURQMlNqeGVJRnFRc0pRU2gzN29WX3o3SjZFa0FCakVmdkRQcWhmZWc2Qk1R?oc=5",
+      "sources": [
+        "机器之心"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "模型发布",
+      "published_at": "2026-07-11T05:05:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
       "title": "中国用十万卡定义下一代AI基建！ - 新浪网",
       "summary_cn": "中国用十万卡定义下一代AI基建！ 新浪网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wTGF3b0dLNFJfb2VSZDNUamJxeGRCYUN3STBpc19xZFU1VXI0Z1RjOTNQLWwxWDlMaUVEV25WMWlUaEo3TzBqMS1zeDhpWFhVaTBPWGZqUVdTVm9GRFd5TEZhOU9YOFIxV0poTDZGdDNFUU1BRE1GbFlCTnl1ZDQ?oc=5",
@@ -1209,6 +2171,19 @@
       "category": "算力供应链",
       "published_at": "2026-07-11T04:50:38+00:00",
       "first_seen_at": "2026-07-12T02:01:35.592597+00:00"
+    },
+    {
+      "title": "谷歌Gemma 4论文深夜解封！31B直逼闭源前沿，敲响云端AI丧钟 - 腾讯新闻",
+      "summary_cn": "谷歌Gemma 4论文深夜解封！31B直逼闭源前沿，敲响云端AI丧钟 腾讯新闻",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CZEJYdWxhTmVZU0hkU1VjWTlYNEpROEJDRFIycks0ZDAtbWI5blN6bzVhSWt0WVdjR24zRDA1c3RMdVpnQnpIZE9HUzhGY2pJY0k1dVhB?oc=5",
+      "sources": [
+        "新智元"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "研究技术",
+      "published_at": "2026-07-11T04:30:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
     },
     {
       "title": "SpaceX Falcon 9 rocket launches for 35th time, hauls Starlink satellites to orbit (video) - Space",
@@ -1640,6 +2615,19 @@
       "first_seen_at": "2026-07-11T02:01:50.737072+00:00"
     },
     {
+      "title": "NoMac.app",
+      "summary_cn": "The headless iOS app publishing pipeline for AI agents. Discussion | Link",
+      "url": "https://www.producthunt.com/products/nomac",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "AI Agent",
+      "published_at": "2026-07-10T21:07:45+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
       "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB - Spaceflight Now",
       "summary_cn": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB Spaceflight Now",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdEtlT1V3R2RhTEgtWjlBZmZvQlRsSzNMcmk3Z1ZrdW10c2ppcjFnQVhiNEttWUYtMkFPSm01bTNBUjZRMHRsRTN2a0JrQTNlTXdCcXE0bC0tRlZkTnRUZTVPMWExM094QXR3SlpnRUJkaGZKNGlZc2R1SWhjQkJZdUt6MUxISGxQLW5xZHhEcFVUVjJocjJWU3ZULUpuQ0xWTV9DSExKbDNEcHpoaVdBYk9yd09ZUWlMSGpjd3daYms2QVZsTFFjcVZwNnp2NFk?oc=5",
@@ -1807,6 +2795,19 @@
       "category": "算力供应链",
       "published_at": "2026-07-10T18:26:24+00:00",
       "first_seen_at": "2026-07-11T02:01:50.737072+00:00"
+    },
+    {
+      "title": "AI Model Co-Design: Hardware-Friendly LLM Design | NVIDIA Technical Blog - NVIDIA Developer",
+      "summary_cn": "AI Model Co-Design: Hardware-Friendly LLM Design | NVIDIA Technical Blog NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcVdNQmJrUVMzSDhYLTdWcUZCREJydnVuQzRGRUttVkduMzRJTWIzU3pYbWxRU2lMMHlHc1lMbU9EaUtWRzV3X3NHeEdVSXgzTTYteWEyNzdvX3FXd1ZOM2FWVjJzcXZvenppcVFIckx3azVJRmh0Rkw1NFV0UzVQR21Wb3RFWHhmd3c?oc=5",
+      "sources": [
+        "NVIDIA"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "算力供应链",
+      "published_at": "2026-07-10T17:16:10+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
     },
     {
       "title": "SpaceX wants to launch 100,000 more Starlink satellites - for 100x the bandwidth - ZDNET",
@@ -2028,6 +3029,19 @@
       "category": "算力供应链",
       "published_at": "2026-07-10T14:13:24+00:00",
       "first_seen_at": "2026-07-11T02:01:50.737072+00:00"
+    },
+    {
+      "title": "Fudge MCP",
+      "summary_cn": "Give your AI agents design taste from existing websites Discussion | Link",
+      "url": "https://www.producthunt.com/products/fudge-mcp",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "AI Agent",
+      "published_at": "2026-07-10T14:06:45+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
     },
     {
       "title": "GPT-5.6即将上线，推理狂飙750 Tokens/s！疑似横跨100张晶圆 - 智源社区",
@@ -2537,6 +3551,19 @@
       "first_seen_at": "2026-07-13T02:11:50.658534+00:00"
     },
     {
+      "title": "我国Token调用量连续九周全球第一！存储芯片市场今年预计同比增长近250%，科创芯片设计ETF招商（589390）正式上市！ - 21世纪经济报道 - 21财经",
+      "summary_cn": "我国Token调用量连续九周全球第一！存储芯片市场今年预计同比增长近250%，科创芯片设计ETF招商（589390）正式上市！ - 21世纪经济报道 21财经",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONHhEbFZaQ3N3YWJMUmtIWVRNbE1CamF4RmVoaUhaRDhBUzRkUlNIT3ZiVnlQUDNNbmVfN1MxN2hzb3FDMjMtcHZ2aVZ5NGlORWJrOHRnbW9XZWxTQ2N1amtvV3diVVNDVFR6SmJGejZNWXJ6ZjYwTUVwRkt3MkR3Z2NmMmFoT05Cb2hpZVdZSU83MXFi?oc=5",
+      "sources": [
+        "寒武纪"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "融资并购",
+      "published_at": "2026-07-10T07:00:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
       "title": "全球首个获工业级全域CE认证的具身智能机器人！无界动力K15开启全球批量交付",
       "summary_cn": "2026年7月9日，无界动力正式宣布旗下第二代机器人 K15 已通过欧盟合规准入，成为全球首个获得工业级全域 CE 认证的具身智能机器人。该产品全面通过了欧盟CE-MD（机械安全）、CE-RED（无线电设备）、CE-EMC（电磁兼容）以及EN ISO 13849（功能安全）全套工业级高标准认证，并在此基础上，成为全球唯一通过 EN 18031 网络安全标准认",
       "url": "https://www.leiphone.com/category/industrynews/jZnmuG3qKKX5smDx.html",
@@ -2563,6 +3590,19 @@
       "first_seen_at": "2026-07-11T02:01:50.737072+00:00"
     },
     {
+      "title": "\"难被定义\"，似乎是对杨植麟和月之暗面最好的定义 | 巨潮 - 维科号",
+      "summary_cn": "\"难被定义\"，似乎是对杨植麟和月之暗面最好的定义 | 巨潮 维科号",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84QnNRdGw3ckNJejkxQm1pVHVDUzZUaUdjYlpNVml3QWs0TUkzellUOGNRQXIxMDY5blpUZk1lNzdTc0JrTlFUZTdqd2FXTFk?oc=5",
+      "sources": [
+        "月之暗面"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-10T06:11:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
       "title": "行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0",
       "summary_cn": "7 月 10 日，蚂蚁灵波发布业界首个具身原生世界动作模型 LingBot-VA 2.0。该模型的发布，标志着机器人基础模型正式从“基于数字世界模型构建”到“面向物理世界原生设计”的关键转变。它代表了具身智能发展的一种关键路线选择：机器人“大脑”不再依托数字世界模型能力的“嫁接”，而是从动态建模、因果预测、实时执行等与环境交互的原始需求出发，进行原生设计。 ",
       "url": "https://www.leiphone.com/category/industrynews/TqBu1RpMYf17uLo0.html",
@@ -2574,6 +3614,19 @@
       "category": "模型发布",
       "published_at": "2026-07-10T05:48:00+00:00",
       "first_seen_at": "2026-07-11T02:01:50.737072+00:00"
+    },
+    {
+      "title": "AgentKey",
+      "summary_cn": "One-stop live data marketplace for your agent Discussion | Link",
+      "url": "https://www.producthunt.com/products/agentkey",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "AI Agent",
+      "published_at": "2026-07-10T04:48:14+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
     },
     {
       "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
@@ -2914,6 +3967,19 @@
       "first_seen_at": "2026-07-11T02:01:50.737072+00:00"
     },
     {
+      "title": "腾讯混元Hy3上线即爆，WorkBuddy紧急扩容，实测三个真实任务后我服了 - 腾讯新闻",
+      "summary_cn": "腾讯混元Hy3上线即爆，WorkBuddy紧急扩容，实测三个真实任务后我服了 腾讯新闻",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBja2RtR0R3SHRIREdDTm1EbTh1dk9weGswUnBxSlUtTlZlMnJvT0FNSWlVdERUUXdiMTV6VjVtRWxQakl0RElPbzI5T184djRpZFNPZ05R?oc=5",
+      "sources": [
+        "腾讯"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-10T03:11:00+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
       "title": "36 氪 AI 测评小程序上新！看真实体验与深度测评，多个新功能等你来玩~",
       "summary_cn": "先问一个扎心的问题：过去半年，你陆陆续续体验过多少个AI产品，又有多少个真正地被留下来？ 一个新AI产品刷屏，你火速打开官网、注册、验证码、绑定手机，结果试了五分钟——要么排队排到天荒地老，要么生成的东西一言难尽，要么免费额度3秒用完开始催你充值。热闹是它们的，浪费的时间和手机号是你的。 更麻烦的是，你想提前打听打听哪个好用，网上一搜要么全是水评，看不出到底",
       "url": "https://36kr.com/p/3883780969083137?f=rss",
@@ -2990,6 +4056,19 @@
       "category": "行业动态",
       "published_at": "2026-07-10T01:40:01+00:00",
       "first_seen_at": "2026-07-10T02:02:14.887635+00:00"
+    },
+    {
+      "title": "混元3正式版拿了高分，腾讯全家桶可以放心用了 - 风闻",
+      "summary_cn": "混元3正式版拿了高分，腾讯全家桶可以放心用了 风闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RMFNGSlE0ZGxZMlBtUUJKVUp1dlJaTXhQZm1fVUQwMkY0d2g0dHhLMm5xaWk1U2prel9LQkxUU3MxYS1OcGtkLVdfN2VITWstTzN0Z294SDFvY2c?oc=5",
+      "sources": [
+        "腾讯"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "published_at": "2026-07-10T01:39:10+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
     },
     {
       "title": "价值判断：跌停板的投资机会和风险提示（7月8日）｜上市公司观察",
@@ -3746,6 +4825,19 @@
       "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
     },
     {
+      "title": "ORNL Supports DOE ARM’s AI Overhaul with Agentic Tools and New Infrastructure - HPCwire",
+      "summary_cn": "ORNL Supports DOE ARM’s AI Overhaul with Agentic Tools and New Infrastructure HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa3lNSTM4anNPMWRIeHpCN1BIVHdhUHB3Rk5sLWhua0VwcEN5bndFeEJmellYM1Bqc19CMURUNS1IVEtoaWtqaV9fZDFSTnhzWEtXS0haalFhbmdLUEFTRVNDVUdUZnVhSk03TjJEZTIwSHlyQ1NCSTNUMWJIMGNXSDVidTZ2QkhMR3prbEdPdXZmQThyTGtBMXFIcXpzVm43dDhVSkg3VjFtdnVoRE1sOHBZeWFfR3NkZDJib3VBQlBnMTJI?oc=5",
+      "sources": [
+        "ARM"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "AI Agent",
+      "published_at": "2026-07-09T18:33:52+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
+    },
+    {
       "title": "GLM 5.2 is nearly as accurate as a human book keeper",
       "summary_cn": "Article URL: https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark Comments URL: https://news.ycombinator.com/item?id=48850414 Points: 163 # Comments: 97",
       "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
@@ -3874,6 +4966,19 @@
       "category": "模型发布",
       "published_at": "2026-07-09T17:16:44+00:00",
       "first_seen_at": "2026-07-12T02:01:35.592597+00:00"
+    },
+    {
+      "title": "GPT-5.6",
+      "summary_cn": "A new standard for intelligence and efficiency Discussion | Link",
+      "url": "https://www.producthunt.com/products/openai",
+      "sources": [
+        "Product Hunt"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "模型发布",
+      "published_at": "2026-07-09T17:08:01+00:00",
+      "first_seen_at": "2026-07-14T02:06:09.268131+00:00"
     },
     {
       "title": "MAIRE redefines global engineering with 100+ use cases in Microsoft AI and Autodesk - Microsoft",
@@ -4094,1111 +5199,6 @@
       "relevance_score": 0.55,
       "category": "产品动态",
       "published_at": "2026-07-09T15:36:08+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "SpaceX stock in focus as launch, Starlink business hit new milestones - Yahoo Finance",
-      "summary_cn": "SpaceX stock in focus as launch, Starlink business hit new milestones Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMVVFWFVueXFwMTRTSWVfYUZZVFpZaVRWbFJDc2d6X2N3cUVNMVdab0NVOTJETXhOdTd2WFAxWHJhd0N5X3RySXYtSThKWXkyemVsRzNxUmFmUFVxWDZXNm9vckZxYUlPZGJpTUxxTjdtaFMwY2pJcEVQRXlLLWlDaXFZSUdqNjZXVG1FVjQ3d0RYRWpBV3pPZmFzSWwxdTFrZ3h5VDYyUkJkY0E2cnFVZWF3TzFxU1hiT1c2Y3FLaVAzYkVKV1hnUUk2ZGw?oc=5",
-      "sources": [
-        "SpaceX"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "产品动态",
-      "published_at": "2026-07-09T15:32:25+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
-      "summary_cn": "Hi Hacker News, I’m Yahia. I built Context.dev (https://www.context.dev/) to make it really easy to integrate web data into your products and agents.Here’s a demo video: https://ww",
-      "url": "https://www.context.dev",
-      "sources": [
-        "HN"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "AI Agent",
-      "published_at": "2026-07-09T15:28:39+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Saudi Arabia’s Humain, Canada’s Cohere join forces on AI infrastructure - Arab News PK",
-      "summary_cn": "Saudi Arabia’s Humain, Canada’s Cohere join forces on AI infrastructure Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHZ1BmQXRnXzIwUTdKTTQyNzVOd0JQQkVLdUNibjBFNk53V19HNEY2bnJmaHR6aENCUm5LNHZPbEVldHJYWVZyOHV4dDFVVzFCem1Hdkk1eHZxd0UxbVZ6Qkxuaw?oc=5",
-      "sources": [
-        "Cohere"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T15:26:50+00:00",
-      "first_seen_at": "2026-07-10T02:02:14.887635+00:00"
-    },
-    {
-      "title": "The Gmail AI Inbox I dreaded turned into the best email change I've had in years - Android Police",
-      "summary_cn": "The Gmail AI Inbox I dreaded turned into the best email change I've had in years Android Police",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LREdVTFYyY20yQ3Jma2FVUEwxcUV3RGY5NUlPYzVDNk55WkkyZ3diUGd6Sm41SXFyOHpWMktXcmluMUt4T2pJR2UwVHlUTTFXdWhBWFE1YkF3dmVaajJSR3JmcjE?oc=5",
-      "sources": [
-        "Alphabet"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T15:15:11+00:00",
-      "first_seen_at": "2026-07-10T02:02:14.887635+00:00"
-    },
-    {
-      "title": "Muse Spark 1.1 by Meta AI",
-      "summary_cn": "Multimodal reasoning model built for agentic tasks Discussion | Link",
-      "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
-      "sources": [
-        "Product Hunt"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "模型发布",
-      "published_at": "2026-07-09T15:01:28+00:00",
-      "first_seen_at": "2026-07-11T02:01:50.737072+00:00"
-    },
-    {
-      "title": "Starlink doubles business aviation prices, adds regional locking - Corporate Jet Investor",
-      "summary_cn": "Starlink doubles business aviation prices, adds regional locking Corporate Jet Investor",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEhPWW1hdkNkdkhVN1MyOXdGeU9xcGRmXzRQeFh0MWp1di1SS3BJTXBrenhxTlRiZUZoR1VEakdjcENUemZiSzdCZXJWekdZdHpzV1JhdFQ2cHk0MDJ2OGFvUldfcGR0TU5HcEJoQmxYVk9QRWhtMnZmUXVJWnhRMFlZZWRpYmcyTVRQUnQyUmRpdWNhZG16WndVT2JJNXN1dGNiX0hsd2h5UQ?oc=5",
-      "sources": [
-        "SpaceX"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T14:57:36+00:00",
-      "first_seen_at": "2026-07-11T02:01:50.737072+00:00"
-    },
-    {
-      "title": "Arm Holdings jumps as investors lean back into AI chips and look ahead to late-July results - Quiver Quantitative",
-      "summary_cn": "Arm Holdings jumps as investors lean back into AI chips and look ahead to late-July results Quiver Quantitative",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaW43ZF96U2R3MkhlbWQwdVRTZE55Zk5IbWZHcU9qQzVUeTdMeUpjTG5xOUNpRzV1emUwYmkyTUhEdHhGdlREVUc1SjA1UDhYSzNiYS1aUUU3LWZPMGxiLXE0dnljMjQ3Y2pOcGxjVGZHQ0FHbmxyVWxlR0ZwT3B0a1M4SzF3TjFqLTN1REtfMmtQUF80bk5aNE5yUzJqbjRwSTdqUE9MNWgxUnpkMzBMdV93MUwyYmk0S3BWT0lqdG5nQQ?oc=5",
-      "sources": [
-        "ARM"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "算力供应链",
-      "published_at": "2026-07-09T14:50:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "NVIDIA Pairs Revenue Sharing With Credit Support to Finance AI Cloud Buildouts - StorageReview.com",
-      "summary_cn": "NVIDIA Pairs Revenue Sharing With Credit Support to Finance AI Cloud Buildouts StorageReview.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnBXWHRyZThZZXhKZEN0cVR0MTZ2RUF1TG40ck51a1g5R19KVjVXcDFFR2NIcVdYUUxNMktnMC1BU3gtSU5qWUNGX01UcklZbnlIS2xmWjNLNkxzV1BPeGluV054ME9TdnNRSmhibFJTRXlkMG5kQy1oSkozY3hFeUxDbEpaYzNGRXBTdVdyWHg0VGJwNmx2R3ZoRkk0N25MVE5FbE12QmlfdC1VRDNFS0JaVdIBuAFBVV95cUxNd0d5dHo2TlNMeC1XTkl6Wk5Vb2VkWUFFZXZUQ2dLWDlDTWxwR1d5MzI0TWxmU3JCU2xRdE1PNlZlbldsV1UwZDcwemtoaEM4ME80Y3IwWS1oT2pBU294eEV2X2NzUHNxZ05Ia1RBQnN3dlBzSDBTdmRfTXZ1cEw3c1k4aXdYQ3c1cTQzWUJNV2dTdUVXSVgyRVpYTmUwWnpIOUluVUN1UGJNZTFtbldUOHlYS0NSMWFB?oc=5",
-      "sources": [
-        "NVIDIA"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "算力供应链",
-      "published_at": "2026-07-09T14:41:24+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "为什么英伟达股价突破关键位，投资者再次对其趋之若鹜",
-      "summary_cn": "英伟达股价已从低点反弹，而SpaceX发布的一款新的AI模型可能会助力这一涨势延续。",
-      "url": "https://www.tmtpost.com/8059291.html",
-      "sources": [
-        "钛媒体"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "模型发布",
-      "published_at": "2026-07-09T14:28:59+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "特斯拉AI潜力“巨大”，为什么你不该买它",
-      "summary_cn": "花旗银行开始对特斯拉股票进行研究覆盖，给予“持有”评级，未设定目标价。",
-      "url": "https://www.tmtpost.com/8059289.html",
-      "sources": [
-        "钛媒体"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "研究技术",
-      "published_at": "2026-07-09T14:28:24+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "人工智能正在改变个人计算体验，这只股票将从中获利",
-      "summary_cn": "罗技正在重新构想其全系列办公和游戏设备产品线。其股价有望上涨40%。",
-      "url": "https://www.tmtpost.com/8059285.html",
-      "sources": [
-        "钛媒体"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "产品动态",
-      "published_at": "2026-07-09T14:27:39+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "SimPolitics: America’s quest to solve politics with computers",
-      "summary_cn": "https://direct.mit.edu/books/oa-monograph/6166/SimPoliticsAm... Comments URL: https://news.ycombinator.com/item?id=48846332 Points: 67 # Comments: 8",
-      "url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
-      "sources": [
-        "HN"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T14:20:14+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "No leap second will be introduced at the end of December 2026",
-      "summary_cn": "Article URL: https://datacenter.iers.org/data/latestVersion/bulletinC.txt Comments URL: https://news.ycombinator.com/item?id=48846281 Points: 216 # Comments: 169",
-      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-      "sources": [
-        "HN"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "算力供应链",
-      "published_at": "2026-07-09T14:16:34+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Ways to think about token pricing",
-      "summary_cn": "AI is in a supply crunch today, but what happens when we come out of it? How and where will supply, demand, price, capacity and capex get back into equilibrium? Today, model labs c",
-      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
-      "sources": [
-        "Benedict Evans"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "模型发布",
-      "published_at": "2026-07-09T14:15:51+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Muse Spark 1.1",
-      "summary_cn": "https://ai.meta.com/static-resource/muse-spark-1-1-evaluatio... [pdf]https://developer.meta.com/ai/resources/blog/build-with-muse...https://www.bloomberg.com/news/articles/2026-07-",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-      "sources": [
-        "HN"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T14:10:22+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "The 8 Best Features That Come With NVIDIA GPUs - bgr.com",
-      "summary_cn": "The 8 Best Features That Come With NVIDIA GPUs bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wV3c4aHZYU19aQ1NmMkhEV0Z1WTl1SzVjaHJheG12SmJDbUdZNGtUMGNzUmszTVE4b0VDcmJuTjd2VjAzTUpDUE51cEo4SGlrdURRV0ZtTGY1Y19GVzFiM3pwaw?oc=5",
-      "sources": [
-        "NVIDIA"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "算力供应链",
-      "published_at": "2026-07-09T14:02:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "跨界算力连遭暴击，逆势加注5.5亿，亿田智能急了?",
-      "summary_cn": "左手收缩回血，右手砸钱扩产，亿田智能在算力业务遇挫后再投5.5亿采购服务器",
-      "url": "https://www.tmtpost.com/8059189.html",
-      "sources": [
-        "钛媒体"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "算力供应链",
-      "published_at": "2026-07-09T14:01:49+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Meta says its new AI model is ready to compete on coding",
-      "summary_cn": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding softwar",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-      "sources": [
-        "The Verge"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.6,
-      "category": "模型发布",
-      "published_at": "2026-07-09T14:00:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Journals vs Conferences ML Research [R]",
-      "summary_cn": "Lately in the last two/three years, I have noticed ICML, Neurips becoming more prestigious than the actual journals. What is the actual reason of this culture? Is this due to the A",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1urqqk6/journals_vs_conferences_ml_research_r/",
-      "sources": [
-        "Reddit ML"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "研究技术",
-      "published_at": "2026-07-09T13:44:41+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "半导体爆发+光模块拉升，跑赢科创50的“宽基”科技ETF大涨4%，高光159363冲高逾2%！高盛喊话做多中国AI链 - 新浪财经",
-      "summary_cn": "半导体爆发+光模块拉升，跑赢科创50的“宽基”科技ETF大涨4%，高光159363冲高逾2%！高盛喊话做多中国AI链 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTDJELUI4ZWVFcHl0b1RaNk4tdWluMjBJeXhyTVd2MzJBWm0tbGdtcTYxQ01IV2hpTFBRWklQSDRlY1Zzb0llRFFzbmRBY2E0M2lQUzFBMjFKTWtSa0k2RXBQNXNSQXZZdlVDbjctenloVUpLNDR4aFlaTXZDZDJSd3JVMTRHek56OWNNel9Rdw?oc=5",
-      "sources": [
-        "中际旭创"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "算力供应链",
-      "published_at": "2026-07-09T13:39:44+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "催化不断！AI芯片千亿巨头集体大涨多只概念股获融资客青睐_证券要闻 - 中金在线",
-      "summary_cn": "催化不断！AI芯片千亿巨头集体大涨多只概念股获融资客青睐_证券要闻 中金在线",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XdzE4M2J2MS14T0Ezb3FMVWRMb0M0X0lZMDBzUG56bjFBV0xJQnFyLU15VDdyUDQ2X2c4Q0ljd25ZUTc2eTMwUldSZWNQdjBYTHBtdlhLVVNQZWl0STJpWWdodWsxdm93LURzRklR?oc=5",
-      "sources": [
-        "寒武纪"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "融资并购",
-      "published_at": "2026-07-09T13:35:05+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Say hello to Claude Wrapped",
-      "summary_cn": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Th",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-      "sources": [
-        "The Verge"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.68,
-      "category": "模型发布",
-      "published_at": "2026-07-09T13:30:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Character.AI wants a piece of the microdrama pie",
-      "summary_cn": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of ",
-      "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
-      "sources": [
-        "The Verge"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.6,
-      "category": "模型发布",
-      "published_at": "2026-07-09T13:11:53+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "移远通信发布 Hawk 系列 AR 眼镜与 Dolphin XR 算力单元：以一站式制造能力推动 XR 规模化落地",
-      "summary_cn": "7月9日，“方寸镜·无限远”——2026移远XR解决方案与生态战略发布会在深圳举办。会上，移远通信正式发布全链路自研的AI+AR眼镜Hawk系列，以及配套算力单元Dolphin系列，标志着这家物联网领军企业全面入局XR赛道。三年沉淀，从“智联”到“视界”的战略跨越活动现场，移远通信联合创始人&首席运营官张栋以物联网发展的三次演进为脉络，阐述了移远从“智联”到",
-      "url": "https://www.leiphone.com/category/arvr/5zNZCHth6f2indzb.html",
-      "sources": [
-        "雷峰网"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "算力供应链",
-      "published_at": "2026-07-09T13:03:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "半导体爆发+光模块拉升，跑赢科创50的“宽基”科技ETF大涨4%，高光159363冲高逾2%！高盛喊话做多中国AI链 - 新浪财经",
-      "summary_cn": "半导体爆发+光模块拉升，跑赢科创50的“宽基”科技ETF大涨4%，高光159363冲高逾2%！高盛喊话做多中国AI链 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmcwUWZwS1dFTVlRWjBsMHJvNW8xTDVOeURkZ29HWmpTQ1VWd2hrN05OU2kzVi00MWUxeTV2MkFVNmxzN21hci1Xb0hjUUlxSGF1Z2VxX3NvNmRYNEs0VlQ4c0tRakJFSlEyeklpSnBXRVJUNGtaT055aGwySXB6OXRLM2stV0IxM0dxU1lhbw?oc=5",
-      "sources": [
-        "中际旭创"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "算力供应链",
-      "published_at": "2026-07-09T13:01:05+00:00",
-      "first_seen_at": "2026-07-11T02:01:50.737072+00:00"
-    },
-    {
-      "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
-      "summary_cn": "Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the ",
-      "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
-      "sources": [
-        "The Verge"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.6,
-      "category": "行业动态",
-      "published_at": "2026-07-09T13:00:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Oracle Joins IMSA Labs as Founding Partner to Accelerate AI and Motorsport Innovation - PR Newswire",
-      "summary_cn": "Oracle Joins IMSA Labs as Founding Partner to Accelerate AI and Motorsport Innovation PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNajNPT0REMVpGM2JxMDZBbnhJVHIwaTlweGx5dmlJTF9MRzZEZjZVelRJOEdjZ3ozQ05rc2NadDF1b2xoTFV0UVg4UVhKYXY5cXJnVnJRbmpzX3BxQVBveVR2RzZ4cFNKc0dxMnM4U0V5R2xMZzdhSGZRLUtTYmtYeUcyR0dIRGluWTdBUWhrVDN1aC0yQXJmTnlEd3hVQVRKREZTekNnMXA1YWFwcndtRDdya2ZMRDJxR1JvbjFJOFgtc0FLTnN5QVB4M2FoMXB1cFRJYWlJT2Y?oc=5",
-      "sources": [
-        "Oracle"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T13:00:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Oracle puts startups on the IMSA track to test AI on live race data - Stock Titan",
-      "summary_cn": "Oracle puts startups on the IMSA track to test AI on live race data Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVDR4NXNCVHdkXy14Qm5ZT1BueExhR1FCX00tSERvOVQ5VjhnSktuLVZraG5TZGN1TVZfUTI0MmlZRURnWld0Z0NkcmJMNkp6bWNmUGd6b18tRmRRRkM2XzNGS1loelF3NUtPZmQ2WDBQeGs3bjhCT3FPZTFtdFlFSG9KcmQ3MnFlOEtwMUl1eFNqSW52SXhoR3pJNGRNM1c2RThNWUpBRDdHOTVUWWxZVWZVZnNrSWt2V1E?oc=5",
-      "sources": [
-        "Oracle"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T13:00:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "HUMAIN and Cohere Launch Strategic Sovereign AI Compute Collaboration - TechAfrica News",
-      "summary_cn": "HUMAIN and Cohere Launch Strategic Sovereign AI Compute Collaboration TechAfrica News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1ZPT01SWTNQVnp6R2IzUkstMU5KNGxlLXlpcnFoZ0FLd25XVEVZYkEwNW1SS3FzRlFHV3RzMDhEZ0RyTnMwNXNkaVFsR1hSYkJ4bG85VmVfczVEcmg4ZndtTVJjMzRZRlRycW4wTy1QOElkYlFEeGxHekk5R0JCUU1RVmRqMlp3ZjladmdmXzk5eHIxRDlBVkRiNHV4ODBjRXRSSlJrWVFvU3ZI?oc=5",
-      "sources": [
-        "Cohere"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "产品动态",
-      "published_at": "2026-07-09T12:58:53+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "中兴称豆包手机二代要来了，主流应用仍不支持豆包手机助手通过GUI操作，二代会走微信支付宝路线吗？ - 搜狐网",
-      "summary_cn": "中兴称豆包手机二代要来了，主流应用仍不支持豆包手机助手通过GUI操作，二代会走微信支付宝路线吗？ 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaDc2aTVjUk5CY3NMeFJvenYwN3JkYnJSN1kzRDFYNXpVNVJ5bFFsYTNMSFNKREFqLS1ZVjdfcGwwc094UEQtU3JDZTZ5OFZ3eGhIdVRUUlBvbjdralhtTGhWYWdETGpjVHlpQllIZjhMS1htMnlDSFFac0FtWElTYW9xamdtdHgzcEVlYQ?oc=5",
-      "sources": [
-        "字节豆包"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T12:41:03+00:00",
-      "first_seen_at": "2026-07-10T02:02:14.887635+00:00"
-    },
-    {
-      "title": "AI拟人化互动监管新规帮千问、豆包下决定 - 21财经",
-      "summary_cn": "AI拟人化互动监管新规帮千问、豆包下决定 21财经",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcFBZTmtlaVpwN2gwWmpRNWZoZmJILUpHTU9qZ1gzck0wV1U5WGttNUF4Q2NYakFFMkxrWVpCQ1dFLU90ZFVVMXp1NF9TQ3pJZFVPWGJzTGZzekswM2NiSkxBcW5uci1iazJIdE1WZV9TLWdHRUpKb0lDQnNiaWc2dUgwb1ExVnNlSzFkLQ?oc=5",
-      "sources": [
-        "字节豆包"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T12:27:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "DeepSeek之后，中国AI「自己出题」杀进Nature通讯！全球仅4家 - 智源社区",
-      "summary_cn": "DeepSeek之后，中国AI「自己出题」杀进Nature通讯！全球仅4家 智源社区",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1MjZ4T3drX0F5aW9OYVZWazNPZllUWkNRWUYyWWw2eTJlTVVobWFORHYwcGxTb3o3UE5raDlQMU1rTzNyQjdsTA?oc=5",
-      "sources": [
-        "新智元"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "模型发布",
-      "published_at": "2026-07-09T12:20:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-      "summary_cn": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Four nuclear reactors hit a big milestone ",
-      "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-      "sources": [
-        "MIT Tech Review"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "算力供应链",
-      "published_at": "2026-07-09T12:10:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Is Microsoft's latest AI upgrade enough to win the battle over Google Forms? - Windows Central",
-      "summary_cn": "Is Microsoft's latest AI upgrade enough to win the battle over Google Forms? Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWEQtdG9PZk41UlY0U0dFc2IzRG51Z3o3LUlvOXY3NjExYVJsbXIwYVZCd1Z1WmN0dGR3TWtlNDRZWHFhdFZyZl96d3hmSXdaX2l1M0ZtaUphLURqZWVtNnVGS0VBbGREcm9Ca2h6RUxJNHZQSzhRZENmTGVlZXBNemxRalM0bXVVREl0NWp2YmFlOTNfUXhjdUJnUXdIWE5JRUhDdUthZDZqSmpPeUVMN0ljWXg5YUFfM2JzNUt2a29meGlnajJtRXFqemU?oc=5",
-      "sources": [
-        "Microsoft"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T12:06:51+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "DeepSeek自研芯片，瞄准“昇腾替代”？ - 新浪财经",
-      "summary_cn": "DeepSeek自研芯片，瞄准“昇腾替代”？ 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwNTh4S2dmdjc3RHY0dDZ5V3A0WkZTUHc2REJlZE40UUxTNXNJT1F0SGQxWUxwMnBaOFhoalFLdklrWDl2bnE1YWZ0aDFVQmJYQlhIQWRmUGp5NmkxUTVwMkJNSUc0NndnbmxKWXJYOXFTUQ?oc=5",
-      "sources": [
-        "DeepSeek"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "算力供应链",
-      "published_at": "2026-07-09T12:02:27+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Oracle’s (ORCL) Has An Enormous Backlog Concentration Risk. Here’s How Healthcare AI Push Could Help Diversify Away - Yahoo Finance",
-      "summary_cn": "Oracle’s (ORCL) Has An Enormous Backlog Concentration Risk. Here’s How Healthcare AI Push Could Help Diversify Away Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamw2MnZmcHBUdF9zZjd3ZDU2RmxHWFRoUTl5dERmVTZ4bmFZVV9lX1FQNXZCRld1ZG5abU54Y3paZVJrbDlGWmRiSS1qMm5ja1hZQWk0b3hmMXVEYkhPVDJuWjhYUW42WmdvZGxDbGs3SWo2NUZpWkNjUDNXUEF1NFVXOUFEdkFzbk5pa3NlSEVLekY2T1BIakhmQ2lpREQwSzA3a0hxTE4zUQ?oc=5",
-      "sources": [
-        "Oracle"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T11:58:38+00:00",
-      "first_seen_at": "2026-07-12T02:01:35.592597+00:00"
-    },
-    {
-      "title": "Starlink deployments on record pace - The Verge",
-      "summary_cn": "Starlink deployments on record pace The Verge",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVkwQ25CeTd2ZWJLalNhN2RDQ05WR21uMWJIamtEalpKX3FWUVRoZzNKNFRCbi1nMDF3dGUyRmx1Yno0VGtfNFlGbGJtM1ozOUg5TnBIMUlTbWtVdnU5VmU3TXVTNHdObTI4cFFaQUY3RVV1SFNueVRoMkItcVJMTlpVR0pib2MxbmpmU3lVREVycENFMTRmVTVMdw?oc=5",
-      "sources": [
-        "SpaceX"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T11:51:31+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Meta to put AI chip into production in September as it looks to double computing capacity, Reuters reports - CNBC",
-      "summary_cn": "Meta to put AI chip into production in September as it looks to double computing capacity, Reuters reports CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdlFBODIwQ1VKejIzRFRNR1VSajQ4M3FIakI4MUlaUUJWdndyUjllZnRyX1FzSktpa1V1cUJXaXNuYXlQbzRIUFQyeW1sT1VnVU1odWxXT1hCLWdYMnFKdVU0VXB6c0NFR3dmbFhVTGFqQlFBUEhDel9hNW1hQmhqeHdrWDFrbk9xVkUtdkhnWjY2b3VzMUpB0gGcAUFVX3lxTE5zYklWUHBpdEIzeDlKV1k3dzNvQXFVMmFZdjg5aV82VEVEUmEteGxMUmJvR2cwS2l6SXdkVElOUE96MUFOM0NRTDF2Rm1DNHV0bHZnTE43UW1JclV3R1haMzRuLXBOWUl5ZnpUVk1mR0NiakpaLW02a0l6SHNMSzBmcW5mT1cxekVQbWVxeW8tVHYtVGItbUpVMzl3QQ?oc=5",
-      "sources": [
-        "Broadcom"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "算力供应链",
-      "published_at": "2026-07-09T11:44:40+00:00",
-      "first_seen_at": "2026-07-10T02:02:14.887635+00:00"
-    },
-    {
-      "title": "ZAWYA: HUMAIN and Cohere announce AI compute, sovereign models, and enterprise AI collaboration - TradingView",
-      "summary_cn": "ZAWYA: HUMAIN and Cohere announce AI compute, sovereign models, and enterprise AI collaboration TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZXFMeS03WjJHb3ZfQTdzT1hJaVRlZEJEVEpjN2h3cmZDSlZJbmhxRzdDc0I1WFowNjdkSmlkNmNpSjJBeWhlZGlsR3FyanhVelEzQVR4WUQwaVZ6SmI2RUVhd3FwT2syTXFZRFpJVGNyQ2hmcWVBM1RBV0c1YzlpeEZHMmc4RncxWjZWVThLWXJEZW5Sb3VYOVg4T0xHY0xNMzFHTnJLZ3RxT0tFREJMSTdYYnliYWdpcmhEbVNMc2tLMkVrN29fVDNJZHRiOFRtd2V2ZXRRTU1KWVRNQ3VmYUttQXBsRkJfV1JqUlVlTkUyVXlwRVEzM0IwZGU?oc=5",
-      "sources": [
-        "Cohere"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "模型发布",
-      "published_at": "2026-07-09T11:44:16+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "前华为天才少年面试DeepSeek被指「抄代码」当场暴走，这波操作太迷了_李博杰_公司_时候 - 新浪网",
-      "summary_cn": "前华为天才少年面试DeepSeek被指「抄代码」当场暴走，这波操作太迷了_李博杰_公司_时候 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GRTR6ZkRoVnBuTkxBVkVLQ2FJV21SekVtR1ltQVJCTURlZm9UMVl1RVk2MkptdExmb19aY0lPdVQ1OHN3cEtIOVVNQklmMHFCUE9YM2xDdXhmM2swWExDSExoWUo0Q0FFYi1xT0tXSFM1aDVUZ3luc2xFZkhmRFE?oc=5",
-      "sources": [
-        "DeepSeek"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "模型发布",
-      "published_at": "2026-07-09T11:27:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "豆包手机“继任者”？努比亚AI智能体手机外观曝光 - TOM科技",
-      "summary_cn": "豆包手机“继任者”？努比亚AI智能体手机外观曝光 TOM科技",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QSC1UM1NzbnNaNHZRR1dkQXNmYjZwbDljN2Y1eGk0V1JicnROcFktX2dqQVYtWFNweWVLQ19kTi1ScTVKS1hKdkVyelhQYm9teXQ5c1Bn?oc=5",
-      "sources": [
-        "字节豆包"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "AI Agent",
-      "published_at": "2026-07-09T10:59:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "StoryChief Connect",
-      "summary_cn": "Publish content from Claude to your website and socials Discussion | Link",
-      "url": "https://www.producthunt.com/products/storychief-io",
-      "sources": [
-        "Product Hunt"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "模型发布",
-      "published_at": "2026-07-09T10:43:58+00:00",
-      "first_seen_at": "2026-07-11T02:01:50.737072+00:00"
-    },
-    {
-      "title": "Agent 进化论：从对话到协作",
-      "summary_cn": "人与 AI 的沟通正在变得越来越像人与人之间的沟通。一位店员用 AI 制作门店宣传视频时，不再把需求列成一段非常细致的 Prompt 发给 AI，然后等待它返回结果；而是直接开启一个与 AI 的对话，告诉它“帮我剪一条今天新品上架的视频”，然后通过连续对话敲定任务的具体细节，就像与人类剪辑师一样。同样的情况已经发生在很多具体场景中。一些程序员在通勤或散步时会",
-      "url": "https://www.leiphone.com/category/industrynews/RDpPRL52VCMB19vs.html",
-      "sources": [
-        "雷峰网"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "AI Agent",
-      "published_at": "2026-07-09T10:40:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "ICML 精选 Spotlight Poster 汇总：Session 7-2",
-      "summary_cn": "7月9日，机器学习领域最具影响力的顶级学术会议ICML 2026进入正会第三天。本次大会共接收6352篇论文，其中Spotlight论文536篇（占投稿总数的 2.2%），Oral 论文168篇 （仅占投稿总数的 0.7 %）。作为国际顶级的机器学习会议，今年的ICML吸引了数千篇论文投稿，其中Spotlight论文更是百里挑一，代表着当前AI研究的最前沿方",
-      "url": "https://www.leiphone.com/category/private/CkhbgnZgFR3PMdyw.html",
-      "sources": [
-        "雷峰网"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "研究技术",
-      "published_at": "2026-07-09T10:34:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "ICML 精选 Spotlight Poster 汇总：Session 5-2",
-      "summary_cn": "7月8日，机器学习领域最具影响力的顶级学术会议ICML 2026进入正会第二天。本次大会共接收6352篇论文，其中Spotlight论文536篇（占投稿总数的 2.2%），Oral 论文168篇 （仅占投稿总数的 0.7 %）。作为国际顶级的机器学习会议，今年的ICML吸引了数千篇论文投稿，其中Spotlight论文更是百里挑一，代表着当前AI研究的最前沿方",
-      "url": "https://www.leiphone.com/category/private/zFZn6BMEReiFggmy.html",
-      "sources": [
-        "雷峰网"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "研究技术",
-      "published_at": "2026-07-09T10:11:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "AI 时代的编程语言，这次是来自中国的底层创新 - 网易",
-      "summary_cn": "AI 时代的编程语言，这次是来自中国的底层创新 网易",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NeE9jN1ZfUjMzeFlJSVBwX0o1ZXVIVDd2VWxFNDZGY3l6c05EcXV1cmU3VUw1aVJlR3BnVWZzcHNPODEycmNRRGkyTllxckRjQVBnTlc1RGw3V2FydnNScFd3?oc=5",
-      "sources": [
-        "机器之心"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T10:02:20+00:00",
-      "first_seen_at": "2026-07-11T02:01:50.737072+00:00"
-    },
-    {
-      "title": "AI时代，百度终于押对了？ - itopmarketing.com",
-      "summary_cn": "AI时代，百度终于押对了？ itopmarketing.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5idllUc3hLYXYzdVJQMHdKeGRRSXFVOFJhOUNjUTdzUE5wcmU5RTNNeDIxNnluSHUyUTEzRVdQRXFJYWppWEhFZEpJNW0zT09B?oc=5",
-      "sources": [
-        "寒武纪"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T09:50:11+00:00",
-      "first_seen_at": "2026-07-10T02:02:14.887635+00:00"
-    },
-    {
-      "title": "Mispher",
-      "summary_cn": "Dictate, rewrite, translate, and an agent in a single device Discussion | Link",
-      "url": "https://www.producthunt.com/products/mispher-agentic-transcription-for-mac",
-      "sources": [
-        "Product Hunt"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "AI Agent",
-      "published_at": "2026-07-09T09:36:54+00:00",
-      "first_seen_at": "2026-07-11T02:01:50.737072+00:00"
-    },
-    {
-      "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
-      "summary_cn": "特斯拉FSD（Full Self-Driving）每迭代出一个新版本，自动驾驶公司Momenta的创始人曹旭东都会飞去美国亲自体验。 “他还不光是去坐车，还会找一切能接触到特斯拉的人聊。”接触到曹旭东的人士告诉36氪，马斯克是曹旭东最常提到的人。 在内部，许多员工对曹旭东的一个共同感受，就是“马斯克式CEO”。 创业十年，Momenta赴港股IPO，上市首日",
-      "url": "https://36kr.com/p/3888180493318921?f=rss",
-      "sources": [
-        "36氪"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "融资并购",
-      "published_at": "2026-07-09T09:01:56+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "天立启鸣“AI+教育”方案入选AI for Good",
-      "summary_cn": "北京时间7月7日，联合国机构国际电信联盟（ITU）2026年“人工智能向善”全球峰会（AI for Good Global Summit）在瑞士日内瓦举办，公布了年度“AI for Good创新影响力案例集”。天立国际旗下智慧教育公司启鸣达人（以下简称“天立启鸣”）自主研发的“天立学科大脑：AI驱动的个性化公平学习路径”入选“Generative Al fo",
-      "url": "https://www.leiphone.com/category/ai/PfbwTKDLzwL99jmZ.html",
-      "sources": [
-        "雷峰网"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T08:59:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "ICML 精选Spotlight Poster汇总：Session 7-1",
-      "summary_cn": "7月9日，人工智能与计算机视觉领域的风向标盛会ICML 2026正式开启了三天的核心议程。本届大会在创纪录的投递量中严选出6352篇录用论文，其中包含代表前沿风向的Spotlight论文536篇（占投稿总数的 2.2%），以及极具开创性的Oral 论文168篇 （仅占投稿总数的 0.7 %）。本届入选的研究方向展现了极高的多元性，全面覆盖了从多模态大模型到三",
-      "url": "https://www.leiphone.com/category/private/bqJj0gBbZjw1sZNB.html",
-      "sources": [
-        "雷峰网"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "研究技术",
-      "published_at": "2026-07-09T08:53:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "“配货式”IPO，对昆仑芯而言是“双刃剑”吗？ - DoNews",
-      "summary_cn": "“配货式”IPO，对昆仑芯而言是“双刃剑”吗？ DoNews",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04VFBxeTd4N3JsaEZOSEx6YW5vMWdvNjhzbW5iX2YtRmJTbi1nNm5GdFBTd0RuVEc2a2ljLXFlTHIwcTRXZU1zNFZOdWF1S0FwdWdmSW1VeGVxdFI5ZjN4cU05cWc?oc=5",
-      "sources": [
-        "寒武纪"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "融资并购",
-      "published_at": "2026-07-09T08:41:55+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "混元Hy3发布 腾讯AI能否弯道超车?|财经早察 - 21财经",
-      "summary_cn": "混元Hy3发布 腾讯AI能否弯道超车?|财经早察 21财经",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWJfcFZtWUUwYlprdDh2MWZiZEh1S2VPcW1Ca3BVVXNpTjBUV1pDZGwzTzRTb09VS3lYQ2l6RGRNZkZoNUFyWjVxVHlIaE1JcWZlNG8xOTBsRE5QejdHdGlHWDM4U0s5NlNyaGxzeG1kdkY3TW0tY2NINmcySE44MFRlMjRDSE9vX290Yg?oc=5",
-      "sources": [
-        "腾讯"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "产品动态",
-      "published_at": "2026-07-09T07:43:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "豆包新机发布延期，阶跃星辰抢先推出AI智能体手机 - cb.com.cn",
-      "summary_cn": "豆包新机发布延期，阶跃星辰抢先推出AI智能体手机 cb.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZNUZOT1YzNG1Bb1ZCYzk1UDVPVkN6a2pQa0pnX2l1blU4YklmTldDSW5DR3Riam0zTTU3RllyVE9MYUlSTFVUdDFnTDdLeEpzNzFGb0pMUTJGbkJQYTEtRXln?oc=5",
-      "sources": [
-        "字节豆包"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "AI Agent",
-      "published_at": "2026-07-09T07:37:00+00:00",
-      "first_seen_at": "2026-07-12T02:01:35.592597+00:00"
-    },
-    {
-      "title": "豆包新机发布延期，阶跃星辰抢先推出AI智能体手机 - cb.com.cn",
-      "summary_cn": "豆包新机发布延期，阶跃星辰抢先推出AI智能体手机 cb.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hM0J1LWI0eEZFbFpBUmZ1VjVZdTBVNVVfVTRDN0V2NWt5alVSSGN6dUlENE14cUVIeWxNN1BoUmdiQjAyM1cyUU1hbDFTYXJzcXIzZzctT2MydUxBeHpWVTJ3?oc=5",
-      "sources": [
-        "字节豆包"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "AI Agent",
-      "published_at": "2026-07-09T07:37:00+00:00",
-      "first_seen_at": "2026-07-13T02:11:50.658534+00:00"
-    },
-    {
-      "title": "DeepSeek掀起换芯潮！这个局，国产算力半壁江山全来了 - 搜狐网",
-      "summary_cn": "DeepSeek掀起换芯潮！这个局，国产算力半壁江山全来了 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnVaTS1kVWE4Yk80T1BFemRiMUkxTy12RFZjRmg5WXJzUjA5R2lOZkxXMElSSlZxOXVtaWFVMnQxcENsMS1sTTFTOHlPMmFBSzB6VER3NGVBZW9XREkzbU5QeE11YXNKWHFoUGszMXM2T19XZGFENW02eWU3Vm5ZMUtCYW1FdHZU?oc=5",
-      "sources": [
-        "新智元"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "算力供应链",
-      "published_at": "2026-07-09T07:35:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "「没了李开复，零一万物还有什么？」一个敢问一个敢答",
-      "summary_cn": "李开复笑着回应了",
-      "url": "https://www.qbitai.com/2026/07/446778.html",
-      "sources": [
-        "量子位"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "行业动态",
-      "published_at": "2026-07-09T07:34:25+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Why Google fell behind in the AI race : The Indicator from Planet Money - NPR",
-      "summary_cn": "Why Google fell behind in the AI race : The Indicator from Planet Money NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY2V5T1lVY2h1dnkzNmxUa1VJT1B3SkN1cUxpT2tLX0JRc1FVSHNCMTZFejFwaVFFX2x1Zll0SE9OS2ZUNklvVEZFeEpwRmNDM0pfSjdFZDVvQ0MzNm1xdFFnU2J2ZUlnc2puSDdyWmhnREZDcVpGT0RhMXJMVWNpTFZhRllwLTVBRmc?oc=5",
-      "sources": [
-        "Alphabet"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T07:00:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS - OpenAI",
-      "summary_cn": "OpenAI models, Codex, and Managed Agents come to AWS OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yUmlDZ29pZlZFNHNfSzBVbXkxRkZXNTZ0cjVpOG5DWHMtTGpNOV82dG5WeVZpbVktQjViSHRRZ0lEVWx3N0ZIZGo0UllDV3A4Z1R1R29HbzU?oc=5",
-      "sources": [
-        "Amazon"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "模型发布",
-      "published_at": "2026-07-09T07:00:00+00:00",
-      "first_seen_at": "2026-07-12T02:01:35.592597+00:00"
-    },
-    {
-      "title": "ChatCut",
-      "summary_cn": "Your AI video editor in ChatGPT, desktop, and web Discussion | Link",
-      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
-      "sources": [
-        "Product Hunt"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "模型发布",
-      "published_at": "2026-07-09T06:50:16+00:00",
-      "first_seen_at": "2026-07-11T02:01:50.737072+00:00"
-    },
-    {
-      "title": "How Qwen overtook Meta's Llama in the open-source AI race - Moneycontrol.com",
-      "summary_cn": "How Qwen overtook Meta's Llama in the open-source AI race Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUFJVUjd4N3hJM3Y2WS1QYk9YT1Q0bXF0aV9VS2J1bE1wYnJRamxWazBaNmEzMXl4ZTY1dnhYeG1FamwyN2x1akpaS3g5RUVIU19qOXlXRk1PUFlnbkltOXpzZXRQOVBaUk5vTVZGeVpHalZfaTdaRWs4OGY1b3IxbjZ2d0Y3dUhzbnVBN0NmbVViVnc2N0gxR3ZwdFBmRVNvLVJwZXI3Yjd3ZDFPSTFuV1V4QTBqSXNwX2ZpVUc2NF9oZThpeG5NQ3lzUmnSAdIBQVVfeXFMUDJ4emZSY29CSDNnMHBFOVFya0Z2SUZfTHBBSHdEdmtqcXNlNWFQdGtEcjQ3bkFRcTN4RDJoSmxPVjVaQUpjUTJBSU43YzVKMWc2akcyd3VTaVoxMzhYQzE3V0NZWVgwcGJIMjhlR3RMVTRJVXp2MjdsOHVPVFpLZUVna056QnNGY1Y1ejJoZmFnaHFleUVKY2NSQ1AwbGFmaUMzS2RaMDh5ZkNyREtldklTbzhpX0ViUEZ6YVZ3YlNvRDJGM1ZadFZ5NFBaeXdvWm13?oc=5",
-      "sources": [
-        "Meta"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "模型发布",
-      "published_at": "2026-07-09T06:49:10+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "硬件产品负责人离职，豆包AI手机需要缓一缓 - 21财经",
-      "summary_cn": "硬件产品负责人离职，豆包AI手机需要缓一缓 21财经",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPamtLLU5GeTVXbHBGNUZ0WmlWZjJfX0d2MWMwSFBKNGozUGg3QlBLb3FJVUtFUzdiTkNDUFBNRjJ1d2ZxY3MzZDF0Wkl6TjRHM0NGaEFyZ3F2LVc2ZWd4VW1nTFI2UVVSVVNMUGZSdk91OTFpYm1vRXljMTVva2R3WlFVOGJuNVNEdG13YQ?oc=5",
-      "sources": [
-        "字节豆包"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "产品动态",
-      "published_at": "2026-07-09T06:46:00+00:00",
-      "first_seen_at": "2026-07-10T02:02:14.887635+00:00"
-    },
-    {
-      "title": "支付宝发布AIS开发套件：让Agent自动发现、调用、计费",
-      "summary_cn": "7月8日，继发布全栈AI支付体系后，支付宝AI支付再推Agent经营方案。从AI开发、AI经营、AI营销三大方向探索Agent时代的商业新机会，帮助商家在AI时代实现产品创新、用户连接与经营增长。全新推出开发套件AIS让Agent可构建完整商业链路随着企业探索AI应用，开发Agent的复杂度也在快速提升。一个真正服务用户的 Agent，需要连接推荐商品、库存",
-      "url": "https://www.leiphone.com/category/industrynews/27C8eEaw1r1xfTzp.html",
-      "sources": [
-        "雷峰网"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "AI Agent",
-      "published_at": "2026-07-09T06:30:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
-      "summary_cn": "To safe AGI.",
-      "url": "https://www.qbitai.com/2026/07/446658.html",
-      "sources": [
-        "量子位"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.67,
-      "category": "行业动态",
-      "published_at": "2026-07-09T06:29:30+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "沐曦16亿营收却撑起4000亿市值，警惕AI芯片赛道估值泡沫 - 维科号",
-      "summary_cn": "沐曦16亿营收却撑起4000亿市值，警惕AI芯片赛道估值泡沫 维科号",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TaThHQmtQOVFoRS00czZnM3VkQXBkdlY0OWlKVTYwOS1UaHJWR1c2Z3M3ZFlzSUxOQndibE9abnU0TlJ4WnJhWXZOM3NVQ0U?oc=5",
-      "sources": [
-        "寒武纪"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "算力供应链",
-      "published_at": "2026-07-09T06:12:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "中国机器人大脑引爆海外，蚂蚁灵波全栈2.0模型定义具身智能“新大脑”",
-      "summary_cn": "7月9日，中国AI创新力量再次引发全球关注。中国具身智能公司——蚂蚁灵波科技升级全栈大脑2.0，一口气发布了涵盖视觉、动作、操作以及物理预测等方向的具身智能大模型，在海外开发者社区掀起热潮，发布即登上海外社交媒体热榜。图说：蚂蚁灵波世界模型LingBot-World 2.0（Infinity）及具身模型LingBot-VLA2.0登上X科技热榜在Reddit",
-      "url": "https://www.leiphone.com/category/industrynews/G37AgItr75dHXX0i.html",
-      "sources": [
-        "雷峰网"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "模型发布",
-      "published_at": "2026-07-09T06:12:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
-      "summary_cn": "SpaceXAI continues to move faster than any other frontier lab on earth.",
-      "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
-      "sources": [
-        "Latent Space"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.61,
-      "category": "融资并购",
-      "published_at": "2026-07-09T06:05:41+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "现代AI之父新作：13个大模型实测，检索agent真的可信吗？ - 新浪网",
-      "summary_cn": "现代AI之父新作：13个大模型实测，检索agent真的可信吗？ 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wUVJlZzdrcnFuWW1QRTIwYlQzZ1BWb2RSN1Rvb3hNMTdFbTJYbTM0YWtfQjhBelZnYnpEOWhpNkxFanpSZHZyU2R6X2QyZFAtU0owc0NnQTYwcDBVVjhYUktOZ0RMZ0Nab1ZnYnZhdk9OaDBZY2NvQ0VIRjE5b3M?oc=5",
-      "sources": [
-        "新智元"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "模型发布",
-      "published_at": "2026-07-09T05:52:11+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "刚刚，全球首个具身专属的MoE视频模型，开源了！",
-      "summary_cn": "视频生成的下一站，或是机器人大脑",
-      "url": "https://www.qbitai.com/2026/07/446568.html",
-      "sources": [
-        "量子位"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "模型发布",
-      "published_at": "2026-07-09T05:47:05+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
-      "summary_cn": "180家企业携成果入驻",
-      "url": "https://www.qbitai.com/2026/07/436498.html",
-      "sources": [
-        "量子位"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "行业动态",
-      "published_at": "2026-07-09T05:33:28+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "现代AI之父新作：13个大模型实测，检索agent真的可信吗？ - 手机网易网",
-      "summary_cn": "现代AI之父新作：13个大模型实测，检索agent真的可信吗？ 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCM1dER3VSYk5LSXlOUzB1cExkLUNOZDFLTEF6YjFzYnlNSjJ0REpQd0c1RlVySFM0X1p0UUpaM3BVT24tS0Z2RVItUjhWZERGNUt0N0ZPWjBsWklrekV4WVpR?oc=5",
-      "sources": [
-        "新智元"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "模型发布",
-      "published_at": "2026-07-09T05:29:54+00:00",
-      "first_seen_at": "2026-07-13T02:11:50.658534+00:00"
-    },
-    {
-      "title": "寒武纪Q1业绩再创新高 单季度利润超10亿 牛散章建平退出前十大股东 - 财联社",
-      "summary_cn": "寒武纪Q1业绩再创新高 单季度利润超10亿 牛散章建平退出前十大股东 财联社",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZWnloNl9DclJqeDdPOHo2ZjN6Wl95VlB1YlZIQmRwSnkzLWNBcEREdUtGRUpYc3p1RDJDT1JEc1Q0bnNTV0RWUQ?oc=5",
-      "sources": [
-        "寒武纪"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T05:28:45+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "努比亚全球首款AI智能体手机将亮相2026世界人工智能大会 - 电子工程专辑",
-      "summary_cn": "努比亚全球首款AI智能体手机将亮相2026世界人工智能大会 电子工程专辑",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMeGcwUWxPcTFubGJBbjlpWXdDN3BjNVNhb002RjdRNWVFeWZwZU85UHNGdk1xYlNUNk56S1Ewc1c5dWd0aU1UaHF1SlY3bHZlQXJhZ2JFTmRsa1dB?oc=5",
-      "sources": [
-        "字节豆包"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "AI Agent",
-      "published_at": "2026-07-09T05:27:27+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "催化不断！AI芯片千亿巨头集体大涨 多只概念股获融资客青睐 - 东方财富",
-      "summary_cn": "催化不断！AI芯片千亿巨头集体大涨 多只概念股获融资客青睐 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvUDl0M1BUTk9ZT2dQQThla0hMY0ZpQkJ6c283TjBYRnkwdWZCYVhZZWpOUGcyQzRaQjJZc3ZXdFhfOGRYRVhpZ0tuOGtjYzI1Q2Vha21RVUc5Y3NKRGZYWA?oc=5",
-      "sources": [
-        "寒武纪"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "融资并购",
-      "published_at": "2026-07-09T04:01:30+00:00",
-      "first_seen_at": "2026-07-10T02:02:14.887635+00:00"
-    },
-    {
-      "title": "催化不断！AI芯片千亿巨头集体大涨 多只概念股获融资客青睐 - 东方财富",
-      "summary_cn": "催化不断！AI芯片千亿巨头集体大涨 多只概念股获融资客青睐 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jQTY5ZnRvWnlhTm1uaVhhZmpjOXJKdW9YSDFsQ2JzS3M1OXdRT0lpSm0ybmF2Q2FTQ2pBVlJQajZWNHhuNWJNTXFuRlhsSFdoNzB2NlNZMF85dWtaZ3EtazhYUQ?oc=5",
-      "sources": [
-        "寒武纪"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "融资并购",
-      "published_at": "2026-07-09T04:01:30+00:00",
-      "first_seen_at": "2026-07-11T02:01:50.737072+00:00"
-    },
-    {
-      "title": "至简动力交付百台「开箱即用」机器人，加速具身量产节奏",
-      "summary_cn": "打破具身行业最快交付纪录 作者丨邓哲敏 编辑丨齐铖湧 &n",
-      "url": "https://www.leiphone.com/category/ai/aFTmWZkO6CAIPGvW.html",
-      "sources": [
-        "雷峰网"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "published_at": "2026-07-09T04:01:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-      "summary_cn": "arXiv:2607.06624v1 Announce Type: new Abstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a sing",
-      "url": "https://arxiv.org/abs/2607.06624",
-      "sources": [
-        "arXiv AI"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "研究技术",
-      "published_at": "2026-07-09T04:00:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "LLM-powered reasoning in agent-based modeling",
-      "summary_cn": "arXiv:2607.06757v1 Announce Type: new Abstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy ma",
-      "url": "https://arxiv.org/abs/2607.06757",
-      "sources": [
-        "arXiv AI"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "研究技术",
-      "published_at": "2026-07-09T04:00:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
-      "summary_cn": "arXiv:2607.06764v1 Announce Type: new Abstract: Recent progress on ARC-AGI-1 from disclosed architectures has come broadly from two regimes: heavy test-time compute over frontier m",
-      "url": "https://arxiv.org/abs/2607.06764",
-      "sources": [
-        "arXiv AI"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "研究技术",
-      "published_at": "2026-07-09T04:00:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
-      "summary_cn": "arXiv:2607.06906v1 Announce Type: new Abstract: Agentic AI development today runs on token maxing: buying capability with tokens -- longer reasoning traces, more turns, wider tool ",
-      "url": "https://arxiv.org/abs/2607.06906",
-      "sources": [
-        "arXiv AI"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "研究技术",
-      "published_at": "2026-07-09T04:00:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks",
-      "summary_cn": "arXiv:2607.07189v1 Announce Type: new Abstract: Vision-language models (VLMs) and agentic AI have shown strong performance on semantic visual tasks, but it remains unclear whether ",
-      "url": "https://arxiv.org/abs/2607.07189",
-      "sources": [
-        "arXiv AI"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "研究技术",
-      "published_at": "2026-07-09T04:00:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "MIRA-Math: A Benchmark for Minimal Information Requesting and Mathematical Reasoning",
-      "summary_cn": "arXiv:2607.07391v1 Announce Type: new Abstract: Mathematical reasoning benchmarks typically provide all facts needed to solve each problem, while interactive benchmarks often mix r",
-      "url": "https://arxiv.org/abs/2607.07391",
-      "sources": [
-        "arXiv AI"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "研究技术",
-      "published_at": "2026-07-09T04:00:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
-      "summary_cn": "arXiv:2607.06720v1 Announce Type: new Abstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, c",
-      "url": "https://arxiv.org/abs/2607.06720",
-      "sources": [
-        "arXiv AI"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "研究技术",
-      "published_at": "2026-07-09T04:00:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
-      "summary_cn": "arXiv:2607.06820v1 Announce Type: new Abstract: Recent advances in AI for Mathematics have focused largely on autoformalization and theorem proving, leaving the role of Computer Al",
-      "url": "https://arxiv.org/abs/2607.06820",
-      "sources": [
-        "arXiv AI"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "研究技术",
-      "published_at": "2026-07-09T04:00:00+00:00",
-      "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
-    },
-    {
-      "title": "Measuring Intelligence Beyond Human Scale",
-      "summary_cn": "arXiv:2607.07040v1 Announce Type: new Abstract: How can we measure intelligence beyond human capability? Human-authored benchmarks saturate, and above human capability, examiners m",
-      "url": "https://arxiv.org/abs/2607.07040",
-      "sources": [
-        "arXiv AI"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "研究技术",
-      "published_at": "2026-07-09T04:00:00+00:00",
       "first_seen_at": "2026-07-09T23:25:52.910577+00:00"
     }
   ]

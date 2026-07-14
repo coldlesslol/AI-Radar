@@ -2,99 +2,54 @@
   "key": "github_trending",
   "title": "GitHub Trending AI",
   "freq": "daily",
-  "updated": "2026-07-13T10:11:35+08:00",
+  "updated": "2026-07-14T10:05:51+08:00",
   "url": "https://github.com/trending?since=daily",
-  "total_trending": 17,
+  "total_trending": 10,
   "items": [
-    {
-      "full_name": "Dicklesworthstone/destructive_command_guard",
-      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "language": "Rust",
-      "stars": 2984,
-      "stars_today": 444,
-      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-      "rank": 1
-    },
-    {
-      "full_name": "wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "language": "TypeScript",
-      "stars": 8010,
-      "stars_today": 210,
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "rank": 2
-    },
     {
       "full_name": "HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars": 20627,
-      "stars_today": 768,
+      "stars": 21811,
+      "stars_today": 1153,
       "url": "https://github.com/HKUDS/Vibe-Trading",
-      "rank": 3
+      "rank": 1
     },
     {
       "full_name": "Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars": 118625,
-      "stars_today": 408,
+      "stars": 119693,
+      "stars_today": 996,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "rank": 4
-    },
-    {
-      "full_name": "anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars": 48454,
-      "stars_today": 459,
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "rank": 5
-    },
-    {
-      "full_name": "Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "language": "TypeScript",
-      "stars": 33826,
-      "stars_today": 125,
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "rank": 6
-    },
-    {
-      "full_name": "ColeMurray/background-agents",
-      "description": "An open-source background agents coding system",
-      "language": "TypeScript",
-      "stars": 2273,
-      "stars_today": 16,
-      "url": "https://github.com/ColeMurray/background-agents",
-      "rank": 7
-    },
-    {
-      "full_name": "virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "language": "Python",
-      "stars": 61428,
-      "stars_today": 115,
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "rank": 8
-    },
-    {
-      "full_name": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "stars": 29254,
-      "stars_today": 274,
-      "url": "https://github.com/davila7/claude-code-templates",
-      "rank": 9
+      "rank": 2
     },
     {
       "full_name": "Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars": 4326,
-      "stars_today": 155,
+      "stars": 5206,
+      "stars_today": 794,
       "url": "https://github.com/Nutlope/hallmark",
-      "rank": 10
+      "rank": 3
+    },
+    {
+      "full_name": "Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars": 84816,
+      "stars_today": 1095,
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "rank": 4
+    },
+    {
+      "full_name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 38619,
+      "stars_today": 299,
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "rank": 5
     }
   ]
 }

@@ -1,61 +1,61 @@
 {
   "source": "NVIDIA",
   "layer": "company",
-  "updated": "2026-07-13T10:10:55+08:00",
+  "updated": "2026-07-14T10:05:10+08:00",
   "items": [
     {
-      "title": "Forget GPUs. Nvidia’s Next AI Gold Mine Could Be Even Bigger. - Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0hRWkVWNjNpXzJVNng5U2dpN0pFQzBGWE5FcGdiWTFWYVViY2ZTQ3dVUm1tT3BZd08zcV96Zmt0RGwyWlZGQVlTcndzVkwyU3dXZGdyd3JHWFRYenUzYjQtRG1YMURKRXhHYUNXdTdHV0FXUk9rb1FzY09mZW5KOGlXSVhkYzJVVC10aXpqQXRYUkktSk5DVTN4WlF1OE5lU0J1TQ?oc=5",
-      "summary": "Forget GPUs. Nvidia’s Next AI Gold Mine Could Be Even Bigger.&nbsp;&nbsp;Barchart.com",
+      "title": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFNKZFpKOW1YMENScXJlbjJHbmZSS2xNZzdUZnNfVlFoYlN2TlBKempoejlYRnhURmZwcWVZbjFNWjc3NHZoMlVtV3NFaXZvM1hneU5aTEVJV2dob1pnSXhwWnBJbk5lNERaLUhRZnA1aXVzdnZnc1EzanFIdEFqZV9mVGNVU0YxcG1lZVdHRjlZQnNrUkstaDZ4VUE?oc=5",
+      "summary": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight&nbsp;&nbsp;Yahoo Finance",
       "source": "NVIDIA",
-      "time": "6h",
+      "time": "14h",
       "tags": [],
-      "published_at": "2026-07-12T20:01:42+00:00"
+      "published_at": "2026-07-13T11:26:00+00:00"
     },
     {
-      "title": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters - SemiAnalysis",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRMzZBLVVubkluVkNDXzRtX0Z3U0hDVnFiek9YUTFKeUdpVVAzVHQwRXlRS0lGM2wtNGJka3ZiQ3BsNkQzdllNSGx5dGctZWFiZF9RYzI4SkpUYU5mcTFIWWYwdGJ6T2hEbkZNbWJYTWJLQW10ZDQxN2p2alI?oc=5",
-      "summary": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters&nbsp;&nbsp;SemiAnalysis",
-      "source": "NVIDIA",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-06T21:53:44+00:00"
-    },
-    {
-      "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog - NVIDIA Developer",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm9zYkw2M19sWTUwWVJWSFNPbzVZdElHenZFWmN6MVpUVHhNMVpNWGlSamFiWk1uVC0taHZ2c0t4N1hwWjZiLXQ2MDV6VTdLOV9oSlg5aUVhRXhJODE3YXFmX2NtM2EzeGE0a3dwLTVCaUxneGdhVC1MTExwS3VOa1JHUUtyNGtkaVlObVRjT3ZQVWRVLVM5Y0RZMnllMUd4SjIwYlM5aVQtVFBTM21VRw?oc=5",
-      "summary": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer",
-      "source": "NVIDIA",
-      "time": "5d",
-      "tags": [],
-      "published_at": "2026-07-07T15:13:37+00:00"
-    },
-    {
-      "title": "The 8 Best Features That Come With NVIDIA GPUs - bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wV3c4aHZYU19aQ1NmMkhEV0Z1WTl1SzVjaHJheG12SmJDbUdZNGtUMGNzUmszTVE4b0VDcmJuTjd2VjAzTUpDUE51cEo4SGlrdURRV0ZtTGY1Y19GVzFiM3pwaw?oc=5",
-      "summary": "The 8 Best Features That Come With NVIDIA GPUs&nbsp;&nbsp;bgr.com",
+      "title": "AI Model Co-Design: Hardware-Friendly LLM Design | NVIDIA Technical Blog - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcVdNQmJrUVMzSDhYLTdWcUZCREJydnVuQzRGRUttVkduMzRJTWIzU3pYbWxRU2lMMHlHc1lMbU9EaUtWRzV3X3NHeEdVSXgzTTYteWEyNzdvX3FXd1ZOM2FWVjJzcXZvenppcVFIckx3azVJRmh0Rkw1NFV0UzVQR21Wb3RFWHhmd3c?oc=5",
+      "summary": "AI Model Co-Design: Hardware-Friendly LLM Design | NVIDIA Technical Blog&nbsp;&nbsp;NVIDIA Developer",
       "source": "NVIDIA",
       "time": "3d",
       "tags": [],
-      "published_at": "2026-07-09T14:02:00+00:00"
+      "published_at": "2026-07-10T17:16:10+00:00"
     },
     {
-      "title": "Nvidia is a victim of the compute marketplace it created - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMjJzN3NsbGtpZTBPNGdUMXFaVkZxc183U3dGWV9iSFhlSmVQNmdYMWNOU0xQUWFWeVdodmloN1U5RHkxUmdHamhPNUZRZXE3dXdDYTRuNDlPU2gxY2d3N09hZWdiWXM0NkNVS2tSOXZMTHUtWVhpX0tqd1FFbDhuamxHRTdFcm80Q3VJQ1BqVjI3d0ZkVEE?oc=5",
-      "summary": "Nvidia is a victim of the compute marketplace it created&nbsp;&nbsp;TechCrunch",
+      "title": "Broadcom and Marvell Are Bigger Threats to Nvidia Than You Know - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQXZDajItV1R2RkpySkltcVNzbWpCeFFaR0NLLXNpSFNkYk5uT1F4Y1ZrYzFfbVBKS3JOck41b3o2bzVjZ2NVN0R5UWtvRFl4Z2ZOdFpDakYtZEgtc1JJbVgtV3ZieWVXOS1kLW9YcTJLa2dXYmtyVlFXQlRPWFpQcVNpVEJycTFkbWZteDNRSzdwb05jN3BsTG83LVJhMjV5c2E5NmRmMnB5YXc?oc=5",
+      "summary": "Broadcom and Marvell Are Bigger Threats to Nvidia Than You Know&nbsp;&nbsp;24/7 Wall St.",
       "source": "NVIDIA",
-      "time": "3d",
+      "time": "13h",
       "tags": [],
-      "published_at": "2026-07-09T17:06:11+00:00"
+      "published_at": "2026-07-13T12:43:51+00:00"
     },
     {
-      "title": "Nvidia’s $1-trillion wipeout leaves AI titan trading at pre-boom prices - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNDhTUm9nUVIzTWJhSUFiT3Y2SGw0alhfLTNFVHJjYmIzeFBST2xzdUhRamg1ZE83M18tVjlZcDRQblVCLXhvNnptY2pqdWtuRjRpRUcyOVc2YzNPQl9LQzgxYXU0SDJaWGlObHhNVHlnLTc1X1N2ZGFlQzRCaVJIdE1vSEYtSGN2b3JsbGtfcVNXM0tGVmpQV0dnaWp0V0lILVVoRUx3WndIeGx4enhxS2dNSWFnU21SbTFj?oc=5",
-      "summary": "Nvidia’s $1-trillion wipeout leaves AI titan trading at pre-boom prices&nbsp;&nbsp;Los Angeles Times",
+      "title": "DDN and Nebul Validate KV Cache Acceleration for NVIDIA-Based AI Factories - StorageReview.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOejBXYmhmWEtoQUxaYmtWQm82TzRwSnZ1SkpzVVlEV2xwT1hOZDVwMHNSUE9GdzNzX1AwVDFzdnVKSmUzclpxUVRwbTRzdHl0ZXBLM2tRLWc0dElra0hCY3phZE4yUGY2U2tCQTZIaTc5VEE3eXRLUTZiMUVXZVhHV2V6SkVSVk1PdVBiYllMLXNtWlZtaC16dFJFZ29vaVBCNGdUV2R4TkpKdFhhTHfSAbMBQVVfeXFMTTNyeGJxSlIzRDdGZkprWHRNTHdRMVdEaFFCaERXbWdKSllUUEE2Z2ZnXzJXdy05UjFROXRXdDF4REZYVTFYeW0xRzFiSlRCSEVGSk1WUGxMaEZhczBFQ015QXZaVDczeG5EbXpFdFhmMFk4dUJmTmRMLU1QUDljYVlsWlFpZzlULXZCMERKMU5FVndkMnlZYzNLRTg0NHZzanBKVWU5VmZfVGg3czRjTXFmQmc?oc=5",
+      "summary": "DDN and Nebul Validate KV Cache Acceleration for NVIDIA-Based AI Factories&nbsp;&nbsp;StorageReview.com",
       "source": "NVIDIA",
-      "time": "2d",
+      "time": "9h",
       "tags": [],
-      "published_at": "2026-07-10T14:13:24+00:00"
+      "published_at": "2026-07-13T17:01:10+00:00"
+    },
+    {
+      "title": "SoftBank, Yaskawa Demonstrate Physical AI Development Using AI Data Center GPU Cloud - The Fast Mode",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWpXQ2NkTy1GN2RmbEFQMnlibUpiMHJnWnVQQmNHZjBEUkl5SGNubnhyNVR1RWJOZC1oblY4S2k2czJmVnNDWkQxeHJrZVJfY2ZyYjRmWi1qSkxhR3VPLU9obE5DWGxONGVZbUJmQ201XzB4d0NfelNfSWlNX0U3dS1OVENtMUgxanhyUkNDNkFHLTZZdV9ZTUhSbHNhN05qU0RQNlVYX096aWJ6Z0FKcTJjRV9OdzhNckxyZmdKbjZFRDJ6MWcycGcwM3g5V1JvRTNxdw?oc=5",
+      "summary": "SoftBank, Yaskawa Demonstrate Physical AI Development Using AI Data Center GPU Cloud&nbsp;&nbsp;The Fast Mode",
+      "source": "NVIDIA",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-14T00:13:26+00:00"
+    },
+    {
+      "title": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd0tXM1RuSGZNSVg0enQ5R3JPdmEyTGNYOTNIaERNSTB0UWc1bEw5QmdJdk9ZVlpmV3VVa25Ub0ZUZFZHVl9QWlJvTldITGtvaGRGTGJ6enpyZEZIeU03NC1pdEtlRzNiQXlIWlcxTnR0Y0ZhcS1qaWdjMS1ZWjMyQVlR?oc=5",
+      "summary": "Nvidia's Biggest Risk Isn't Custom AI Chips From Broadcom or AMD -- It's Something That's Hidden in Plain Sight&nbsp;&nbsp;AOL.com",
+      "source": "NVIDIA",
+      "time": "14h",
+      "tags": [],
+      "published_at": "2026-07-13T11:35:56+00:00"
     }
   ]
 }

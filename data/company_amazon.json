@@ -1,32 +1,50 @@
 {
   "source": "Amazon",
   "layer": "company",
-  "updated": "2026-07-13T10:11:00+08:00",
+  "updated": "2026-07-14T10:05:13+08:00",
   "items": [
     {
-      "title": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0ZBbWdwb0JoNWxLZlpGZF96S0JHeklnOEJYNXpPb1NadHBVX1JmMkszdGxiNHkzVndYZlRCYS1SelZVS2F5dzMta2lsYXlZTFVJTVdnRTNIM0pTbFktVWttOWVPa1VCcWxaOW10XzdMY3Bzb3ktamxzR1BFNkpXaFcxWjJOWDJtbUdCZms3T1o4ZUdkRnNIdlRjYUxKV0tjWHN2am9Eb3hmT2tIeldZRHN3?oc=5",
-      "summary": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "title": "Building an agentic AI solution at Bluesight with Amazon Bedrock - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYi1BVHd0Z0lVNkxMeDFTaWMycldub1dlc05VMWhjM3AzandNR3poZkVJeTdCXzVjLUdXR2kwdHE1ckV4NVlIeWpoLUlBS3dFNG1KQ3RydDd5MVhCbzM0UW1DRDd6WVVuQUduVUVQRGxKeUtsdDd1QWlBX3hoZ0xBZlNqWFhPeGdfdUtRVS1UM241RUpzTFdTMWFCZUxHdElUR2FBbERiYW1sZ2VZRUdtZQ?oc=5",
+      "summary": "Building an agentic AI solution at Bluesight with Amazon Bedrock&nbsp;&nbsp;Amazon Web Services (AWS)",
       "source": "Amazon",
-      "time": "2d",
+      "time": "8h",
       "tags": [],
-      "published_at": "2026-07-10T15:23:25+00:00"
+      "published_at": "2026-07-13T17:34:38+00:00"
     },
     {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yUmlDZ29pZlZFNHNfSzBVbXkxRkZXNTZ0cjVpOG5DWHMtTGpNOV82dG5WeVZpbVktQjViSHRRZ0lEVWx3N0ZIZGo0UllDV3A4Z1R1R29HbzU?oc=5",
       "summary": "OpenAI models, Codex, and Managed Agents come to AWS&nbsp;&nbsp;OpenAI",
       "source": "Amazon",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-09T07:00:00+00:00"
+    },
+    {
+      "title": "Experts warn AI gateways connected to Amazon Bedrock are being hijacked to steal crypto - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUFkwejV1TmRTQUdscENYZllqWlNjbk50MElNMHZxNXF3V1poSWNCQ0MzTnBWdDkxU0lHRTlKajQzeGRCQmZpYmVkN1VvRVM5ZENkaVhOVDZLZm5KalZKOGxRQ0x0aDZBUUdXUkxJNzBycDIteVhRYjFrLXNOUGdiR2xOZ2xBSXM2VUo1ZG5nQ1hXWWZOb2VFVUtoSUNHZUtleV9iOVM1WEtwQjJJRXEzRnlTNndMclotbTBITno3Qk1sU2lwNkxaUWVJN19aX01TS1pVZHl6SUNDdUFjdkFkdU93Q2c3NmNJZF9EUVJ3V2F2UTIxUVZVOE84SHI5d014b2Y5ejg4cm1WaWVxeXJfZXpIaHc5aC1mYm1pV042WmRqYWRGR1BZaHFOUjZsUQ?oc=5",
+      "summary": "Experts warn AI gateways connected to Amazon Bedrock are being hijacked to steal crypto&nbsp;&nbsp;TechRadar",
+      "source": "Amazon",
+      "time": "11h",
+      "tags": [],
+      "published_at": "2026-07-13T14:15:00+00:00"
+    },
+    {
+      "title": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0ZBbWdwb0JoNWxLZlpGZF96S0JHeklnOEJYNXpPb1NadHBVX1JmMkszdGxiNHkzVndYZlRCYS1SelZVS2F5dzMta2lsYXlZTFVJTVdnRTNIM0pTbFktVWttOWVPa1VCcWxaOW10XzdMY3Bzb3ktamxzR1BFNkpXaFcxWjJOWDJtbUdCZms3T1o4ZUdkRnNIdlRjYUxKV0tjWHN2am9Eb3hmT2tIeldZRHN3?oc=5",
+      "summary": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "source": "Amazon",
+      "time": "3d",
+      "tags": [],
+      "published_at": "2026-07-10T15:23:25+00:00"
     },
     {
       "title": "BNB Agent Studio deploys AI agents on AWS Bedrock AgentCore for continuous operation - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcHZBaGVJSVRMVEhkMW1zaUFhbDBOMmxta1AtS0FOUmxyQkI0X0V6aDNUSHROcTEyVXpyNzJkemU1aFI1TEJvRHotZXdlSV9IcVBFRVZpOUFRZEFUWld3NTZGeG1FZGFzaVo1dVhLWklsNmVBbHpYajEzbDMybzBZMjhmOA?oc=5",
       "summary": "BNB Agent Studio deploys AI agents on AWS Bedrock AgentCore for continuous operation&nbsp;&nbsp;Crypto Briefing",
       "source": "Amazon",
-      "time": "22h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-12T04:06:55+00:00"
     },
@@ -35,27 +53,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU182OFY5X2NYVG5XaFlKWDJQaDY5N0dPVV9GM3RhcEZsdmFDSWhuOERrbi1DdFBOa1UtZnE4QzZSOGVLZjA1Y2cyTXlSUXBfbTRDbmpjM1BMdnVPSWtBWnhObTBiUWQ4U2FPN1JrTzdQMG82TVNxY2hVX3FRc1o3cHYzdkU1VUJ3SGk1bEsyNGlma2RIczBBaWEwZi1HRWZFM0E?oc=5",
       "summary": "Building secure AI agents at scale: Introducing Loom for AWS | Amazon Web Services&nbsp;&nbsp;Amazon Web Services (AWS)",
       "source": "Amazon",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-09T21:16:33+00:00"
-    },
-    {
-      "title": "Amazon’s Bedrock and Titan Generative AI Services Enter General Availability - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNckFpajZhRE5MMXFZaHJmeWRUMjJzeUFoX3dMSlJCR0d0NVZndWxBSWdmMHNxVDJlS2c3Z1ZuY3FpY3FmdVN0TlJrdGcwQzJpMHl2a2NjNVdPcWlHbUdQbHFlX0RiUG5yaVN6eEpuU2pwVUtJQVhrUEJwYndrTmdGTVpSS1ZqQU1DMU8ybEhEZEo0Z3V1WFE?oc=5",
-      "summary": "Amazon’s Bedrock and Titan Generative AI Services Enter General Availability&nbsp;&nbsp;TechRepublic",
-      "source": "Amazon",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-10T07:00:00+00:00"
-    },
-    {
-      "title": "Introducing Claude apps gateway for AWS | Amazon Web Services - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczdaTVpjWHhOblAyTDdtOTlsdnZpcmt1aG1Vc0hSOW56VkFUdzR5ZFFWaldJenVsMHhUSWE4djRmUlNpNkNId0pfbzQxNDlkX3V4dGFpTzRMSEdMLU1HVmt6a2ZOTko3c3diTHdRSXJxRm9YYWhZeUsyQzE3Q29NSHZ3X2J1RXl0TW14MXNjRQ?oc=5",
-      "summary": "Introducing Claude apps gateway for AWS | Amazon Web Services&nbsp;&nbsp;Amazon Web Services (AWS)",
-      "source": "Amazon",
       "time": "4d",
       "tags": [],
-      "published_at": "2026-07-08T19:49:22+00:00"
+      "published_at": "2026-07-09T21:16:33+00:00"
     }
   ]
 }

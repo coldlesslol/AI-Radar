@@ -2,7 +2,7 @@
   "key": "huggingface_trending",
   "title": "HuggingFace Trending 模型",
   "freq": "daily",
-  "updated": "2026-07-13T10:11:36+08:00",
+  "updated": "2026-07-14T10:05:52+08:00",
   "url": "https://huggingface.co/models?sort=trending",
   "items": [
     {
@@ -12,8 +12,8 @@
       "name": "Hy3",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 725,
-      "downloads": 8655,
+      "likes": 755,
+      "downloads": 9157,
       "url": "https://huggingface.co/tencent/Hy3"
     },
     {
@@ -23,8 +23,8 @@
       "name": "Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "pipeline_tag": "image-text-to-text",
       "pipeline_label": "image text to text",
-      "likes": 2047,
-      "downloads": 1967677,
+      "likes": 2084,
+      "downloads": 1985221,
       "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF"
     },
     {
@@ -34,8 +34,8 @@
       "name": "GLM-5.2",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 3857,
-      "downloads": 441413,
+      "likes": 3901,
+      "downloads": 464914,
       "url": "https://huggingface.co/zai-org/GLM-5.2"
     },
     {
@@ -45,130 +45,130 @@
       "name": "ThinkingCap-Qwen3.6-27B",
       "pipeline_tag": "image-text-to-text",
       "pipeline_label": "image text to text",
-      "likes": 266,
-      "downloads": 4463,
+      "likes": 311,
+      "downloads": 4909,
       "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B"
     },
     {
       "rank": 5,
-      "model_id": "InternScience/Agents-A1",
-      "author": "InternScience",
-      "name": "Agents-A1",
-      "pipeline_tag": "text-generation",
-      "pipeline_label": "文本生成",
-      "likes": 510,
-      "downloads": 29038,
-      "url": "https://huggingface.co/InternScience/Agents-A1"
-    },
-    {
-      "rank": 6,
       "model_id": "conradlocke/krea2-identity-edit",
       "author": "conradlocke",
       "name": "krea2-identity-edit",
       "pipeline_tag": "",
       "pipeline_label": "",
-      "likes": 213,
+      "likes": 256,
       "downloads": 0,
       "url": "https://huggingface.co/conradlocke/krea2-identity-edit"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "model_id": "froggeric/Qwen-Fixed-Chat-Templates",
       "author": "froggeric",
       "name": "Qwen-Fixed-Chat-Templates",
       "pipeline_tag": "",
       "pipeline_label": "",
-      "likes": 865,
+      "likes": 888,
       "downloads": 0,
       "url": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates"
     },
     {
-      "rank": 8,
-      "model_id": "baidu/Unlimited-OCR",
-      "author": "baidu",
-      "name": "Unlimited-OCR",
-      "pipeline_tag": "image-text-to-text",
-      "pipeline_label": "image text to text",
-      "likes": 1943,
-      "downloads": 1430656,
-      "url": "https://huggingface.co/baidu/Unlimited-OCR"
+      "rank": 7,
+      "model_id": "InternScience/Agents-A1",
+      "author": "InternScience",
+      "name": "Agents-A1",
+      "pipeline_tag": "text-generation",
+      "pipeline_label": "文本生成",
+      "likes": 526,
+      "downloads": 29801,
+      "url": "https://huggingface.co/InternScience/Agents-A1"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "model_id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "author": "GnLOLot",
       "name": "MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 202,
-      "downloads": 49268,
+      "likes": 221,
+      "downloads": 68714,
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF"
     },
     {
-      "rank": 10,
-      "model_id": "unsloth/DeepSeek-V4-Flash-GGUF",
-      "author": "unsloth",
-      "name": "DeepSeek-V4-Flash-GGUF",
-      "pipeline_tag": "",
-      "pipeline_label": "",
-      "likes": 152,
-      "downloads": 44614,
-      "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-GGUF"
-    },
-    {
-      "rank": 11,
-      "model_id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "author": "HauhauCS",
-      "name": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "pipeline_tag": "image-text-to-text",
-      "pipeline_label": "image text to text",
-      "likes": 2677,
-      "downloads": 2596384,
-      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive"
-    },
-    {
-      "rank": 12,
+      "rank": 9,
       "model_id": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
       "author": "OpenMOSS-Team",
       "name": "MOSS-Transcribe-Diarize",
       "pipeline_tag": "audio-text-to-text",
       "pipeline_label": "audio text to text",
-      "likes": 131,
-      "downloads": 14491,
+      "likes": 162,
+      "downloads": 39509,
       "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize"
     },
     {
-      "rank": 13,
+      "rank": 10,
+      "model_id": "baidu/Unlimited-OCR",
+      "author": "baidu",
+      "name": "Unlimited-OCR",
+      "pipeline_tag": "image-text-to-text",
+      "pipeline_label": "image text to text",
+      "likes": 1963,
+      "downloads": 1506937,
+      "url": "https://huggingface.co/baidu/Unlimited-OCR"
+    },
+    {
+      "rank": 11,
       "model_id": "nvidia/Nemotron-Labs-Audex-30B-A3B",
       "author": "nvidia",
       "name": "Nemotron-Labs-Audex-30B-A3B",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 131,
-      "downloads": 901,
+      "likes": 143,
+      "downloads": 1058,
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B"
     },
     {
+      "rank": 12,
+      "model_id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "author": "HauhauCS",
+      "name": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "pipeline_tag": "image-text-to-text",
+      "pipeline_label": "image text to text",
+      "likes": 2711,
+      "downloads": 2512124,
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive"
+    },
+    {
+      "rank": 13,
+      "model_id": "unsloth/DeepSeek-V4-Flash-GGUF",
+      "author": "unsloth",
+      "name": "DeepSeek-V4-Flash-GGUF",
+      "pipeline_tag": "",
+      "pipeline_label": "",
+      "likes": 162,
+      "downloads": 49423,
+      "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-GGUF"
+    },
+    {
       "rank": 14,
-      "model_id": "google/tabfm-1.0.0-pytorch",
-      "author": "google",
-      "name": "tabfm-1.0.0-pytorch",
-      "pipeline_tag": "tabular-classification",
-      "pipeline_label": "tabular classification",
-      "likes": 357,
-      "downloads": 20973,
-      "url": "https://huggingface.co/google/tabfm-1.0.0-pytorch"
+      "model_id": "open-gigaai/Giga-World-1",
+      "author": "open-gigaai",
+      "name": "Giga-World-1",
+      "pipeline_tag": "",
+      "pipeline_label": "",
+      "likes": 128,
+      "downloads": 0,
+      "url": "https://huggingface.co/open-gigaai/Giga-World-1"
     },
     {
       "rank": 15,
-      "model_id": "meituan-longcat/LongCat-2.0",
-      "author": "meituan-longcat",
-      "name": "LongCat-2.0",
+      "model_id": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+      "author": "nvidia",
+      "name": "NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 182,
-      "downloads": 1767,
-      "url": "https://huggingface.co/meituan-longcat/LongCat-2.0"
+      "likes": 114,
+      "downloads": 38775,
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4"
     }
   ]
 }
