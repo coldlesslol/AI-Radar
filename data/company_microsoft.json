@@ -1,14 +1,23 @@
 {
   "source": "Microsoft",
   "layer": "company",
-  "updated": "2026-07-14T10:05:11+08:00",
+  "updated": "2026-07-15T10:16:53+08:00",
   "items": [
+    {
+      "title": "I spent a fortune on a Copilot+ PC, and I’ve barely ever touched Microsoft’s AI - Digital Trends",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQejJsQlN0VF9ieTVEbzNzbnM4Nlp5VGJ2YnM3OVF3U0gwUzVwTXZoU05ManJpcGNHRmxBTHF3QjdGOURMU3ZzUEtINkxfcTE3RGhQeUtGRHZLSXYyQm5kNE9RVHdKMDJnZHVLTEc3VDZqVGZBNHVEWHFycnV4a0YxdWlHWDhTZ3BjWUhrTzVzNUVDWEtsM256TFpBWFNSeGF0aTBDUVQtX1Flb28zYk92MEpYczJFSk0?oc=5",
+      "summary": "I spent a fortune on a Copilot+ PC, and I’ve barely ever touched Microsoft’s AI&nbsp;&nbsp;Digital Trends",
+      "source": "Microsoft",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-12T09:53:30+00:00"
+    },
     {
       "title": "Windows 11 Copilot now tells you what’s slowing down your PC, while using 1GB RAM itself - Windows Latest",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUWtGRjJqa2RoS3hXeFdjUU9XaTJFODUtMXUxNUtsbkw5MjRwNlJMdmFFVWloUEM2eWxEcHFMTTQ4eGlEZ1R3SE9HWmRUX2xWUE03Q21OSEk0VVZaU1RJZlowWDZzU29pd1RiaXRRUV9vdHZpMWNmSkdHODdmemZnY3RKMmoxbkFvMmhWQU5vNVZKTmlaaTVlSFM0Z1JxN1BFbTdDdVJ3TnFCWDNqT09xc1VyLTVBWTU5UmJtMm1Pd0NwY05tRV9mRU9hMi1jUEF3TkIw?oc=5",
       "summary": "Windows 11 Copilot now tells you what’s slowing down your PC, while using 1GB RAM itself&nbsp;&nbsp;Windows Latest",
       "source": "Microsoft",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-12T01:55:37+00:00"
     },
@@ -17,45 +26,36 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XRHlIanJZd0FwcjRQc3NNZDZiSkZWNXRXZHJGN3AxOGxHUXFUSDNSd3U4YVotYkVobm9vVGY3aTdkRDNJeFFpR25WQWdhQmJ2azJWZ01XVDhCSUdENkx0TV8tYm5reEsxdzc3aVQyVlo0UQ?oc=5",
       "summary": "Windows questions? How Copilot can analyze your PC settings now&nbsp;&nbsp;ZDNET",
       "source": "Microsoft",
-      "time": "8h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-13T17:21:00+00:00"
     },
     {
-      "title": "I spent a fortune on a Copilot+ PC, and I’ve barely ever touched Microsoft’s AI - Digital Trends",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQejJsQlN0VF9ieTVEbzNzbnM4Nlp5VGJ2YnM3OVF3U0gwUzVwTXZoU05ManJpcGNHRmxBTHF3QjdGOURMU3ZzUEtINkxfcTE3RGhQeUtGRHZLSXYyQm5kNE9RVHdKMDJnZHVLTEc3VDZqVGZBNHVEWHFycnV4a0YxdWlHWDhTZ3BjWUhrTzVzNUVDWEtsM256TFpBWFNSeGF0aTBDUVQtX1Flb28zYk92MEpYczJFSk0?oc=5",
-      "summary": "I spent a fortune on a Copilot+ PC, and I’ve barely ever touched Microsoft’s AI&nbsp;&nbsp;Digital Trends",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kYWhpU0pHLVpwM0RlNzgxX1JGRlVaSmxPelVHcXJXQmFYZGszLUp4Nmw0SlRGbTBiUnR5emtEaURDXzBUUDBIWEI4Y0Q0SWZZdGNoeGxLNTZZS1BxUEdQcGduSFFlNjRTdVRxMDZiSVNtTWJSNHZfRWptNA?oc=5",
+      "summary": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot&nbsp;&nbsp;OpenAI",
       "source": "Microsoft",
-      "time": "1d",
+      "time": "5d",
       "tags": [],
-      "published_at": "2026-07-12T09:53:30+00:00"
+      "published_at": "2026-07-09T20:02:38+00:00"
     },
     {
-      "title": "Microsoft Teams: Disable Copilot and Facilitator during a meeting - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmcwYWpyc2VKd0R4d1lvcEs3RlBoanlDYlI2N0lPVEVQQ2s4c2NqU3NNMUJuSnlpbGlYaFV3cHhIR204UGNLalhhXzdCY29SUW9zUmswZUNaNnRORldLNDJ3Wk1GZW1lM1RtNzl0Ul9yeXloLTNpYnEtSHQ2a2tKbnBXbGxVbEREMWhOczVITkd2YUVIMXJVWWJiaGlqSl9sTVE0YUtVODgydlVpWmc?oc=5",
-      "summary": "Microsoft Teams: Disable Copilot and Facilitator during a meeting&nbsp;&nbsp;Notebookcheck",
+      "title": "Responsibly building the AI future - The Official Microsoft Blog",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSU1zSmNtcVUycW9TOWVKa2Qxa28tdGR0RTBXUUdCVHBveUxuV3hHekMyTnlSZUNUbk9TUXFvOE9KWlZWcl9yUV9WYTNrRl9HOUxrMThwMUxqTk5RX3M5WW1NTmdDeHBLZkVNT3Axa1VQVTVJTkFiNTlxN25TdERucnRoSE42Q3VNRUtXSmxGX3pVQQ?oc=5",
+      "summary": "Responsibly building the AI future&nbsp;&nbsp;The Official Microsoft Blog",
       "source": "Microsoft",
-      "time": "18h",
+      "time": "5d",
       "tags": [],
-      "published_at": "2026-07-13T07:27:04+00:00"
+      "published_at": "2026-07-09T16:08:34+00:00"
     },
     {
-      "title": "Microsoft pushed Copilot everywhere, but barely anyone bought it, and even fewer use it: Report - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGpLUGlqQUJ6SGdJUVg2dEpPM1hrOGJHVFlJMzFETkZmMnV5V1VzQzZxU2U2RUZtTU1qZFQyTk5XX01rY3N2YzBxVkQzVndUZnAtWjRZZExLS3YyNFVYTzRJZDlnNjRvUmNKS2ZESllRUFRZTmhyeVlpam5PdWRWZWhiVEtzNWQ1WS1NUUdsY210N19SNFpsVkNHQzBQUVZuaHdTeHc4ZHJoZw?oc=5",
-      "summary": "Microsoft pushed Copilot everywhere, but barely anyone bought it, and even fewer use it: Report&nbsp;&nbsp;Yahoo Finance",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHpKYVNrMUdfcEtpTkM4Q2VVczFna1VodlE5UU02MTI2aGtGVVhrbzM5amNnU2dMREJrcHEySUI5Z2NOMHUtOXZZeVAzZTRDcHNtQXN3cXJPNGZYdXpLcWtHSl9kamwtVEdDM2lpcEhoTWlnYUpJVlQ5Rl9UMERnZlU0MHZDa2N2bXpZVnRReGgzRFh2c2dZbDhORGZfakhUemszYkYzYUp5ZUEwSVJSWFFpdXZtYTdRTmdKMQ?oc=5",
+      "summary": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter&nbsp;&nbsp;TechCrunch",
       "source": "Microsoft",
-      "time": "3d",
+      "time": "5d",
       "tags": [],
-      "published_at": "2026-07-10T18:37:55+00:00"
-    },
-    {
-      "title": "Copilot Could Soon Answer Questions About Your PC's Hardware, Health - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTEJXMWxSZ2loTU1KMEV2eWJodk52cUpUdmp2YTdwTHlGNUFVQ0l4M3ZaWnJYZGczTlphWmxiQzllN3ZLNHRheWctcnE0cHNFb1hzS2RHRGlVc0Q1U1p4QUw0MFNBRU5NaTVlWEh5NExWNFplWHhSZ3F3SllySHlRV1ROTUR0NTFTMlpvLUFaWTF0Yml0UWY4ZQ?oc=5",
-      "summary": "Copilot Could Soon Answer Questions About Your PC's Hardware, Health&nbsp;&nbsp;PCMag",
-      "source": "Microsoft",
-      "time": "4h",
-      "tags": [],
-      "published_at": "2026-07-13T21:30:16+00:00"
+      "published_at": "2026-07-10T00:16:54+00:00"
     }
   ]
 }

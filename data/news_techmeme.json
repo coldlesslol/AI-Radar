@@ -1,97 +1,115 @@
 {
   "source": "Techmeme",
   "layer": "news",
-  "updated": "2026-07-12T10:00:06+08:00",
+  "updated": "2026-07-15T10:16:07+08:00",
   "items": [
     {
-      "title": "Current AI market dynamics point to frontier models becoming commodity infrastructure as the token crunch eases, with value shifting to products built on top (Benedict Evans)",
-      "url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
-      "summary": "Benedict Evans: Current AI market dynamics point to frontier models becoming commodity infrastructure as the token crunch eases, with value shifting to products built on top&nbsp; &mdash;&nbsp; There ",
+      "title": "Monitoring Analytics: PJM's recent electricity auction is expected to add $6.3B to customers' bills in 13 states and DC through 2029 due to data center demands (Ivan Penn/New York Times)",
+      "url": "https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html",
+      "summary": "Ivan Penn / New York Times: Monitoring Analytics: PJM's recent electricity auction is expected to add $6.3B to customers' bills in 13 states and DC through 2029 due to data center demands&nbsp; &mdash",
+      "source": "Techmeme",
+      "time": "31m",
+      "tags": [],
+      "published_at": "2026-07-15T01:45:01+00:00"
+    },
+    {
+      "title": "InstaLILY, which develops AI agents to automate sales, operations, and service workflows, raised a $60M Series B led by Energize Capital (Mike Wheatley/SiliconANGLE)",
+      "url": "https://siliconangle.com/2026/07/14/instalily-developer-ai-teammates-can-automate-complex-business-specific-work-raises-60m/",
+      "summary": "Mike Wheatley / SiliconANGLE: InstaLILY, which develops AI agents to automate sales, operations, and service workflows, raised a $60M Series B led by Energize Capital&nbsp; &mdash;&nbsp; Enterprise au",
+      "source": "Techmeme",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-15T01:10:01+00:00"
+    },
+    {
+      "title": "Sources: CoreWeave is exploring the use of financial derivatives as a potential hedge against a future drop in memory and storage chip prices (Max A. Cherney/Reuters)",
+      "url": "https://www.reuters.com/world/ai-cloud-company-coreweave-explores-wall-street-playbook-hedge-memory-chip-price-2026-07-14/",
+      "summary": "Max A. Cherney / Reuters: Sources: CoreWeave is exploring the use of financial derivatives as a potential hedge against a future drop in memory and storage chip prices&nbsp; &mdash;&nbsp; AI cloud com",
+      "source": "Techmeme",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-15T00:10:01+00:00"
+    },
+    {
+      "title": "Study: social networks drove 5.7M+ visits to nudify sites between December 2025 and March 2026, with YouTube accounting for 1.82M and X for 1.3M visits (Ej Dickson/Wired)",
+      "url": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
+      "summary": "Ej Dickson / Wired: Study: social networks drove 5.7M+ visits to nudify sites between December 2025 and March 2026, with YouTube accounting for 1.82M and X for 1.3M visits&nbsp; &mdash;&nbsp; A new st",
+      "source": "Techmeme",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-14T23:35:04+00:00"
+    },
+    {
+      "title": "OpenAI says Apple's claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple's initial outreach (David Ingram/NBC News)",
+      "url": "https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376",
+      "summary": "David Ingram / NBC News: OpenAI says Apple's claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple's initial outreach&nbsp; &mdash;&",
       "source": "Techmeme",
       "time": "3h",
       "tags": [],
-      "published_at": "2026-07-11T22:45:01+00:00"
+      "published_at": "2026-07-14T22:40:01+00:00"
     },
     {
-      "title": "Psychologist Peter Gray argues that school stress, not smartphone use, is the main driver of the teen mental health crisis, challenging Jonathan Haidt's thesis (Kaitlyn Tiffany/The Atlantic)",
-      "url": "https://www.theatlantic.com/technology/2026/07/phones-haidt-play-gray/687846/?gift=NBdGSmKfDQzLc1B6N1F-gZWfgmC0LBdSSsf8j0CnBOQ&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share",
-      "summary": "Kaitlyn Tiffany / The Atlantic: Psychologist Peter Gray argues that school stress, not smartphone use, is the main driver of the teen mental health crisis, challenging Jonathan Haidt's thesis&nbsp; &m",
+      "title": "The Trump administration launches the \"Gold Eagle\" federal clearinghouse for sharing AI cyber threat information between the government and private sector (Derek B. Johnson/CyberScoop)",
+      "url": "https://cyberscoop.com/trump-gold-eagle-ai-cyber-clearinghouse/",
+      "summary": "Derek B. Johnson / CyberScoop: The Trump administration launches the &ldquo;Gold Eagle&rdquo; federal clearinghouse for sharing AI cyber threat information between the government and private sector&nb",
+      "source": "Techmeme",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-14T22:30:01+00:00"
+    },
+    {
+      "title": "Cybersecurity stocks rallied on Tuesday after IBM CEO Arvind Krishna flagged cyber fears as a top priority for customers; CrowdStrike jumped 12%, Okta rose 11% (Samantha Subin/CNBC)",
+      "url": "https://www.cnbc.com/2026/07/14/cybersecurity-stocks-ai-spending-mythos.html",
+      "summary": "Samantha Subin / CNBC: Cybersecurity stocks rallied on Tuesday after IBM CEO Arvind Krishna flagged cyber fears as a top priority for customers; CrowdStrike jumped 12%, Okta rose 11%&nbsp; &mdash;&nbs",
+      "source": "Techmeme",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-14T22:20:01+00:00"
+    },
+    {
+      "title": "The UK government proposes a default overnight social media curfew for 16- and 17-year-olds and disabling features like auto-play and infinite scroll by default (Muvija M/Reuters)",
+      "url": "https://www.reuters.com/technology/uk-plans-default-midnight-social-media-curfew-16-17-year-olds-2026-07-14/",
+      "summary": "Muvija M / Reuters: The UK government proposes a default overnight social media curfew for 16- and 17-year-olds and disabling features like auto-play and infinite scroll by default&nbsp; &mdash;&nbsp;",
+      "source": "Techmeme",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-14T22:05:03+00:00"
+    },
+    {
+      "title": "Anthropic faces ridicule and criticism for an ad titled \"There's hope in hard questions\" that unsettled viewers with weird graveyard imagery and doomer-ist tone (Lucas Ropek/TechCrunch)",
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "summary": "Lucas Ropek / TechCrunch: Anthropic faces ridicule and criticism for an ad titled &ldquo;There's hope in hard questions&rdquo; that unsettled viewers with weird graveyard imagery and doomer-ist tone&n",
       "source": "Techmeme",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-11T20:15:02+00:00"
+      "published_at": "2026-07-14T20:35:01+00:00"
     },
     {
-      "title": "Apple's lawsuit could sidetrack OpenAI's hardware aspirations for years, or possibly forever, as the startup gets into yet another controversy and messy divorce (M.G. Siegler/Spyglass)",
-      "url": "https://spyglass.org/apple-vs-openai/",
-      "summary": "M.G. Siegler / Spyglass: Apple's lawsuit could sidetrack OpenAI's hardware aspirations for years, or possibly forever, as the startup gets into yet another controversy and messy divorce&nbsp; &mdash;&",
+      "title": "Adapter, which offers an infrastructure layer to help users leverage and control data for use by AI agents and apps, emerges from stealth with $17.8M in funding (Alex Konrad/Upstarts Media)",
+      "url": "https://www.upstartsmedia.com/p/deep-dive-adapter-launches-ai-cognition",
+      "summary": "Alex Konrad / Upstarts Media: Adapter, which offers an infrastructure layer to help users leverage and control data for use by AI agents and apps, emerges from stealth with $17.8M in funding&nbsp; &md",
       "source": "Techmeme",
-      "time": "7h",
+      "time": "6h",
       "tags": [],
-      "published_at": "2026-07-11T18:15:02+00:00"
+      "published_at": "2026-07-14T20:15:01+00:00"
     },
     {
-      "title": "Filing: Google urged the European Commission not to target DNS resolvers, VPNs, or IPs to fight piracy, calling the measures ineffective and easily circumvented (Ernesto Van der Sar/TorrentFreak)",
-      "url": "https://torrentfreak.com/google-opposes-site-blocking-in-europe-as-u-s-piracy-blocking-plans-gain-momentum/",
-      "summary": "Ernesto Van der Sar / TorrentFreak: Filing: Google urged the European Commission not to target DNS resolvers, VPNs, or IPs to fight piracy, calling the measures ineffective and easily circumvented&nbs",
+      "title": "Overtone, a \"voice- and audio-forward\" dating service founded by Hinge creator Justin McLeod that uses AI to make \"highly curated introductions\", raised $18M (Amanda Silberling/TechCrunch)",
+      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+      "summary": "Amanda Silberling / TechCrunch: Overtone, a &ldquo;voice- and audio-forward&rdquo; dating service founded by Hinge creator Justin McLeod that uses AI to make &ldquo;highly curated introductions&rdquo;",
       "source": "Techmeme",
-      "time": "10h",
+      "time": "6h",
       "tags": [],
-      "published_at": "2026-07-11T15:45:01+00:00"
+      "published_at": "2026-07-14T20:00:50+00:00"
     },
     {
-      "title": "US software development job postings on Indeed have grown by ~15% since the launch of Claude Code in February 2025, while overall job postings fell by 7% (Guillermo Gallacher/Indeed Hiring Lab)",
-      "url": "https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/",
-      "summary": "Guillermo Gallacher / Indeed Hiring Lab: US software development job postings on Indeed have grown by ~15% since the launch of Claude Code in February 2025, while overall job postings fell by 7%&nbsp;",
+      "title": "A US judge dismisses a proposed class action accusing Apple of failing to stop the dissemination of CSAM through iCloud, saying Section 230 shields the company (Diana Novak Jones/Reuters)",
+      "url": "https://www.reuters.com/business/apple-wins-dismissal-lawsuit-over-child-sexual-abuse-material-icloud-2026-07-14/",
+      "summary": "Diana Novak Jones / Reuters: A US judge dismisses a proposed class action accusing Apple of failing to stop the dissemination of CSAM through iCloud, saying Section 230 shields the company&nbsp; &mdas",
       "source": "Techmeme",
-      "time": "12h",
+      "time": "6h",
       "tags": [],
-      "published_at": "2026-07-11T13:45:02+00:00"
-    },
-    {
-      "title": "How members of the extremist group Boko Haram are using AI chatbots to design explosives, fix or upgrade weapons, and brainstorm attack ideas (New York Times)",
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&amp;smid=url-share",
-      "summary": "New York Times: How members of the extremist group Boko Haram are using AI chatbots to design explosives, fix or upgrade weapons, and brainstorm attack ideas&nbsp; &mdash;&nbsp; A.I. chatbots are not ",
-      "source": "Techmeme",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-11T09:45:00+00:00"
-    },
-    {
-      "title": "An analysis of 1M+ social media posts from April 24 to June 30: ~25% of longform posts with 250+ words were fully AI-generated; on LinkedIn, the figure was 41% (Max Spero/Pangram Labs)",
-      "url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "summary": "Max Spero / Pangram Labs: An analysis of 1M+ social media posts from April 24 to June 30: ~25% of longform posts with 250+ words were fully AI-generated; on LinkedIn, the figure was 41%&nbsp; &mdash;&",
-      "source": "Techmeme",
-      "time": "20h",
-      "tags": [],
-      "published_at": "2026-07-11T05:50:01+00:00"
-    },
-    {
-      "title": "OpenAI's head of safety, Johannes Heidecke, is leaving as OpenAI integrates its research and safety teams; Mia Glaese will become VP of research and safety (Maxwell Zeff/Wired)",
-      "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "summary": "Maxwell Zeff / Wired: OpenAI's head of safety, Johannes Heidecke, is leaving as OpenAI integrates its research and safety teams; Mia Glaese will become VP of research and safety&nbsp; &mdash;&nbsp; Jo",
-      "source": "Techmeme",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-11T01:45:01+00:00"
-    },
-    {
-      "title": "Thinking Machines says its mission is to build AI that people and organizations can shape and make their own, and that \"extends human will and judgment\" (Thinking Machines Lab)",
-      "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
-      "summary": "Thinking Machines Lab: Thinking Machines says its mission is to build AI that people and organizations can shape and make their own, and that &ldquo;extends human will and judgment&rdquo;&nbsp; &mdash",
-      "source": "Techmeme",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-11T00:25:01+00:00"
-    },
-    {
-      "title": "SK Hynix CEO Kwak Noh-Jung says the memory industry is heading for its worst-ever supply shortage in 2027 and demand will outstrip supply beyond 2030 (Reuters)",
-      "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-ceo-sees-worst-ever-memory-supply-shortage-2027-says-demand-outstrip-2026-07-10/",
-      "summary": "Reuters: SK Hynix CEO Kwak Noh-Jung says the memory industry is heading for its worst-ever supply shortage in 2027 and demand will outstrip supply beyond 2030&nbsp; &mdash;&nbsp; SK Hynix (000660.KS) ",
-      "source": "Techmeme",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-10T23:45:00+00:00"
+      "published_at": "2026-07-14T19:45:01+00:00"
     }
   ]
 }

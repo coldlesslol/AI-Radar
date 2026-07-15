@@ -1,97 +1,97 @@
 {
   "source": "The Verge",
   "layer": "news",
-  "updated": "2026-07-12T10:00:07+08:00",
+  "updated": "2026-07-15T10:16:10+08:00",
   "items": [
     {
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The featu",
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additiona",
+      "source": "The Verge",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-14T21:26:32+00:00"
+    },
+    {
+      "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+      "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published f",
+      "source": "The Verge",
+      "time": "6h",
+      "tags": [],
+      "published_at": "2026-07-14T19:25:00+00:00"
+    },
+    {
+      "title": "Meta accused of using biased AI targeting for mass layoffs",
+      "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+      "summary": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employe",
+      "source": "The Verge",
+      "time": "8h",
+      "tags": [],
+      "published_at": "2026-07-14T17:18:11+00:00"
+    },
+    {
+      "title": "The Google Images homepage will recommend photos even before you search",
+      "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+      "summary": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you",
+      "source": "The Verge",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-14T16:00:00+00:00"
+    },
+    {
+      "title": "Spotify is now an AI chatbot, too",
+      "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature",
+      "source": "The Verge",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-14T15:47:36+00:00"
+    },
+    {
+      "title": "Sam Altman didn’t need another lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal a",
+      "source": "The Verge",
+      "time": "12h",
+      "tags": [],
+      "published_at": "2026-07-14T14:01:07+00:00"
+    },
+    {
+      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "summary": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US",
+      "source": "The Verge",
+      "time": "14h",
+      "tags": [],
+      "published_at": "2026-07-14T11:43:29+00:00"
+    },
+    {
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legisla",
+      "source": "The Verge",
+      "time": "17h",
+      "tags": [],
+      "published_at": "2026-07-14T09:00:00+00:00"
+    },
+    {
+      "title": "Siri AI is already changing how I use my iPhone",
+      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "summary": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the h",
       "source": "The Verge",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-10T23:49:50+00:00"
+      "published_at": "2026-07-13T20:43:20+00:00"
     },
     {
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by",
+      "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
+      "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product sampl",
       "source": "The Verge",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-10T21:36:51+00:00"
-    },
-    {
-      "title": "Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
-      "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-      "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out ",
-      "source": "The Verge",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-10T13:45:02+00:00"
-    },
-    {
-      "title": "Would you host part of an AI data center in your home?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-      "summary": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is laun",
-      "source": "The Verge",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-10T13:20:25+00:00"
-    },
-    {
-      "title": "Microsoft’s carbon emissions went up 25 percent last year",
-      "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-      "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions ",
-      "source": "The Verge",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-10T00:04:13+00:00"
-    },
-    {
-      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-      "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in Apri",
-      "source": "The Verge",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-09T23:24:04+00:00"
-    },
-    {
-      "title": "The ChatGPT browser is already dead",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "summary": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of n",
-      "source": "The Verge",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-09T20:34:05+00:00"
-    },
-    {
-      "title": "Google will now tell you if an ad was made with AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-      "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced o",
-      "source": "The Verge",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-09T20:11:38+00:00"
-    },
-    {
-      "title": "Microsoft’s patch Tuesdays are about to get bigger",
-      "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-      "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"cust",
-      "source": "The Verge",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-09T17:00:00+00:00"
-    },
-    {
-      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-      "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump a",
-      "source": "The Verge",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-09T17:00:00+00:00"
+      "published_at": "2026-07-13T17:00:00+00:00"
     }
   ]
 }

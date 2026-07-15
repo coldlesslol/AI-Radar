@@ -1,32 +1,86 @@
 {
   "source": "Product Hunt",
   "layer": "news",
-  "updated": "2026-07-14T10:05:01+08:00",
+  "updated": "2026-07-15T10:16:31+08:00",
   "items": [
     {
-      "title": "Osaurus",
-      "url": "https://www.producthunt.com/products/osaurus",
-      "summary": "Open source agents that run 100% locally on your Mac Discussion | Link",
+      "title": "Sourclip",
+      "url": "https://www.producthunt.com/products/sourclip",
+      "summary": "Turn NotebookLM into a complete research workflow Discussion | Link",
       "source": "Product Hunt",
-      "time": "6d",
+      "time": "4d",
       "tags": [],
-      "published_at": "2026-07-07T23:40:15+00:00"
+      "published_at": "2026-07-10T18:08:01+00:00"
     },
     {
-      "title": "Loomal",
-      "url": "https://www.producthunt.com/products/loomal",
-      "summary": "Monetize any MCP server in 5 minutes with no % skim. Discussion | Link",
+      "title": "loopclub",
+      "url": "https://www.producthunt.com/products/loopclub",
+      "summary": "The shared drum machine to jam with strangers or with Claude Discussion | Link",
+      "source": "Product Hunt",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-13T14:15:15+00:00"
+    },
+    {
+      "title": "ClawTeams",
+      "url": "https://www.producthunt.com/products/clawteams",
+      "summary": "The first goal-driven, proactive AI team for e-commerce Discussion | Link",
       "source": "Product Hunt",
       "time": "6d",
       "tags": [],
-      "published_at": "2026-07-07T07:36:59+00:00"
+      "published_at": "2026-07-09T01:25:53+00:00"
+    },
+    {
+      "title": "VocalVia",
+      "url": "https://www.producthunt.com/products/vocalvia",
+      "summary": "Turn documents and articles into editable multi-voice audio Discussion | Link",
+      "source": "Product Hunt",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-13T08:25:34+00:00"
+    },
+    {
+      "title": "Claude Overlay",
+      "url": "https://www.producthunt.com/products/claude-overlay",
+      "summary": "A floating Claude Code chat that sees your screen Discussion | Link",
+      "source": "Product Hunt",
+      "time": "4d",
+      "tags": [],
+      "published_at": "2026-07-10T14:54:54+00:00"
+    },
+    {
+      "title": "Agentcard for companies",
+      "url": "https://www.producthunt.com/products/agent-card",
+      "summary": "Give your agent a debit card Discussion | Link",
+      "source": "Product Hunt",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-14T03:22:01+00:00"
+    },
+    {
+      "title": "Branda",
+      "url": "https://www.producthunt.com/products/branda-open-source-on-brand-ad-maker",
+      "summary": "Turn any domain into on-brand ads, MIT Open Source Discussion | Link",
+      "source": "Product Hunt",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-14T02:16:02+00:00"
+    },
+    {
+      "title": "Goose Ads Remixer",
+      "url": "https://www.producthunt.com/products/gooseworks",
+      "summary": "Remix the ads already winning in your niche Discussion | Link",
+      "source": "Product Hunt",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-12T09:28:15+00:00"
     },
     {
       "title": "AgentKey",
       "url": "https://www.producthunt.com/products/agentkey",
       "summary": "One-stop live data marketplace for your agent Discussion | Link",
       "source": "Product Hunt",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-10T04:48:14+00:00"
     },
@@ -35,25 +89,16 @@
       "url": "https://www.producthunt.com/products/fudge-mcp",
       "summary": "Give your AI agents design taste from existing websites Discussion | Link",
       "source": "Product Hunt",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-10T14:06:45+00:00"
-    },
-    {
-      "title": "NoMac.app",
-      "url": "https://www.producthunt.com/products/nomac",
-      "summary": "The headless iOS app publishing pipeline for AI agents. Discussion | Link",
-      "source": "Product Hunt",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-10T21:07:45+00:00"
     },
     {
       "title": "Simba Voice Agents",
       "url": "https://www.producthunt.com/products/speechify",
       "summary": "Voice agents powered by Simba 3.2 the world's #1 voice model Discussion | Link",
       "source": "Product Hunt",
-      "time": "5d",
+      "time": "6d",
       "tags": [],
       "published_at": "2026-07-08T17:33:04+00:00"
     },
@@ -62,34 +107,25 @@
       "url": "https://www.producthunt.com/products/nyx-4",
       "summary": "Earn $100K+ in weekly rewards for hacking AI agents. Discussion | Link",
       "source": "Product Hunt",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-12T22:32:12+00:00"
     },
     {
-      "title": "Miora",
-      "url": "https://www.producthunt.com/products/miora-2",
-      "summary": "Scale your creativity on editable canvas with agent memory Discussion | Link",
+      "title": "NoMac.app",
+      "url": "https://www.producthunt.com/products/nomac",
+      "summary": "The headless iOS app publishing pipeline for AI agents. Discussion | Link",
       "source": "Product Hunt",
-      "time": "6d",
+      "time": "4d",
       "tags": [],
-      "published_at": "2026-07-07T15:48:10+00:00"
-    },
-    {
-      "title": "Kickbacks CLI",
-      "url": "https://www.producthunt.com/products/kickbacks-cli",
-      "summary": "The terminal and Mac menu bar companion for Kickbacks.ai Discussion | Link",
-      "source": "Product Hunt",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-07T02:18:04+00:00"
+      "published_at": "2026-07-10T21:07:45+00:00"
     },
     {
       "title": "Basedash SCIM",
       "url": "https://www.producthunt.com/products/basedash",
       "summary": "Your org changes. Access keeps up. Discussion | Link",
       "source": "Product Hunt",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-11T02:40:25+00:00"
     },
@@ -98,45 +134,9 @@
       "url": "https://www.producthunt.com/products/chatgpt-work",
       "summary": "Partner for your most ambitious work Discussion | Link",
       "source": "Product Hunt",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-07-09T17:16:44+00:00"
-    },
-    {
-      "title": "GPT-5.6",
-      "url": "https://www.producthunt.com/products/openai",
-      "summary": "A new standard for intelligence and efficiency Discussion | Link",
-      "source": "Product Hunt",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-07-09T17:08:01+00:00"
-    },
-    {
-      "title": "Muse Spark 1.1 by Meta AI",
-      "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
-      "summary": "Multimodal reasoning model built for agentic tasks Discussion | Link",
-      "source": "Product Hunt",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-07-09T15:01:28+00:00"
-    },
-    {
-      "title": "StoryChief Connect",
-      "url": "https://www.producthunt.com/products/storychief-io",
-      "summary": "Publish content from Claude to your website and socials Discussion | Link",
-      "source": "Product Hunt",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-07-09T10:43:58+00:00"
-    },
-    {
-      "title": "Sim",
-      "url": "https://www.producthunt.com/products/sim-studio",
-      "summary": "Open-source workspace for AI agents and workflows Discussion | Link",
-      "source": "Product Hunt",
       "time": "5d",
       "tags": [],
-      "published_at": "2026-07-08T18:55:06+00:00"
+      "published_at": "2026-07-09T17:16:44+00:00"
     }
   ]
 }

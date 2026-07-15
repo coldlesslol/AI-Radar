@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T10:06:09+08:00",
+  "updated": "2026-07-15T10:17:57+08:00",
   "files": {
     "analysis_inter": "analysis_inter.json",
     "analysis_mckinsey": "analysis_mckinsey.json",
@@ -63,7 +63,7 @@
     "stocks": "stocks.json"
   },
   "stats": {
-    "total_items": 985,
+    "total_items": 999,
     "last_run_status": "ok",
     "errors": [
       {
@@ -330,11 +330,21 @@
         "file": "news_semianalysis",
         "error": "HTTPSConnectionPool(host='www.semianalysis.com', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"HTTPSConnection(host='www.semianalysis.com', port=443): Failed to resolve 'www.semianalysis.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
         "at": "2026-07-14T10:04:52+08:00"
+      },
+      {
+        "file": "rankings_openrouter",
+        "error": "HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/frontend/v1/rankings/models (Caused by NameResolutionError(\"HTTPSConnection(host='openrouter.ai', port=443): Failed to resolve 'openrouter.ai' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "at": "2026-07-15T10:16:04+08:00"
+      },
+      {
+        "file": "analysis_tisi",
+        "error": "HTTPSConnectionPool(host='www.tisi.org', port=443): Max retries exceeded with url: /feed (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
+        "at": "2026-07-15T10:16:48+08:00"
       }
     ],
     "per_file": {
       "analysis_inter": 5,
-      "analysis_mckinsey": 0,
+      "analysis_mckinsey": 10,
       "analysis_raschka": 1,
       "analysis_tisi": 0,
       "archive": 400,
@@ -347,7 +357,7 @@
       "company_broadcom": 6,
       "company_cohere": 6,
       "company_deepseek": 6,
-      "company_meta": 6,
+      "company_meta": 3,
       "company_microsoft": 6,
       "company_minimax": 0,
       "company_mistral": 6,
@@ -355,25 +365,25 @@
       "company_oracle": 6,
       "company_runway": 3,
       "company_spacex": 6,
-      "company_tesla": 2,
+      "company_tesla": 1,
       "company_中际旭创": 6,
       "company_商汤": 6,
       "company_字节豆包": 6,
-      "company_寒武纪": 5,
-      "company_拓维信息": 1,
-      "company_智谱ai": 3,
+      "company_寒武纪": 3,
+      "company_拓维信息": 3,
+      "company_智谱ai": 2,
       "company_月之暗面": 6,
       "company_百度ai": 0,
       "company_腾讯": 6,
       "company_阿里巴巴": 4,
-      "digest": 116,
+      "digest": 119,
       "filings": 26,
-      "github_trending": 5,
+      "github_trending": 7,
       "huggingface_trending": 15,
       "media_新智元": 6,
       "media_机器之心": 6,
       "news_36kr": 20,
-      "news_ars": 13,
+      "news_ars": 15,
       "news_benedict": 1,
       "news_import_ai": 4,
       "news_jiqizhixin": 0,
@@ -383,7 +393,7 @@
       "news_producthunt": 15,
       "news_qbitai": 10,
       "news_semianalysis": 0,
-      "news_techmeme": 10,
+      "news_techmeme": 12,
       "news_tldr_ai": 20,
       "news_tmtpost": 15,
       "news_venturebeat": 0,

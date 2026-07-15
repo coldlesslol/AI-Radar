@@ -1,14 +1,13 @@
 {
-  "updated": "2026-07-14T10:05:49+08:00",
+  "updated": "2026-07-15T10:17:36+08:00",
   "stocks": [
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
       "region": "US",
       "currency": "USD",
-      "price": 203.53,
+      "price": 211.8,
       "history_30d": [
-        210.89,
         224.1,
         222.56,
         214.5,
@@ -37,7 +36,8 @@
         204.12,
         202.78,
         210.96,
-        203.53
+        203.53,
+        211.8
       ],
       "url": "https://finance.yahoo.com/quote/NVDA"
     },
@@ -46,9 +46,8 @@
       "name": "Microsoft",
       "region": "US",
       "currency": "USD",
-      "price": 390.99,
+      "price": 384.93,
       "history_30d": [
-        450.24,
         460.52,
         441.31,
         427.34,
@@ -77,7 +76,8 @@
         383.34,
         384.36,
         385.1,
-        390.99
+        390.99,
+        384.93
       ],
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
@@ -86,9 +86,8 @@
       "name": "Alphabet",
       "region": "US",
       "currency": "USD",
-      "price": 352.51,
+      "price": 359.51,
       "history_30d": [
-        380.11,
         376.15,
         361.63,
         358.78,
@@ -117,7 +116,8 @@
         361.92,
         358.89,
         357.18,
-        352.51
+        352.51,
+        359.51
       ],
       "url": "https://finance.yahoo.com/quote/GOOGL"
     },
@@ -126,9 +126,8 @@
       "name": "Amazon",
       "region": "US",
       "currency": "USD",
-      "price": 247.31,
+      "price": 247.49,
       "history_30d": [
-        270.64,
         261.26,
         256.52,
         250.02,
@@ -157,7 +156,8 @@
         243.62,
         247.04,
         245.34,
-        247.31
+        247.31,
+        247.49
       ],
       "url": "https://finance.yahoo.com/quote/AMZN"
     },
@@ -166,9 +166,8 @@
       "name": "Meta",
       "region": "US",
       "currency": "USD",
-      "price": 656.73,
+      "price": 661.04,
       "history_30d": [
-        631.92,
         599.91,
         597.08,
         622.4,
@@ -197,7 +196,8 @@
         603.12,
         631.48,
         669.21,
-        656.73
+        656.73,
+        661.04
       ],
       "url": "https://finance.yahoo.com/quote/META"
     },
@@ -206,9 +206,8 @@
       "name": "AMD",
       "region": "US",
       "currency": "USD",
-      "price": 534.39,
+      "price": 548.13,
       "history_30d": [
-        516.1,
         510.13,
         521.54,
         542.52,
@@ -237,7 +236,8 @@
         517.41,
         546.72,
         557.89,
-        534.39
+        534.39,
+        548.13
       ],
       "url": "https://finance.yahoo.com/quote/AMD"
     },
@@ -246,9 +246,8 @@
       "name": "Broadcom",
       "region": "US",
       "currency": "USD",
-      "price": 384.05,
+      "price": 389.11,
       "history_30d": [
-        446.06,
         459.24,
         480.81,
         478.47,
@@ -277,7 +276,8 @@
         388.69,
         401.11,
         399.97,
-        384.05
+        384.05,
+        389.11
       ],
       "url": "https://finance.yahoo.com/quote/AVGO"
     },
@@ -286,9 +286,8 @@
       "name": "Tesla",
       "region": "US",
       "currency": "USD",
-      "price": 394.76,
+      "price": 396.18,
       "history_30d": [
-        435.79,
         415.88,
         423.74,
         423.7,
@@ -317,7 +316,8 @@
         394.06,
         406.55,
         407.76,
-        394.76
+        394.76,
+        396.18
       ],
       "url": "https://finance.yahoo.com/quote/TSLA"
     },
@@ -326,9 +326,8 @@
       "name": "ARM",
       "region": "US",
       "currency": "USD",
-      "price": 298.99,
+      "price": 281.17,
       "history_30d": [
-        353.29,
         408.85,
         402.71,
         411.83,
@@ -357,7 +356,8 @@
         300.24,
         327.87,
         323.39,
-        298.99
+        298.99,
+        281.17
       ],
       "url": "https://finance.yahoo.com/quote/ARM"
     },
@@ -366,9 +366,8 @@
       "name": "Oracle",
       "region": "US",
       "currency": "USD",
-      "price": 131.54,
+      "price": 127.94,
       "history_30d": [
-        225.0,
         247.29,
         243.73,
         229.53,
@@ -397,7 +396,8 @@
         140.0,
         143.72,
         140.64,
-        131.54
+        131.54,
+        127.94
       ],
       "url": "https://finance.yahoo.com/quote/ORCL"
     },
@@ -406,7 +406,7 @@
       "name": "SpaceX",
       "region": "US",
       "currency": "USD",
-      "price": 139.14,
+      "price": 136.08,
       "history_30d": [
         160.95,
         192.5,
@@ -427,7 +427,8 @@
         148.3,
         152.16,
         145.3,
-        139.14
+        139.14,
+        136.08
       ],
       "url": "https://finance.yahoo.com/quote/SPCX"
     },
@@ -436,9 +437,8 @@
       "name": "寒武纪",
       "region": "CN",
       "currency": "CNY",
-      "price": 1375.2,
+      "price": 1398.89,
       "history_30d": [
-        1300.0,
         1378.1,
         1358.9,
         1299.2,
@@ -467,7 +467,8 @@
         1535.01,
         1400.0,
         1390.0,
-        1375.2
+        1411.0,
+        1398.89
       ],
       "url": "https://finance.yahoo.com/quote/688256.SS"
     },
@@ -476,9 +477,8 @@
       "name": "中际旭创",
       "region": "CN",
       "currency": "CNY",
-      "price": 1117.76,
+      "price": 1180.0,
       "history_30d": [
-        1191.81,
         1275.0,
         1280.0,
         1179.99,
@@ -507,7 +507,8 @@
         1194.9,
         1093.98,
         1108.0,
-        1117.76
+        1184.05,
+        1180.0
       ],
       "url": "https://finance.yahoo.com/quote/300308.SZ"
     },
@@ -516,9 +517,8 @@
       "name": "拓维信息",
       "region": "CN",
       "currency": "CNY",
-      "price": 31.21,
+      "price": 29.0,
       "history_30d": [
-        30.04,
         29.87,
         29.03,
         28.39,
@@ -547,7 +547,8 @@
         31.92,
         32.08,
         33.0,
-        31.21
+        30.59,
+        29.0
       ],
       "url": "https://finance.yahoo.com/quote/002261.SZ"
     },
@@ -556,9 +557,8 @@
       "name": "商汤",
       "region": "HK",
       "currency": "HKD",
-      "price": 1.26,
+      "price": 1.34,
       "history_30d": [
-        1.76,
         1.81,
         1.73,
         1.65,
@@ -587,7 +587,8 @@
         1.38,
         1.41,
         1.33,
-        1.26
+        1.32,
+        1.34
       ],
       "url": "https://finance.yahoo.com/quote/0020.HK"
     },
@@ -596,9 +597,8 @@
       "name": "阿里巴巴",
       "region": "HK",
       "currency": "HKD",
-      "price": 107.2,
+      "price": 114.3,
       "history_30d": [
-        122.66,
         130.75,
         126.46,
         123.36,
@@ -627,7 +627,8 @@
         108.0,
         110.2,
         110.7,
-        107.2
+        110.8,
+        114.3
       ],
       "url": "https://finance.yahoo.com/quote/9988.HK"
     },
@@ -636,9 +637,8 @@
       "name": "腾讯",
       "region": "HK",
       "currency": "HKD",
-      "price": 450.6,
+      "price": 474.4,
       "history_30d": [
-        436.0,
         481.6,
         466.4,
         459.0,
@@ -667,7 +667,8 @@
         469.6,
         460.2,
         457.6,
-        450.6
+        456.2,
+        474.4
       ],
       "url": "https://finance.yahoo.com/quote/0700.HK"
     },
@@ -676,9 +677,8 @@
       "name": "智谱AI",
       "region": "HK",
       "currency": "HKD",
-      "price": 1533.0,
+      "price": 1667.0,
       "history_30d": [
-        1466.0,
         1412.0,
         1462.0,
         1426.0,
@@ -707,7 +707,8 @@
         2032.0,
         1640.0,
         1645.0,
-        1533.0
+        1600.0,
+        1667.0
       ],
       "url": "https://finance.yahoo.com/quote/2513.HK"
     },
@@ -716,9 +717,8 @@
       "name": "MiniMax",
       "region": "HK",
       "currency": "HKD",
-      "price": 212.8,
+      "price": 251.8,
       "history_30d": [
-        708.0,
         667.5,
         675.0,
         663.5,
@@ -747,7 +747,8 @@
         297.4,
         268.6,
         222.6,
-        212.8
+        230.0,
+        251.8
       ],
       "url": "https://finance.yahoo.com/quote/0100.HK"
     }
@@ -759,9 +760,8 @@
       "name": "S&P 500",
       "region": "US",
       "currency": "USD",
-      "price": 7515.34,
+      "price": 7543.59,
       "history_30d": [
-        7580.06,
         7599.96,
         7609.78,
         7553.68,
@@ -790,7 +790,8 @@
         7482.71,
         7543.64,
         7575.39,
-        7515.34
+        7515.34,
+        7543.59
       ],
       "url": "https://finance.yahoo.com/quote/^GSPC"
     },
@@ -799,9 +800,8 @@
       "name": "QQQ",
       "region": "US",
       "currency": "USD",
-      "price": 711.74,
+      "price": 719.71,
       "history_30d": [
-        737.5,
         741.92,
         745.34,
         743.39,
@@ -830,7 +830,8 @@
         711.44,
         723.28,
         725.51,
-        711.74
+        711.74,
+        719.71
       ],
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
@@ -839,9 +840,8 @@
       "name": "上证综指",
       "region": "CN",
       "currency": "CNY",
-      "price": 3899.67,
+      "price": 3981.25,
       "history_30d": [
-        4075.1,
         4083.97,
         4057.78,
         4027.74,
@@ -870,7 +870,7 @@
         4036.59,
         3996.16,
         3913.79,
-        3899.67
+        3981.25
       ],
       "url": "https://finance.yahoo.com/quote/000001.SS"
     },
@@ -879,9 +879,8 @@
       "name": "沪深300",
       "region": "CN",
       "currency": "CNY",
-      "price": 4681.64,
+      "price": 4819.39,
       "history_30d": [
-        4914.56,
         4938.81,
         4904.75,
         4816.92,
@@ -909,7 +908,7 @@
         4755.53,
         4876.31,
         4780.79,
-        4681.64
+        4819.39
       ],
       "url": "https://finance.yahoo.com/quote/000300.SS"
     },
@@ -918,9 +917,8 @@
       "name": "恒生指数",
       "region": "HK",
       "currency": "HKD",
-      "price": 23916.84,
+      "price": 24689.49,
       "history_30d": [
-        25398.18,
         26038.32,
         25633.21,
         25253.4,
@@ -949,7 +947,7 @@
         24030.18,
         24175.12,
         24213.72,
-        23916.84
+        24689.49
       ],
       "url": "https://finance.yahoo.com/quote/^HSI"
     }

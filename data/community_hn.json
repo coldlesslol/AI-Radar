@@ -1,187 +1,187 @@
 {
   "source": "HN",
   "layer": "community",
-  "updated": "2026-07-13T10:10:40+08:00",
+  "updated": "2026-07-15T10:16:19+08:00",
   "items": [
     {
-      "title": "Ask HN: Add flag for AI-generated articles",
-      "url": "https://news.ycombinator.com/item?id=48886741",
-      "summary": "Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (like",
-      "source": "HN",
-      "time": "46m",
-      "tags": [],
-      "published_at": "2026-07-13T01:24:20+00:00"
-    },
-    {
-      "title": "MacKenzie Scott's giving, in quality-adjusted life years",
-      "url": "https://maxghenis.com/mackenzie-scott-qaly/",
-      "summary": "Article URL: https://maxghenis.com/mackenzie-scott-qaly/ Comments URL: https://news.ycombinator.com/item?id=48886311 Points: 49 # Comments: 20",
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "summary": "Article URL: https://tailscale.com/security-bulletins Comments URL: https://news.ycombinator.com/item?id=48915004 Points: 31 # Comments: 8",
       "source": "HN",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-13T00:18:16+00:00"
+      "published_at": "2026-07-15T01:08:26+00:00"
     },
     {
-      "title": "Circular Obstacle Pathfinding (2017)",
-      "url": "https://redblobgames.github.io/circular-obstacle-pathfinding/",
-      "summary": "Article URL: https://redblobgames.github.io/circular-obstacle-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=48886040 Points: 8 # Comments: 1",
+      "title": "Data centers have hiked electricity prices on the public by $23B",
+      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
+      "summary": "Article URL: https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/ Comments URL: https://news.ycombinator.com/item?id=48914683 Points: 47 # Comments: 12",
+      "source": "HN",
+      "time": "1h",
+      "tags": [],
+      "published_at": "2026-07-15T00:20:31+00:00"
+    },
+    {
+      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+      "url": "https://www.starfleetmath.com/",
+      "summary": "Article URL: https://www.starfleetmath.com/ Comments URL: https://news.ycombinator.com/item?id=48914646 Points: 20 # Comments: 4",
       "source": "HN",
       "time": "2h",
       "tags": [],
-      "published_at": "2026-07-12T23:42:41+00:00"
+      "published_at": "2026-07-15T00:15:56+00:00"
     },
     {
-      "title": "Designing and assembling my first PCB",
-      "url": "https://vilkeliskis.com/b/2026/0711.html",
-      "summary": "Article URL: https://vilkeliskis.com/b/2026/0711.html Comments URL: https://news.ycombinator.com/item?id=48885728 Points: 50 # Comments: 5",
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "url": "https://vpd.ca/",
+      "summary": "Article URL: https://vpd.ca/ Comments URL: https://news.ycombinator.com/item?id=48914644 Points: 76 # Comments: 29",
+      "source": "HN",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-15T00:15:53+00:00"
+    },
+    {
+      "title": "Casio FX-870P Emulator",
+      "url": "https://github.com/urbancamo/fx870p-emulator",
+      "summary": "Article URL: https://github.com/urbancamo/fx870p-emulator Comments URL: https://news.ycombinator.com/item?id=48913910 Points: 15 # Comments: 2",
       "source": "HN",
       "time": "3h",
       "tags": [],
-      "published_at": "2026-07-12T22:56:56+00:00"
+      "published_at": "2026-07-14T22:47:58+00:00"
     },
     {
-      "title": "Architecture Description Languages [pdf]",
-      "url": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
-      "summary": "Article URL: https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf Comments URL: https://news.ycombinator.com/item?id=48885708 Points: 20 # Comments: 1",
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "url": "https://www.benjamin-bai.com/projects/lemario",
+      "summary": "Article URL: https://www.benjamin-bai.com/projects/lemario Comments URL: https://news.ycombinator.com/item?id=48913763 Points: 50 # Comments: 6",
       "source": "HN",
       "time": "3h",
       "tags": [],
-      "published_at": "2026-07-12T22:54:07+00:00"
+      "published_at": "2026-07-14T22:30:47+00:00"
     },
     {
-      "title": "Why Vanilla JavaScript",
-      "url": "https://guseyn.com/html/posts/why-vanilla-js.html",
-      "summary": "Article URL: https://guseyn.com/html/posts/why-vanilla-js.html Comments URL: https://news.ycombinator.com/item?id=48885705 Points: 47 # Comments: 20",
-      "source": "HN",
-      "time": "3h",
-      "tags": [],
-      "published_at": "2026-07-12T22:53:51+00:00"
-    },
-    {
-      "title": "Cyberpunk Comics, Manga and Graphic Novels",
-      "url": "https://shellzine.net/cyberpunk-comics/",
-      "summary": "Article URL: https://shellzine.net/cyberpunk-comics/ Comments URL: https://news.ycombinator.com/item?id=48885643 Points: 78 # Comments: 17",
-      "source": "HN",
-      "time": "3h",
-      "tags": [],
-      "published_at": "2026-07-12T22:45:31+00:00"
-    },
-    {
-      "title": "Profiling the \"Abundance\" housing bottleneck with real data",
-      "url": "https://laxmena.com/same-capacity-less-throughput",
-      "summary": "Article URL: https://laxmena.com/same-capacity-less-throughput Comments URL: https://news.ycombinator.com/item?id=48885138 Points: 26 # Comments: 12",
+      "title": "Probably check on your smart appliances",
+      "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+      "summary": "Article URL: https://xeiaso.net/notes/2026/check-your-smart-tv/ Comments URL: https://news.ycombinator.com/item?id=48913457 Points: 19 # Comments: 8",
       "source": "HN",
       "time": "4h",
       "tags": [],
-      "published_at": "2026-07-12T21:45:28+00:00"
+      "published_at": "2026-07-14T22:00:41+00:00"
     },
     {
-      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
-      "url": "https://kode.diy",
-      "summary": "Article URL: https://kode.diy Comments URL: https://news.ycombinator.com/item?id=48884992 Points: 41 # Comments: 10",
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf Comments URL: https://news.ycombinator.com/item?id=48913443 Points: 89 # Comments: 35",
       "source": "HN",
       "time": "4h",
       "tags": [],
-      "published_at": "2026-07-12T21:27:29+00:00"
+      "published_at": "2026-07-14T21:58:36+00:00"
     },
     {
-      "title": "Ask HN: What Are You Working On? (July 2026)",
-      "url": "https://news.ycombinator.com/item?id=48884984",
-      "summary": "What are you working on? Any new ideas that you're thinking about? Comments URL: https://news.ycombinator.com/item?id=48884984 Points: 78 # Comments: 202",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/ Comments URL: https://news.ycombinator.com/item?id=48913190 Points: 28 # Comments: 19",
       "source": "HN",
       "time": "4h",
       "tags": [],
-      "published_at": "2026-07-12T21:26:41+00:00"
+      "published_at": "2026-07-14T21:32:22+00:00"
     },
     {
-      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
-      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-      "summary": "Article URL: https://scrapfly.dev/posts/browser-math-os-fingerprint/ Comments URL: https://news.ycombinator.com/item?id=48884853 Points: 310 # Comments: 153",
-      "source": "HN",
-      "time": "4h",
-      "tags": [],
-      "published_at": "2026-07-12T21:12:11+00:00"
-    },
-    {
-      "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
-      "url": "https://nanduruganesh.github.io/flash-msa/",
-      "summary": "Article URL: https://nanduruganesh.github.io/flash-msa/ Comments URL: https://news.ycombinator.com/item?id=48884618 Points: 22 # Comments: 0",
+      "title": "Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "summary": "Article URL: https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/ Comments URL: https://news.ycombinator.com/item?id=48913050 Points: 100 # Comments:",
       "source": "HN",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-12T20:46:43+00:00"
+      "published_at": "2026-07-14T21:15:51+00:00"
     },
     {
-      "title": "Tiny Emulators",
-      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-      "summary": "Article URL: https://floooh.github.io/tiny8bit-preview/index.html Comments URL: https://news.ycombinator.com/item?id=48884395 Points: 148 # Comments: 9",
+      "title": "How I use HTMX with Go",
+      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "summary": "Article URL: https://www.alexedwards.net/blog/how-i-use-htmx-with-go Comments URL: https://news.ycombinator.com/item?id=48912175 Points: 118 # Comments: 27",
       "source": "HN",
-      "time": "5h",
+      "time": "6h",
       "tags": [],
-      "published_at": "2026-07-12T20:23:05+00:00"
+      "published_at": "2026-07-14T19:55:31+00:00"
     },
     {
-      "title": "The One-Step Trap (In AI Research)",
-      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-      "summary": "Article URL: http://incompleteideas.net/IncIdeas/OneStepTrap.html Comments URL: https://news.ycombinator.com/item?id=48883415 Points: 45 # Comments: 8",
-      "source": "HN",
-      "time": "7h",
-      "tags": [],
-      "published_at": "2026-07-12T18:41:15+00:00"
-    },
-    {
-      "title": "I love LLMs, I hate hype",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html Comments URL: https://news.ycombinator.com/item?id=48883343 Points: 326 # Comments: 195",
-      "source": "HN",
-      "time": "7h",
-      "tags": [],
-      "published_at": "2026-07-12T18:31:56+00:00"
-    },
-    {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "summary": "This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quic",
-      "source": "HN",
-      "time": "7h",
-      "tags": [],
-      "published_at": "2026-07-12T18:25:51+00:00"
-    },
-    {
-      "title": "I Learned to Read Again",
-      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-      "summary": "Article URL: https://substack.magazinenongrata.com/p/how-i-learned-to-read-again Comments URL: https://news.ycombinator.com/item?id=48883238 Points: 102 # Comments: 41",
-      "source": "HN",
-      "time": "7h",
-      "tags": [],
-      "published_at": "2026-07-12T18:22:15+00:00"
-    },
-    {
-      "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
-      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-      "summary": "https://arxiv.org/abs/2301.04709 Comments URL: https://news.ycombinator.com/item?id=48883090 Points: 83 # Comments: 63",
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "summary": "Article URL: https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left Comments URL: https://news.ycombinator.com/item?id=48910676 Points: 255 # Comments: 107",
       "source": "HN",
       "time": "8h",
       "tags": [],
-      "published_at": "2026-07-12T18:04:41+00:00"
+      "published_at": "2026-07-14T17:58:35+00:00"
     },
     {
-      "title": "Against Usefulness",
-      "url": "https://www.motivenotes.ai/p/against-usefulness",
-      "summary": "Article URL: https://www.motivenotes.ai/p/against-usefulness Comments URL: https://news.ycombinator.com/item?id=48882956 Points: 85 # Comments: 22",
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "summary": "Article URL: https://prismml.com/news/bonsai-27b Comments URL: https://news.ycombinator.com/item?id=48910545 Points: 439 # Comments: 164",
       "source": "HN",
       "time": "8h",
       "tags": [],
-      "published_at": "2026-07-12T17:47:07+00:00"
+      "published_at": "2026-07-14T17:50:48+00:00"
     },
     {
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "summary": "Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 143 # Comments: 47",
+      "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
+      "url": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security",
+      "summary": "Article URL: https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security Comments URL: https://news.ycombinator.com/item?id=48909820 Points: 0 # Comments: 0",
       "source": "HN",
-      "time": "8h",
+      "time": "9h",
       "tags": [],
-      "published_at": "2026-07-12T17:13:07+00:00"
+      "published_at": "2026-07-14T17:00:17+00:00"
+    },
+    {
+      "title": "The Tower Keeps Rising",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/ Comments URL: https://news.ycombinator.com/item?id=48909785 Points: 343 # Comments: 165",
+      "source": "HN",
+      "time": "9h",
+      "tags": [],
+      "published_at": "2026-07-14T16:57:54+00:00"
+    },
+    {
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "url": "https://agnost.ai",
+      "summary": "Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI (https://agnost.ai), product analytics for teams building chat and voice agents.We read production conversations and find behavioral",
+      "source": "HN",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-14T16:06:18+00:00"
+    },
+    {
+      "title": "Show HN: Opening lines of famous literary works",
+      "url": "https://www.verbaprima.com/",
+      "summary": "This came from an idea that had been knocking around in my head for several years. I had been collecting opening lines of famous works and thought it would be cool to see one everyday as I opened the ",
+      "source": "HN",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-14T15:24:49+00:00"
+    },
+    {
+      "title": "I'm a USB-C Maximalist",
+      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/ Comments URL: https://news.ycombinator.com/item?id=48908214 Points: 168 # Comments: 273",
+      "source": "HN",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-14T15:20:36+00:00"
+    },
+    {
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 381 # Comments: 385",
+      "source": "HN",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-14T15:18:13+00:00"
+    },
+    {
+      "title": "Serena Williams Fit-Dex",
+      "url": "https://serena-williams-fitdex.netlify.app/",
+      "summary": "Article URL: https://serena-williams-fitdex.netlify.app/ Comments URL: https://news.ycombinator.com/item?id=48906339 Points: 4 # Comments: 0",
+      "source": "HN",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-07-14T13:12:55+00:00"
     }
   ]
 }
