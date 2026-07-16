@@ -2,25 +2,25 @@
   "key": "github_trending",
   "title": "GitHub Trending AI",
   "freq": "daily",
-  "updated": "2026-07-15T10:17:39+08:00",
+  "updated": "2026-07-16T16:55:03+08:00",
   "url": "https://github.com/trending?since=daily",
-  "total_trending": 15,
+  "total_trending": 14,
   "items": [
     {
-      "full_name": "Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "language": "Python",
-      "stars": 120894,
-      "stars_today": 1106,
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "full_name": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 9716,
+      "stars_today": 1277,
+      "url": "https://github.com/Nutlope/hallmark",
       "rank": 1
     },
     {
       "full_name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 170404,
-      "stars_today": 1679,
+      "stars": 173147,
+      "stars_today": 2130,
       "url": "https://github.com/mattpocock/skills",
       "rank": 2
     },
@@ -28,45 +28,45 @@
       "full_name": "Dicklesworthstone/destructive_command_guard",
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "language": "Rust",
-      "stars": 4437,
-      "stars_today": 473,
+      "stars": 4913,
+      "stars_today": 471,
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "rank": 3
-    },
-    {
-      "full_name": "virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "language": "Python",
-      "stars": 61904,
-      "stars_today": 109,
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "rank": 4
-    },
-    {
-      "full_name": "Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars": 6211,
-      "stars_today": 1015,
-      "url": "https://github.com/Nutlope/hallmark",
-      "rank": 5
     },
     {
       "full_name": "HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars": 22907,
-      "stars_today": 1256,
+      "stars": 24017,
+      "stars_today": 915,
       "url": "https://github.com/HKUDS/Vibe-Trading",
+      "rank": 4
+    },
+    {
+      "full_name": "openinterpreter/openinterpreter",
+      "description": "A coding agent for low-cost models",
+      "language": "Rust",
+      "stars": 65710,
+      "stars_today": 299,
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "rank": 5
+    },
+    {
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": 122283,
+      "stars_today": 1236,
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "rank": 6
     },
     {
-      "full_name": "Graphify-Labs/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "language": "Python",
-      "stars": 86477,
-      "stars_today": 1851,
-      "url": "https://github.com/Graphify-Labs/graphify",
+      "full_name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 40016,
+      "stars_today": 340,
+      "url": "https://github.com/coreyhaines31/marketingskills",
       "rank": 7
     }
   ]

@@ -1,14 +1,77 @@
 {
   "source": "McKinsey",
   "layer": "analysis",
-  "updated": "2026-07-15T10:16:50+08:00",
+  "updated": "2026-07-16T11:56:04+08:00",
   "items": [
     {
       "title": "The CEO’s role in transformation",
       "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation",
       "summary": "Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are uniquely positioned to address these challen",
       "source": "McKinsey",
-      "time": "2h",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-15T00:00:00+00:00"
+    },
+    {
+      "title": "How AI is reshaping the future of the AEC industry",
+      "url": "https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-ai-is-reshaping-the-future-of-the-aec-industry",
+      "summary": "AI is poised to rewire the architecture, engineering, and construction sector. Firms that move quickly to reimagine workflows, improve data use, and automate work sites will thrive.",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-15T00:00:00+00:00"
+    },
+    {
+      "title": "How can the public sector meet the AI moment?",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector",
+      "summary": "AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how servic",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-15T00:00:00+00:00"
+    },
+    {
+      "title": "The future of delivering software as a medical device",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
+      "summary": "Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by agentic AI, can help them realize it.",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-15T00:00:00+00:00"
+    },
+    {
+      "title": "Is commercial aerospace ready for a demand reckoning?",
+      "url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/is-commercial-aerospace-ready-for-a-demand-reckoning",
+      "summary": "A new survey reveals a widening gap between airline sentiment and the rest of the value chain.",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-15T00:00:00+00:00"
+    },
+    {
+      "title": "The ‘bridge builder’ COO: Delivering results by engaging stakeholders",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/the-bridge-builder-coo-delivering-results-by-engaging-stakeholders",
+      "summary": "Today’s COOs work with an increasingly broad set of stakeholders. Success means understanding the “why” that drives each one.",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-15T00:00:00+00:00"
+    },
+    {
+      "title": "Patrick Finn on how tension can lead to healthcare’s reinvention",
+      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/patrick-finn-on-how-tension-can-lead-to-healthcares-reinvention",
+      "summary": "McKinsey Senior Partner Patrick Finn examines the current unique moment in healthcare and why AI could help reshape who leads healthcare’s next era.",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-15T00:00:00+00:00"
+    },
+    {
+      "title": "Gigafactory delivery on time: Solving the SOP delay challenge",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/gigafactory-delivery-on-time-solving-the-sop-delay-challenge",
+      "summary": "Battery plants are essential for the energy transition. Most miss their ramp-up deadlines, however. Here’s how to fix the delivery model.",
+      "source": "McKinsey",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-15T00:00:00+00:00"
     },
@@ -17,7 +80,7 @@
       "url": "https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/our-insights/how-consumers-are-reshaping-the-future-of-mobility",
       "summary": "Our recent survey reveals shifting consumer priorities, with rising expectations for affordability, sustainability, and technology and greater openness to new brands and transportation modes.",
       "source": "McKinsey",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-14T00:00:00+00:00"
     },
@@ -26,72 +89,9 @@
       "url": "https://www.mckinsey.com/industries/healthcare/our-insights/how-physician-ceos-hone-the-double-edged-sword-of-clinical-training",
       "summary": "The journey from physician to CEO has no prescribed path, but those who’ve reached the top reveal how they evolved the strengths and instincts forged in clinical training for enterprise leadership.",
       "source": "McKinsey",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-14T00:00:00+00:00"
-    },
-    {
-      "title": "Rewiring customer experience for the agentic era",
-      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rewiring-customer-experience-for-the-agentic-era",
-      "summary": "As AI agents take on moment-to-moment decisions, leading companies are redesigning customer experience from predefined journeys to dynamic, cross-channel orchestration.",
-      "source": "McKinsey",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-14T00:00:00+00:00"
-    },
-    {
-      "title": "Building expertise in the age of AI: Who trains the next generation?",
-      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-expertise-in-the-age-of-ai-who-trains-the-next-generation",
-      "summary": "As AI reshapes entry-level work, organizations should rethink how expertise is developed by integrating knowledge management, role design, learning, and coaching into a single system.",
-      "source": "McKinsey",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-14T00:00:00+00:00"
-    },
-    {
-      "title": "Rewired takes: Practical people lessons for scaling AI adoption",
-      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-practical-people-lessons-for-scaling-ai-adoption",
-      "summary": "McKinsey Senior Partner Brooke Weddle explores how companies are successfully scaling their AI programs.",
-      "source": "McKinsey",
       "time": "2d",
       "tags": [],
-      "published_at": "2026-07-13T00:00:00+00:00"
-    },
-    {
-      "title": "Is that AI agent worth it? Agentic economics and the modern operating model",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/is-that-ai-agent-worth-it-agentic-economics-and-the-modern-operating-model",
-      "summary": "As companies focus on spiraling AI costs, they need to make sure not to lose sight of the real prize.",
-      "source": "McKinsey",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-13T00:00:00+00:00"
-    },
-    {
-      "title": "How AI is reshaping value creation in residential real estate",
-      "url": "https://www.mckinsey.com/industries/real-estate/our-insights/how-ai-is-reshaping-value-creation-in-residential-real-estate",
-      "summary": "McKinsey’s Alex Wolkomir discusses how housing leaders can win with AI by improving customer experiences, redesigning workflows, and building trust between parties in the ecosystem.",
-      "source": "McKinsey",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-13T00:00:00+00:00"
-    },
-    {
-      "title": "How a 180-year-old news institution prepares for its next reinvention",
-      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/how-a-180-year-old-news-institution-prepares-for-its-next-reinvention",
-      "summary": "Associated Press CEO Daisy Veerasingham discusses AI, the economics of trusted content, and why preserving editorial independence matters more than preserving any particular business structure.",
-      "source": "McKinsey",
-      "time": "5d",
-      "tags": [],
-      "published_at": "2026-07-10T00:00:00+00:00"
-    },
-    {
-      "title": "Author Talks: In Hollywood and in business, it’s cool to be kind",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-in-hollywood-and-in-business-its-cool-to-be-kind",
-      "summary": "In Lead with Kindness, television writer and producer Melinda Hsu explores how so-called soft skills like empathy, mindfulness, and collaboration can result in better business relationships and perfor",
-      "source": "McKinsey",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-09T00:00:00+00:00"
+      "published_at": "2026-07-14T00:00:00+00:00"
     }
   ]
 }

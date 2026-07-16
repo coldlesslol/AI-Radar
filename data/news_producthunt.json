@@ -1,50 +1,77 @@
 {
   "source": "Product Hunt",
   "layer": "news",
-  "updated": "2026-07-15T10:16:31+08:00",
+  "updated": "2026-07-16T11:11:09+08:00",
   "items": [
     {
-      "title": "Sourclip",
-      "url": "https://www.producthunt.com/products/sourclip",
-      "summary": "Turn NotebookLM into a complete research workflow Discussion | Link",
+      "title": "YAGNI",
+      "url": "https://www.producthunt.com/products/yagni",
+      "summary": "Proactive agent teams you manage like humans Discussion | Link",
+      "source": "Product Hunt",
+      "time": "5d",
+      "tags": [],
+      "published_at": "2026-07-10T03:45:28+00:00"
+    },
+    {
+      "title": "EQK",
+      "url": "https://www.producthunt.com/products/eqk-eq-with-ai",
+      "summary": "Mac app with dynamic AI EQ Discussion | Link",
       "source": "Product Hunt",
       "time": "4d",
       "tags": [],
-      "published_at": "2026-07-10T18:08:01+00:00"
+      "published_at": "2026-07-11T15:26:52+00:00"
     },
     {
-      "title": "loopclub",
-      "url": "https://www.producthunt.com/products/loopclub",
-      "summary": "The shared drum machine to jam with strangers or with Claude Discussion | Link",
+      "title": "Tiptap AI Toolkit",
+      "url": "https://www.producthunt.com/products/tiptap",
+      "summary": "Empower your AI to directly edit documents in real time. Discussion | Link",
+      "source": "Product Hunt",
+      "time": "21h",
+      "tags": [],
+      "published_at": "2026-07-15T06:01:24+00:00"
+    },
+    {
+      "title": "nudge2.0",
+      "url": "https://www.producthunt.com/products/nudge-26",
+      "summary": "AI schedules your whole week to take action Discussion | Link",
+      "source": "Product Hunt",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-15T04:42:28+00:00"
+    },
+    {
+      "title": "Crustdata Recruiter",
+      "url": "https://www.producthunt.com/products/crustdata-2",
+      "summary": "Claude Skills to turn Claude into a 100x Recruiter Discussion | Link",
       "source": "Product Hunt",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-13T14:15:15+00:00"
+      "published_at": "2026-07-14T03:38:01+00:00"
     },
     {
-      "title": "ClawTeams",
-      "url": "https://www.producthunt.com/products/clawteams",
-      "summary": "The first goal-driven, proactive AI team for e-commerce Discussion | Link",
+      "title": "Review by Eddie AI",
+      "url": "https://www.producthunt.com/products/eddie-your-ai-video-editor",
+      "summary": "Time-stamped feedback on your video frm your team & AI. Free Discussion | Link",
       "source": "Product Hunt",
-      "time": "6d",
+      "time": "2d",
       "tags": [],
-      "published_at": "2026-07-09T01:25:53+00:00"
+      "published_at": "2026-07-13T16:45:01+00:00"
     },
     {
-      "title": "VocalVia",
-      "url": "https://www.producthunt.com/products/vocalvia",
-      "summary": "Turn documents and articles into editable multi-voice audio Discussion | Link",
+      "title": "ccshare",
+      "url": "https://www.producthunt.com/products/ccshare",
+      "summary": "multiplayer claude code Discussion | Link",
       "source": "Product Hunt",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-13T08:25:34+00:00"
+      "published_at": "2026-07-14T08:43:39+00:00"
     },
     {
       "title": "Claude Overlay",
       "url": "https://www.producthunt.com/products/claude-overlay",
       "summary": "A floating Claude Code chat that sees your screen Discussion | Link",
       "source": "Product Hunt",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-10T14:54:54+00:00"
     },
@@ -53,7 +80,7 @@
       "url": "https://www.producthunt.com/products/agent-card",
       "summary": "Give your agent a debit card Discussion | Link",
       "source": "Product Hunt",
-      "time": "22h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-14T03:22:01+00:00"
     },
@@ -62,81 +89,54 @@
       "url": "https://www.producthunt.com/products/branda-open-source-on-brand-ad-maker",
       "summary": "Turn any domain into on-brand ads, MIT Open Source Discussion | Link",
       "source": "Product Hunt",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-14T02:16:02+00:00"
+    },
+    {
+      "title": "VocalVia",
+      "url": "https://www.producthunt.com/products/vocalvia",
+      "summary": "Turn documents and articles into editable multi-voice audio Discussion | Link",
+      "source": "Product Hunt",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-13T08:25:34+00:00"
+    },
+    {
+      "title": "Sourclip",
+      "url": "https://www.producthunt.com/products/sourclip",
+      "summary": "Turn NotebookLM into a complete research workflow Discussion | Link",
+      "source": "Product Hunt",
+      "time": "5d",
+      "tags": [],
+      "published_at": "2026-07-10T18:08:01+00:00"
+    },
+    {
+      "title": "loopclub",
+      "url": "https://www.producthunt.com/products/loopclub",
+      "summary": "The shared drum machine to jam with strangers or with Claude Discussion | Link",
+      "source": "Product Hunt",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-13T14:15:15+00:00"
     },
     {
       "title": "Goose Ads Remixer",
       "url": "https://www.producthunt.com/products/gooseworks",
       "summary": "Remix the ads already winning in your niche Discussion | Link",
       "source": "Product Hunt",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-12T09:28:15+00:00"
-    },
-    {
-      "title": "AgentKey",
-      "url": "https://www.producthunt.com/products/agentkey",
-      "summary": "One-stop live data marketplace for your agent Discussion | Link",
-      "source": "Product Hunt",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-07-10T04:48:14+00:00"
-    },
-    {
-      "title": "Fudge MCP",
-      "url": "https://www.producthunt.com/products/fudge-mcp",
-      "summary": "Give your AI agents design taste from existing websites Discussion | Link",
-      "source": "Product Hunt",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-07-10T14:06:45+00:00"
-    },
-    {
-      "title": "Simba Voice Agents",
-      "url": "https://www.producthunt.com/products/speechify",
-      "summary": "Voice agents powered by Simba 3.2 the world's #1 voice model Discussion | Link",
-      "source": "Product Hunt",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-08T17:33:04+00:00"
-    },
-    {
-      "title": "Playground",
-      "url": "https://www.producthunt.com/products/nyx-4",
-      "summary": "Earn $100K+ in weekly rewards for hacking AI agents. Discussion | Link",
-      "source": "Product Hunt",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-12T22:32:12+00:00"
     },
     {
       "title": "NoMac.app",
       "url": "https://www.producthunt.com/products/nomac",
       "summary": "The headless iOS app publishing pipeline for AI agents. Discussion | Link",
       "source": "Product Hunt",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-07-10T21:07:45+00:00"
-    },
-    {
-      "title": "Basedash SCIM",
-      "url": "https://www.producthunt.com/products/basedash",
-      "summary": "Your org changes. Access keeps up. Discussion | Link",
-      "source": "Product Hunt",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-11T02:40:25+00:00"
-    },
-    {
-      "title": "ChatGPT Work",
-      "url": "https://www.producthunt.com/products/chatgpt-work",
-      "summary": "Partner for your most ambitious work Discussion | Link",
-      "source": "Product Hunt",
       "time": "5d",
       "tags": [],
-      "published_at": "2026-07-09T17:16:44+00:00"
+      "published_at": "2026-07-10T21:07:45+00:00"
     }
   ]
 }

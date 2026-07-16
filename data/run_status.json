@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-15T10:17:57+08:00",
-  "status": "partial",
+  "updated": "2026-07-16T16:55:22+08:00",
+  "status": "ok",
   "critical_failed": false,
   "push_status": "eligible",
   "steps": [
@@ -8,8 +8,8 @@
       "key": "openrouter",
       "script": "pull_openrouter.py",
       "criticality": "optional",
-      "status": "error",
-      "return_code": 1
+      "status": "ok",
+      "return_code": 0
     },
     {
       "key": "rss",
@@ -54,13 +54,5 @@
       "return_code": 0
     }
   ],
-  "failed_steps": [
-    {
-      "key": "openrouter",
-      "script": "pull_openrouter.py",
-      "criticality": "optional",
-      "status": "error",
-      "return_code": 1
-    }
-  ]
+  "failed_steps": []
 }

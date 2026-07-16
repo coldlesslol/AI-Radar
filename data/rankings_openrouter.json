@@ -2,83 +2,83 @@
   "key": "openrouter",
   "title": "OpenRouter 模型使用榜（按 token 用量）",
   "freq": "daily",
-  "updated": "2026-07-11",
+  "updated": "2026-07-15",
   "url": "https://openrouter.ai/rankings",
   "items": [
     {
       "rank": 1,
-      "name": "Xiaomi: Mimo V2.5",
-      "value": "5396.7B"
+      "name": "Tencent: Hy3",
+      "value": "9007.3B"
     },
     {
       "rank": 2,
-      "name": "Deepseek: Deepseek V4 Flash",
-      "value": "5213.0B"
+      "name": "Xiaomi: Mimo V2.5",
+      "value": "8034.4B"
     },
     {
       "rank": 3,
-      "name": "Tencent: Hy3",
-      "value": "5010.6B"
+      "name": "Deepseek: Deepseek V4 Flash",
+      "value": "5221.8B"
     },
     {
       "rank": 4,
       "name": "Minimax: Minimax M3",
-      "value": "4298.4B"
+      "value": "4038.9B"
     },
     {
       "rank": 5,
       "name": "Z-ai: Glm 5.2",
-      "value": "3212.8B"
+      "value": "3293.3B"
     },
     {
       "rank": 6,
-      "name": "Deepseek: Deepseek V4 Pro",
-      "value": "2922.8B"
+      "name": "Nvidia: Nemotron 3 Ultra 550b A55b",
+      "value": "3104.7B"
     },
     {
       "rank": 7,
-      "name": "Anthropic: Claude 4.7 Opus",
-      "value": "2407.2B"
+      "name": "Deepseek: Deepseek V4 Pro",
+      "value": "2537.3B"
     },
     {
       "rank": 8,
       "name": "Anthropic: Claude 4.8 Opus",
-      "value": "2006.8B"
+      "value": "2201.4B"
     },
     {
       "rank": 9,
-      "name": "Nvidia: Nemotron 3 Ultra 550b A55b",
-      "value": "1735.5B"
+      "name": "Anthropic: Claude 4.7 Opus",
+      "value": "2045.0B"
     },
     {
       "rank": 10,
       "name": "Stepfun: Step 3.7 Flash",
-      "value": "1288.4B"
+      "value": "946.1B"
     },
     {
       "rank": 11,
-      "name": "Anthropic: Claude 4.6 Sonnet",
-      "value": "1040.8B"
+      "name": "Google: Gemini 3 Flash Preview",
+      "value": "944.9B"
     },
     {
       "rank": 12,
-      "name": "Google: Gemini 3 Flash Preview",
-      "value": "942.6B"
+      "name": "Anthropic: Claude 4.6 Sonnet",
+      "value": "941.5B"
     },
     {
       "rank": 13,
-      "name": "Openai: Gpt 5.5",
-      "value": "940.1B"
+      "name": "Anthropic: Claude Sonnet 5",
+      "value": "930.6B"
     },
     {
       "rank": 14,
-      "name": "Anthropic: Claude Sonnet 5",
-      "value": "909.0B"
+      "name": "Openai: Gpt 5.5",
+      "value": "721.2B"
     },
     {
       "rank": 15,
-      "name": "Tencent: Hy3 Preview",
-      "value": "713.0B"
+      "name": "Xiaomi: Mimo V2.5 Pro",
+      "value": "645.2B"
     }
   ]
 }
