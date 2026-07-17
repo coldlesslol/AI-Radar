@@ -1,23 +1,41 @@
 {
   "source": "商汤",
   "layer": "company",
-  "updated": "2026-07-15T10:17:10+08:00",
+  "updated": "2026-07-17T10:01:10+08:00",
   "items": [
     {
       "title": "五年，国产算力从零起步到走向全球 - shobserver.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTGNYYWt4bGprM0dQTEUzVlgxejVUWlVzS0VKaWZJcmRhMjZ3aVV6X1E0THFkcV9mSldtQlFMVTRWSDZRSTBSdWxCN2VSNGF2QlpZaVVNWnVwcUJRNUo0R0JsWmVHM0draW9IRjBNT0ZLT1ZzcXNGNkFkSUJwQnowMGM0NFZsekk0ZGY2dXdOeVBiendJSGJPMTgwWDFwQTZkY3E3VDhlc0ZyWVhV?oc=5",
       "summary": "五年，国产算力从零起步到走向全球&nbsp;&nbsp;shobserver.com",
       "source": "商汤",
-      "time": "23h",
+      "time": "2d",
       "tags": [],
-      "published_at": "2026-07-14T03:00:10+00:00"
+      "published_at": "2026-07-14T03:00:11+00:00"
+    },
+    {
+      "title": "国产视觉AI老大，用一款开源模型宣告“缝合怪”时代终结 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SN3UzSnlaWUVGbENGd0taSHo5RHBlY0k0NlZBM2pCWnIweDloeTVNOWlZUDJxQkNRR0trVy1xNmdubXRZUEdoNg?oc=5",
+      "summary": "国产视觉AI老大，用一款开源模型宣告“缝合怪”时代终结&nbsp;&nbsp;凤凰网",
+      "source": "商汤",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-07-16T12:05:41+00:00"
+    },
+    {
+      "title": "商汤-W(00020)_商汤-W怎么样 - 热门讨论 - 雪球",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44MmV3eUtKbjRSTXBOc2ZLU1FxNnY2ZzNiZTF6alBvV1hXb1lSbXVobXJIbF9kUFItak1zNEVlMWJsQ3lGOWc?oc=5",
+      "summary": "商汤-W(00020)_商汤-W怎么样 - 热门讨论&nbsp;&nbsp;雪球",
+      "source": "商汤",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-15T20:23:58+00:00"
     },
     {
       "title": "AI视觉原生统一！商汤开源视觉任务大统一模型SenseNova-Vision - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVng2cXBPdF9kdEt1YjltdmppOUl1bWF2QkgwY3M1MFFNaVVtUXhpRUFnV09BN2RXbjNndzdvVVBCQXFHSVlVWkYya3E0LTFSNjlSNnVhNHN6TjhleEZUMm1aR0ZMSXJPSjJMb3ZEd1AzNS1wdV80bjZzYzliY1kwcXVqeVlZU2hvNWhleA?oc=5",
       "summary": "AI视觉原生统一！商汤开源视觉任务大统一模型SenseNova-Vision&nbsp;&nbsp;搜狐网",
       "source": "商汤",
-      "time": "19h",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-14T06:20:57+00:00"
     },
@@ -26,36 +44,18 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XbGhselRBNTVjVzdvV1BzTlNYTUppc05meWVGY1gwTkdvSFA4RWNOcHVlOFFVX25LSXVEZ0Y4c2hYaXJOTU82Z1JrUDA3bXpBeFZEem1SSQ?oc=5",
       "summary": "商汤小浣熊OPC能力挑战赛全国总决赛：AI如何赋能“一人公司”&nbsp;&nbsp;潮新闻",
       "source": "商汤",
-      "time": "4d",
+      "time": "6d",
       "tags": [],
       "published_at": "2026-07-10T23:23:00+00:00"
-    },
-    {
-      "title": "商汤开源统一视觉大模型SenseNova-Vision - 品玩",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCeU9qRnpCT25iMEs5TGdRQllUb08xakZ4UnpWYlBBbmViQXYwY09VNXpTVzhtRGtJTDFlZDRFRTNOaUw1Z0tVVw?oc=5",
-      "summary": "商汤开源统一视觉大模型SenseNova-Vision&nbsp;&nbsp;品玩",
-      "source": "商汤",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-13T06:37:16+00:00"
     },
     {
       "title": "超越 Vision Banana 商汤开源 SenseNova-Vision：视觉任务大统一 经典视觉并入大模型 - 驱动之家",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xVFRacjV6QWlTcktlY1U4MTZWTUc1alVFRldsMWxCNmI3QkxndXBLRGRhYW5STlNhSmlvSUZYeDQzRXVTaThxc0s0QW81MGlVS2xZZXpKX3k?oc=5",
       "summary": "超越 Vision Banana 商汤开源 SenseNova-Vision：视觉任务大统一 经典视觉并入大模型&nbsp;&nbsp;驱动之家",
       "source": "商汤",
-      "time": "1d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-13T08:16:00+00:00"
-    },
-    {
-      "title": "商汤开源视觉大模型 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWRmhfWVpVRVBKQjFiZi1wQWRxMmpVRG91OV9BTzhsc2E2QkdHUVRkQlBHenpzLTZIbmlMZF93alpZM1BoSnI1V1pHMVJtQjd1UVlkMkRLUDNQRjhuc3Z2TGdB?oc=5",
-      "summary": "商汤开源视觉大模型&nbsp;&nbsp;手机网易网",
-      "source": "商汤",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-13T19:34:34+00:00"
     }
   ]
 }

@@ -1,187 +1,187 @@
 {
   "source": "HN",
   "layer": "community",
-  "updated": "2026-07-16T10:09:59+08:00",
+  "updated": "2026-07-17T10:00:35+08:00",
   "items": [
     {
-      "title": "Show HN: One More Letter",
-      "url": "https://playonemoreletter.com/",
-      "summary": "Article URL: https://playonemoreletter.com/ Comments URL: https://news.ycombinator.com/item?id=48928402 Points: 30 # Comments: 21",
+      "title": "Google Kills Custom Search API on Jan 1, 2027",
+      "url": "https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/",
+      "summary": "Article URL: https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/ Comments URL: https://news.ycombinator.com/item?id=48942250 Points: 22 # Comments: 4",
       "source": "HN",
-      "time": "2h",
+      "time": "57m",
       "tags": [],
-      "published_at": "2026-07-15T23:10:10+00:00"
+      "published_at": "2026-07-17T01:03:25+00:00"
     },
     {
-      "title": "Nul Characters in Strings in SQLite",
-      "url": "https://sqlite.org/nulinstr.html",
-      "summary": "Article URL: https://sqlite.org/nulinstr.html Comments URL: https://news.ycombinator.com/item?id=48928343 Points: 28 # Comments: 2",
+      "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+      "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive Comments URL: https://news.ycombinator.com/item?id=48942125 Points: 25 # Comments: 6",
       "source": "HN",
-      "time": "3h",
+      "time": "1h",
       "tags": [],
-      "published_at": "2026-07-15T23:03:45+00:00"
+      "published_at": "2026-07-17T00:45:05+00:00"
     },
     {
-      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
-      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
-      "summary": "Article URL: https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials Comments URL: https://news.ycombinator.com/item?id=48928313 Points: 37 # Commen",
+      "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "summary": "Article URL: https://github.com/Robbyant/lingbot-map Comments URL: https://news.ycombinator.com/item?id=48941908 Points: 5 # Comments: 0",
       "source": "HN",
-      "time": "3h",
+      "time": "1h",
       "tags": [],
-      "published_at": "2026-07-15T23:00:31+00:00"
+      "published_at": "2026-07-17T00:07:49+00:00"
     },
     {
-      "title": "The Anti-Mac User Interface (1996)",
-      "url": "https://www.nngroup.com/articles/anti-mac-interface/",
-      "summary": "Article URL: https://www.nngroup.com/articles/anti-mac-interface/ Comments URL: https://news.ycombinator.com/item?id=48928234 Points: 54 # Comments: 17",
-      "source": "HN",
-      "time": "3h",
-      "tags": [],
-      "published_at": "2026-07-15T22:52:36+00:00"
-    },
-    {
-      "title": "SQLite should have (Rust-style) editions",
-      "url": "https://mort.coffee/home/sqlite-editions/",
-      "summary": "Article URL: https://mort.coffee/home/sqlite-editions/ Comments URL: https://news.ycombinator.com/item?id=48928135 Points: 118 # Comments: 46",
+      "title": "My car’s OTA update broke Android Auto",
+      "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+      "summary": "Article URL: https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/ Comments URL: https://news.ycombinator.com/item?id=48941129 Points: 122 # Comments: ",
       "source": "HN",
       "time": "3h",
       "tags": [],
-      "published_at": "2026-07-15T22:42:58+00:00"
+      "published_at": "2026-07-16T22:29:44+00:00"
     },
     {
-      "title": "LLM Networking with MikroTik",
-      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 47 # Comments: 11",
+      "title": "Show HN: Mojibake – A low-level Unicode library written in C",
+      "url": "https://mojibake.zaerl.com/",
+      "summary": "I've written Mojibake because I don't like the other Unicode libraries for Unicode support.It consists of only two amalgamation files: mojibake.h and mojibake.c. I've added all the most important Unic",
       "source": "HN",
       "time": "3h",
       "tags": [],
-      "published_at": "2026-07-15T22:23:27+00:00"
+      "published_at": "2026-07-16T22:29:21+00:00"
     },
     {
-      "title": "P2P local file transfer based on WebRTC",
-      "url": "https://pairdrop.net/",
-      "summary": "Article URL: https://pairdrop.net/ Comments URL: https://news.ycombinator.com/item?id=48927900 Points: 32 # Comments: 14",
+      "title": "The Little Book of Reinforcement Learning",
+      "url": "https://github.com/alxndrTL/little-book-rl/",
+      "summary": "Article URL: https://github.com/alxndrTL/little-book-rl/ Comments URL: https://news.ycombinator.com/item?id=48941104 Points: 56 # Comments: 7",
       "source": "HN",
       "time": "3h",
       "tags": [],
-      "published_at": "2026-07-15T22:22:08+00:00"
+      "published_at": "2026-07-16T22:27:22+00:00"
     },
     {
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 88 # Comments: 35",
+      "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
+      "url": "https://hellorecon.com/blog/cve-2026-25089",
+      "summary": "Article URL: https://hellorecon.com/blog/cve-2026-25089 Comments URL: https://news.ycombinator.com/item?id=48940895 Points: 18 # Comments: 0",
+      "source": "HN",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-16T22:07:30+00:00"
+    },
+    {
+      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+      "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+      "summary": "Article URL: https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin Comments URL: https://news.ycombinator.com/item?id=48940833 Points: 41 # Comments: 5",
       "source": "HN",
       "time": "4h",
       "tags": [],
-      "published_at": "2026-07-15T21:16:36+00:00"
+      "published_at": "2026-07-16T22:00:00+00:00"
     },
     {
-      "title": "Show HN: Firefox in WebAssembly",
-      "url": "https://developer.puter.com/labs/firefox-wasm/",
-      "summary": "This is the entire Firefox browser rendering to a element. Gecko, all UI components, and the Spidermonkey JS engine are all compiled and running in WebAssembly.Here are a few things you might find int",
+      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+      "url": "https://arxiv.org/abs/2607.12395",
+      "summary": "Article URL: https://arxiv.org/abs/2607.12395 Comments URL: https://news.ycombinator.com/item?id=48940603 Points: 37 # Comments: 13",
+      "source": "HN",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-16T21:38:02+00:00"
+    },
+    {
+      "title": "Mathematics of Data Science",
+      "url": "https://arxiv.org/abs/2607.11938",
+      "summary": "Article URL: https://arxiv.org/abs/2607.11938 Comments URL: https://news.ycombinator.com/item?id=48939896 Points: 92 # Comments: 2",
       "source": "HN",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-15T21:00:17+00:00"
+      "published_at": "2026-07-16T20:38:48+00:00"
     },
     {
-      "title": "Grok Build is open source",
-      "url": "https://github.com/xai-org/grok-build",
-      "summary": "Article URL: https://github.com/xai-org/grok-build Comments URL: https://news.ycombinator.com/item?id=48926590 Points: 265 # Comments: 310",
+      "title": "Timeline Scan – AI fixes the dates on your scanned photos",
+      "url": "https://timelinescan.com/",
+      "summary": "Article URL: https://timelinescan.com/ Comments URL: https://news.ycombinator.com/item?id=48939764 Points: 28 # Comments: 25",
       "source": "HN",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-15T20:24:58+00:00"
+      "published_at": "2026-07-16T20:25:47+00:00"
     },
     {
-      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-      "url": "https://brainless.swerdlow.dev",
-      "summary": "Article URL: https://brainless.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=48926085 Points: 91 # Comments: 18",
+      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+      "url": "https://www.science.org/doi/10.1126/science.aea9708",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/science.aea9708 Comments URL: https://news.ycombinator.com/item?id=48939742 Points: 63 # Comments: 16",
       "source": "HN",
-      "time": "6h",
+      "time": "5h",
       "tags": [],
-      "published_at": "2026-07-15T19:42:53+00:00"
+      "published_at": "2026-07-16T20:24:02+00:00"
     },
     {
-      "title": "Voxatron",
-      "url": "https://www.lexaloffle.com/voxatron.php",
-      "summary": "Article URL: https://www.lexaloffle.com/voxatron.php Comments URL: https://news.ycombinator.com/item?id=48926053 Points: 63 # Comments: 19",
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 160 # Comments: 63",
       "source": "HN",
-      "time": "6h",
+      "time": "5h",
       "tags": [],
-      "published_at": "2026-07-15T19:40:23+00:00"
+      "published_at": "2026-07-16T20:18:15+00:00"
     },
     {
-      "title": "Duskers, the scary command line game, is getting a sequel",
-      "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
-      "summary": "Article URL: https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20 Comments URL: https://news.ycombinator.com/item?id=48925888 Points: 91 # Comments: 21",
+      "title": "The privacy problems hidden in your period tracker",
+      "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details Comments URL: https://news.ycombinator.com/item?id=48939641 Points: 73 # Comments: 41",
       "source": "HN",
-      "time": "6h",
+      "time": "5h",
       "tags": [],
-      "published_at": "2026-07-15T19:27:59+00:00"
+      "published_at": "2026-07-16T20:15:58+00:00"
     },
     {
-      "title": "Inkling: Our Open-Weights Model",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "summary": "Article URL: https://thinkingmachines.ai/news/introducing-inkling/ Comments URL: https://news.ycombinator.com/item?id=48924912 Points: 689 # Comments: 177",
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 130 # Comments: 138",
       "source": "HN",
-      "time": "7h",
+      "time": "5h",
       "tags": [],
-      "published_at": "2026-07-15T18:12:45+00:00"
+      "published_at": "2026-07-16T20:03:23+00:00"
     },
     {
-      "title": "Artie (YC S23) Is Hiring Software Engineers",
-      "url": "https://jobs.ashbyhq.com/artie",
-      "summary": "Article URL: https://jobs.ashbyhq.com/artie Comments URL: https://news.ycombinator.com/item?id=48923833 Points: 0 # Comments: 0",
+      "title": "Adaptional (YC S25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/adaptional/jobs",
+      "summary": "Article URL: https://www.ycombinator.com/companies/adaptional/jobs Comments URL: https://news.ycombinator.com/item?id=48937125 Points: 0 # Comments: 0",
+      "source": "HN",
+      "time": "8h",
+      "tags": [],
+      "published_at": "2026-07-16T17:00:55+00:00"
+    },
+    {
+      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+      "url": "https://news.ycombinator.com/item?id=48937020",
+      "summary": "Hey HN, we’re Xia and Varun, the founders of Traceforce (https://www.traceforce.ai/). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all devices (lapto",
       "source": "HN",
       "time": "9h",
       "tags": [],
-      "published_at": "2026-07-15T17:01:02+00:00"
+      "published_at": "2026-07-16T16:52:16+00:00"
     },
     {
-      "title": "Collection of Digital Clock Designs",
-      "url": "https://clocks.dev",
-      "summary": "Article URL: https://clocks.dev Comments URL: https://news.ycombinator.com/item?id=48923380 Points: 178 # Comments: 36",
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880 Points: 158 # Comments: 105",
       "source": "HN",
       "time": "9h",
       "tags": [],
-      "published_at": "2026-07-15T16:33:15+00:00"
+      "published_at": "2026-07-16T16:41:37+00:00"
     },
     {
-      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
-      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
-      "summary": "I've spent the last few months working on this codec.It has the following characteristics: - SOTA decompression throughput in its ratio class - Decent ratios (comparable to LZ4 at high effort levels) ",
+      "title": "Decoy Font",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "summary": "Article URL: https://www.mixfont.com/experiments/decoy-font Comments URL: https://news.ycombinator.com/item?id=48936584 Points: 404 # Comments: 98",
       "source": "HN",
-      "time": "10h",
+      "time": "9h",
       "tags": [],
-      "published_at": "2026-07-15T15:58:59+00:00"
+      "published_at": "2026-07-16T16:18:21+00:00"
     },
     {
-      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "summary": "Article URL: https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/ Comments URL: https://news.ycombinator.com/item?id=48922434 Points: 230 # Com",
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/ Comments URL: https://news.ycombinator.com/item?id=48936451 Points: 240 # Comments: 126",
       "source": "HN",
-      "time": "10h",
+      "time": "9h",
       "tags": [],
-      "published_at": "2026-07-15T15:34:05+00:00"
-    },
-    {
-      "title": "Towards a harness that can do anything",
-      "url": "https://eardatasci.github.io/c/ambiance/index.html",
-      "summary": "Article URL: https://eardatasci.github.io/c/ambiance/index.html Comments URL: https://news.ycombinator.com/item?id=48921077 Points: 173 # Comments: 86",
-      "source": "HN",
-      "time": "12h",
-      "tags": [],
-      "published_at": "2026-07-15T14:08:28+00:00"
-    },
-    {
-      "title": "Mysteries of Telegram Data Centers (2022)",
-      "url": "https://dev.moe/en/3025",
-      "summary": "Article URL: https://dev.moe/en/3025 Comments URL: https://news.ycombinator.com/item?id=48920475 Points: 240 # Comments: 131",
-      "source": "HN",
-      "time": "12h",
-      "tags": [],
-      "published_at": "2026-07-15T13:22:00+00:00"
+      "published_at": "2026-07-16T16:08:13+00:00"
     }
   ]
 }

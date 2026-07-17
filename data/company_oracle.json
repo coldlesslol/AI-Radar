@@ -1,61 +1,61 @@
 {
   "source": "Oracle",
   "layer": "company",
-  "updated": "2026-07-15T10:17:04+08:00",
+  "updated": "2026-07-17T10:01:05+08:00",
   "items": [
+    {
+      "title": "Open-Source AI on OCI: Serving LLMs on Kubernetes with vLLM, Qdrant, and Terraform - Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1hkbHd5UnVmUTdyZ0MyV2R1ei04bzU0TGRFYlBhWE41eEphN3oteTU5U1hjQUJRUjRFSEt5MWQxMFhfSzFMRkNzcGM2bWJYMTMycUVNRGFKMy12akw0V3Q4UndYM2RPUXRJWHZ1dXpTVGxWM0ExUm9hTHBfcVUtVmZhRGhYMW9qaG9YMGJ3?oc=5",
+      "summary": "Open-Source AI on OCI: Serving LLMs on Kubernetes with vLLM, Qdrant, and Terraform&nbsp;&nbsp;Oracle Blogs",
+      "source": "Oracle",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-15T16:19:42+00:00"
+    },
+    {
+      "title": "Oracle Stock Is Down 60%: Why Its AI Cloud Explosion Makes It a Compelling Buy - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNUNqVm40Rl9IVnVXRmpHc0lycjh4bTRJQURuYkV3SDBDc0drc1VpTUZoamxUajBGazZTZW9wN1h6cm9FLUNValdUU2lqLXVDNWU1dTAyU0NlV0dEcFdIaDdnWTd6STVudk1jTFhNMmVKM0JZejRsQ3JfZXdOeGoxbFlieTNDSHp4VV9XMnRfTUo5eW8?oc=5",
+      "summary": "Oracle Stock Is Down 60%: Why Its AI Cloud Explosion Makes It a Compelling Buy&nbsp;&nbsp;Yahoo Finance",
+      "source": "Oracle",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-15T15:35:00+00:00"
+    },
+    {
+      "title": "Oracle Introduces AI-Native Builder Experience to Create and Run Agentic Applications in Oracle Fusion Applications - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQX1J6eGxPMUdTbWN3NmhySFZaNU5yWURIbmp0YzlIXzJZM1dMOVZ2a3Y1NjdkcjZQWlZEdTlLTy0wRzJWWVExaWwzVDg2V3hweUdCYW1GZHpubE1jV1RZYS05Y1UwbzNFWHc1UHlELXNjbDVtVTl0NGlBSGpnOFdZZFJjRXd5RFRhX1pfRFJKby01NnZ6Q2ZGYk1pRF9uZ0hNRzk2TUhoOHEzTFBXNERvZ1ZuaTF6VXlFX2FGMmpwSUxEWkZ1Zkk2Xy1TcDVveUlGVlVzUEZmdmNWZ3FWTEtONlBWTWJhLUdqRVdiVkpRU1VXZzhWaEk4LS1IemFNVkZK?oc=5",
+      "summary": "Oracle Introduces AI-Native Builder Experience to Create and Run Agentic Applications in Oracle Fusion Applications&nbsp;&nbsp;PR Newswire",
+      "source": "Oracle",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-14T12:00:00+00:00"
+    },
     {
       "title": "Chris Leone on Oracle's Fusion Agentic Applications and the Future of Enterprise AI | Cloud Wars Live - Cloud Wars",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGRMUUVPUTJ0S213ei05SGp2YTBnMExYbjhNZElqY2Y2QXVaNlNNR21VNlZJaG9EZkFBOTlWeVNldXR0MTBGQzFSSEIxSzJ0NE5vczJweWQ3X1JaWllzVHVpRmtJNENBTkxyNHI3S2JyUWNxMHNrVmdlbkVqNUdLLS00QmphM0x6eXJraWFqQ3hXU29SWERCbkVHUThYSFQ3WjFuWnNQZ1N1QThkTHpRNlZwQWduTnRyblRCaFpvVUNVeFdyX3c?oc=5",
       "summary": "Chris Leone on Oracle's Fusion Agentic Applications and the Future of Enterprise AI | Cloud Wars Live&nbsp;&nbsp;Cloud Wars",
       "source": "Oracle",
-      "time": "12h",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-14T14:00:00+00:00"
     },
     {
-      "title": "Oracle Surges Ahead With AI Cloud Expansion - Evrim Ağacı",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY0NhMmM1OTNwakRpUFVlNm9JZG14anZ2X25QcGZSQkphR0J5aGdxOGhiRjdnMkxBWmVnUTVDUjlmZzBWYk1yN3p5M1JFVG9qTGJjMFktTFdMeEZNSzZBcFBNWG9fdVBGTVFudHJ3dV9Bbm5qNTlxQkVxUWRwQjJuSmdvaw?oc=5",
-      "summary": "Oracle Surges Ahead With AI Cloud Expansion&nbsp;&nbsp;Evrim Ağacı",
+      "title": "Oracle shares snap losing streak with 3.5% rally as investors weigh massive AI cloud backlog - eciks.org",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsSzFGbGhPNEE2ODctM1Y1RExDR1AzU2diZG5XZVM5SVZERWduRjN1MzRCWW91Yjd1azNmUkFZQ05WZ3BlQ1g4d0FBYUpFY0w3ZWpRd3NmOHlISE1CaXJDXzZfdG1XSmgzOTVYTEU4eFZqWkFobmR4MA?oc=5",
+      "summary": "Oracle shares snap losing streak with 3.5% rally as investors weigh massive AI cloud backlog&nbsp;&nbsp;eciks.org",
       "source": "Oracle",
-      "time": "9h",
+      "time": "10h",
       "tags": [],
-      "published_at": "2026-07-14T17:16:04+00:00"
+      "published_at": "2026-07-16T15:25:19+00:00"
     },
     {
-      "title": "Microsoft vs Oracle: One Thriving, One Burning Cash - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZG9KdVVjMzdlMnBQMEgzN09nNzZzbzRIZGQ3MmdyYjU5eHB3VjI4WlRBODVFZTdjT0tkVXE2U2ZCM3lsbThFWWNETGh6NUFZendJN3EwTXhVUV83aDV2MXRrbElYUVdxWnRTS0JMVUhDV3gzeW5wVjF5UHMxQ0RaMWhMaFFaWndrVkF6aGJ3SkJlM19PZzBvYg?oc=5",
-      "summary": "Microsoft vs Oracle: One Thriving, One Burning Cash&nbsp;&nbsp;24/7 Wall St.",
+      "title": "Oracle Just Cratered 33% in a Month. Is It Time to Switch to Cloudflare or CoreWeave? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmJURkdnNHNQYTk0ZmwtWk1RVEFNOEE3UExoUGdrUWZzc25ETFJxNUJZcW95bXpiQm5MdjRtUHVlMXdBUnJUdFp6M1R0dS1IYUQtdmZFTV9PanNuTkJZcWl2TFR2ZWIwdDRjQVEwYmNEdUdPR1BlaUJVSkxmZGlyTkVjY2sxMVh4Z0RmN2VER2R6X291WUN2UlVnY0RZX2RwSlNsY3BZTzJYTkN5ZndDblZTb1FxYWxjdHlRcTZLWWxvdVc2?oc=5",
+      "summary": "Oracle Just Cratered 33% in a Month. Is It Time to Switch to Cloudflare or CoreWeave?&nbsp;&nbsp;24/7 Wall St.",
       "source": "Oracle",
-      "time": "11h",
+      "time": "8h",
       "tags": [],
-      "published_at": "2026-07-14T15:00:39+00:00"
-    },
-    {
-      "title": "Oracle Launches AI-Native Builder for Fusion Cloud Applications - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODlNYk1oZXpJejAxbmVyY0xUU0k1eHRHbXZmXzF1X21tbmh0bkk5Z3pQOGkzdlhXOWZIT25rMVpHZEFtUC01aGhQem4weXdaLU5MQVpDRGJqM3EwMm1SWE50a2R6bXdOeFJOeDlrQ1pneE4xOW96LVNRd01qaHRUd3V5UTE4bVBpbkR0dVgzVGMtTzF3WHk5TGNmWEd2aWtLNFIw?oc=5",
-      "summary": "Oracle Launches AI-Native Builder for Fusion Cloud Applications&nbsp;&nbsp;GuruFocus",
-      "source": "Oracle",
-      "time": "5h",
-      "tags": [],
-      "published_at": "2026-07-14T20:19:44+00:00"
-    },
-    {
-      "title": "Oracle (ORCL) Stock May Trade At A Discount On Earnings But A Premium On AI Spending - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWmttckRVdi1LQnZDVWNlY05wcndrZnFGWW1nbG9TVWpUWXAzWG1BOVN4LU9jQnlLNHlnR2N3VUJHdFdObXFBZGE1b3BwOUxzNW5yVWJxVlR2dF9XZFQ5VjR6dzgwQ1Z3NENLMkJ1YWxGaTBCdGJtV3NCclBjNnhTMV9TdG43VWtYMnptajRjTkJnTTV2RGktdlpxQXJQZGg4T28waWVsa1V4Qkw3NmhPV251eWg1azVBdDZvV19sY9IBxAFBVV95cUxNYUNwOEI4UllsLU9CODVJMTA0aTVCT0hVaGJKVVlvOFBDZGRvdURIRmJreWE4SDVPNHdwS3RIMDZaOGI0WGUtSFJZanh4OURRTi0zeEFvMGJQOVM5bFJpQlpaSl9kT0NMTzBmVzJTNkVDUndZMjFqeE9lVDB3ZWYwZzJDd2FWZDVUaXhORUNOckluNzNyU1NJY1JKQmZrVUZqQlNYdUkzUnVGcEZ0dU40czczWENmaTJQN3l1SzdhbEZWN1cx?oc=5",
-      "summary": "Oracle (ORCL) Stock May Trade At A Discount On Earnings But A Premium On AI Spending&nbsp;&nbsp;simplywall.st",
-      "source": "Oracle",
-      "time": "7h",
-      "tags": [],
-      "published_at": "2026-07-14T19:04:47+00:00"
-    },
-    {
-      "title": "Oracle Enables Customers to Build AI Apps Inside Fusion Applications - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUWs1WDZxSVNWN2t5WTZlaXk1aDJqZGlTdVBOaFZPOFY3b0pxbHp4Tl9ON1RWaGNobTZSS29TMWRmTEk2MkdXN3lYRXFMUVQ5b2h0aFppSmJMWUVqamozSzJRcmtZQS1MdmN0b25Hek44VWxESENVQUQxQVhKZkl3LW50VHQ2Vl8tdENqWkRaQW5aZF91dmc0Ujh1MjdvVkNzeXUtWG53NmR5VlkyRDQ4VlhqNWpRVjA1ckRJ?oc=5",
-      "summary": "Oracle Enables Customers to Build AI Apps Inside Fusion Applications&nbsp;&nbsp;Stock Titan",
-      "source": "Oracle",
-      "time": "14h",
-      "tags": [],
-      "published_at": "2026-07-14T12:00:00+00:00"
+      "published_at": "2026-07-16T17:04:06+00:00"
     }
   ]
 }

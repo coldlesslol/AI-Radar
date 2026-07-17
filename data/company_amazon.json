@@ -1,61 +1,61 @@
 {
   "source": "Amazon",
   "layer": "company",
-  "updated": "2026-07-15T10:16:56+08:00",
+  "updated": "2026-07-17T10:00:59+08:00",
   "items": [
     {
-      "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYjdXYWg0RlEwYTNmVE5BQmJQeHBqVWU0dGhSUjZCc3lFYVQ4U2c4NjU2WnNlTFFtdkNwYUY2bWpIUDEwb3FBdVVmNTdqNkt1TkU1SzFrTDZ3TkEyUTB5enRxM2I3dnJLd0dhZUhCbWgweU5UUXRFR3hqdEp5X1NvMWlIVVhNT0dkUVhSQVVaQ3B5Z3l0WXQ5VEgtcHlsZzRfZGxGSVl2ODdFRmF1ZExlckoxMDA3cW1j?oc=5",
-      "summary": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "title": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORktCSWpQYXlBU2Z6N0lQLXlKNnZCTi14LWVpN28wYlE1TnpHeXRYeDF6elJELWhvYnZ6M2ZQb01CbVRFUUNzZGFZS2l0eDctNktZVDJyV0QxRXlaRnJJSHdEVE1FQnd1VVJ3UUNncXlybVYyOUtTQUNJNzVuMjlteXFUX2pqQnBLV0MyWWFldXc2WG5qZG1RVGZpZFFWcUFXQ2IzelBzQlhNZlNUQ3NnM1BzM25pNnhUZnBGUzM3cThWdw?oc=5",
+      "summary": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base&nbsp;&nbsp;Amazon Web Services (AWS)",
       "source": "Amazon",
-      "time": "7h",
+      "time": "4h",
       "tags": [],
-      "published_at": "2026-07-14T18:44:26+00:00"
+      "published_at": "2026-07-16T21:29:14+00:00"
+    },
+    {
+      "title": "Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSTVGUFc3bk1YeUR3WVd2VzBtWmdCOElNbGx3NFhkQjA3cjBvSXZkcm43M080QTd5NjZEajFCMlJOblRYeHdEdTVQSi03V1NBekRLUzV6eUQzT1AxWHczdGVNYVlNYWUxb0JCMVNLWVU3cGNjSktwbzhPN2FMOGdzdEtMaUhKbHp0MEpHcV9oMDUxakM4cEwzWV9SWnVKSU1MMHFsdEs0MEUzUE5mbjFMXzJNYUh2WW1yM3o2WDZ2a25XWFRNRVNUTEFSVHI0SDdZYk1HdGphcw?oc=5",
+      "summary": "Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "source": "Amazon",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-16T15:50:52+00:00"
+    },
+    {
+      "title": "Amazon integrates xAI’s Grok 4.3 on Bedrock, intensifying the enterprise AI arms race - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55NjRoaU51Q3VEa0otU2NDZUg5ZVgxUnNTSHVPQ2ltNG9vLV8zTkNEaXBvTGZ2aU8zeHh5Z3ZJa1gtSnlPYjI1ZEZzbDFROVctQVZDM2VxMnJ0SmFuSjQta0R5aDFCYUpWbEhLYWVB?oc=5",
+      "summary": "Amazon integrates xAI’s Grok 4.3 on Bedrock, intensifying the enterprise AI arms race&nbsp;&nbsp;Crypto Briefing",
+      "source": "Amazon",
+      "time": "5h",
+      "tags": [],
+      "published_at": "2026-07-16T20:34:55+00:00"
     },
     {
       "title": "AWS Security Hub expands coverage to Microsoft Azure and beefs up AI protections - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY08wRjA5YmRSdE9tZlE0X2pvVDNtMXFzZ2E5R2Y5bW9rYkIxRHJWdC1POHNGaHFNX1FOY0lxSEZ3R3JUNEVjMkVEZFdjSkY5b2R3WkhHV3Jyc1V4VzFRTTJLdnhyU2xWa0trRDhxN3NLWFU2RXgySTUwZllsMllfa2xDNDc4YXdtWGs4eVZXZFdXcWNDYW9EYjF1Zy05emNEQlBrYkZrMXdtR2c?oc=5",
       "summary": "AWS Security Hub expands coverage to Microsoft Azure and beefs up AI protections&nbsp;&nbsp;SiliconANGLE",
       "source": "Amazon",
-      "time": "7h",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-14T19:00:35+00:00"
     },
     {
-      "title": "Scaling medical content review at Flo Health with Amazon Bedrock – Part 2 - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaGdYbjhQMzdSeGszSTY0YzFUWVcybTN2X2M1X205ZUFBRVJ5X29aZmdnUWlMclAxR254ckxhRnpUME51SW1hbEx2OGFNUXIxdHBuLTRWOGhheEdLQ0w3Rll4UFVMNG45SDBLWmZGc01GSEVCQVZXOUc2RVZCUF9oQUNMYV9OODk4YmxuUHZmS21TT0tLMnoza3dUaHNBWGFZaFVlNEVNeTNDMno2d2tpWU4yWUhHWUJyV1E?oc=5",
-      "summary": "Scaling medical content review at Flo Health with Amazon Bedrock – Part 2&nbsp;&nbsp;Amazon Web Services (AWS)",
-      "source": "Amazon",
-      "time": "9h",
-      "tags": [],
-      "published_at": "2026-07-14T16:33:08+00:00"
-    },
-    {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yUmlDZ29pZlZFNHNfSzBVbXkxRkZXNTZ0cjVpOG5DWHMtTGpNOV82dG5WeVZpbVktQjViSHRRZ0lEVWx3N0ZIZGo0UllDV3A4Z1R1R29HbzU?oc=5",
-      "summary": "OpenAI models, Codex, and Managed Agents come to AWS&nbsp;&nbsp;OpenAI",
-      "source": "Amazon",
-      "time": "5d",
-      "tags": [],
-      "published_at": "2026-07-09T07:00:00+00:00"
-    },
-    {
-      "title": "BNB Agent Studio deploys AI agents on AWS Bedrock AgentCore for continuous operation - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcHZBaGVJSVRMVEhkMW1zaUFhbDBOMmxta1AtS0FOUmxyQkI0X0V6aDNUSHROcTEyVXpyNzJkemU1aFI1TEJvRHotZXdlSV9IcVBFRVZpOUFRZEFUWld3NTZGeG1FZGFzaVo1dVhLWklsNmVBbHpYajEzbDMybzBZMjhmOA?oc=5",
-      "summary": "BNB Agent Studio deploys AI agents on AWS Bedrock AgentCore for continuous operation&nbsp;&nbsp;Crypto Briefing",
-      "source": "Amazon",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-12T04:06:55+00:00"
-    },
-    {
-      "title": "Experts warn AI gateways connected to Amazon Bedrock are being hijacked to steal crypto - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUFkwejV1TmRTQUdscENYZllqWlNjbk50MElNMHZxNXF3V1poSWNCQ0MzTnBWdDkxU0lHRTlKajQzeGRCQmZpYmVkN1VvRVM5ZENkaVhOVDZLZm5KalZKOGxRQ0x0aDZBUUdXUkxJNzBycDIteVhRYjFrLXNOUGdiR2xOZ2xBSXM2VUo1ZG5nQ1hXWWZOb2VFVUtoSUNHZUtleV9iOVM1WEtwQjJJRXEzRnlTNndMclotbTBITno3Qk1sU2lwNkxaUWVJN19aX01TS1pVZHl6SUNDdUFjdkFkdU93Q2c3NmNJZF9EUVJ3V2F2UTIxUVZVOE84SHI5d014b2Y5ejg4cm1WaWVxeXJfZXpIaHc5aC1mYm1pV042WmRqYWRGR1BZaHFOUjZsUQ?oc=5",
-      "summary": "Experts warn AI gateways connected to Amazon Bedrock are being hijacked to steal crypto&nbsp;&nbsp;TechRadar",
+      "title": "AWS EC2 and AI leader Dave Brown to exit, replaced by Amazon exec and Microsoft vet Dave Treadwell - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGtPdTVpbEt4Y2gwdlpMOVd6ejBLRkVaUjluRDZyMUhnWjAzYjY3Tms1a2RDbnVUM25UMm9QR3Rlamg4SlEyM1ptTmM0bjFuU0JkTlp0Q1hDTW4yUE9MckZfZmZRdjNKLWhJMzRpajZ2SDBDV242U0lEYkJVZXpFMENPMEVDMUtobllxeEdhVnVyZFFvUmpRVGhSZDRHbDV3MlhpNGs2UmtKdzBxQW8xU3RNemdRQzJ0ajliZVZ3SkM2TlJxODhn?oc=5",
+      "summary": "AWS EC2 and AI leader Dave Brown to exit, replaced by Amazon exec and Microsoft vet Dave Treadwell&nbsp;&nbsp;GeekWire",
       "source": "Amazon",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-13T14:15:00+00:00"
+      "published_at": "2026-07-15T19:40:56+00:00"
+    },
+    {
+      "title": "Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdERNRmdkOTNUaWNHRE5tcXl5cXRSNDl4eElySzNKQnBkc0luempRdFNBeGE4anltTW85QmRYVVlfcHc3dWFvOUdPR25VYXp0QkE5RTNadm5zZ1JMM3V0V3lpQlZnRzdmSEw4Vl9SNzE2VDR5YkpoazVSbWp1Tk0xNW84MkpJQzd6TWdVU19BaG5iUVIwSXJac3NQVUhic2xlaUNQZlR0azRndElSLS1tRHlodklrUERDcFREYzd0VXBmZUti?oc=5",
+      "summary": "Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "source": "Amazon",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-15T18:11:57+00:00"
     }
   ]
 }

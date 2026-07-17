@@ -1,7 +1,7 @@
 {
   "source": "机器之心",
   "layer": "media",
-  "updated": "2026-07-16T16:54:29+08:00",
+  "updated": "2026-07-17T10:01:23+08:00",
   "items": [
     {
       "title": "AI越会回答，人为什么越需要深度思考？复旦发布2026人文社科智能发展蓝皮书 - 手机网易网",
@@ -13,22 +13,13 @@
       "published_at": "2026-07-14T03:13:56+00:00"
     },
     {
-      "title": "仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒 - qq.com",
+      "title": "仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒 - 腾讯新闻",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWdnlmdE94bi14RWV4WXVYNGFSU1RHTnJxYjR4YTgtTmJYaURQMlNqeGVJRnFRc0pRU2gzN29WX3o3SjZFa0FCakVmdkRQcWhmZWc2Qk1R?oc=5",
-      "summary": "仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒&nbsp;&nbsp;qq.com",
+      "summary": "仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒&nbsp;&nbsp;腾讯新闻",
       "source": "机器之心",
       "time": "5d",
       "tags": [],
       "published_at": "2026-07-11T05:05:00+00:00"
-    },
-    {
-      "title": "为什么前沿AI公司都想自己造芯片？ - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JYlU4QkZRNWFud25GdHZ6TExObWRwY2l4QUl4Y0pnMmlnVFVkTW9NZXduX2k5T183eGxEUWJyZlRNM2paZk1WOXpDVHVYOU01OGdLdFdsRElDdHhaNHhJSE1R?oc=5",
-      "summary": "为什么前沿AI公司都想自己造芯片？&nbsp;&nbsp;手机网易网",
-      "source": "机器之心",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-13T02:34:28+00:00"
     },
     {
       "title": "鸿蒙为何选中一家世界模型「狂想者」？拆解极顶数创的AI 3D底牌 - 手机网易网",
@@ -40,6 +31,15 @@
       "published_at": "2026-07-14T03:55:59+00:00"
     },
     {
+      "title": "为什么前沿AI公司都想自己造芯片？ - 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JYlU4QkZRNWFud25GdHZ6TExObWRwY2l4QUl4Y0pnMmlnVFVkTW9NZXduX2k5T183eGxEUWJyZlRNM2paZk1WOXpDVHVYOU01OGdLdFdsRElDdHhaNHhJSE1R?oc=5",
+      "summary": "为什么前沿AI公司都想自己造芯片？&nbsp;&nbsp;手机网易网",
+      "source": "机器之心",
+      "time": "3d",
+      "tags": [],
+      "published_at": "2026-07-13T02:34:28+00:00"
+    },
+    {
       "title": "宇树科技牵手湖南钢铁，一家物理AI公司浮出水面 - 手机网易网",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00ZlREWmdsQ0dic0ZqWFJaazRDaF9mbHlPZFVwR0ZVeEJTNjJTZ0JKcjhvZEZhdE04NFU3aGVlaDQ1Sjl1RWNEak1Pa1kyMFRuemRyUTdoZExiWi13Ull2SHVn?oc=5",
       "summary": "宇树科技牵手湖南钢铁，一家物理AI公司浮出水面&nbsp;&nbsp;手机网易网",
@@ -49,13 +49,13 @@
       "published_at": "2026-07-13T05:27:07+00:00"
     },
     {
-      "title": "从验证Demo到冲刺IPO，AI企业为何更需要一座「产业小镇」？ - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc0hiWE5DU1Z6U1FwQm9NWjY5N2djSUQ3MU94bWlWbnpxUmZfcnJ6R1VtVDFFSzhtVHZla1dGT1drakVjdTFmOExNVnd6My04bUlOQVhQUWNERk1tdjZfYWFn?oc=5",
-      "summary": "从验证Demo到冲刺IPO，AI企业为何更需要一座「产业小镇」？&nbsp;&nbsp;手机网易网",
+      "title": "「十万卡时代」，谁在定义新标准？ - 网易新闻客户端",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kX1pBVzVPd0tFU1ROa3dMSTYwR2xCbVRYbmdjMDZtSmxOUXhwRXJfMU9mc09WRFlQeXRMYmM5Mld2N2Q4b2h2TWFIb09UUTFqcXFUcHlvZHhNYUJQ?oc=5",
+      "summary": "「十万卡时代」，谁在定义新标准？&nbsp;&nbsp;网易新闻客户端",
       "source": "机器之心",
-      "time": "4d",
+      "time": "6d",
       "tags": [],
-      "published_at": "2026-07-11T17:40:06+00:00"
+      "published_at": "2026-07-10T11:09:00+00:00"
     }
   ]
 }

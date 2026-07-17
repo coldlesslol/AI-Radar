@@ -2,72 +2,90 @@
   "key": "github_trending",
   "title": "GitHub Trending AI",
   "freq": "daily",
-  "updated": "2026-07-16T16:55:03+08:00",
+  "updated": "2026-07-17T10:01:33+08:00",
   "url": "https://github.com/trending?since=daily",
-  "total_trending": 14,
+  "total_trending": 17,
   "items": [
+    {
+      "full_name": "apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars": 916,
+      "stars_today": 60,
+      "url": "https://github.com/apache/ossie",
+      "rank": 1
+    },
     {
       "full_name": "Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars": 9716,
-      "stars_today": 1277,
+      "stars": 10963,
+      "stars_today": 3372,
       "url": "https://github.com/Nutlope/hallmark",
-      "rank": 1
-    },
-    {
-      "full_name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars": 173147,
-      "stars_today": 2130,
-      "url": "https://github.com/mattpocock/skills",
       "rank": 2
     },
     {
-      "full_name": "Dicklesworthstone/destructive_command_guard",
-      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "language": "Rust",
-      "stars": 4913,
-      "stars_today": 471,
-      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "full_name": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars": 35858,
+      "stars_today": 77,
+      "url": "https://github.com/PostHog/posthog",
       "rank": 3
     },
     {
-      "full_name": "HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "stars": 24017,
-      "stars_today": 915,
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "rank": 4
-    },
-    {
       "full_name": "openinterpreter/openinterpreter",
-      "description": "A coding agent for low-cost models",
+      "description": "A coding agent for open models like Kimi K3",
       "language": "Rust",
-      "stars": 65710,
-      "stars_today": 299,
+      "stars": 65996,
+      "stars_today": 661,
       "url": "https://github.com/openinterpreter/openinterpreter",
-      "rank": 5
+      "rank": 4
     },
     {
       "full_name": "Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars": 122283,
-      "stars_today": 1236,
+      "stars": 122923,
+      "stars_today": 923,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "rank": 5
+    },
+    {
+      "full_name": "lobehub/lobehub",
+      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "language": "TypeScript",
+      "stars": 80182,
+      "stars_today": 71,
+      "url": "https://github.com/lobehub/lobehub",
       "rank": 6
     },
     {
-      "full_name": "coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "language": "JavaScript",
-      "stars": 40016,
-      "stars_today": 340,
-      "url": "https://github.com/coreyhaines31/marketingskills",
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 174331,
+      "stars_today": 2060,
+      "url": "https://github.com/mattpocock/skills",
       "rank": 7
+    },
+    {
+      "full_name": "github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars": 9649,
+      "stars_today": 13,
+      "url": "https://github.com/github/copilot-sdk",
+      "rank": 8
+    },
+    {
+      "full_name": "Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars": 89122,
+      "stars_today": 1107,
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "rank": 9
     }
   ]
 }

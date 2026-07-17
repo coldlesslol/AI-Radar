@@ -1,142 +1,142 @@
 {
   "source": "Reddit ML",
   "layer": "community",
-  "updated": "2026-07-15T10:16:21+08:00",
+  "updated": "2026-07-17T10:00:37+08:00",
   "items": [
     {
-      "title": "LLM hallucination paper(using math) accepted to ICML workshop[R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uw4j6a/llm_hallucination_paperusing_math_accepted_to/",
-      "summary": "Hello guys. I want to introduce my recent research presented at ICML workshop. github link : genji970/SRM-LoRA: official implementation of &quot;SRM-LoRA: Sub-Riemannian-Metric Updates for Mitigating ",
+      "title": "Why is ECCV so insanely expensive for students presenting papers? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uxyd6z/why_is_eccv_so_insanely_expensive_for_students/",
+      "summary": "Just saw the ECCV registration fees and I'm shocked, student registration is 440 USD for early bird, and the worst thing is that you can't even do the student registration if you're presenting a paper",
       "source": "Reddit ML",
       "time": "16h",
       "tags": [],
-      "published_at": "2026-07-14T10:13:24+00:00"
+      "published_at": "2026-07-16T09:55:40+00:00"
     },
     {
-      "title": "New LLM Coordination Benchmark - Benchmarking Open-Ended Multi-Agent Coordination in Language Agents [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uwc6ni/new_llm_coordination_benchmark_benchmarking/",
-      "summary": "Can LLM agents coordinate in long-horizon, open-ended worlds? We evaluate 13 modern LLMs in a new benchmark where agents must work together to explore, communicate, trade resources, craft tools, build",
+      "title": "Seeking collaborators for scaling and independent evaluation of a new recurrent language model architecture (preprint + code) [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uycffg/seeking_collaborators_for_scaling_and_independent/",
+      "summary": "Hi everyone, I've been working independently on a recurrent architecture called **DABSN (Dynamic Adaptive Bias State Network)** for the past several months, and I finally reached the point where I fee",
+      "source": "Reddit ML",
+      "time": "6h",
+      "tags": [],
+      "published_at": "2026-07-16T19:17:01+00:00"
+    },
+    {
+      "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
+      "summary": "While writing an essay about AI memory and persistent context, I started wondering whether current AI memory systems are optimized for the right thing. Current AI systems already maintain forms of per",
       "source": "Reddit ML",
       "time": "10h",
       "tags": [],
-      "published_at": "2026-07-14T15:37:52+00:00"
+      "published_at": "2026-07-16T16:00:01+00:00"
     },
     {
-      "title": "Things I got wrong building an incremental indexing pipeline [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uwnb3g/things_i_got_wrong_building_an_incremental/",
-      "summary": "I've been working on incremental indexing pipelines lately, basically keeping a vector store in sync as the source data changes, and I keep finding the same bugs never show up until it's been running ",
+      "title": "whats the best and complete way to keep up with ai/ml news? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uyecez/whats_the_best_and_complete_way_to_keep_up_with/",
+      "summary": "i'm subscribed to a ai/ml newsletter but i feel like its not enough. i need a complete and not too time consuming way to keep up with ai/ml news because i feel like im left behind. thanks in advance &",
       "source": "Reddit ML",
-      "time": "3h",
+      "time": "5h",
       "tags": [],
-      "published_at": "2026-07-14T22:21:51+00:00"
+      "published_at": "2026-07-16T20:28:38+00:00"
     },
     {
-      "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
-      "summary": "Read a long piece on the future of LLM reasoning that makes a provocative claim: Chain of Thought is a useful hack but we've started to confuse a readable trace with the actual computation. All in all",
+      "title": "The qlora 2e-4 default is wrong under 10k samples and nobody talks about it [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uy1z8b/the_qlora_2e4_default_is_wrong_under_10k_samples/",
+      "summary": "Every qlora tutorial on earth says start at 2e-4. Unsloth docs, hf examples, the paper itself. and for small datasets i now think that numbers is a trap. Where does 2e-4 come from? alpaca. 52k samples",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "13h",
       "tags": [],
-      "published_at": "2026-07-13T17:50:49+00:00"
+      "published_at": "2026-07-16T12:50:35+00:00"
     },
     {
-      "title": "[N] AMA Reminder: Raffi Krikorian (CTO, Mozilla)",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uw2do8/n_ama_reminder_raffi_krikorian_cto_mozilla/",
-      "summary": "Hello community, just a short reminder that Raffi Krikorian (CTO @ Mozilla) is live today for an AMA to discuss Mozilla's inaugural State of Open Source AI report. Topics include enterprise adoption, ",
+      "title": "ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uy2zb3/externd_expandedrank_ternary_decomposition/",
+      "summary": "https://arxiv.org/pdf/2607.13511 the core idea is, we cannot have ternary PTQ with fixed matrix size, trying to do that is dead end. so i tried decomposing the matrix to 2 ternary matrices and inner d",
       "source": "Reddit ML",
-      "time": "18h",
+      "time": "12h",
       "tags": [],
-      "published_at": "2026-07-14T08:08:19+00:00"
+      "published_at": "2026-07-16T13:31:07+00:00"
     },
     {
-      "title": "Are the contents of this monograph reliable with respect to the modern theoretical understanding of deep neural networks? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uvuavs/are_the_contents_of_this_monograph_reliable_with/",
-      "summary": "NB: Reposting due to a typo in the title Putting this here instead of the other subs since I figured a question on deep learning theory is out of place there -- I &quot;recently&quot; found (actually,",
+      "title": "CfP | RTCA @ NeurIPS 2026 [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uy8e0v/cfp_rtca_neurips_2026_r/",
+      "summary": "Call for Papers and Demos Real-Time Conversational Agents (RTCA): Toward Natural Multimodal Interaction 1st RTCA Workshop [@]() NeurIPS 2026, Sydney, Australia 11 or 12 December 2026 Website: https://",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "9h",
       "tags": [],
-      "published_at": "2026-07-14T01:14:30+00:00"
+      "published_at": "2026-07-16T16:51:34+00:00"
     },
     {
-      "title": "Prompt-engineering paper accepted to ICML [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/",
-      "summary": "&quot;Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity&quot; This paper was accepted to ICML this year. Its main idea is a very simple prompt-engineering trick: &quot;changi",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-13T05:00:07+00:00"
-    },
-    {
-      "title": "How many on-the-fly augmentations per image for a single-class segmentation mode [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uvxt70/how_many_onthefly_augmentations_per_image_for_a/",
-      "summary": "I’m training a single-class segmentation model for large rectangular artwork placed on the floor and photographed from above. We have around 3,000 accurately masked original images taken by six differ",
-      "source": "Reddit ML",
-      "time": "22h",
-      "tags": [],
-      "published_at": "2026-07-14T03:58:22+00:00"
-    },
-    {
-      "title": "Cloud-vLLM Benchmark Differences [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uw2j9e/cloudvllm_benchmark_differences_r/",
-      "summary": "Does anyone know of any evidence/forum/paper analyzing benchmark result differences between cloud inference platforms (togetherai) and running models locally with vLLM under greedy decoding? &#32; sub",
-      "source": "Reddit ML",
-      "time": "17h",
-      "tags": [],
-      "published_at": "2026-07-14T08:17:25+00:00"
-    },
-    {
-      "title": "GPUHedge: Hedging serverless GPU providers improves cold start p95 latency from 117s to 30s [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uvlb6h/gpuhedge_hedging_serverless_gpu_providers/",
-      "summary": "Disclosure: I built it, it is open source, Apache-2.0 licensed, and currently alpha. Repository: https://github.com/mireklzicar/gpuhedge I started working on it after benchmarking a 17 GB AI model acr",
+      "title": "Looking for JEPA devil advocates [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uxcryc/looking_for_jepa_devil_advocates_r/",
+      "summary": "I am currently doing research on world models, specially in tje field of robot learning, and, as probably most of you alredy know, JEPA-like models are mentioned over and over. I read the main recent ",
       "source": "Reddit ML",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-13T19:20:07+00:00"
+      "published_at": "2026-07-15T17:34:44+00:00"
     },
     {
-      "title": "Hundreds of papers hit arXiv every day and maybe 3 matter to my research, so I built an open-source tool that finds them [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uvcdf7/hundreds_of_papers_hit_arxiv_every_day_and_maybe/",
-      "summary": "Left: Telegram digest (optional); Right: detailed digest on HTML Like probably everyone here, my to-read list only grows. Skimming arXiv listings or my feeds takes 30-60 minutes a day, 95% of it is ir",
+      "title": "PnP-CoSMo: A Multi-Contrast MRI Reconstruction Framework based on Content/Style Modeling [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uy2h66/pnpcosmo_a_multicontrast_mri_reconstruction/",
+      "summary": "What is the shared structural essence that underlies a pair of MRI contrast spaces? Explicitly modeling this contrast-invariant latent “content” unlocks a powerful multi-contrast reconstruction algori",
+      "source": "Reddit ML",
+      "time": "12h",
+      "tags": [],
+      "published_at": "2026-07-16T13:10:56+00:00"
+    },
+    {
+      "title": "Best current tools for Multi-Objective Surrogate-Based Optimization (MOSBO) on heterogeneous study data meta-analysis?[P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uxty9v/best_current_tools_for_multiobjective/",
+      "summary": "I'm working on a project with summarized data from ~40 studies (Excel) involving different protocol variables (durations, intensities, recovery times, frequency, total duration, etc.) and response out",
+      "source": "Reddit ML",
+      "time": "20h",
+      "tags": [],
+      "published_at": "2026-07-16T05:43:55+00:00"
+    },
+    {
+      "title": "New Fable5/Opus4.8 harness called \"Schema\" claims 99% on ARC-3 [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uyf8oo/new_fable5opus48_harness_called_schema_claims_99/",
+      "summary": "Schema, the harness we introduce today, reaches 99% on the ARC‑AGI‑3 Public set using Claude Opus 4.8 and Fable 5, and 95.35% using GPT‑5.6 Sol. It does not change the underlying model weights. Instea",
+      "source": "Reddit ML",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-16T21:02:45+00:00"
+    },
+    {
+      "title": "Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/",
+      "summary": "I have recently started working in mechanistic interpretability independently, starting with distill circuits thread My work is on disentangling and closely studying a single neuron, a 1x1 convolution",
       "source": "Reddit ML",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-13T13:59:17+00:00"
+      "published_at": "2026-07-15T06:59:41+00:00"
     },
     {
-      "title": "Evaluating J-space entropy as an error predictor across 7 datasets on Qwen3-4B [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/",
-      "summary": "Anthropic’s Jacobian Lens work introduced a way to inspect verbalizable representations inside language models. Follow-up experiments suggested that entropy in this internal “workspace” might help ide",
+      "title": "PyTorch model running 170x slower on T4 vs A100. What could cause a bottleneck this extreme? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ux6a9x/pytorch_model_running_170x_slower_on_t4_vs_a100/",
+      "summary": "Hey everyone, Seeing a ~170× slowdown running a point-tracking model on an NVIDIA T4 compared to an A100. On A100 the tracker takes ~0.5 seconds per half-video. On T4 the same call takes ~85 seconds. ",
       "source": "Reddit ML",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-13T08:27:09+00:00"
+      "published_at": "2026-07-15T13:44:23+00:00"
     },
     {
-      "title": "Doubt regarding TMLR[R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uv86op/doubt_regarding_tmlrr/",
-      "summary": "My TMLR paper was assigned to reviewers on April 23, and as of July 13 I've received 2 reviews, but the third is still pending. The discussion phase hasn't opened yet, so I can't respond to the existi",
+      "title": "AI/ML Research - What Does it Really Take? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ux64ub/aiml_research_what_does_it_really_take_d/",
+      "summary": "I’ve been deeply interested in AI and machine learning since around 2019, back when GPT-2 was still one of the major talking points. Since then, I’ve been amazed by how quickly the field has evolved. ",
       "source": "Reddit ML",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-13T10:53:29+00:00"
+      "published_at": "2026-07-15T13:38:27+00:00"
     },
     {
-      "title": "[ECCV 2026] Meaning of \"Authorized Delegate\" & Registration Advice [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uv31uj/eccv_2026_meaning_of_authorized_delegate/",
-      "summary": "Hi everyone,Our paper was recently provisionally accepted to ECCV 2026! However, our team is facing an issue regarding attendance and the ECCV 2026 Submission Policies. The official guidelines state: ",
+      "title": "Does anyone else miss the old conference ecosystem? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uwy25k/does_anyone_else_miss_the_old_conference/",
+      "summary": "Does anyone else miss when conferences like BMVC, ACCV, FG, ICIP, and ICASSP had much bigger communities? FG was the place for face analysis, ICASSP for signal processing, and BMVC/ACCV regularly feat",
       "source": "Reddit ML",
       "time": "1d",
       "tags": [],
-      "published_at": "2026-07-13T06:00:50+00:00"
-    },
-    {
-      "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/",
-      "summary": "TL:DR: I’m a grad student in AI, I saw that Google released TabFM and TimesFM last week, I built an MCP wrapper to serve both transformer models in a single Docker container so you can connect their n",
-      "source": "Reddit ML",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-12T12:32:29+00:00"
+      "published_at": "2026-07-15T06:47:28+00:00"
     }
   ]
 }

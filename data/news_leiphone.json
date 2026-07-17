@@ -1,14 +1,149 @@
 {
   "source": "雷峰网",
   "layer": "news",
-  "updated": "2026-07-16T10:09:54+08:00",
+  "updated": "2026-07-17T10:00:16+08:00",
   "items": [
+    {
+      "title": "挚达科技发布家庭及公共场景自动充电机器人解决方案",
+      "url": "https://www.leiphone.com/category/transportation/lV4IbRbkPa4Urphm.html",
+      "summary": "雷峰网获悉，挚达科技发布“AI能源+机器人”家庭及公共场景解决方案，以自动充电机器人为核心，结合光伏、储能、充电设备及AI平台，实现能源管理、任务调度和自动充电，面向家庭住宅及Robotaxi、物流车等公共运营场景。同时，挚达科技深圳公司正式揭牌，将承担产品研发、智能硬件研发及海外业务等职能。",
+      "source": "雷峰网",
+      "time": "14h",
+      "tags": [],
+      "published_at": "2026-07-16T11:17:00+00:00"
+    },
+    {
+      "title": "国产大芯片厂商“必修课”：从云豹智能看DPU赛道现实考题",
+      "url": "https://www.leiphone.com/category/chips/lxIbicm9WU6RU1Qe.html",
+      "summary": "国内DPU厂商云豹智能6月30日向深交所递交创业板IPO材料，成为创业板第四套上市标准下首家申报的DPU芯片企业，被市场视作“国产DPU第一股”。而随着招股书披露经营数据，市场出现两类争议声音：连续三年归母净利润亏损和营收高度依赖单一大客户。创业板第四套上市标准的落地，彻底打破了上市必须盈利的限制，精准适配高端芯片这类前期重投入、暂未盈利的硬科技企业。破解芯片“卡脖子”是国家核心战略任务，目前数据",
+      "source": "雷峰网",
+      "time": "18h",
+      "tags": [],
+      "published_at": "2026-07-16T07:45:00+00:00"
+    },
+    {
+      "title": "专访 Ψ₀ 团队：用对方法，30小时真机数据也能练模型｜RSS 2026",
+      "url": "https://www.leiphone.com/category/private/XjLhqoCs0fFsyEIN.html",
+      "summary": "机器人Scaling，不一定先拼数据量&nbsp; &nbsp; 作者丨邓哲敏&nbsp; &nbsp; 编辑丨齐铖湧&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
+      "source": "雷峰网",
+      "time": "18h",
+      "tags": [],
+      "published_at": "2026-07-16T07:32:00+00:00"
+    },
+    {
+      "title": "2026世界人工智能大会聚焦AI治理，奇安信展示AI+安全双轮驱动布局",
+      "url": "https://www.leiphone.com/category/industrynews/lxXkqwf4vc9J3opM.html",
+      "summary": "7月17日至20日，2026世界人工智能大会（WAIC 2026）暨人工智能全球治理高级别会议将在上海开幕。本届大会以“智能伙伴 共创未来”为主题，聚焦人工智能创新发展与安全治理双向协同，将AI安全与全球治理提升至核心战略层面。奇安信携系列AI安全产品亮相上海世博展览馆H1展区，并参与圆桌会议、行业研讨等多个环节，集中展示其在AI安全领域的技术积淀与实战能力。AI安全治理成大会核心主线本次大会增设",
+      "source": "雷峰网",
+      "time": "19h",
+      "tags": [],
+      "published_at": "2026-07-16T06:29:00+00:00"
+    },
+    {
+      "title": "行业首个！中国一汽大模型入驻阿里云百炼，面向全行业开放",
+      "url": "https://www.leiphone.com/category/industrynews/REYfC0ECzRMeS8hD.html",
+      "summary": "7月15日，中国第一汽车集团有限公司（以下简称“中国一汽”）与阿里云智能集团联合宣布：由中国一汽基于千问自主研发的行业大模型已正式入驻阿里云百炼平台，面向全行业开放。作为业内首个实现商业化服务的大模型，它将中国一汽沉淀的行业know-how转化为标准化服务，让全行业企业都能低门槛调用专业AI能力。据介绍，该汽车行业大模型由中国一汽依托研发、生产、制造、供应链全链条的高质量数据集训练而成，历经八轮训",
+      "source": "雷峰网",
+      "time": "20h",
+      "tags": [],
+      "published_at": "2026-07-16T05:57:00+00:00"
+    },
+    {
+      "title": "不改造门店机器人直接上岗，蚂蚁灵波智慧药房获WAIC 2026“镇馆之宝”",
+      "url": "https://www.leiphone.com/category/industrynews/tA7cOaKzZYIzZTd1.html",
+      "summary": "2026世界人工智能大会（WAIC）将于7&nbsp;月&nbsp;17&nbsp;日正式拉开帷幕。作为大会展览板块的最高荣誉，日前揭晓的十大“镇馆之宝”已率先成为各方关注的焦点。其中，蚂蚁集团的“基于蚂蚁灵波跨本体具身大模型的机器人智慧药房”，与中科曙光“曙光8000—全国产十万卡AI超集群”等硬核科技成果一同登榜。“镇馆之宝”由大会组委会从技术含量、市场前景、可复制性和社会价值等维度综合评选，",
+      "source": "雷峰网",
+      "time": "20h",
+      "tags": [],
+      "published_at": "2026-07-16T05:56:00+00:00"
+    },
+    {
+      "title": "行业首个！中国一汽大模型入驻阿里云百炼，面向全行业开放",
+      "url": "https://www.leiphone.com/category/industrynews/RLQXM9HvJOa5hsu0.html",
+      "summary": "7月15日，中国第一汽车集团有限公司（以下简称“中国一汽”）与阿里云智能集团联合宣布：由中国一汽基于千问自主研发的行业大模型已正式入驻阿里云百炼平台，面向全行业开放。作为业内首个实现商业化服务的大模型，它将中国一汽沉淀的行业know-how转化为标准化服务，让全行业企业都能低门槛调用专业AI能力。据介绍，该汽车行业大模型由中国一汽依托研发、生产、制造、供应链全链条的高质量数据集训练而成，历经八轮训",
+      "source": "雷峰网",
+      "time": "20h",
+      "tags": [],
+      "published_at": "2026-07-16T05:56:00+00:00"
+    },
+    {
+      "title": "穿越无人之海：斯年智驾驶出港口，奔向万里通途",
+      "url": "https://www.leiphone.com/category/transportation/ZNhRb9vxyX6mGHZp.html",
+      "summary": "过去几年，斯年智驾最广为人知的标签，一直是港口无人驾驶。相比Robotaxi、城市NOA等更容易引发关注的话题，港口无人驾驶在自动驾驶行业里相对沉默。在很多人看来，这是一门封闭场景生意，不仅市场规模有限，并且项目周期漫长、交付过程繁琐。即便技术能够跑通，也很难讲出一个令人兴奋的增长故事。因此，当自动驾驶行业经历多轮资本热潮与寒冬时，港口无人驾驶始终处于一个略显边缘的位置。但最近，斯年智驾完成3亿元",
+      "source": "雷峰网",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-16T03:43:00+00:00"
+    },
+    {
+      "title": "OpenAI 一夜重置全员额度，800 万开发者集体「续命」",
+      "url": "https://www.leiphone.com/category/yanxishe/twBDwHXZSfeUeRJf.html",
+      "summary": "Codex负责人72小时三连击，额度福利吃到饱&nbsp; &nbsp; 作者丨高允毅&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs",
+      "source": "雷峰网",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-16T03:12:00+00:00"
+    },
+    {
+      "title": "告别\"随机抽卡\"，天工短剧工作台：让AI短剧制作第一次真正拥有导演思维！",
+      "url": "https://www.leiphone.com/category/aijuejinzhi/bWfcIXnc8zsLX1GW.html",
+      "summary": "当下，AI短剧行业已告别“野蛮生长”，正式迈入精品化、规模化的全新阶段。然而，当大多数创作者还在“AI盲盒式”创作时，三个残酷的现状早已浮现：创作过程不可控：依赖 AI“抽卡”随机生成，容易出现角色变脸、站位漂移、前后镜头缺少叙事逻辑。质感产能难平衡：全自动生成容易有 AI 机械感，手动精修又难以支撑规模化交付。团队管理难统筹：多人创作缺少标准化工具，项目进度、算力成本和复盘数据难以统一管理。精品",
+      "source": "雷峰网",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-16T03:10:00+00:00"
+    },
+    {
+      "title": "ICML 2026 的 AI4S 现场：工具、合著者，还是创始人？",
+      "url": "https://www.leiphone.com/category/private/8RxEFrIjsXnMFkt9.html",
+      "summary": "“AI4S在科学社区里是被低估了，但在AI社区，人们有时又高估了它的能力。”&nbsp; &nbsp; 作者丨周蕾&nbsp; &nbsp; 编辑丨岑峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
+      "source": "雷峰网",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-16T03:09:00+00:00"
+    },
+    {
+      "title": "给机器人造一座「数据工厂」，小米 Robotics-U0 如何破解具身智能最难的一道题？",
+      "url": "https://www.leiphone.com/category/robot/2m3jnMIPtYerJ6UR.html",
+      "summary": "世界各地，有不少人正在给机器人当“幼教”。在印度的一些工厂里，有工人头戴摄像头完成装配、分拣和搬运，将第一视角画面和完整操作过程记录下来；特斯拉 Optimus 的训练场里，也有工作人员佩戴装有多枚摄像头的头盔和背包，在固定场地内反复拿杯子、擦桌子、拉窗帘；一些数据公司付费邀请普通人拍摄自己叠衣服、洗碗和整理房间的过程。他们在做的，都是把人类早已习惯的动作重新示范、拆解和记录，让机器人从观察、模仿",
+      "source": "雷峰网",
+      "time": "23h",
+      "tags": [],
+      "published_at": "2026-07-16T02:53:00+00:00"
+    },
+    {
+      "title": "一汽解放J6E大客户定制版批量交付，挚途L2++智驾系统成“快递神车”技术杀手锏",
+      "url": "https://www.leiphone.com/category/transportation/jjTiiXkecAqmg6Sj.html",
+      "summary": "商用车智能驾驶赛道，正从概念比拼转向量产交付能力的较量。近日，一汽解放J6E大客户定制版正式启动下线交付。这款在快递市场已积累良好口碑的战略车型，此次针对头部物流企业运营痛点推出定制版本，引发行业关注。此次定制版最受关注的技术配置，是搭载了挚途科技自主研发的L2++级干线组合辅助驾驶系统。挚途科技于2019年由一汽解放发起成立，是国家专精特新“小巨人”企业、国家高新技术企业。公司全栈自研的“挚途鹰",
+      "source": "雷峰网",
+      "time": "23h",
+      "tags": [],
+      "published_at": "2026-07-16T02:30:00+00:00"
+    },
+    {
+      "title": "权威报告：阿里AI编程市场份额第一，超第二至第五名总和",
+      "url": "https://www.leiphone.com/category/industrynews/NmzJRzjezIZgViCu.html",
+      "summary": "7月16日消息，国际权威咨询机构IDC发布2025年中国AI编程市场份额报告，报告显示，阿里以47.6%的市场份额位居第一，超第二名至第五名总和，持续领跑中国AI编程市场。&nbsp;AI编程是全球大模型应用落地最快的领域之一，也是全球顶尖模型创业公司和科技公司竞争的核心战场。IDC报告显示，2025年中国AI编程市场规模为3.99亿元人民币，预计到2026年底将快速增长至11.73亿元人民币。阿",
+      "source": "雷峰网",
+      "time": "23h",
+      "tags": [],
+      "published_at": "2026-07-16T02:17:00+00:00"
+    },
+    {
+      "title": "DeepSeek工资待遇登上热搜，清华姚班晒实习工资日薪5500元；3万内双冠王！美家中央空调再出新品；国行苹果AI通过备案，接入千问、百度",
+      "url": "https://www.leiphone.com/category/zaobao/FbTKM6eNlVlYA5cW.html",
+      "summary": "要闻提示1.国行苹果AI通过备案，接入千问、百度2.DeepSeek工资待遇登上热搜，清华姚班晒实习工资日薪5500元3.美的美享家·美家中央空调：3万元以内健康性能双冠王4.美团、青桔、哈啰共享单车调价，业内人士称行业已进入存量竞争阶段5.马云现身纽约百元平价餐厅，行踪引发世界杯观战猜想6.星纪魅族中国区 CMO 万志强官宣离职，将做“有趣且有意义”的事7.小米宣布MiMo端侧模型通过备案：未来",
+      "source": "雷峰网",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-16T00:40:00+00:00"
+    },
     {
       "title": "西方审美的东方表达｜SUBLIME PRESTIGE亮相中国建博会",
       "url": "https://www.leiphone.com/category/smarthome/JIgOfqa7wDZpvOTs.html",
       "summary": "7月8日至11日，LifeSmart以「西方审美的东方表达」为主题，登陆中国建博会（广州）。SUBLIME携手杭州工艺美术研究院和国家级工艺美术大师、非物质文化遗产代表性传承人金家虹打造的 PRESTIGE 全新「时间珍宝」系列于展会首次公开亮相；行业首个便携式有线系统调试工程终端——「SUBLIME调试配置工具」亦于展会期间正式发布。PRESTIGE，最高级别定制服务从建筑到绘画，从材料到工艺，",
       "source": "雷峰网",
-      "time": "16h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-15T09:43:00+00:00"
     },
@@ -17,7 +152,7 @@
       "url": "https://www.leiphone.com/category/industrynews/uHlXIebJKxcMVNKO.html",
       "summary": "支付宝与OPPO的AI战略合作迎来新进展。7月15日，AI版支付宝端智能体“阿宝”与OPPO智能助手“小布”正式实现跨端互联，“小布”接入“阿宝”近200项民生及生活服务，用户一句话即可调用。合作突破传统云端&nbsp;A2A&nbsp;交互限制，首创端侧可信互联的多智能体协同方案，通过本地端侧数据隔离和分域管控，让阿宝和小布能够安全协同办事。这是“阿宝”首次实现和手机端的智能体互联，提升了手机A",
       "source": "雷峰网",
-      "time": "17h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-15T08:19:00+00:00"
     },
@@ -26,16 +161,16 @@
       "url": "https://www.leiphone.com/category/industrynews/03cTTrdCmNaZapoh.html",
       "summary": "当AI&nbsp;进入企业软件时，一个核心问题浮出水面：企业是需要一个外挂在系统外的AI助手，还是需要一个原生生长在业务系统内的智能体平台？在纷享销客看来，答案很明确：真原生，非外挂。7月2日，纷享销客召开AI产品发布会，正式发布蜂巢智能体平台&nbsp;ShareHive AgentOS&nbsp;（以下简称“蜂巢”）与&nbsp;ShareAgent&nbsp;产品家族。发布会上，纷享销客总裁",
       "source": "雷峰网",
-      "time": "17h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-15T08:13:00+00:00"
     },
     {
       "title": "独家专访李弘扬：成为 RSS 二十年唯一国人获奖者后，我要 all in 全身智能",
-      "url": "https://www.leiphone.com/category/ai/mbQ4vuafsYYdWzsj.html",
+      "url": "https://www.leiphone.com/category/private/mbQ4vuafsYYdWzsj.html",
       "summary": "“过去二十年，我们经历了智能手机时代，智能汽车时代。我认为，下一个时代的物理智能终端，就是智能人形”&nbsp; &nbsp; 作者丨邓哲敏 齐铖湧&nbsp; &nbsp; 编辑丨齐铖湧&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
       "source": "雷峰网",
-      "time": "19h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-15T06:21:00+00:00"
     },
@@ -44,144 +179,9 @@
       "url": "https://www.leiphone.com/category/ai/yY4Y0lFQ6kmtOjWY.html",
       "summary": "面向精准化学实验室的人形灵巧操控仿真和评测平台&nbsp; &nbsp; 作者丨邓哲敏&nbsp; &nbsp; 编辑丨齐铖湧&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs",
       "source": "雷峰网",
-      "time": "19h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-15T06:15:00+00:00"
-    },
-    {
-      "title": "豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座",
-      "url": "https://www.leiphone.com/category/industrynews/fIqCGTasgYRN21d4.html",
-      "summary": "对通用 Agent 来说，多模态交互正在成为一项能大幅提升用户体验的关键基础技术。过去，用户和 AI 的交互更多是输入文字、上传图片，然后等待回答。现在，家长希望可以直接把镜头对准孩子正在做的题目，让 AI 一步步讲解；在穿搭建议、视障人群视频导航等场景里，用户也希望 AI 不再是一问一答，而是在整个任务过程中持续倾听、对话。这种变化提高的不只是功能丰富度，还有用户与 AI 建立连接的频率和深度。",
-      "source": "雷峰网",
-      "time": "21h",
-      "tags": [],
-      "published_at": "2026-07-15T04:32:00+00:00"
-    },
-    {
-      "title": "百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相",
-      "url": "https://www.leiphone.com/category/industrynews/ZNfcN7oQILMXzXTc.html",
-      "summary": "7月14日，百度旗下通用智能体“百度搭子”入选世界人工智能大会“镇馆之宝”，并将亮相于上海举办的WAIC 2026，集中展示其面向个人办公、内容创作、信息处理和企业协作等场景的最新能力。&nbsp;“镇馆之宝”是世界人工智能大会（WAIC）展览板块的重要荣誉，依据科技含量、市场前景、通用性及社会经济效益等维度，对参展创新成果进行综合评选。该奖项每年吸引数百款产品参选，最终入选数量不超过10个。今年",
-      "source": "雷峰网",
-      "time": "22h",
-      "tags": [],
-      "published_at": "2026-07-15T03:43:00+00:00"
-    },
-    {
-      "title": "直击 RSS2026 现场前瞻：共识等待收敛，期待中国具身力量亮相",
-      "url": "https://www.leiphone.com/category/private/3lsidugjZAeIygWx.html",
-      "summary": "具身路线，青年新星，学术拐点&nbsp; &nbsp; 作者丨张 &nbsp; 璐 齐铖湧&nbsp;&nbsp; &nbsp; 编辑丨岑 &nbsp; 峰&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
-      "source": "雷峰网",
-      "time": "22h",
-      "tags": [],
-      "published_at": "2026-07-15T03:31:00+00:00"
-    },
-    {
-      "title": "登顶 ICML Oral ！专访上交大团队：这个 3D 自动标注 AI 太强了",
-      "url": "https://www.leiphone.com/category/private/mDyMyOapu5FiBuRS.html",
-      "summary": "3D空间数据的瓶颈，从来不是算法，而是标注。&nbsp; &nbsp; 作者丨张 &nbsp; 璐&nbsp; &nbsp; 编辑丨齐铖湧&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp",
-      "source": "雷峰网",
-      "time": "22h",
-      "tags": [],
-      "published_at": "2026-07-15T03:27:00+00:00"
-    },
-    {
-      "title": "又快又聪明，阿里发布 Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
-      "url": "https://www.leiphone.com/category/industrynews/Yg2RqalAz09LS6WJ.html",
-      "summary": "7月15日，阿里巴巴发布实时语音交互对话模型Qwen-Audio-3.0-Realtime，在智商、Agent 工具调用、共情对话和双工交互流畅度四条主线上同步升级，力求“又快又聪明”。模型包括推理更强的Plus 版本和速度更快的Flash 版本，适用于智能客服、教育培训、娱乐互动与情感陪伴等场景。今年5月，模型的Preview版本曾在全球权威第三方评测平台Artificial Analysis榜",
-      "source": "雷峰网",
-      "time": "22h",
-      "tags": [],
-      "published_at": "2026-07-15T03:25:00+00:00"
-    },
-    {
-      "title": "佑驾创新落子佛山，滴滴送货加入，探索“公交+物流”一张网",
-      "url": "https://www.leiphone.com/category/transportation/IGRl3w0iqYTHG77A.html",
-      "summary": "自动驾驶小车开始进入新的落地阶段。佑驾创新近日与佛山市禅城区签署合作协议，将在当地设立智能网联巴士总部公司，并布局自动驾驶物流车生产基地，打造涵盖研发、生产、示范运营及运维服务的产业闭环。同日，佑驾创新还与滴滴送货签署无人物流全域运营战略合作协议，双方计划联合面向佛山商业客户提供Robovan服务。这是佑驾创新Robovan业务正式发布以来，又一次重要的商业化落地。根据合作内容，佑驾创新将在禅城区",
-      "source": "雷峰网",
-      "time": "23h",
-      "tags": [],
-      "published_at": "2026-07-15T03:03:00+00:00"
-    },
-    {
-      "title": "机器人，从此“变”了！上纬启元T1将在WAIC期间首秀",
-      "url": "https://www.leiphone.com/category/industrynews/cjkqMQqW31Ak4F46.html",
-      "summary": "近日，上纬新材正式发布旗下消费级具身智能品牌启元机器人的全新产品——启元T1（Transformer 1）。作为全球首个可变形个人机器人，启元T1采用行业首创的Transformer跨形态一体架构，可实现轮足人形与四足形态的自主切换，进一步拓展机器人在家庭陪伴、户外出行、移动拍摄等多元场景中的应用能力。据了解，启元T1将于7月17日至20日举行的2026世界人工智能大会暨人工智能全球治理高级别会议",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-14T13:17:00+00:00"
-    },
-    {
-      "title": "独家｜把芯片设计交给AI，上海AI Lab李林阳创业获数千万元首轮融资",
-      "url": "https://www.leiphone.com/category/chips/3nmA7UMFjI21f5Eh.html",
-      "summary": "芯片设计服务正在迎来AI拐点。&nbsp;雷峰网独家获悉，一家国内创企Novasilicon（芯星元）率先入局，近日已完成首轮融资，由五源资本独家投资数千万元。&nbsp;与传统Design House不同的是，Novasilicon认为AI不再只是工具。“我们更希望从大模型本身出发，重新思考芯片设计。”创始人兼CEO李林阳告诉雷峰网。&nbsp;要真正实现这一设想，仅懂AI或仅懂芯片都不够。&n",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-14T10:31:00+00:00"
-    },
-    {
-      "title": "对话乐道沈斐：用不变的方向，对抗市场的焦虑",
-      "url": "https://www.leiphone.com/category/transportation/SDGMKulLaUBj4k2X.html",
-      "summary": "2026年的中国车市，没有人活得轻松。就连一向乐观的蔚来创始人、董事长、CEO李斌也不由警惕起来，他判断今年国内乘用车零售量可能同比下跌15%到20%。乘联会数据显示，今年前5月国内乘用车累计零售709.9万辆，同比下降19.5%。市场蛋糕在缩小，分食者却在增多。今年上半年，平均每天有3.2款新车上市，北京车展前后更是逼近5款；仅大型SUV这一个细分赛道，5月就有6家车企密集推出了7款新车。竞争，",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-14T09:49:00+00:00"
-    },
-    {
-      "title": "独家丨前英特尔工业团队布局桌面金属CNC，「灵钜创新」获啟赋资本天使轮融资",
-      "url": "https://www.leiphone.com/category/weiwu/ypTyMGz5CtFwuwx5.html",
-      "summary": "灵钜创新首款产品很快将开启众筹。作者丨姚单编辑丨张贤雷峰网·鲸犀独家获悉，「灵钜创新」已于近日完成天使轮融资，本轮投资方为啟赋资本，云岫资本担任长期独家财务顾问。这家成立于2026年1月27日的初创公司，聚焦桌面金属CNC，试图将金属CNC从专业工具变成像3D打印机一样的消费级产品。灵钜创新由一支全建制团队操盘，从底层运控、硬件工程到AI算法、全球品牌，核心创始合伙人在各自领域均有深厚积累。联合创",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-14T09:07:00+00:00"
-    },
-    {
-      "title": "独家解读丨为什么是 Virtue AI？揭秘 Meta 收购华人 AI 安全团队始末",
-      "url": "https://www.leiphone.com/category/ai/yqP7gtoJd0BkqQZ7.html",
-      "summary": "做决定之前，李博和 Virtue AI 团队讨论过很多问题。这不是一次简单的跳槽，也不是一个创业团队突然被大公司带走。对核心成员来说，他们要判断的不只是“要不要加入 Meta”，而是一个更具体的问题：如果过去两年做出来的 AI 安全能力，真的有机会进入数十亿用户规模的产品系统，他们要不要走进去？这件事最早并不是从一场收购谈判开始的。在更早之前，Meta 已经是 Virtue AI 的客户。双方先从",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-14T04:15:00+00:00"
-    },
-    {
-      "title": "刚刚，GPT 5.6 发布会上，OpenAI 暴露了哪些 Agent 技术路线？",
-      "url": "https://www.leiphone.com/category/ai/yRE0svXZn6QDTNov.html",
-      "summary": "ChatGPT 和 codex 合二为一。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-14T04:13:00+00:00"
-    },
-    {
-      "title": "Anthropic 发文称自家 Claude 已经开智，网友：为了上市，不择手段？",
-      "url": "https://www.leiphone.com/category/ai/a26ldgnexT93o9LV.html",
-      "summary": "技术发现不小，但意识叙事争议更大。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-14T04:11:00+00:00"
-    },
-    {
-      "title": "刚刚，DeepSeek 文档更新，Agent 开发者要注意这个字段",
-      "url": "https://www.leiphone.com/category/ai/3KPgkefKuQNtTxzN.html",
-      "summary": "模型会调工具之后，状态管理成了新难题。&nbsp; &nbsp; 作者丨郑佳美&nbsp; &nbsp; 编辑丨马晓宁&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-14T04:08:00+00:00"
-    },
-    {
-      "title": "逐际动力完成2亿美元Pre-IPO 轮融资，半年累计融资4亿美元",
-      "url": "https://www.leiphone.com/category/robot/kgzBZPwpqBBLdoed.html",
-      "summary": "近日，通用人形机器人企业逐际动力 LimX Dynamics 宣布完成近 2 亿美元 Pre-IPO 轮融资，投后估值达 150 亿元，跻身超级百亿独角兽行列。公司过去半年累计完成融资 4 亿美元，为后续资本市场运作筑牢基础。&nbsp;据悉，本轮融资汇聚了中国、欧洲、中东、北美及东南亚的全球头部资本，充分体现了全球市场对具身智能产业长期价值的认可，以及对逐际动力技术路线、产品能力与全球化战略的信",
-      "source": "雷峰网",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-14T03:42:00+00:00"
     }
   ]
 }

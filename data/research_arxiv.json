@@ -1,187 +1,187 @@
 {
   "source": "arXiv AI",
   "layer": "research",
-  "updated": "2026-07-15T10:16:39+08:00",
+  "updated": "2026-07-17T10:00:45+08:00",
   "items": [
     {
-      "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
-      "url": "https://arxiv.org/abs/2607.09664",
-      "summary": "arXiv:2607.09664v1 Announce Type: new Abstract: To provide a structured and interpretable assessment, we decompose the image-based diagnosis into components following the Toulmin model of argumentatio",
+      "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+      "url": "https://arxiv.org/abs/2607.13037",
+      "summary": "arXiv:2607.13037v1 Announce Type: new Abstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which ",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
-      "url": "https://arxiv.org/abs/2607.09665",
-      "summary": "arXiv:2607.09665v1 Announce Type: new Abstract: Prompt wrappers often differ only in formatting, yet they can change model scores enough to flip leaderboard conclusions. We study this variance under a",
+      "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+      "url": "https://arxiv.org/abs/2607.13049",
+      "summary": "arXiv:2607.13049v1 Announce Type: new Abstract: Foundation models have given robots a sophisticated brain for complex decision-making, yet deploying that intelligence into a physical platform still de",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
-      "url": "https://arxiv.org/abs/2607.09678",
-      "summary": "arXiv:2607.09678v1 Announce Type: new Abstract: When LLM agents hand off information to one another, does the message format matter? Two literatures disagree: format-optimization work reports that str",
+      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+      "url": "https://arxiv.org/abs/2607.13069",
+      "summary": "arXiv:2607.13069v1 Announce Type: new Abstract: Large language models produce chain-of-thought (CoT) reasoning that appears logically sound yet may not genuinely depend on its stated premises. We intr",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
-      "url": "https://arxiv.org/abs/2607.09689",
-      "summary": "arXiv:2607.09689v1 Announce Type: new Abstract: To leading order under local asymptotic normality (LAN), the confidence density a worker emits over a chunk of size $n$ is a Gibbs--Boltzmann measure $\\",
+      "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+      "url": "https://arxiv.org/abs/2607.13073",
+      "summary": "arXiv:2607.13073v1 Announce Type: new Abstract: Neuro-symbolic AI based on $IFOL_B$ is a way to combine neural learning and symbolic reasoning to overcome limitations of purely neural systems (like la",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
-      "url": "https://arxiv.org/abs/2607.09698",
-      "summary": "arXiv:2607.09698v1 Announce Type: new Abstract: Recent latent reasoning methods, such as CODI and COCONUT, face a fundamental interpretability problem: they maintain multiple superimposed candidate tr",
+      "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+      "url": "https://arxiv.org/abs/2607.13104",
+      "summary": "arXiv:2607.13104v1 Announce Type: new Abstract: Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, fro",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate",
-      "url": "https://arxiv.org/abs/2607.09706",
-      "summary": "arXiv:2607.09706v1 Announce Type: new Abstract: Language models turn a worded situation into a numeric plan, and the dominant pipelines (NL4Opt, OptiMUS, ORLM, OR-LLM-Agent) commit to a single objecti",
+      "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
+      "url": "https://arxiv.org/abs/2607.13115",
+      "summary": "arXiv:2607.13115v1 Announce Type: new Abstract: Small language models (SLMs) have shown promise for zero-shot molecular property prediction from SMILES strings, yet they often suffer from structural b",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "GES-TSP: Graph Edge Sparsification for TSP",
-      "url": "https://arxiv.org/abs/2607.09708",
-      "summary": "arXiv:2607.09708v1 Announce Type: new Abstract: Solving large-scale instances of the Traveling Salesman Problem (TSP) exactly is computationally expensive. Researchers often employ graph sparsificatio",
+      "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+      "url": "https://arxiv.org/abs/2607.13157",
+      "summary": "arXiv:2607.13157v1 Announce Type: new Abstract: Agent memory is a systems problem for long-horizon agents. Practical deployments require retention of task state across extended conversations, recovery",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "The Verifier is the Curriculum: Execution-Gated Self-Distillation for Cross-Family Game Generation",
-      "url": "https://arxiv.org/abs/2607.09709",
-      "summary": "arXiv:2607.09709v1 Announce Type: new Abstract: Post-training a code generator against a learned judge can optimize proxy features that raise the score without improving the artifact. We study the opp",
+      "title": "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models",
+      "url": "https://arxiv.org/abs/2607.13172",
+      "summary": "arXiv:2607.13172v1 Announce Type: new Abstract: We address the problem of safely training an agent policy and deploying a good and safe policy, in settings where the environment dynamics are unknown a",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction",
-      "url": "https://arxiv.org/abs/2607.09713",
-      "summary": "arXiv:2607.09713v1 Announce Type: new Abstract: A key step toward autonomous industrial operation is the ability to create and reconfigure control policies from natural-language requirement specificat",
+      "title": "CayleyR: Solving the TopSpin puzzle via cycle intersection",
+      "url": "https://arxiv.org/abs/2607.13219",
+      "summary": "arXiv:2607.13219v1 Announce Type: new Abstract: We present cayleyR, an R package for solving permutation puzzles by detecting cycle intersections in Cayley graphs. The core algorithm performs an itera",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "Feedback-Coupled Memory Systems in Continuous Time",
-      "url": "https://arxiv.org/abs/2607.09714",
-      "summary": "arXiv:2607.09714v1 Announce Type: new Abstract: The Feedback-Coupled Memory Systems (FCMS) architecture formalizes closed-loop coordination through four abstract operators, two of which - the agent up",
+      "title": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science",
+      "url": "https://arxiv.org/abs/2607.13220",
+      "summary": "arXiv:2607.13220v1 Announce Type: new Abstract: Most AI-for-science systems focus on scaling a single reasoning process through better models, larger context windows, long-horizon agentic execution, o",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "AGM-like Paraconsistent Partial Meet Abductive Expansion Operation",
-      "url": "https://arxiv.org/abs/2607.09729",
-      "summary": "arXiv:2607.09729v1 Announce Type: new Abstract: In his 1996 doctoral thesis, Maurice Pagnucco created the first AGM-like abductive expansion operation. Taking his operation as a basis, as well as a ta",
+      "title": "AI-Native Insurance for Agentic AI: Pricing, Underwriting, and End-to-End Automation",
+      "url": "https://arxiv.org/abs/2607.13230",
+      "summary": "arXiv:2607.13230v1 Announce Type: new Abstract: Agentic AI introduces new insurance challenges because autonomous AI systems can make decisions, invoke tools, modify external environments, and interac",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "Coresets Before Score Sets: Evaluation-Unsupervised Prompt Subset Selection for LLM Benchmarks",
-      "url": "https://arxiv.org/abs/2607.09739",
-      "summary": "arXiv:2607.09739v1 Announce Type: new Abstract: We study LLM benchmark coreset selection: selecting a small subset of prompts over multiple benchmarks whose induced model scores and rankings approxima",
+      "title": "Cost-Optimal Foundation Model Deployment Portfolio for Transportation Management",
+      "url": "https://arxiv.org/abs/2607.13239",
+      "summary": "arXiv:2607.13239v1 Announce Type: new Abstract: Foundation models, including large language models (LLMs) and vision-language models (VLMs), are increasingly used for transportation management center ",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "A Dynamic Scene Interaction Reasoning Framework for Scene-level Lane-Change Intention and Trajectory Prediction of Multiple Interacting Vehicles",
-      "url": "https://arxiv.org/abs/2607.09740",
-      "summary": "arXiv:2607.09740v1 Announce Type: new Abstract: Safe motion planning in advanced driver-assistance systems and autonomous vehicles requires an accurate understanding of how the surrounding traffic sce",
+      "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
+      "url": "https://arxiv.org/abs/2607.13285",
+      "summary": "arXiv:2607.13285v1 Announce Type: new Abstract: The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes t",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "Scaffolding the Strategist: Architecture-Dependent Reasoning Interventions in Hotelling Spatial Markets",
-      "url": "https://arxiv.org/abs/2607.09743",
-      "summary": "arXiv:2607.09743v1 Announce Type: new Abstract: We investigate whether structured reasoning interventions improve the strategic economic reasoning of large language models, and whether their effects d",
+      "title": "Theory-Level Autoformalization: From Isolated Statements to Unified Formal Knowledge Bases",
+      "url": "https://arxiv.org/abs/2607.13292",
+      "summary": "arXiv:2607.13292v1 Announce Type: new Abstract: Autoformalization translates informal natural language into formal, machine-verifiable languages. While most work focuses on individual statements, real",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "A Theory of Least Autonomy in AI",
-      "url": "https://arxiv.org/abs/2607.09744",
-      "summary": "arXiv:2607.09744v1 Announce Type: new Abstract: Least privilege, the principle that an identity should hold only the permissions strictly required for its task, has been a foundational primitive of ac",
+      "title": "EZSMT Version 3, Matured",
+      "url": "https://arxiv.org/abs/2607.13344",
+      "summary": "arXiv:2607.13344v1 Announce Type: new Abstract: Constraint Answer Set Programming (CASP) is a hybrid reasoning paradigm that combines Answer Set Programming (ASP) with Constraint Processing and Satisf",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "SupplyNetPy: An Open-Source Python Library for High-Fidelity Modeling and Simulation of Arbitrary Supply Chain and Inventory Networks",
-      "url": "https://arxiv.org/abs/2607.09745",
-      "summary": "arXiv:2607.09745v1 Announce Type: new Abstract: This paper introduces SupplyNetPy, an open-source, well-documented Python library for modeling and discrete-event simulation of supply chain networks wi",
+      "title": "Set-shifting Behavioral Test for Harnessed Agents",
+      "url": "https://arxiv.org/abs/2607.13396",
+      "summary": "arXiv:2607.13396v1 Announce Type: new Abstract: What happens to an LLM agent's tool choice when the reliable tool silently changes within an ongoing session? We borrow set-shifting from cognitive psyc",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "Replicating Belief, Not Bits: Epistemic State Replication for Agentic Systems",
-      "url": "https://arxiv.org/abs/2607.09748",
-      "summary": "arXiv:2607.09748v1 Announce Type: new Abstract: In distributed systems, the classical State Machine Replication (SMR) model assumes that correct replicas execute deterministic transitions to yield ide",
+      "title": "LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning",
+      "url": "https://arxiv.org/abs/2607.13501",
+      "summary": "arXiv:2607.13501v1 Announce Type: new Abstract: Reinforcement learning for multi-turn search reasoning typically relies on terminal outcome rewards, which cannot distinguish useful, redundant, and har",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "Task-Conditioned Synthetic Data Generation for Improving Machine Learning Performance in Agricultural Prediction Tasks",
-      "url": "https://arxiv.org/abs/2607.09751",
-      "summary": "arXiv:2607.09751v1 Announce Type: new Abstract: Machine Learning (ML) algorithms have been widely used to estimate agricultural variables across diverse contexts. However, because the quantity and qua",
+      "title": "How Far Can Root Cause Analysis Go on Real-World Telemetry Data?",
+      "url": "https://arxiv.org/abs/2607.13548",
+      "summary": "arXiv:2607.13548v1 Announce Type: new Abstract: Identifying root causes in production microservice failures requires reasoning over large-scale, multimodal telemetry spanning metrics, logs, and traces",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "LegalFarePlan: A Label-Setting Framework for Fare-Transparent Urban Rail Route Planning under Non-Additive Fare Rules",
-      "url": "https://arxiv.org/abs/2607.09755",
-      "summary": "arXiv:2607.09755v1 Announce Type: new Abstract: Urban rail fare systems may be non-additive: the fare of a single paid journey from an origin to a destination can differ from the sum of fares over mul",
+      "title": "Multi-Agent Collaborative Reasoning with Tool-Augmented Evidence for Urban Region Profiling",
+      "url": "https://arxiv.org/abs/2607.13558",
+      "summary": "arXiv:2607.13558v1 Announce Type: new Abstract: Urban region profiling constitutes a core problem in urban computing, supporting applications such as population estimation, economic assessment, and en",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     },
     {
-      "title": "BatteryLake: Agentic, Physics-Grounded Curation of Heterogeneous Battery Aging Data and Benchmarking",
-      "url": "https://arxiv.org/abs/2607.09762",
-      "summary": "arXiv:2607.09762v1 Announce Type: new Abstract: Public battery aging datasets are a critical asset for advanced health management, but their practical use is often limited by inconsistent formats, unc",
+      "title": "AI advice suppresses people's willingness to say \"I don't know\", even when the advice is wrong and accuracy is incentivized",
+      "url": "https://arxiv.org/abs/2607.13562",
+      "summary": "arXiv:2607.13562v1 Announce Type: new Abstract: Knowing when to say \"I don't know\" is fundamental to human judgment, yet AI assistants offer a fluent answer to almost any question. In five experiments",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-14T04:00:00+00:00"
+      "published_at": "2026-07-16T04:00:00+00:00"
     }
   ]
 }

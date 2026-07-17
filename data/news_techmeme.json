@@ -1,115 +1,124 @@
 {
   "source": "Techmeme",
   "layer": "news",
-  "updated": "2026-07-16T10:09:42+08:00",
+  "updated": "2026-07-17T10:00:05+08:00",
   "items": [
     {
-      "title": "SpaceXAI open-sources Grok Build under an Apache 2.0 license after the tool had uploaded user repositories to a Google Cloud bucket, causing a severe backlash (Simon Willison/Simon Willison's Weblog)",
-      "url": "https://www.techmeme.com/260715/p52#a260715p52",
-      "summary": "Simon Willison / Simon Willison's Weblog: SpaceXAI open-sources Grok Build under an Apache 2.0 license after the tool had uploaded user repositories to a Google Cloud bucket, causing a severe backlash",
+      "title": "Filing: South Korean authorities conducted an on-site search of Chinese chipmaker Montage's offices in connection with potential competition law violations (Nikita Maria Jino/Reuters)",
+      "url": "https://www.techmeme.com/260716/p63#a260716p63",
+      "summary": "Nikita Maria Jino / Reuters: Filing: South Korean authorities conducted an on-site search of Chinese chipmaker Montage's offices in connection with potential competition law violations&nbsp; &mdash;&n",
+      "source": "Techmeme",
+      "time": "34m",
+      "tags": [],
+      "published_at": "2026-07-17T01:25:49+00:00"
+    },
+    {
+      "title": "Memo: MLB bans the use of league-provided dugout iPads to access GenAI for in-game strategy calls; sources say at least a third of teams used AI this way (Eno Sarris/The Athletic)",
+      "url": "https://www.nytimes.com/athletic/7448900/2026/07/16/mlb-bans-ai-dugout-ipads/?campaign=18999475",
+      "summary": "Eno Sarris / The Athletic: Memo: MLB bans the use of league-provided dugout iPads to access GenAI for in-game strategy calls; sources say at least a third of teams used AI this way&nbsp; &mdash;&nbsp;",
+      "source": "Techmeme",
+      "time": "34m",
+      "tags": [],
+      "published_at": "2026-07-17T01:25:49+00:00"
+    },
+    {
+      "title": "The EU accepts X's plan to meet DSA transparency obligations and give researchers access to data, giving X six months to implement it, following a €120M fine (Foo Yun Chee/Reuters)",
+      "url": "https://www.reuters.com/business/eu-accepts-action-plan-by-elon-musks-x-become-more-transparent-2026-07-15/",
+      "summary": "Foo Yun Chee / Reuters: The EU accepts X's plan to meet DSA transparency obligations and give researchers access to data, giving X six months to implement it, following a &euro;120M fine&nbsp; &mdash;",
       "source": "Techmeme",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-16T01:05:02+00:00"
+      "published_at": "2026-07-17T00:05:01+00:00"
     },
     {
-      "title": "Cadence unveils AuraStack AI Super Agent, an AI platform for PCB and advanced chip packaging design, with Nvidia, TSMC, and Schneider Electric among early users (Marco Chiappetta/Forbes)",
-      "url": "https://www.forbes.com/sites/marcochiappetta/2026/07/15/cadence-expands-ai-agents-with-aurastack-for-pcb-and-advanced-chip-packaging/",
-      "summary": "Marco Chiappetta / Forbes: Cadence unveils AuraStack AI Super Agent, an AI platform for PCB and advanced chip packaging design, with Nvidia, TSMC, and Schneider Electric among early users&nbsp; &mdash",
+      "title": "Source: UK robotics startup Humanoid raised $150M in the first tranche of a Series A at a $1.2B pre-money valuation and seeks another $80M-$100M by September (Rocket Drew/The Information)",
+      "url": "https://www.techmeme.com/260716/p60#a260716p60",
+      "summary": "Rocket Drew / The Information: Source: UK robotics startup Humanoid raised $150M in the first tranche of a Series A at a $1.2B pre-money valuation and seeks another $80M-$100M by September&nbsp; &mdas",
       "source": "Techmeme",
       "time": "2h",
       "tags": [],
-      "published_at": "2026-07-15T23:25:01+00:00"
+      "published_at": "2026-07-16T23:45:02+00:00"
     },
     {
-      "title": "Venture funding of fintech startups grew 22.7% YoY in H1 2026 to $28.6B globally, but deal count fell 25.7% and funding fell 17.3% vs. H2 2025's $34.6B funding (Mary Ann Azevedo/Crunchbase News)",
-      "url": "https://news.crunchbase.com/fintech/funding-rises-deals-slump-h1-2026/",
-      "summary": "Mary Ann Azevedo / Crunchbase News: Venture funding of fintech startups grew 22.7% YoY in H1 2026 to $28.6B globally, but deal count fell 25.7% and funding fell 17.3% vs. H2 2025's $34.6B funding&nbsp",
+      "title": "Source: PayPal's board sees Stripe and PE firm Advent International's $53B takeover bid as undervaluing the company and facing regulatory and financing hurdles (Reuters)",
+      "url": "https://www.reuters.com/business/paypal-board-sees-stripe-advent-offer-inadequate-sources-say-2026-07-16/",
+      "summary": "Reuters: Source: PayPal's board sees Stripe and PE firm Advent International's $53B takeover bid as undervaluing the company and facing regulatory and financing hurdles&nbsp; &mdash;&nbsp; PayPal's (P",
+      "source": "Techmeme",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-16T22:55:01+00:00"
+    },
+    {
+      "title": "A New York State school district is piloting a humanoid robot teacher by the company Realbotix to help students with summer school classes (Chase DiBenedetto/Mashable)",
+      "url": "https://mashable.com/tech/new-york-school-testing-robot-teacher",
+      "summary": "Chase DiBenedetto / Mashable: A New York State school district is piloting a humanoid robot teacher by the company Realbotix to help students with summer school classes&nbsp; &mdash;&nbsp; A New York ",
+      "source": "Techmeme",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-16T22:20:00+00:00"
+    },
+    {
+      "title": "US Homeland Security says it seized 30K+ SIM cards in June and July in a nationwide operation it claims dismantled infrastructure used in telephone fraud (Lorelei Smillie/Bloomberg)",
+      "url": "https://www.techmeme.com/260716/p57#a260716p57",
+      "summary": "Lorelei Smillie / Bloomberg: US Homeland Security says it seized 30K+ SIM cards in June and July in a nationwide operation it claims dismantled infrastructure used in telephone fraud&nbsp; &mdash;&nbs",
       "source": "Techmeme",
       "time": "4h",
       "tags": [],
-      "published_at": "2026-07-15T21:10:01+00:00"
+      "published_at": "2026-07-16T21:35:01+00:00"
     },
     {
-      "title": "Coinbase's Jesse Pollak says Jordan Fish, aka \"Cobie\", will now lead the Base app team after acknowledging some of Base's bets on social features fell short (Daniel Kuhn/The Block)",
-      "url": "https://www.theblock.co/post/408504/coinbases-jesse-pollak-hands-base-app-leadership-cobie-social-bets-fell-short",
-      "summary": "Daniel Kuhn / The Block: Coinbase's Jesse Pollak says Jordan Fish, aka &ldquo;Cobie&rdquo;, will now lead the Base app team after acknowledging some of Base's bets on social features fell short&nbsp; ",
+      "title": "Netflix says roughly 300 titles used generative AI this year, mostly in post-production, \"to deliver higher quality output more quickly and at a lower cost\" (Emma Roth/The Verge)",
+      "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
+      "summary": "Emma Roth / The Verge: Netflix says roughly 300 titles used generative AI this year, mostly in post-production, &ldquo;to deliver higher quality output more quickly and at a lower cost&rdquo;&nbsp; &m",
+      "source": "Techmeme",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-16T21:00:13+00:00"
+    },
+    {
+      "title": "An NYT reporter finds AI-generated, unauthorized biographies of herself and other journalists on Amazon, where AI-made books with elusive \"authors\" proliferate (Kashmir Hill/New York Times)",
+      "url": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html?unlocked_article_code=1.yFA.goGV.PyjHouzlY6S3&amp;smid=url-share",
+      "summary": "Kashmir Hill / New York Times: An NYT reporter finds AI-generated, unauthorized biographies of herself and other journalists on Amazon, where AI-made books with elusive &ldquo;authors&rdquo; prolifera",
       "source": "Techmeme",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-15T20:45:01+00:00"
+      "published_at": "2026-07-16T20:25:01+00:00"
     },
     {
-      "title": "SpaceX shares fell for a fourth-straight session on Wednesday, briefly dropping below their $135 IPO price for the first time before closing at $135.27 (Samantha Subin/CNBC)",
-      "url": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html",
-      "summary": "Samantha Subin / CNBC: SpaceX shares fell for a fourth-straight session on Wednesday, briefly dropping below their $135 IPO price for the first time before closing at $135.27&nbsp; &mdash;&nbsp; Space",
+      "title": "Netflix reports Q2 revenue up 13% YoY to $12.56B, vs. $12.59B est., and says it will give fewer engagement updates starting in 2027; NFLX drops 8%+ after hours (Lillian Rizzo/CNBC)",
+      "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+      "summary": "Lillian Rizzo / CNBC: Netflix reports Q2 revenue up 13% YoY to $12.56B, vs. $12.59B est., and says it will give fewer engagement updates starting in 2027; NFLX drops 8%+ after hours&nbsp; &mdash;&nbsp",
       "source": "Techmeme",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-15T20:30:01+00:00"
+      "published_at": "2026-07-16T20:16:16+00:00"
     },
     {
-      "title": "Apple publishes a policy for upcoming Maps ads, says home services ads are banned, medical services ads will be \"evaluated on a case-by-case basis\", and more (Sarah Perez/TechCrunch)",
-      "url": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
-      "summary": "Sarah Perez / TechCrunch: Apple publishes a policy for upcoming Maps ads, says home services ads are banned, medical services ads will be &ldquo;evaluated on a case-by-case basis&rdquo;, and more&nbsp",
+      "title": "Kimi-K3 is now #1 on the Frontend Code Arena benchmark, surpassing Claude Fable 5; the model scored 88.3 on Terminal Bench 2.1, only below GPT-5.6 Sol's 88.8 (Michael Nuñez/VentureBeat)",
+      "url": "https://venturebeat.com/ai/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "summary": "Michael Nu&ntilde;ez / VentureBeat: Kimi-K3 is now #1 on the Frontend Code Arena benchmark, surpassing Claude Fable 5; the model scored 88.3 on Terminal Bench 2.1, only below GPT-5.6 Sol's 88.8&nbsp; ",
       "source": "Techmeme",
       "time": "5h",
       "tags": [],
-      "published_at": "2026-07-15T20:25:01+00:00"
+      "published_at": "2026-07-16T20:12:25+00:00"
     },
     {
-      "title": "OpenAI details GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery so it can fix bugs before wider deployment (OpenAI)",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "summary": "OpenAI: OpenAI details GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery so it can fix bugs before wider deployment&nbsp; &mdash;&nbsp; Training str",
+      "title": "DoorDash launches a limited beta of DoorDash CLI, which lets users place orders via an AI agent, available by waitlist to macOS developers in the US and Canada (Sarah Perez/TechCrunch)",
+      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "summary": "Sarah Perez / TechCrunch: DoorDash launches a limited beta of DoorDash CLI, which lets users place orders via an AI agent, available by waitlist to macOS developers in the US and Canada&nbsp; &mdash;&",
       "source": "Techmeme",
       "time": "6h",
       "tags": [],
-      "published_at": "2026-07-15T19:35:01+00:00"
+      "published_at": "2026-07-16T19:45:02+00:00"
     },
     {
-      "title": "Dave Brown, AWS SVP of Compute, AI, and Platform, is leaving the company after 19 years for a new job; he is a member of the S-team that advises CEO Andy Jassy (Greg Bensinger/Reuters)",
-      "url": "https://www.reuters.com/technology/amazon-aws-executive-ceo-advisor-dave-brown-leave-after-19-years-2026-07-15/",
-      "summary": "Greg Bensinger / Reuters: Dave Brown, AWS SVP of Compute, AI, and Platform, is leaving the company after 19 years for a new job; he is a member of the S-team that advises CEO Andy Jassy&nbsp; &mdash;&",
+      "title": "Google updates its AI video editor Vids with Gemini Omni and a feature that lets users create custom digital avatars using a selfie and voice recording (Sarah Perez/TechCrunch)",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "summary": "Sarah Perez / TechCrunch: Google updates its AI video editor Vids with Gemini Omni and a feature that lets users create custom digital avatars using a selfie and voice recording&nbsp; &mdash;&nbsp; Op",
       "source": "Techmeme",
-      "time": "7h",
+      "time": "6h",
       "tags": [],
-      "published_at": "2026-07-15T19:05:02+00:00"
-    },
-    {
-      "title": "Thinking Machines Lab debuts Inkling, an open-weight MoE model with 975B total and 41B active parameters, trained to be broad rather than optimized for one area (Thinking Machines Lab)",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "summary": "Thinking Machines Lab: Thinking Machines Lab debuts Inkling, an open-weight MoE model with 975B total and 41B active parameters, trained to be broad rather than optimized for one area&nbsp; &mdash;&nb",
-      "source": "Techmeme",
-      "time": "7h",
-      "tags": [],
-      "published_at": "2026-07-15T18:17:38+00:00"
-    },
-    {
-      "title": "Anthropic, Blackstone, and Hellman & Friedman's $1.5B AI implementation company, announced in May, launches with the name \"Ode with Anthropic\" and 100 engineers (Rebecca Bellan/TechCrunch)",
-      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "summary": "Rebecca Bellan / TechCrunch: Anthropic, Blackstone, and Hellman &amp; Friedman's $1.5B AI implementation company, announced in May, launches with the name &ldquo;Ode with Anthropic&rdquo; and 100 engi",
-      "source": "Techmeme",
-      "time": "8h",
-      "tags": [],
-      "published_at": "2026-07-15T17:55:01+00:00"
-    },
-    {
-      "title": "Lumin Digital, which provides cloud-based digital banking software to banks and credit unions, raised more than $115M at a $1.6B post-money valuation (Ryan Lawler/Axios)",
-      "url": "https://www.axios.com/pro/fintech-deals/2026/07/15/lumin-digital-banking-funding-light-street",
-      "summary": "Ryan Lawler / Axios: Lumin Digital, which provides cloud-based digital banking software to banks and credit unions, raised more than $115M at a $1.6B post-money valuation&nbsp; &mdash;&nbsp; Lumin Dig",
-      "source": "Techmeme",
-      "time": "8h",
-      "tags": [],
-      "published_at": "2026-07-15T17:15:02+00:00"
-    },
-    {
-      "title": "OpenAI employees donated a combined $215K+ to Guardrails Alliance, a super PAC seeking stricter AI rules and opposing Greg Brockman-backed Leading the Future (Maxwell Zeff/Wired)",
-      "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
-      "summary": "Maxwell Zeff / Wired: OpenAI employees donated a combined $215K+ to Guardrails Alliance, a super PAC seeking stricter AI rules and opposing Greg Brockman-backed Leading the Future&nbsp; &mdash;&nbsp; ",
-      "source": "Techmeme",
-      "time": "9h",
-      "tags": [],
-      "published_at": "2026-07-15T16:45:01+00:00"
+      "published_at": "2026-07-16T19:15:00+00:00"
     }
   ]
 }

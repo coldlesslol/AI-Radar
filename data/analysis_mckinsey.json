@@ -1,14 +1,50 @@
 {
   "source": "McKinsey",
   "layer": "analysis",
-  "updated": "2026-07-16T11:56:04+08:00",
+  "updated": "2026-07-17T10:00:54+08:00",
   "items": [
+    {
+      "title": "Amid volatility, oil and gas M&A abounds. Here’s how to capture full value",
+      "url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/amid-volatility-oil-and-gas-m-and-a-abounds-heres-how-to-capture-full-value",
+      "summary": "Envisioning the deal’s full potential and sequencing integration initiatives makes the most of the current wave of oil and gas mergers and combinations.",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-16T00:00:00+00:00"
+    },
+    {
+      "title": "What the 2026 World Cup reveals about the next generation of sports fans",
+      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/what-the-2026-world-cup-reveals-about-the-next-generation-of-sports-fans",
+      "summary": "This year’s tournament offers a window into consumers’ changing behaviors, desire for community, and focus on identity—especially among Latino fans. Are business leaders paying attention?",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-16T00:00:00+00:00"
+    },
+    {
+      "title": "How B.TECH transformed into a technology-powered retailer",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/how-we-help-clients/how-b-tech-transformed-into-a-technology-powered-retailer",
+      "summary": "The Egyptian electronics retailer partnered with McKinsey to reinvent customer commerce through AI-powered pricing, fulfillment, and fintech—unlocking rapid growth and new digital revenue streams.",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-16T00:00:00+00:00"
+    },
+    {
+      "title": "The future of B2B sales: How growth champions rewire their playbooks with AI",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-future-of-b2b-sales-how-growth-champions-rewire-their-playbooks-with-ai",
+      "summary": "AI pilots are everywhere, but value is not. Growth leaders rewire commercial impact journeys with agentic AI, enabling sellers to deepen customer relations and create real change.",
+      "source": "McKinsey",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-16T00:00:00+00:00"
+    },
     {
       "title": "The CEO’s role in transformation",
       "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation",
       "summary": "Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are uniquely positioned to address these challen",
       "source": "McKinsey",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-15T00:00:00+00:00"
     },
@@ -17,7 +53,7 @@
       "url": "https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-ai-is-reshaping-the-future-of-the-aec-industry",
       "summary": "AI is poised to rewire the architecture, engineering, and construction sector. Firms that move quickly to reimagine workflows, improve data use, and automate work sites will thrive.",
       "source": "McKinsey",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-15T00:00:00+00:00"
     },
@@ -26,7 +62,7 @@
       "url": "https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector",
       "summary": "AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how servic",
       "source": "McKinsey",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-15T00:00:00+00:00"
     },
@@ -35,7 +71,7 @@
       "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
       "summary": "Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by agentic AI, can help them realize it.",
       "source": "McKinsey",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-15T00:00:00+00:00"
     },
@@ -44,54 +80,18 @@
       "url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/is-commercial-aerospace-ready-for-a-demand-reckoning",
       "summary": "A new survey reveals a widening gap between airline sentiment and the rest of the value chain.",
       "source": "McKinsey",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-15T00:00:00+00:00"
     },
     {
-      "title": "The ‘bridge builder’ COO: Delivering results by engaging stakeholders",
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/the-bridge-builder-coo-delivering-results-by-engaging-stakeholders",
-      "summary": "Today’s COOs work with an increasingly broad set of stakeholders. Success means understanding the “why” that drives each one.",
-      "source": "McKinsey",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-15T00:00:00+00:00"
-    },
-    {
-      "title": "Patrick Finn on how tension can lead to healthcare’s reinvention",
-      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/patrick-finn-on-how-tension-can-lead-to-healthcares-reinvention",
-      "summary": "McKinsey Senior Partner Patrick Finn examines the current unique moment in healthcare and why AI could help reshape who leads healthcare’s next era.",
-      "source": "McKinsey",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-15T00:00:00+00:00"
-    },
-    {
-      "title": "Gigafactory delivery on time: Solving the SOP delay challenge",
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/gigafactory-delivery-on-time-solving-the-sop-delay-challenge",
-      "summary": "Battery plants are essential for the energy transition. Most miss their ramp-up deadlines, however. Here’s how to fix the delivery model.",
-      "source": "McKinsey",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-15T00:00:00+00:00"
-    },
-    {
-      "title": "How consumers are reshaping the future of mobility",
-      "url": "https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/our-insights/how-consumers-are-reshaping-the-future-of-mobility",
-      "summary": "Our recent survey reveals shifting consumer priorities, with rising expectations for affordability, sustainability, and technology and greater openness to new brands and transportation modes.",
+      "title": "AI’s next big mission is rewiring your workplace",
+      "url": "https://www.mckinsey.com/about-us/media/ais-next-big-mission-is-rewiring-your-workplace",
+      "summary": "Artificial intelligence is reshaping every business, but the hardest challenge is rewiring the company around it. Companies that bet on equipping good staff with extraordinary technology will have a g",
       "source": "McKinsey",
       "time": "2d",
       "tags": [],
-      "published_at": "2026-07-14T00:00:00+00:00"
-    },
-    {
-      "title": "How physician CEOs hone the double-edged sword of clinical training",
-      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/how-physician-ceos-hone-the-double-edged-sword-of-clinical-training",
-      "summary": "The journey from physician to CEO has no prescribed path, but those who’ve reached the top reveal how they evolved the strengths and instincts forged in clinical training for enterprise leadership.",
-      "source": "McKinsey",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-14T00:00:00+00:00"
+      "published_at": "2026-07-15T00:00:00+00:00"
     }
   ]
 }

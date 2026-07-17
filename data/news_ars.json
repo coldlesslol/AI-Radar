@@ -1,14 +1,59 @@
 {
   "source": "Ars Technica",
   "layer": "news",
-  "updated": "2026-07-16T10:09:50+08:00",
+  "updated": "2026-07-17T10:00:08+08:00",
   "items": [
+    {
+      "title": "It's official: EU will force Google to share search data and open up AI on Android",
+      "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "summary": "Google says these changes could endanger user privacy and security.",
+      "source": "Ars Technica",
+      "time": "5h",
+      "tags": [],
+      "published_at": "2026-07-16T20:41:45+00:00"
+    },
+    {
+      "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+      "summary": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.",
+      "source": "Ars Technica",
+      "time": "5h",
+      "tags": [],
+      "published_at": "2026-07-16T20:26:23+00:00"
+    },
+    {
+      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+      "summary": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
+      "source": "Ars Technica",
+      "time": "5h",
+      "tags": [],
+      "published_at": "2026-07-16T20:09:48+00:00"
+    },
+    {
+      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+      "summary": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
+      "source": "Ars Technica",
+      "time": "6h",
+      "tags": [],
+      "published_at": "2026-07-16T19:18:23+00:00"
+    },
+    {
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "summary": "Companies coming to market are raising money at fastest pace this century.",
+      "source": "Ars Technica",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-16T15:48:21+00:00"
+    },
     {
       "title": "OpenAI's first branded hardware is... a light-up keyboard?",
       "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
       "summary": "The Codex Micro is designed to monitor multiple agentic threads at a glance.",
       "source": "Ars Technica",
-      "time": "10h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-15T16:00:33+00:00"
     },
@@ -17,7 +62,7 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
       "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
       "source": "Ars Technica",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-14T20:05:53+00:00"
     },
@@ -26,7 +71,7 @@
       "url": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
       "summary": "US military’s drone boats struck an Iranian naval port as war heats up again.",
       "source": "Ars Technica",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-14T18:00:01+00:00"
     },
@@ -35,7 +80,7 @@
       "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
       "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
       "source": "Ars Technica",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-14T16:28:14+00:00"
     },
@@ -44,7 +89,7 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
       "summary": "New York’s data center moratorium may become the blueprint for anti-AI movement.",
       "source": "Ars Technica",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-14T15:06:28+00:00"
     },
@@ -53,7 +98,7 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
       "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
       "source": "Ars Technica",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-13T19:17:51+00:00"
     },
@@ -62,7 +107,7 @@
       "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
       "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
       "source": "Ars Technica",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-13T15:06:34+00:00"
     },
@@ -71,7 +116,7 @@
       "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
       "summary": "Experts explain how they work, what they can do, and what's still unsettled.",
       "source": "Ars Technica",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-13T11:00:51+00:00"
     },
@@ -80,36 +125,9 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
       "summary": "Digital Services Act may force Meta to make big changes on its platforms.",
       "source": "Ars Technica",
-      "time": "5d",
+      "time": "6d",
       "tags": [],
       "published_at": "2026-07-10T15:46:18+00:00"
-    },
-    {
-      "title": "OpenAI wants its new tool to do your work for you and with you",
-      "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
-      "summary": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
-      "source": "Ars Technica",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-09T21:25:55+00:00"
-    },
-    {
-      "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
-      "url": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
-      "summary": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
-      "source": "Ars Technica",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-09T20:12:03+00:00"
-    },
-    {
-      "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-      "summary": "OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.",
-      "source": "Ars Technica",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-09T18:57:53+00:00"
     }
   ]
 }
