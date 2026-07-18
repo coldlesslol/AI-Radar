@@ -2,90 +2,63 @@
   "key": "github_trending",
   "title": "GitHub Trending AI",
   "freq": "daily",
-  "updated": "2026-07-17T10:01:33+08:00",
+  "updated": "2026-07-18T10:01:33+08:00",
   "url": "https://github.com/trending?since=daily",
-  "total_trending": 17,
+  "total_trending": 14,
   "items": [
     {
-      "full_name": "apache/ossie",
-      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "full_name": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars": 916,
-      "stars_today": 60,
-      "url": "https://github.com/apache/ossie",
+      "stars": 36203,
+      "stars_today": 438,
+      "url": "https://github.com/PostHog/posthog",
       "rank": 1
     },
     {
       "full_name": "Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars": 10963,
-      "stars_today": 3372,
+      "stars": 12069,
+      "stars_today": 1485,
       "url": "https://github.com/Nutlope/hallmark",
       "rank": 2
-    },
-    {
-      "full_name": "PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "language": "Python",
-      "stars": 35858,
-      "stars_today": 77,
-      "url": "https://github.com/PostHog/posthog",
-      "rank": 3
-    },
-    {
-      "full_name": "openinterpreter/openinterpreter",
-      "description": "A coding agent for open models like Kimi K3",
-      "language": "Rust",
-      "stars": 65996,
-      "stars_today": 661,
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "rank": 4
-    },
-    {
-      "full_name": "Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "language": "Python",
-      "stars": 122923,
-      "stars_today": 923,
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "rank": 5
-    },
-    {
-      "full_name": "lobehub/lobehub",
-      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
-      "language": "TypeScript",
-      "stars": 80182,
-      "stars_today": 71,
-      "url": "https://github.com/lobehub/lobehub",
-      "rank": 6
-    },
-    {
-      "full_name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars": 174331,
-      "stars_today": 2060,
-      "url": "https://github.com/mattpocock/skills",
-      "rank": 7
     },
     {
       "full_name": "github/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
-      "stars": 9649,
-      "stars_today": 13,
+      "stars": 9800,
+      "stars_today": 233,
       "url": "https://github.com/github/copilot-sdk",
-      "rank": 8
+      "rank": 3
     },
     {
-      "full_name": "Graphify-Labs/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "full_name": "anthropics/cwc-workshops",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1590,
+      "stars_today": 45,
+      "url": "https://github.com/anthropics/cwc-workshops",
+      "rank": 4
+    },
+    {
+      "full_name": "tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars": 89122,
-      "stars_today": 1107,
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "rank": 9
+      "stars": 19768,
+      "stars_today": 74,
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "rank": 5
+    },
+    {
+      "full_name": "openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "language": "Rust",
+      "stars": 66385,
+      "stars_today": 431,
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "rank": 6
     }
   ]
 }

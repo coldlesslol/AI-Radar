@@ -2,7 +2,7 @@
   "key": "huggingface_trending",
   "title": "HuggingFace Trending 模型",
   "freq": "daily",
-  "updated": "2026-07-17T10:01:33+08:00",
+  "updated": "2026-07-18T10:01:34+08:00",
   "url": "https://huggingface.co/models?sort=trending",
   "items": [
     {
@@ -12,8 +12,8 @@
       "name": "Inkling",
       "pipeline_tag": "image-text-to-text",
       "pipeline_label": "image text to text",
-      "likes": 812,
-      "downloads": 4,
+      "likes": 958,
+      "downloads": 7870,
       "url": "https://huggingface.co/thinkingmachines/Inkling"
     },
     {
@@ -23,8 +23,8 @@
       "name": "Ternary-Bonsai-27B-gguf",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 607,
-      "downloads": 74007,
+      "likes": 680,
+      "downloads": 200774,
       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf"
     },
     {
@@ -34,8 +34,8 @@
       "name": "Bonsai-27B-gguf",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 341,
-      "downloads": 559267,
+      "likes": 396,
+      "downloads": 1045182,
       "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf"
     },
     {
@@ -45,8 +45,8 @@
       "name": "Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "pipeline_tag": "image-text-to-text",
       "pipeline_label": "image text to text",
-      "likes": 2237,
-      "downloads": 2042670,
+      "likes": 2274,
+      "downloads": 2096147,
       "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF"
     },
     {
@@ -56,8 +56,8 @@
       "name": "GLM-5.2",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 4029,
-      "downloads": 513061,
+      "likes": 4071,
+      "downloads": 534698,
       "url": "https://huggingface.co/zai-org/GLM-5.2"
     },
     {
@@ -67,8 +67,8 @@
       "name": "ThinkingCap-Qwen3.6-27B",
       "pipeline_tag": "image-text-to-text",
       "pipeline_label": "image text to text",
-      "likes": 389,
-      "downloads": 8238,
+      "likes": 413,
+      "downloads": 9383,
       "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B"
     },
     {
@@ -78,20 +78,20 @@
       "name": "krea2-identity-edit",
       "pipeline_tag": "",
       "pipeline_label": "",
-      "likes": 322,
+      "likes": 346,
       "downloads": 0,
       "url": "https://huggingface.co/conradlocke/krea2-identity-edit"
     },
     {
       "rank": 8,
-      "model_id": "tencent/Hy3",
-      "author": "tencent",
-      "name": "Hy3",
-      "pipeline_tag": "text-generation",
-      "pipeline_label": "文本生成",
-      "likes": 813,
-      "downloads": 11849,
-      "url": "https://huggingface.co/tencent/Hy3"
+      "model_id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "author": "HauhauCS",
+      "name": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "pipeline_tag": "image-text-to-text",
+      "pipeline_label": "image text to text",
+      "likes": 2828,
+      "downloads": 2295313,
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive"
     },
     {
       "rank": 9,
@@ -100,20 +100,20 @@
       "name": "MOSS-Transcribe-Diarize",
       "pipeline_tag": "audio-text-to-text",
       "pipeline_label": "audio text to text",
-      "likes": 232,
-      "downloads": 75105,
+      "likes": 249,
+      "downloads": 83160,
       "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize"
     },
     {
       "rank": 10,
-      "model_id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "author": "HauhauCS",
-      "name": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "model_id": "ATH-MaaS/OvisOCR2",
+      "author": "ATH-MaaS",
+      "name": "OvisOCR2",
       "pipeline_tag": "image-text-to-text",
       "pipeline_label": "image text to text",
-      "likes": 2787,
-      "downloads": 2328315,
-      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive"
+      "likes": 153,
+      "downloads": 10795,
+      "url": "https://huggingface.co/ATH-MaaS/OvisOCR2"
     },
     {
       "rank": 11,
@@ -122,53 +122,53 @@
       "name": "Qwythos-9B-v2-GGUF",
       "pipeline_tag": "image-text-to-text",
       "pipeline_label": "image text to text",
-      "likes": 150,
-      "downloads": 89107,
+      "likes": 161,
+      "downloads": 98370,
       "url": "https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF"
     },
     {
       "rank": 12,
-      "model_id": "ATH-MaaS/OvisOCR2",
-      "author": "ATH-MaaS",
-      "name": "OvisOCR2",
-      "pipeline_tag": "image-text-to-text",
-      "pipeline_label": "image text to text",
-      "likes": 136,
-      "downloads": 3678,
-      "url": "https://huggingface.co/ATH-MaaS/OvisOCR2"
+      "model_id": "tencent/Hy3",
+      "author": "tencent",
+      "name": "Hy3",
+      "pipeline_tag": "text-generation",
+      "pipeline_label": "文本生成",
+      "likes": 820,
+      "downloads": 12719,
+      "url": "https://huggingface.co/tencent/Hy3"
     },
     {
       "rank": 13,
-      "model_id": "InternScience/Agents-A1",
-      "author": "InternScience",
-      "name": "Agents-A1",
-      "pipeline_tag": "text-generation",
-      "pipeline_label": "文本生成",
-      "likes": 568,
-      "downloads": 33400,
-      "url": "https://huggingface.co/InternScience/Agents-A1"
-    },
-    {
-      "rank": 14,
       "model_id": "empero-ai/Qwythos-9B-v2",
       "author": "empero-ai",
       "name": "Qwythos-9B-v2",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 129,
-      "downloads": 6220,
+      "likes": 137,
+      "downloads": 7980,
       "url": "https://huggingface.co/empero-ai/Qwythos-9B-v2"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "model_id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "author": "GnLOLot",
       "name": "MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "pipeline_tag": "text-generation",
       "pipeline_label": "文本生成",
-      "likes": 131,
-      "downloads": 4117,
+      "likes": 134,
+      "downloads": 4840,
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking"
+    },
+    {
+      "rank": 15,
+      "model_id": "AngelSlim/Hy3-GGUF",
+      "author": "AngelSlim",
+      "name": "Hy3-GGUF",
+      "pipeline_tag": "text-generation",
+      "pipeline_label": "文本生成",
+      "likes": 122,
+      "downloads": 84834,
+      "url": "https://huggingface.co/AngelSlim/Hy3-GGUF"
     }
   ]
 }

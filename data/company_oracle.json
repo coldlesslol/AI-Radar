@@ -1,61 +1,61 @@
 {
   "source": "Oracle",
   "layer": "company",
-  "updated": "2026-07-17T10:01:05+08:00",
+  "updated": "2026-07-18T10:01:02+08:00",
   "items": [
     {
-      "title": "Open-Source AI on OCI: Serving LLMs on Kubernetes with vLLM, Qdrant, and Terraform - Oracle Blogs",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1hkbHd5UnVmUTdyZ0MyV2R1ei04bzU0TGRFYlBhWE41eEphN3oteTU5U1hjQUJRUjRFSEt5MWQxMFhfSzFMRkNzcGM2bWJYMTMycUVNRGFKMy12akw0V3Q4UndYM2RPUXRJWHZ1dXpTVGxWM0ExUm9hTHBfcVUtVmZhRGhYMW9qaG9YMGJ3?oc=5",
-      "summary": "Open-Source AI on OCI: Serving LLMs on Kubernetes with vLLM, Qdrant, and Terraform&nbsp;&nbsp;Oracle Blogs",
+      "title": "Announcing Enterprise AI for OCI Dedicated Cloud: Run AI where your data resides - Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdzV1WkNWa2dYVWtncG9Bbmo5QUhsV3dVZ2ZBZkJfTVU2MXZqWnJTaHNSSVhORjNuWktTMjlTM0VxS0ZsWTgzVEJURXhZbU81c2hNc0l6RnhmRk1wSEt0UFo0Q28tN3psWGY1MW9lbGpKSzh3Qk44aHJEM0w4aGlsVUZnMHNMQQ?oc=5",
+      "summary": "Announcing Enterprise AI for OCI Dedicated Cloud: Run AI where your data resides&nbsp;&nbsp;Oracle Blogs",
       "source": "Oracle",
-      "time": "1d",
+      "time": "3h",
       "tags": [],
-      "published_at": "2026-07-15T16:19:42+00:00"
+      "published_at": "2026-07-17T22:18:45+00:00"
     },
     {
       "title": "Oracle Stock Is Down 60%: Why Its AI Cloud Explosion Makes It a Compelling Buy - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNUNqVm40Rl9IVnVXRmpHc0lycjh4bTRJQURuYkV3SDBDc0drc1VpTUZoamxUajBGazZTZW9wN1h6cm9FLUNValdUU2lqLXVDNWU1dTAyU0NlV0dEcFdIaDdnWTd6STVudk1jTFhNMmVKM0JZejRsQ3JfZXdOeGoxbFlieTNDSHp4VV9XMnRfTUo5eW8?oc=5",
       "summary": "Oracle Stock Is Down 60%: Why Its AI Cloud Explosion Makes It a Compelling Buy&nbsp;&nbsp;Yahoo Finance",
       "source": "Oracle",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-15T15:35:00+00:00"
-    },
-    {
-      "title": "Oracle Introduces AI-Native Builder Experience to Create and Run Agentic Applications in Oracle Fusion Applications - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQX1J6eGxPMUdTbWN3NmhySFZaNU5yWURIbmp0YzlIXzJZM1dMOVZ2a3Y1NjdkcjZQWlZEdTlLTy0wRzJWWVExaWwzVDg2V3hweUdCYW1GZHpubE1jV1RZYS05Y1UwbzNFWHc1UHlELXNjbDVtVTl0NGlBSGpnOFdZZFJjRXd5RFRhX1pfRFJKby01NnZ6Q2ZGYk1pRF9uZ0hNRzk2TUhoOHEzTFBXNERvZ1ZuaTF6VXlFX2FGMmpwSUxEWkZ1Zkk2Xy1TcDVveUlGVlVzUEZmdmNWZ3FWTEtONlBWTWJhLUdqRVdiVkpRU1VXZzhWaEk4LS1IemFNVkZK?oc=5",
-      "summary": "Oracle Introduces AI-Native Builder Experience to Create and Run Agentic Applications in Oracle Fusion Applications&nbsp;&nbsp;PR Newswire",
-      "source": "Oracle",
       "time": "2d",
       "tags": [],
-      "published_at": "2026-07-14T12:00:00+00:00"
+      "published_at": "2026-07-15T15:35:00+00:00"
     },
     {
       "title": "Chris Leone on Oracle's Fusion Agentic Applications and the Future of Enterprise AI | Cloud Wars Live - Cloud Wars",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGRMUUVPUTJ0S213ei05SGp2YTBnMExYbjhNZElqY2Y2QXVaNlNNR21VNlZJaG9EZkFBOTlWeVNldXR0MTBGQzFSSEIxSzJ0NE5vczJweWQ3X1JaWllzVHVpRmtJNENBTkxyNHI3S2JyUWNxMHNrVmdlbkVqNUdLLS00QmphM0x6eXJraWFqQ3hXU29SWERCbkVHUThYSFQ3WjFuWnNQZ1N1QThkTHpRNlZwQWduTnRyblRCaFpvVUNVeFdyX3c?oc=5",
       "summary": "Chris Leone on Oracle's Fusion Agentic Applications and the Future of Enterprise AI | Cloud Wars Live&nbsp;&nbsp;Cloud Wars",
       "source": "Oracle",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-14T14:00:00+00:00"
     },
     {
-      "title": "Oracle shares snap losing streak with 3.5% rally as investors weigh massive AI cloud backlog - eciks.org",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsSzFGbGhPNEE2ODctM1Y1RExDR1AzU2diZG5XZVM5SVZERWduRjN1MzRCWW91Yjd1azNmUkFZQ05WZ3BlQ1g4d0FBYUpFY0w3ZWpRd3NmOHlISE1CaXJDXzZfdG1XSmgzOTVYTEU4eFZqWkFobmR4MA?oc=5",
-      "summary": "Oracle shares snap losing streak with 3.5% rally as investors weigh massive AI cloud backlog&nbsp;&nbsp;eciks.org",
+      "title": "Price Prediction: Two Big Reasons Oracle Stock Could Surge 60% This Year - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSWhxTS1JUU1ZNzNkZFdScVVSSE53c282RXdDd083UU9fQXZrbEVwNEZTSTlyb0xIdmhrQWl1Q2JvS2tEdWU0NG1kMnUzYWYtcWlQdW1DOWpQUm0teUJ3VjNCR2QxZVIzNnJnanZGY2s1YmVXUXZxclVMYlJGelVVQ0lOTHZBQUNaLURGM21zamctdmE1MGJLczROU0tiM0pyLTJ0WHM5QS1ieFVmNzRXcloydWI?oc=5",
+      "summary": "Price Prediction: Two Big Reasons Oracle Stock Could Surge 60% This Year&nbsp;&nbsp;24/7 Wall St.",
       "source": "Oracle",
-      "time": "10h",
+      "time": "11h",
       "tags": [],
-      "published_at": "2026-07-16T15:25:19+00:00"
+      "published_at": "2026-07-17T14:30:54+00:00"
     },
     {
-      "title": "Oracle Just Cratered 33% in a Month. Is It Time to Switch to Cloudflare or CoreWeave? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmJURkdnNHNQYTk0ZmwtWk1RVEFNOEE3UExoUGdrUWZzc25ETFJxNUJZcW95bXpiQm5MdjRtUHVlMXdBUnJUdFp6M1R0dS1IYUQtdmZFTV9PanNuTkJZcWl2TFR2ZWIwdDRjQVEwYmNEdUdPR1BlaUJVSkxmZGlyTkVjY2sxMVh4Z0RmN2VER2R6X291WUN2UlVnY0RZX2RwSlNsY3BZTzJYTkN5ZndDblZTb1FxYWxjdHlRcTZLWWxvdVc2?oc=5",
-      "summary": "Oracle Just Cratered 33% in a Month. Is It Time to Switch to Cloudflare or CoreWeave?&nbsp;&nbsp;24/7 Wall St.",
+      "title": "Sovereign AI: Building AI Where Data, Infrastructure, and Control Stay Aligned - Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTzZ2aEVKWGlIaUJfNDd3SEVVY282eWlMYm5lWHN4dVpDRXdYeTk0NjRGTTVIUkhRclRvRlZSVlFFZWR3di1seHI2aE9TdGpEbEtMM0JfbGhVdkhkU1VmZng5UHdpTVVOZHB5b2tWUUpDZ2V2cW1YZ3JrbnBrbXZ2YXRDRG13d3lfa0duOVRJd0lOUVc4dFBzNjQ0VVZHMEl5X00zS3NNYVBJOXhXMjg4cWtyYm1Zam9TX18zODNn?oc=5",
+      "summary": "Sovereign AI: Building AI Where Data, Infrastructure, and Control Stay Aligned&nbsp;&nbsp;Oracle Blogs",
       "source": "Oracle",
-      "time": "8h",
+      "time": "20h",
       "tags": [],
-      "published_at": "2026-07-16T17:04:06+00:00"
+      "published_at": "2026-07-17T05:46:25+00:00"
+    },
+    {
+      "title": "Oracle Stock Leads 3 AI Stocks Backed By Real Cloud Demand - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU053R3NCSmY4ZFhJLU5VYmxNRndUQTBrckl0bEczb2ZwSHVGY053dlVLdG5qQXNOS2dkSmQ1dTl3WHJ3YUNoV0ozaDI5YmhBWkRpYUUtVGZXZlFNUUhKS09oelRFX3hrNVFHRDdRR3FDZ0ZtcGJPS3gxVUd3VDZfalFrYmdTLTh4V3h6amZKcEFrMUstMjVHbkRGYnhGbEpGLUluRmdtVGszbnZKRFdIajU3dWplOHVxVzYwalpMMzZ2UFdQdzVXUDN30gHPAUFVX3lxTE9sdEU1OGtPRE4xY2VGWkQycDRSWV9Lb0U5WW4taW9tN2ZyRXh2X2ptTjN4UDc5Nl92b19NTlEzeVJXRzRwaUFvZWx2Q2htWk5hdl9qX1JYaXhZV2JOX1dBY1pXQXl4dEZaRUg0RWhvTGN4TmpvWGtEM3ZrV3VaQWZFT0FOa2M1ZEt2QkNrRk1IaG9GbjV1UF8zdmlBYTJtRDJQemRmR0p5bE04SFlhMlFUUElQUHZXal9vVDJiMEZ2X29nTGU4VGlCNzBTU0gyYw?oc=5",
+      "summary": "Oracle Stock Leads 3 AI Stocks Backed By Real Cloud Demand&nbsp;&nbsp;simplywall.st",
+      "source": "Oracle",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-17T03:07:48+00:00"
     }
   ]
 }

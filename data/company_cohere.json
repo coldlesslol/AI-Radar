@@ -1,14 +1,14 @@
 {
   "source": "Cohere",
   "layer": "company",
-  "updated": "2026-07-17T10:01:20+08:00",
+  "updated": "2026-07-18T10:01:17+08:00",
   "items": [
     {
       "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026 - VentureBeat",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY3NiZ2N1Sno3eC1sSWs4WEQ1VXg0NS00ZmlPazFiRUpZYl9QNmlEMGJDV2t1U2JPaWVPQ1JnaE9RS0NsYTAtRFU0MWdYM3hEUUNpUG9NRVl6eXlPclphYk5WWGJUcjhJWkppc1VaY09yQ2VXMTUyVVkwR2lBd1g4SXhrVGdqaUh2QXNrWndrSDk0ZDlRQWpDejZSQ2FhTHBzdkxEMlhDaDBzNjJvb1Ixd3Z0cjZEWTA?oc=5",
       "summary": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026&nbsp;&nbsp;VentureBeat",
       "source": "Cohere",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-15T18:21:02+00:00"
     },
@@ -17,7 +17,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzctNVpmREhtNUI3RUhUQ09Ncm1xZ3M4YlE1ZUR3WVFZT0UyZFdCZV9WZTg0RnZHXzYteFoycl9QMHlBbHJhY0cwck5sRGVxNGpUWWpxSFRkV2FPdDhYWjd5dlNMS1ZDYzBmNmkyYjNrdFBHX1oydG55TG4xdkhCT21BWld2Wlo5VXN4OWZFVTNRdUdSQ0VZ?oc=5",
       "summary": "U of T partnership with Cohere sets the stage for responsible AI adoption at scale&nbsp;&nbsp;University of Toronto",
       "source": "Cohere",
-      "time": "11h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-16T14:01:27+00:00"
     },
@@ -26,18 +26,9 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VTlBqSUVjZ09rX3pORjl4dHd1Z2cyVVBnVDVNcDVMNHI3Q2NzZzBvYUZQemtRTXlTRzNHdTI5QndRekxObmxRZVVNcHdZWTJHaUVJenhKMVpWVVVDV0lObA?oc=5",
       "summary": "Saudi Arabia’s Humain, Canada’s Cohere join forces on AI infrastructure&nbsp;&nbsp;arabnews.jp",
       "source": "Cohere",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-12T05:07:31+00:00"
-    },
-    {
-      "title": "Cohere teams up with Humain to deliver sovereign AI in Middle East - Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdVNLXzNqSGU4cUx4TTlzYVNFT3RyU0dzMl9pMTM4M240VDh3MGpsbU5rSEZZX2hoRUlnb3NyRkZqd3dJZU5adHI4andoY1lWOWJoWXdWanM1MTFfV05paTB0Rm9HNXBSY2RpZXFTU0o1RzJ3dUZ6Tzk0QlJTMHphMG1MZWRQOWd3Z0xWbGtfQTFQa0F3TU05ek00cjlKTFEyUkpaMTI0elNRUFN4d2c?oc=5",
-      "summary": "Cohere teams up with Humain to deliver sovereign AI in Middle East&nbsp;&nbsp;Telecompaper",
-      "source": "Cohere",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-10T15:09:17+00:00"
     }
   ]
 }

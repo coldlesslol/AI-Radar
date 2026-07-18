@@ -1,97 +1,97 @@
 {
   "source": "量子位",
   "layer": "news",
-  "updated": "2026-07-17T10:00:09+08:00",
+  "updated": "2026-07-18T10:00:13+08:00",
   "items": [
     {
-      "title": "理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价",
-      "url": "https://www.qbitai.com/2026/07/451576.html",
-      "summary": "最快下周一提车",
+      "title": "全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC",
+      "url": "https://www.qbitai.com/2026/07/453506.html",
+      "summary": "",
       "source": "量子位",
-      "time": "10h",
+      "time": "42m",
       "tags": [],
-      "published_at": "2026-07-16T15:12:41+00:00"
+      "published_at": "2026-07-18T01:17:23+00:00"
     },
     {
-      "title": "全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了",
-      "url": "https://www.qbitai.com/2026/07/451403.html",
-      "summary": "还能让机器人边干边学",
+      "title": "PPIO发布智能模型网关，打造面向Agent时代的智能Token工厂",
+      "url": "https://www.qbitai.com/2026/07/453467.html",
+      "summary": "万亿Token调用量验证",
+      "source": "量子位",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-17T22:32:47+00:00"
+    },
+    {
+      "title": "逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU",
+      "url": "https://www.qbitai.com/2026/07/453352.html",
+      "summary": "发布芯片只是拿到了入场券",
+      "source": "量子位",
+      "time": "8h",
+      "tags": [],
+      "published_at": "2026-07-17T17:09:14+00:00"
+    },
+    {
+      "title": "给AI发工号、定岗位、做绩效，数字员工终于能落地了",
+      "url": "https://www.qbitai.com/2026/07/453245.html",
+      "summary": "面壁智能开源StaffDeck",
+      "source": "量子位",
+      "time": "9h",
+      "tags": [],
+      "published_at": "2026-07-17T16:40:47+00:00"
+    },
+    {
+      "title": "WAIC直击 | 十大开源社区「挤」进了一家GPU展台，沐曦凭什么？",
+      "url": "https://www.qbitai.com/2026/07/453246.html",
+      "summary": "每个Token背后，都是一次开源协作",
+      "source": "量子位",
+      "time": "9h",
+      "tags": [],
+      "published_at": "2026-07-17T16:24:49+00:00"
+    },
+    {
+      "title": "达卯科技WAIC首发算电协同2.0：构筑AI算力与绿色能源融合新范式",
+      "url": "https://www.qbitai.com/2026/07/453237.html",
+      "summary": "打造AIDC绿电直连能源运营操作系统",
+      "source": "量子位",
+      "time": "13h",
+      "tags": [],
+      "published_at": "2026-07-17T12:00:56+00:00"
+    },
+    {
+      "title": "WAIC 2026 | 如果Agent有性格，你的智能伙伴会是什么样的？",
+      "url": "https://www.qbitai.com/2026/07/453217.html",
+      "summary": "北电数智带来AI赋能民生的真实答卷",
+      "source": "量子位",
+      "time": "14h",
+      "tags": [],
+      "published_at": "2026-07-17T11:34:02+00:00"
+    },
+    {
+      "title": "WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%",
+      "url": "https://www.qbitai.com/2026/07/453211.html",
+      "summary": "",
+      "source": "量子位",
+      "time": "14h",
+      "tags": [],
+      "published_at": "2026-07-17T11:00:47+00:00"
+    },
+    {
+      "title": "算力的尽头，不是更多算力——全球顶尖科学家7月18日聚首上海，共议AI时代的“未来计算”",
+      "url": "https://www.qbitai.com/2026/07/453208.html",
+      "summary": "",
       "source": "量子位",
       "time": "15h",
       "tags": [],
-      "published_at": "2026-07-16T10:51:10+00:00"
+      "published_at": "2026-07-17T10:53:17+00:00"
     },
     {
-      "title": "工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施",
-      "url": "https://www.qbitai.com/2026/07/451371.html",
+      "title": "从仰望星空到落地创新：WAIC青年菁英会即将硬核开场，最新成果首发在即",
+      "url": "https://www.qbitai.com/2026/07/453203.html",
       "summary": "",
       "source": "量子位",
-      "time": "16h",
+      "time": "15h",
       "tags": [],
-      "published_at": "2026-07-16T09:29:09+00:00"
-    },
-    {
-      "title": "RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造",
-      "url": "https://www.qbitai.com/2026/07/451379.html",
-      "summary": "为破解具身智能行业发展瓶颈构建了新一代“进化底座”",
-      "source": "量子位",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-16T09:25:17+00:00"
-    },
-    {
-      "title": "手握英伟达宁德时代相同剧本，具身智能的第一个「基建商」出现了",
-      "url": "https://www.qbitai.com/2026/07/451327.html",
-      "summary": "Robotaxi第一股文远知行孵化",
-      "source": "量子位",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-16T09:13:01+00:00"
-    },
-    {
-      "title": "刚刚，逐际动力放出一段Demo，Figure：睡不着啊",
-      "url": "https://www.qbitai.com/2026/07/451084.html",
-      "summary": "不要赌某个模型能通吃一切。",
-      "source": "量子位",
-      "time": "17h",
-      "tags": [],
-      "published_at": "2026-07-16T08:04:18+00:00"
-    },
-    {
-      "title": "一位失忆患者，揭开了AI记忆的误区",
-      "url": "https://www.qbitai.com/2026/07/451049.html",
-      "summary": "记忆能够独立成层",
-      "source": "量子位",
-      "time": "18h",
-      "tags": [],
-      "published_at": "2026-07-16T07:34:14+00:00"
-    },
-    {
-      "title": "一句「哈哈」引发的苹果OpenAI窃密大战",
-      "url": "https://www.qbitai.com/2026/07/450921.html",
-      "summary": "苹果怒斥：烂到骨子里",
-      "source": "量子位",
-      "time": "21h",
-      "tags": [],
-      "published_at": "2026-07-16T04:47:55+00:00"
-    },
-    {
-      "title": "从上海到世界：WAICA正以“AI原生”范式重写顶会规则",
-      "url": "https://www.qbitai.com/2026/07/450917.html",
-      "summary": "",
-      "source": "量子位",
-      "time": "21h",
-      "tags": [],
-      "published_at": "2026-07-16T04:02:31+00:00"
-    },
-    {
-      "title": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界",
-      "url": "https://www.qbitai.com/2026/07/450896.html",
-      "summary": "后训练中真机数据需求骤降60%",
-      "source": "量子位",
-      "time": "23h",
-      "tags": [],
-      "published_at": "2026-07-16T02:30:46+00:00"
+      "published_at": "2026-07-17T10:41:24+00:00"
     }
   ]
 }

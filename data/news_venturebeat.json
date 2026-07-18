@@ -1,14 +1,14 @@
 {
   "source": "VentureBeat",
   "layer": "news",
-  "updated": "2026-07-17T10:00:06+08:00",
+  "updated": "2026-07-18T10:00:10+08:00",
   "items": [
     {
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
       "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
       "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model",
       "source": "VentureBeat",
-      "time": "6h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-16T19:16:48+00:00"
     },
@@ -17,7 +17,7 @@
       "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
       "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide",
       "source": "VentureBeat",
-      "time": "6h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-16T19:02:38+00:00"
     },
@@ -26,7 +26,7 @@
       "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
       "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context sourc",
       "source": "VentureBeat",
-      "time": "8h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-16T17:06:08+00:00"
     },
@@ -35,7 +35,7 @@
       "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
       "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their interna",
       "source": "VentureBeat",
-      "time": "9h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-16T16:40:48+00:00"
     },
@@ -44,7 +44,7 @@
       "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
       "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re",
       "source": "VentureBeat",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-15T22:24:17+00:00"
     }

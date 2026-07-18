@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T10:01:47+08:00",
+  "updated": "2026-07-18T10:01:46+08:00",
   "files": {
     "analysis_inter": "analysis_inter.json",
     "analysis_mckinsey": "analysis_mckinsey.json",
@@ -63,7 +63,7 @@
     "stocks": "stocks.json"
   },
   "stats": {
-    "total_items": 982,
+    "total_items": 966,
     "last_run_status": "ok",
     "errors": [
       {
@@ -460,10 +460,20 @@
         "file": "analysis_tisi",
         "error": "HTTPSConnectionPool(host='www.tisi.org', port=443): Max retries exceeded with url: /feed (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
         "at": "2026-07-17T10:00:54+08:00"
+      },
+      {
+        "file": "community_hn",
+        "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)')))",
+        "at": "2026-07-18T10:00:37+08:00"
+      },
+      {
+        "file": "analysis_tisi",
+        "error": "HTTPSConnectionPool(host='www.tisi.org', port=443): Max retries exceeded with url: /feed (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
+        "at": "2026-07-18T10:00:53+08:00"
       }
     ],
     "per_file": {
-      "analysis_inter": 5,
+      "analysis_inter": 4,
       "analysis_mckinsey": 10,
       "analysis_raschka": 1,
       "analysis_tisi": 0,
@@ -475,7 +485,7 @@
       "company_amd": 0,
       "company_arm": 6,
       "company_broadcom": 6,
-      "company_cohere": 4,
+      "company_cohere": 3,
       "company_deepseek": 6,
       "company_meta": 2,
       "company_microsoft": 6,
@@ -487,23 +497,23 @@
       "company_spacex": 6,
       "company_tesla": 0,
       "company_中际旭创": 6,
-      "company_商汤": 6,
+      "company_商汤": 5,
       "company_字节豆包": 6,
-      "company_寒武纪": 4,
-      "company_拓维信息": 3,
-      "company_智谱ai": 2,
+      "company_寒武纪": 3,
+      "company_拓维信息": 4,
+      "company_智谱ai": 0,
       "company_月之暗面": 6,
       "company_百度ai": 0,
       "company_腾讯": 6,
       "company_阿里巴巴": 6,
-      "digest": 119,
+      "digest": 117,
       "filings": 26,
-      "github_trending": 9,
+      "github_trending": 6,
       "huggingface_trending": 15,
       "media_新智元": 6,
       "media_机器之心": 6,
       "news_36kr": 20,
-      "news_ars": 14,
+      "news_ars": 15,
       "news_benedict": 1,
       "news_import_ai": 3,
       "news_jiqizhixin": 0,
@@ -513,9 +523,9 @@
       "news_producthunt": 15,
       "news_qbitai": 10,
       "news_semianalysis": 0,
-      "news_techmeme": 13,
+      "news_techmeme": 9,
       "news_tldr_ai": 20,
-      "news_tmtpost": 15,
+      "news_tmtpost": 12,
       "news_venturebeat": 5,
       "news_verge_ai": 10,
       "pinned": 11,

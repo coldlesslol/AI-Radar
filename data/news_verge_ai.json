@@ -1,14 +1,32 @@
 {
   "source": "The Verge",
   "layer": "news",
-  "updated": "2026-07-17T10:00:07+08:00",
+  "updated": "2026-07-18T10:00:11+08:00",
   "items": [
+    {
+      "title": "TikTok is testing an AI likeness detection tool",
+      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tes",
+      "source": "The Verge",
+      "time": "6h",
+      "tags": [],
+      "published_at": "2026-07-17T19:34:30+00:00"
+    },
+    {
+      "title": "Apple’s plot to crush OpenAI",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple",
+      "source": "The Verge",
+      "time": "8h",
+      "tags": [],
+      "published_at": "2026-07-17T17:41:32+00:00"
+    },
     {
       "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
       "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
       "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lot",
       "source": "The Verge",
-      "time": "8h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-16T17:58:37+00:00"
     },
@@ -17,7 +35,7 @@
       "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
       "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply ac",
       "source": "The Verge",
-      "time": "10h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-16T16:00:00+00:00"
     },
@@ -26,7 +44,7 @@
       "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
       "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means",
       "source": "The Verge",
-      "time": "13h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-16T13:00:00+00:00"
     },
@@ -35,7 +53,7 @@
       "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
       "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrus",
       "source": "The Verge",
-      "time": "13h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-16T12:06:51+00:00"
     },
@@ -44,7 +62,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
       "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I ",
       "source": "The Verge",
-      "time": "15h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-16T11:00:00+00:00"
     },
@@ -53,7 +71,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
       "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI cla",
       "source": "The Verge",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-15T21:33:20+00:00"
     },
@@ -62,7 +80,7 @@
       "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
       "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$10",
       "source": "The Verge",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-15T20:00:00+00:00"
     },
@@ -71,27 +89,9 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
       "summary": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and ",
       "source": "The Verge",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-15T17:48:01+00:00"
-    },
-    {
-      "title": "OpenAI finally launches hardware… for Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit.",
-      "source": "The Verge",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-15T16:00:00+00:00"
-    },
-    {
-      "title": "OpenAI may announce a ChatGPT smart speaker this year",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additiona",
-      "source": "The Verge",
       "time": "2d",
       "tags": [],
-      "published_at": "2026-07-14T21:26:32+00:00"
+      "published_at": "2026-07-15T17:48:01+00:00"
     }
   ]
 }

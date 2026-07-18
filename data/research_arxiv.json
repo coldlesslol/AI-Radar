@@ -1,187 +1,187 @@
 {
   "source": "arXiv AI",
   "layer": "research",
-  "updated": "2026-07-17T10:00:45+08:00",
+  "updated": "2026-07-18T10:00:45+08:00",
   "items": [
     {
-      "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
-      "url": "https://arxiv.org/abs/2607.13037",
-      "summary": "arXiv:2607.13037v1 Announce Type: new Abstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which ",
+      "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
+      "url": "https://arxiv.org/abs/2607.14093",
+      "summary": "arXiv:2607.14093v1 Announce Type: new Abstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescue operations. Unlike con",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
-      "url": "https://arxiv.org/abs/2607.13049",
-      "summary": "arXiv:2607.13049v1 Announce Type: new Abstract: Foundation models have given robots a sophisticated brain for complex decision-making, yet deploying that intelligence into a physical platform still de",
+      "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2607.14095",
+      "summary": "arXiv:2607.14095v1 Announce Type: new Abstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) ",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
-      "url": "https://arxiv.org/abs/2607.13069",
-      "summary": "arXiv:2607.13069v1 Announce Type: new Abstract: Large language models produce chain-of-thought (CoT) reasoning that appears logically sound yet may not genuinely depend on its stated premises. We intr",
+      "title": "IMEX Interaction-Based Model Explanation",
+      "url": "https://arxiv.org/abs/2607.14096",
+      "summary": "arXiv:2607.14096v1 Announce Type: new Abstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important [5, 10]. Black-box model",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
-      "url": "https://arxiv.org/abs/2607.13073",
-      "summary": "arXiv:2607.13073v1 Announce Type: new Abstract: Neuro-symbolic AI based on $IFOL_B$ is a way to combine neural learning and symbolic reasoning to overcome limitations of purely neural systems (like la",
+      "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
+      "url": "https://arxiv.org/abs/2607.14097",
+      "summary": "arXiv:2607.14097v1 Announce Type: new Abstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification across heterogeneous ge",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "Self-Improvements in Modern Agentic Systems: A Survey",
-      "url": "https://arxiv.org/abs/2607.13104",
-      "summary": "arXiv:2607.13104v1 Announce Type: new Abstract: Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, fro",
+      "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
+      "url": "https://arxiv.org/abs/2607.14115",
+      "summary": "arXiv:2607.14115v1 Announce Type: new Abstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its intuitive and practical",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
-      "url": "https://arxiv.org/abs/2607.13115",
-      "summary": "arXiv:2607.13115v1 Announce Type: new Abstract: Small language models (SLMs) have shown promise for zero-shot molecular property prediction from SMILES strings, yet they often suffer from structural b",
+      "title": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
+      "url": "https://arxiv.org/abs/2607.14126",
+      "summary": "arXiv:2607.14126v1 Announce Type: new Abstract: Type 1 Diabetes (T1D) is a chronic, life-threatening autoimmune condition characterized by the complete destruction of insulin-producing pancreatic beta",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
-      "url": "https://arxiv.org/abs/2607.13157",
-      "summary": "arXiv:2607.13157v1 Announce Type: new Abstract: Agent memory is a systems problem for long-horizon agents. Practical deployments require retention of task state across extended conversations, recovery",
+      "title": "Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach",
+      "url": "https://arxiv.org/abs/2607.14141",
+      "summary": "arXiv:2607.14141v1 Announce Type: new Abstract: Bayesian Belief Networks (BBNs) are powerful tools for decision-making under uncertainty. However, building their structures and estimating parameters a",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models",
-      "url": "https://arxiv.org/abs/2607.13172",
-      "summary": "arXiv:2607.13172v1 Announce Type: new Abstract: We address the problem of safely training an agent policy and deploying a good and safe policy, in settings where the environment dynamics are unknown a",
+      "title": "Capability from Access Structure, Not Scale: Lower Bounds and Pre-Registered Tests for Hybrid Sequence Models",
+      "url": "https://arxiv.org/abs/2607.14144",
+      "summary": "arXiv:2607.14144v1 Announce Type: new Abstract: The Platonic Representation Hypothesis (PRH) holds that as models scale, representations of heterogeneous networks converge toward a shared model of rea",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "CayleyR: Solving the TopSpin puzzle via cycle intersection",
-      "url": "https://arxiv.org/abs/2607.13219",
-      "summary": "arXiv:2607.13219v1 Announce Type: new Abstract: We present cayleyR, an R package for solving permutation puzzles by detecting cycle intersections in Cayley graphs. The core algorithm performs an itera",
+      "title": "ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability",
+      "url": "https://arxiv.org/abs/2607.14145",
+      "summary": "arXiv:2607.14145v1 Announce Type: new Abstract: Tool-augmented large language model agents excel at long-horizon tasks, yet they are typically post-trained on fixed toolsets. When tasks demand new too",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science",
-      "url": "https://arxiv.org/abs/2607.13220",
-      "summary": "arXiv:2607.13220v1 Announce Type: new Abstract: Most AI-for-science systems focus on scaling a single reasoning process through better models, larger context windows, long-horizon agentic execution, o",
+      "title": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding",
+      "url": "https://arxiv.org/abs/2607.14149",
+      "summary": "arXiv:2607.14149v1 Announce Type: new Abstract: Although large language models (LLMs) have set benchmarks for zero-shot reasoning, their deployment remains cost-prohibitive and environmentally taxing.",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "AI-Native Insurance for Agentic AI: Pricing, Underwriting, and End-to-End Automation",
-      "url": "https://arxiv.org/abs/2607.13230",
-      "summary": "arXiv:2607.13230v1 Announce Type: new Abstract: Agentic AI introduces new insurance challenges because autonomous AI systems can make decisions, invoke tools, modify external environments, and interac",
+      "title": "Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers",
+      "url": "https://arxiv.org/abs/2607.14158",
+      "summary": "arXiv:2607.14158v1 Announce Type: new Abstract: This position paper explores how Agentic AI and Model Context Protocol (MCP) can support power-grid studies in a Transmission System Operator (TSO) cont",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "Cost-Optimal Foundation Model Deployment Portfolio for Transportation Management",
-      "url": "https://arxiv.org/abs/2607.13239",
-      "summary": "arXiv:2607.13239v1 Announce Type: new Abstract: Foundation models, including large language models (LLMs) and vision-language models (VLMs), are increasingly used for transportation management center ",
+      "title": "MemoHarness: Agent Harnesses That Learn from Experience",
+      "url": "https://arxiv.org/abs/2607.14159",
+      "summary": "arXiv:2607.14159v1 Announce Type: new Abstract: An agent harness is the external control layer that turns a base LLM into an executable agent by managing context, tools, orchestration, memory, decodin",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
-      "url": "https://arxiv.org/abs/2607.13285",
-      "summary": "arXiv:2607.13285v1 Announce Type: new Abstract: The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes t",
+      "title": "When a Verified World Model Still Loses: Play-Adequacy vs Prediction-Accuracy in LLM-Synthesized Code World Models",
+      "url": "https://arxiv.org/abs/2607.14169",
+      "summary": "arXiv:2607.14169v1 Announce Type: new Abstract: Large language models can synthesize a game's rules as executable code - a Code World Model (CWM) - which a classical planner then searches over. Such m",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "Theory-Level Autoformalization: From Isolated Statements to Unified Formal Knowledge Bases",
-      "url": "https://arxiv.org/abs/2607.13292",
-      "summary": "arXiv:2607.13292v1 Announce Type: new Abstract: Autoformalization translates informal natural language into formal, machine-verifiable languages. While most work focuses on individual statements, real",
+      "title": "ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System",
+      "url": "https://arxiv.org/abs/2607.14178",
+      "summary": "arXiv:2607.14178v1 Announce Type: new Abstract: Recent advances in Large Language Models have fueled autonomous AI agents capable of tackling complex scientific tasks, yet existing automated research ",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "EZSMT Version 3, Matured",
-      "url": "https://arxiv.org/abs/2607.13344",
-      "summary": "arXiv:2607.13344v1 Announce Type: new Abstract: Constraint Answer Set Programming (CASP) is a hybrid reasoning paradigm that combines Answer Set Programming (ASP) with Constraint Processing and Satisf",
+      "title": "RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination",
+      "url": "https://arxiv.org/abs/2607.14187",
+      "summary": "arXiv:2607.14187v1 Announce Type: new Abstract: Embodied cognition requires agents to connect high-level task reasoning with the physical states to be achieved. We introduce Hy-Embodied-RxBrain, an em",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "Set-shifting Behavioral Test for Harnessed Agents",
-      "url": "https://arxiv.org/abs/2607.13396",
-      "summary": "arXiv:2607.13396v1 Announce Type: new Abstract: What happens to an LLM agent's tool choice when the reliable tool silently changes within an ongoing session? We borrow set-shifting from cognitive psyc",
+      "title": "How Artificial Intelligence LLM Engines Shape the Global Conflict Information Environment",
+      "url": "https://arxiv.org/abs/2607.14197",
+      "summary": "arXiv:2607.14197v1 Announce Type: new Abstract: Artificial Intelligence (AI) answer engines now field a growing share of the questions that analysts, scholars, and the public ask about issues of peace",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning",
-      "url": "https://arxiv.org/abs/2607.13501",
-      "summary": "arXiv:2607.13501v1 Announce Type: new Abstract: Reinforcement learning for multi-turn search reasoning typically relies on terminal outcome rewards, which cannot distinguish useful, redundant, and har",
+      "title": "Align AI to Dynamic Human-AI Workflows",
+      "url": "https://arxiv.org/abs/2607.14240",
+      "summary": "arXiv:2607.14240v1 Announce Type: new Abstract: Current alignment approaches typically focus on emulating human behavior using static representations of human preferences, failing to capture the dynam",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "How Far Can Root Cause Analysis Go on Real-World Telemetry Data?",
-      "url": "https://arxiv.org/abs/2607.13548",
-      "summary": "arXiv:2607.13548v1 Announce Type: new Abstract: Identifying root causes in production microservice failures requires reasoning over large-scale, multimodal telemetry spanning metrics, logs, and traces",
+      "title": "The Steering Budget: Examples beat Knobs",
+      "url": "https://arxiv.org/abs/2607.14246",
+      "summary": "arXiv:2607.14246v1 Announce Type: new Abstract: Generative models are steered with knobs -- prompts, guidance scales, property tags. Turn one as hard as you like and, past a point, it stops moving the",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "Multi-Agent Collaborative Reasoning with Tool-Augmented Evidence for Urban Region Profiling",
-      "url": "https://arxiv.org/abs/2607.13558",
-      "summary": "arXiv:2607.13558v1 Announce Type: new Abstract: Urban region profiling constitutes a core problem in urban computing, supporting applications such as population estimation, economic assessment, and en",
+      "title": "Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation",
+      "url": "https://arxiv.org/abs/2607.14256",
+      "summary": "arXiv:2607.14256v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) are increasingly deployed for nuanced content safety and moderation tasks, yet they remain vulnerable to advers",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     },
     {
-      "title": "AI advice suppresses people's willingness to say \"I don't know\", even when the advice is wrong and accuracy is incentivized",
-      "url": "https://arxiv.org/abs/2607.13562",
-      "summary": "arXiv:2607.13562v1 Announce Type: new Abstract: Knowing when to say \"I don't know\" is fundamental to human judgment, yet AI assistants offer a fluent answer to almost any question. In five experiments",
+      "title": "AI Agents Do Not Fail Alone:The Context Fails First",
+      "url": "https://arxiv.org/abs/2607.14275",
+      "summary": "arXiv:2607.14275v1 Announce Type: new Abstract: Context engineering has become central to building reliable AI agents, yet it remains largely unmeasured. Agents do not fail in isolation: their behavio",
       "source": "arXiv AI",
       "time": "22h",
       "tags": [],
-      "published_at": "2026-07-16T04:00:00+00:00"
+      "published_at": "2026-07-17T04:00:00+00:00"
     }
   ]
 }
