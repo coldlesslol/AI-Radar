@@ -1,59 +1,50 @@
 {
   "source": "Amazon",
   "layer": "company",
-  "updated": "2026-07-18T10:00:57+08:00",
+  "updated": "2026-07-19T10:00:52+08:00",
   "items": [
     {
       "title": "Introducing Grok on Amazon Bedrock | Artificial Intelligence - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanEzdlpLRFpidXcwVi16QkhRQTJNSXVWTWZlWUJTSlFYSVYxZ2Q0Z2JhWHFrX1ljcXFhRm1kazJ6VkdGa3cyb3dZeF9BaW1ORjNsc0pUcnlLcmhkV2YxcVVVWTJrbXhXSmpDREhkZ3R3TWMwSU03dnZNVG9oSE5hR1ZkVUpBM01G?oc=5",
       "summary": "Introducing Grok on Amazon Bedrock | Artificial Intelligence&nbsp;&nbsp;Amazon Web Services (AWS)",
       "source": "Amazon",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-16T19:29:26+00:00"
     },
     {
-      "title": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base | Artificial Intelligence - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORktCSWpQYXlBU2Z6N0lQLXlKNnZCTi14LWVpN28wYlE1TnpHeXRYeDF6elJELWhvYnZ6M2ZQb01CbVRFUUNzZGFZS2l0eDctNktZVDJyV0QxRXlaRnJJSHdEVE1FQnd1VVJ3UUNncXlybVYyOUtTQUNJNzVuMjlteXFUX2pqQnBLV0MyWWFldXc2WG5qZG1RVGZpZFFWcUFXQ2IzelBzQlhNZlNUQ3NnM1BzM25pNnhUZnBGUzM3cThWdw?oc=5",
-      "summary": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base | Artificial Intelligence&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "title": "The 5 AWS Services Every Developer Must Know to Build AI Products in 2026 (With Real Projects) - HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVS1Tc0dubklwOVlGV1FTX3ZCZ21WV3UyOHgxWEFpaFRLMEh2YTZ2SWZ3MTJXY3ByXzRFUGlGV2xKMVlCX1RiekNZMlg4SkFfNW5NLUFhLWw3TmRHZzN6TzVVazdqeXB2WUtqeUx6Nk9UN1hIYm9QMmJ1WEVmc1FsRmFvUHZMdE9SOXlQTDNTUEEtRTE0SFNyYWdQTW91cFIwUm10WGlEN0ZFcmRwdEVmV1lNRURvQQ?oc=5",
+      "summary": "The 5 AWS Services Every Developer Must Know to Build AI Products in 2026 (With Real Projects)&nbsp;&nbsp;HackerNoon",
       "source": "Amazon",
-      "time": "1d",
+      "time": "15h",
       "tags": [],
-      "published_at": "2026-07-16T21:29:14+00:00"
-    },
-    {
-      "title": "AWS Security Hub expands coverage to Microsoft Azure and beefs up AI protections - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY08wRjA5YmRSdE9tZlE0X2pvVDNtMXFzZ2E5R2Y5bW9rYkIxRHJWdC1POHNGaHFNX1FOY0lxSEZ3R3JUNEVjMkVEZFdjSkY5b2R3WkhHV3Jyc1V4VzFRTTJLdnhyU2xWa0trRDhxN3NLWFU2RXgySTUwZllsMllfa2xDNDc4YXdtWGs4eVZXZFdXcWNDYW9EYjF1Zy05emNEQlBrYkZrMXdtR2c?oc=5",
-      "summary": "AWS Security Hub expands coverage to Microsoft Azure and beefs up AI protections&nbsp;&nbsp;SiliconANGLE",
-      "source": "Amazon",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-14T19:00:35+00:00"
-    },
-    {
-      "title": "AWS EC2 and AI leader Dave Brown to exit, replaced by Amazon exec and Microsoft vet Dave Treadwell - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGtPdTVpbEt4Y2gwdlpMOVd6ejBLRkVaUjluRDZyMUhnWjAzYjY3Tms1a2RDbnVUM25UMm9QR3Rlamg4SlEyM1ptTmM0bjFuU0JkTlp0Q1hDTW4yUE9MckZfZmZRdjNKLWhJMzRpajZ2SDBDV242U0lEYkJVZXpFMENPMEVDMUtobllxeEdhVnVyZFFvUmpRVGhSZDRHbDV3MlhpNGs2UmtKdzBxQW8xU3RNemdRQzJ0ajliZVZ3SkM2TlJxODhn?oc=5",
-      "summary": "AWS EC2 and AI leader Dave Brown to exit, replaced by Amazon exec and Microsoft vet Dave Treadwell&nbsp;&nbsp;GeekWire",
-      "source": "Amazon",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-15T19:40:56+00:00"
+      "published_at": "2026-07-18T10:29:02+00:00"
     },
     {
       "title": "Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSTVGUFc3bk1YeUR3WVd2VzBtWmdCOElNbGx3NFhkQjA3cjBvSXZkcm43M080QTd5NjZEajFCMlJOblRYeHdEdTVQSi03V1NBekRLUzV6eUQzT1AxWHczdGVNYVlNYWUxb0JCMVNLWVU3cGNjSktwbzhPN2FMOGdzdEtMaUhKbHp0MEpHcV9oMDUxakM4cEwzWV9SWnVKSU1MMHFsdEs0MEUzUE5mbjFMXzJNYUh2WW1yM3o2WDZ2a25XWFRNRVNUTEFSVHI0SDdZYk1HdGphcw?oc=5",
       "summary": "Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic&nbsp;&nbsp;Amazon Web Services (AWS)",
       "source": "Amazon",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-16T15:50:52+00:00"
+    },
+    {
+      "title": "AWS EC2 and AI leader Dave Brown to exit, replaced by Amazon exec and Microsoft vet Dave Treadwell - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGtPdTVpbEt4Y2gwdlpMOVd6ejBLRkVaUjluRDZyMUhnWjAzYjY3Tms1a2RDbnVUM25UMm9QR3Rlamg4SlEyM1ptTmM0bjFuU0JkTlp0Q1hDTW4yUE9MckZfZmZRdjNKLWhJMzRpajZ2SDBDV242U0lEYkJVZXpFMENPMEVDMUtobllxeEdhVnVyZFFvUmpRVGhSZDRHbDV3MlhpNGs2UmtKdzBxQW8xU3RNemdRQzJ0ajliZVZ3SkM2TlJxODhn?oc=5",
+      "summary": "AWS EC2 and AI leader Dave Brown to exit, replaced by Amazon exec and Microsoft vet Dave Treadwell&nbsp;&nbsp;GeekWire",
+      "source": "Amazon",
+      "time": "3d",
+      "tags": [],
+      "published_at": "2026-07-15T19:40:56+00:00"
     },
     {
       "title": "Security Hub adds AI workload protection and multicloud support for Microsoft Azure - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEdqMTZJTTNRTDFzWWJERVRyUTZ5cW9jYVota2xoNnhWU0VKeW95VVg3Ym5pbDRkNmduYm5lN1lLbVZ0dUt4V3FFZV9iTFI3akpqSHVTTDF4STNGMkhqSDVoZXBJR2htdTh6YXVLYnFoT3BOWEZKcGk5enVnU3FtMXBrb19fSFRrTzZNTTVTTlhEM1J3M2ZaOHpNN29MbHFsckNRNlB1Q0JCUEZtN0ZqUmR4RHlfQjI2MVBUTXZDdw?oc=5",
       "summary": "Security Hub adds AI workload protection and multicloud support for Microsoft Azure&nbsp;&nbsp;Amazon Web Services (AWS)",
       "source": "Amazon",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-14T19:16:57+00:00"
     }

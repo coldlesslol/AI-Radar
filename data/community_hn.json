@@ -1,187 +1,187 @@
 {
   "source": "HN",
   "layer": "community",
-  "updated": "2026-07-17T10:00:35+08:00",
+  "updated": "2026-07-19T10:00:33+08:00",
   "items": [
     {
-      "title": "Google Kills Custom Search API on Jan 1, 2027",
-      "url": "https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/",
-      "summary": "Article URL: https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/ Comments URL: https://news.ycombinator.com/item?id=48942250 Points: 22 # Comments: 4",
-      "source": "HN",
-      "time": "57m",
-      "tags": [],
-      "published_at": "2026-07-17T01:03:25+00:00"
-    },
-    {
-      "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
-      "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive Comments URL: https://news.ycombinator.com/item?id=48942125 Points: 25 # Comments: 6",
+      "title": "Better and Cheaper Than IPTV",
+      "url": "https://github.com/stupside/castor",
+      "summary": "Article URL: https://github.com/stupside/castor Comments URL: https://news.ycombinator.com/item?id=48964015 Points: 16 # Comments: 4",
       "source": "HN",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-17T00:45:05+00:00"
+      "published_at": "2026-07-19T00:59:55+00:00"
     },
     {
-      "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "summary": "Article URL: https://github.com/Robbyant/lingbot-map Comments URL: https://news.ycombinator.com/item?id=48941908 Points: 5 # Comments: 0",
+      "title": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "summary": "Article URL: https://workshop.cjpais.com/projects/transcribe-cpp Comments URL: https://news.ycombinator.com/item?id=48963879 Points: 40 # Comments: 5",
       "source": "HN",
       "time": "1h",
       "tags": [],
-      "published_at": "2026-07-17T00:07:49+00:00"
+      "published_at": "2026-07-19T00:38:26+00:00"
     },
     {
-      "title": "My car’s OTA update broke Android Auto",
-      "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
-      "summary": "Article URL: https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/ Comments URL: https://news.ycombinator.com/item?id=48941129 Points: 122 # Comments: ",
+      "title": "Harness Engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "summary": "Article URL: https://github.com/lopopolo/harness-engineering Comments URL: https://news.ycombinator.com/item?id=48963483 Points: 7 # Comments: 2",
+      "source": "HN",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-18T23:27:36+00:00"
+    },
+    {
+      "title": "Codex Resets",
+      "url": "https://codex-resets.com/",
+      "summary": "Article URL: https://codex-resets.com/ Comments URL: https://news.ycombinator.com/item?id=48963465 Points: 78 # Comments: 68",
+      "source": "HN",
+      "time": "2h",
+      "tags": [],
+      "published_at": "2026-07-18T23:24:26+00:00"
+    },
+    {
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/ Comments URL: https://news.ycombinator.com/item?id=48962983 Points: 201 ",
       "source": "HN",
       "time": "3h",
       "tags": [],
-      "published_at": "2026-07-16T22:29:44+00:00"
+      "published_at": "2026-07-18T22:13:39+00:00"
     },
     {
-      "title": "Show HN: Mojibake – A low-level Unicode library written in C",
-      "url": "https://mojibake.zaerl.com/",
-      "summary": "I've written Mojibake because I don't like the other Unicode libraries for Unicode support.It consists of only two amalgamation files: mojibake.h and mojibake.c. I've added all the most important Unic",
+      "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
+      "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
+      "summary": "Article URL: https://www.tug.org/tug2026/preprints/lode-realtime.pdf Comments URL: https://news.ycombinator.com/item?id=48962944 Points: 31 # Comments: 4",
       "source": "HN",
       "time": "3h",
       "tags": [],
-      "published_at": "2026-07-16T22:29:21+00:00"
+      "published_at": "2026-07-18T22:09:07+00:00"
     },
     {
-      "title": "The Little Book of Reinforcement Learning",
-      "url": "https://github.com/alxndrTL/little-book-rl/",
-      "summary": "Article URL: https://github.com/alxndrTL/little-book-rl/ Comments URL: https://news.ycombinator.com/item?id=48941104 Points: 56 # Comments: 7",
+      "title": "Judge a book by its first pages",
+      "url": "https://uncovered.ink",
+      "summary": "Article URL: https://uncovered.ink Comments URL: https://news.ycombinator.com/item?id=48962893 Points: 42 # Comments: 31",
       "source": "HN",
       "time": "3h",
       "tags": [],
-      "published_at": "2026-07-16T22:27:22+00:00"
+      "published_at": "2026-07-18T22:02:31+00:00"
     },
     {
-      "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
-      "url": "https://hellorecon.com/blog/cve-2026-25089",
-      "summary": "Article URL: https://hellorecon.com/blog/cve-2026-25089 Comments URL: https://news.ycombinator.com/item?id=48940895 Points: 18 # Comments: 0",
-      "source": "HN",
-      "time": "3h",
-      "tags": [],
-      "published_at": "2026-07-16T22:07:30+00:00"
-    },
-    {
-      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
-      "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
-      "summary": "Article URL: https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin Comments URL: https://news.ycombinator.com/item?id=48940833 Points: 41 # Comments: 5",
+      "title": "Classic Amiga titles, free to download",
+      "url": "https://amigafreeware.downer.tech/",
+      "summary": "Article URL: https://amigafreeware.downer.tech/ Comments URL: https://news.ycombinator.com/item?id=48962838 Points: 49 # Comments: 7",
       "source": "HN",
       "time": "4h",
       "tags": [],
-      "published_at": "2026-07-16T22:00:00+00:00"
+      "published_at": "2026-07-18T21:55:27+00:00"
     },
     {
-      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
-      "url": "https://arxiv.org/abs/2607.12395",
-      "summary": "Article URL: https://arxiv.org/abs/2607.12395 Comments URL: https://news.ycombinator.com/item?id=48940603 Points: 37 # Comments: 13",
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "url": "https://www.neatnik.net/hardcore-indieweb",
+      "summary": "Article URL: https://www.neatnik.net/hardcore-indieweb Comments URL: https://news.ycombinator.com/item?id=48962758 Points: 79 # Comments: 59",
       "source": "HN",
       "time": "4h",
       "tags": [],
-      "published_at": "2026-07-16T21:38:02+00:00"
+      "published_at": "2026-07-18T21:45:12+00:00"
     },
     {
-      "title": "Mathematics of Data Science",
-      "url": "https://arxiv.org/abs/2607.11938",
-      "summary": "Article URL: https://arxiv.org/abs/2607.11938 Comments URL: https://news.ycombinator.com/item?id=48939896 Points: 92 # Comments: 2",
+      "title": "Co-evolution of self-replication and function in a digital primordial soup",
+      "url": "https://arxiv.org/abs/2607.09211",
+      "summary": "Article URL: https://arxiv.org/abs/2607.09211 Comments URL: https://news.ycombinator.com/item?id=48962429 Points: 21 # Comments: 4",
       "source": "HN",
-      "time": "5h",
+      "time": "4h",
       "tags": [],
-      "published_at": "2026-07-16T20:38:48+00:00"
+      "published_at": "2026-07-18T21:09:01+00:00"
     },
     {
-      "title": "Timeline Scan – AI fixes the dates on your scanned photos",
-      "url": "https://timelinescan.com/",
-      "summary": "Article URL: https://timelinescan.com/ Comments URL: https://news.ycombinator.com/item?id=48939764 Points: 28 # Comments: 25",
+      "title": "Typing Speed Test, but for Developers",
+      "url": "https://haxxorwpm.0s.is/",
+      "summary": "Article URL: https://haxxorwpm.0s.is/ Comments URL: https://news.ycombinator.com/item?id=48961504 Points: 80 # Comments: 56",
       "source": "HN",
-      "time": "5h",
+      "time": "6h",
       "tags": [],
-      "published_at": "2026-07-16T20:25:47+00:00"
+      "published_at": "2026-07-18T19:38:21+00:00"
     },
     {
-      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
-      "url": "https://www.science.org/doi/10.1126/science.aea9708",
-      "summary": "Article URL: https://www.science.org/doi/10.1126/science.aea9708 Comments URL: https://news.ycombinator.com/item?id=48939742 Points: 63 # Comments: 16",
+      "title": "What's the deal with all the random weekly quota resets for agents lately?",
+      "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
+      "summary": "Article URL: https://minimaxir.com/2026/07/agent-quota-reset/ Comments URL: https://news.ycombinator.com/item?id=48961157 Points: 23 # Comments: 32",
       "source": "HN",
-      "time": "5h",
+      "time": "6h",
       "tags": [],
-      "published_at": "2026-07-16T20:24:02+00:00"
+      "published_at": "2026-07-18T19:06:23+00:00"
     },
     {
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 160 # Comments: 63",
-      "source": "HN",
-      "time": "5h",
-      "tags": [],
-      "published_at": "2026-07-16T20:18:15+00:00"
-    },
-    {
-      "title": "The privacy problems hidden in your period tracker",
-      "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details Comments URL: https://news.ycombinator.com/item?id=48939641 Points: 73 # Comments: 41",
-      "source": "HN",
-      "time": "5h",
-      "tags": [],
-      "published_at": "2026-07-16T20:15:58+00:00"
-    },
-    {
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 130 # Comments: 138",
-      "source": "HN",
-      "time": "5h",
-      "tags": [],
-      "published_at": "2026-07-16T20:03:23+00:00"
-    },
-    {
-      "title": "Adaptional (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/adaptional/jobs",
-      "summary": "Article URL: https://www.ycombinator.com/companies/adaptional/jobs Comments URL: https://news.ycombinator.com/item?id=48937125 Points: 0 # Comments: 0",
+      "title": "The Kimi K3 Moment",
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/ Comments URL: https://news.ycombinator.com/item?id=48960218 Points: 294 # Comments: 310",
       "source": "HN",
       "time": "8h",
       "tags": [],
-      "published_at": "2026-07-16T17:00:55+00:00"
+      "published_at": "2026-07-18T17:32:40+00:00"
     },
     {
-      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
-      "url": "https://news.ycombinator.com/item?id=48937020",
-      "summary": "Hey HN, we’re Xia and Varun, the founders of Traceforce (https://www.traceforce.ai/). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all devices (lapto",
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "summary": "Article URL: https://ykdojo.github.io/claude-controls-mac/ Comments URL: https://news.ycombinator.com/item?id=48959392 Points: 177 # Comments: 132",
       "source": "HN",
       "time": "9h",
       "tags": [],
-      "published_at": "2026-07-16T16:52:16+00:00"
+      "published_at": "2026-07-18T16:12:08+00:00"
     },
     {
-      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880 Points: 158 # Comments: 105",
+      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "summary": "Article URL: https://deepmind.google/blog/our-approach-to-bioresilience/ Comments URL: https://news.ycombinator.com/item?id=48959297 Points: 65 # Comments: 22",
       "source": "HN",
       "time": "9h",
       "tags": [],
-      "published_at": "2026-07-16T16:41:37+00:00"
+      "published_at": "2026-07-18T16:02:45+00:00"
     },
     {
-      "title": "Decoy Font",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "summary": "Article URL: https://www.mixfont.com/experiments/decoy-font Comments URL: https://news.ycombinator.com/item?id=48936584 Points: 404 # Comments: 98",
+      "title": "Gleam Is Now on Tangled",
+      "url": "https://tangled.org/gleam.run/gleam",
+      "summary": "Article URL: https://tangled.org/gleam.run/gleam Comments URL: https://news.ycombinator.com/item?id=48959143 Points: 208 # Comments: 133",
       "source": "HN",
-      "time": "9h",
+      "time": "10h",
       "tags": [],
-      "published_at": "2026-07-16T16:18:21+00:00"
+      "published_at": "2026-07-18T15:44:04+00:00"
     },
     {
-      "title": "NotebookLM is now Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/ Comments URL: https://news.ycombinator.com/item?id=48936451 Points: 240 # Comments: 126",
+      "title": "If You Build It, They Will Come",
+      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "summary": "Article URL: https://www.benlandautaylor.com/p/if-you-build-it-they-will-come Comments URL: https://news.ycombinator.com/item?id=48959090 Points: 269 # Comments: 99",
       "source": "HN",
-      "time": "9h",
+      "time": "10h",
       "tags": [],
-      "published_at": "2026-07-16T16:08:13+00:00"
+      "published_at": "2026-07-18T15:37:01+00:00"
+    },
+    {
+      "title": "Elixir-lang.org has a new design",
+      "url": "https://elixir-lang.org/",
+      "summary": "Article URL: https://elixir-lang.org/ Comments URL: https://news.ycombinator.com/item?id=48959042 Points: 168 # Comments: 104",
+      "source": "HN",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-18T15:32:04+00:00"
+    },
+    {
+      "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
+      "url": "https://q3edit.com",
+      "summary": "I've been building a level editor for Quake 3 that runs entirely in the browser: Radiant-style layout, brush and patch editing, CSG, terrain sculpting, and entity editing. It opens and saves .map file",
+      "source": "HN",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-18T15:12:40+00:00"
+    },
+    {
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "summary": "Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/ Comments URL: https://news.ycombinator.com/item?id=48957779 Points: 500 # Comments: 324",
+      "source": "HN",
+      "time": "12h",
+      "tags": [],
+      "published_at": "2026-07-18T13:00:52+00:00"
     }
   ]
 }

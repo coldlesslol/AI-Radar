@@ -1,14 +1,23 @@
 {
   "source": "Ahead of AI",
   "layer": "analysis",
-  "updated": "2026-07-18T10:00:46+08:00",
+  "updated": "2026-07-19T10:00:41+08:00",
   "items": [
+    {
+      "title": "Controlling Reasoning Effort in LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+      "summary": "How LLMs Learn Low-, Medium-, and High-Effort Reasoning Modes",
+      "source": "Ahead of AI",
+      "time": "14h",
+      "tags": [],
+      "published_at": "2026-07-18T11:16:09+00:00"
+    },
     {
       "title": "Using Local Coding Agents",
       "url": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
       "summary": "Using Open-Weight Models in Local Coding Harnesses as an Alternative to Claude Code and Codex Subscriptions",
       "source": "Ahead of AI",
-      "time": "20d",
+      "time": "21d",
       "tags": [],
       "published_at": "2026-06-27T11:21:58+00:00"
     }

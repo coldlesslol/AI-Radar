@@ -1,14 +1,23 @@
 {
   "source": "Ars Technica",
   "layer": "news",
-  "updated": "2026-07-18T10:00:12+08:00",
+  "updated": "2026-07-19T10:00:05+08:00",
   "items": [
+    {
+      "title": "Will AI fix prior authorization—or make it worse?",
+      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+      "source": "Ars Technica",
+      "time": "14h",
+      "tags": [],
+      "published_at": "2026-07-18T11:18:25+00:00"
+    },
     {
       "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
       "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
       "summary": "The FireSat program can spot wildfires that other satellites miss.",
       "source": "Ars Technica",
-      "time": "6h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T19:50:18+00:00"
     },
@@ -17,7 +26,7 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
       "summary": "Official estimates Google and Apple likely made millions in nudify app fees.",
       "source": "Ars Technica",
-      "time": "9h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T16:10:05+00:00"
     },
@@ -26,7 +35,7 @@
       "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
       "summary": "Google says these changes could endanger user privacy and security.",
       "source": "Ars Technica",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-16T20:41:45+00:00"
     },
@@ -35,7 +44,7 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
       "summary": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.",
       "source": "Ars Technica",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-16T20:26:23+00:00"
     },
@@ -44,7 +53,7 @@
       "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
       "summary": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
       "source": "Ars Technica",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-16T20:09:48+00:00"
     },
@@ -53,7 +62,7 @@
       "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
       "summary": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
       "source": "Ars Technica",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-16T19:18:23+00:00"
     },
@@ -62,7 +71,7 @@
       "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
       "summary": "Companies coming to market are raising money at fastest pace this century.",
       "source": "Ars Technica",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-16T15:48:21+00:00"
     },
@@ -71,7 +80,7 @@
       "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
       "summary": "The Codex Micro is designed to monitor multiple agentic threads at a glance.",
       "source": "Ars Technica",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-15T16:00:33+00:00"
     },
@@ -80,7 +89,7 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
       "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
       "source": "Ars Technica",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-14T20:05:53+00:00"
     },
@@ -89,7 +98,7 @@
       "url": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
       "summary": "US military’s drone boats struck an Iranian naval port as war heats up again.",
       "source": "Ars Technica",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-14T18:00:01+00:00"
     },
@@ -98,7 +107,7 @@
       "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
       "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
       "source": "Ars Technica",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-14T16:28:14+00:00"
     },
@@ -107,7 +116,7 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
       "summary": "New York’s data center moratorium may become the blueprint for anti-AI movement.",
       "source": "Ars Technica",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-14T15:06:28+00:00"
     },
@@ -116,7 +125,7 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
       "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
       "source": "Ars Technica",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-13T19:17:51+00:00"
     },
@@ -125,18 +134,9 @@
       "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
       "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
       "source": "Ars Technica",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-13T15:06:34+00:00"
-    },
-    {
-      "title": "Simulating everything, sort of: The promise and limits of world models",
-      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-      "summary": "Experts explain how they work, what they can do, and what's still unsettled.",
-      "source": "Ars Technica",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-07-13T11:00:51+00:00"
     }
   ]
 }

@@ -2,63 +2,81 @@
   "key": "github_trending",
   "title": "GitHub Trending AI",
   "freq": "daily",
-  "updated": "2026-07-18T10:01:33+08:00",
+  "updated": "2026-07-19T10:01:20+08:00",
   "url": "https://github.com/trending?since=daily",
-  "total_trending": 14,
+  "total_trending": 11,
   "items": [
+    {
+      "full_name": "Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars": 12978,
+      "stars_today": 831,
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "rank": 1
+    },
+    {
+      "full_name": "apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars": 1281,
+      "stars_today": 47,
+      "url": "https://github.com/apache/ossie",
+      "rank": 2
+    },
     {
       "full_name": "PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars": 36203,
-      "stars_today": 438,
+      "stars": 36608,
+      "stars_today": 338,
       "url": "https://github.com/PostHog/posthog",
-      "rank": 1
-    },
-    {
-      "full_name": "Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars": 12069,
-      "stars_today": 1485,
-      "url": "https://github.com/Nutlope/hallmark",
-      "rank": 2
-    },
-    {
-      "full_name": "github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "language": "Java",
-      "stars": 9800,
-      "stars_today": 233,
-      "url": "https://github.com/github/copilot-sdk",
       "rank": 3
-    },
-    {
-      "full_name": "anthropics/cwc-workshops",
-      "description": "",
-      "language": "TypeScript",
-      "stars": 1590,
-      "stars_today": 45,
-      "url": "https://github.com/anthropics/cwc-workshops",
-      "rank": 4
     },
     {
       "full_name": "tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars": 19768,
-      "stars_today": 74,
+      "stars": 20191,
+      "stars_today": 355,
       "url": "https://github.com/tirth8205/code-review-graph",
+      "rank": 4
+    },
+    {
+      "full_name": "elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT",
+      "language": "TypeScript",
+      "stars": 9520,
+      "stars_today": 69,
+      "url": "https://github.com/elder-plinius/G0DM0D3",
       "rank": 5
     },
     {
-      "full_name": "openinterpreter/openinterpreter",
-      "description": "A coding agent for open models like Kimi K3",
-      "language": "Rust",
-      "stars": 66385,
-      "stars_today": 431,
-      "url": "https://github.com/openinterpreter/openinterpreter",
+      "full_name": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": 23342,
+      "stars_today": 161,
+      "url": "https://github.com/lyogavin/airllm",
       "rank": 6
+    },
+    {
+      "full_name": "KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars": 1261,
+      "stars_today": 203,
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "rank": 7
+    },
+    {
+      "full_name": "MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": 9509,
+      "stars_today": 65,
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "rank": 8
     }
   ]
 }

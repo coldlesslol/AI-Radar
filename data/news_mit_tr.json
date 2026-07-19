@@ -1,14 +1,14 @@
 {
   "source": "MIT Tech Review",
   "layer": "news",
-  "updated": "2026-07-18T10:00:13+08:00",
+  "updated": "2026-07-19T10:00:05+08:00",
   "items": [
     {
       "title": "The Download: perimenopause misinformation and China’s latest AI leap",
       "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t ",
       "source": "MIT Tech Review",
-      "time": "13h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T12:10:00+00:00"
     },
@@ -17,7 +17,7 @@
       "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
       "summary": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers.",
       "source": "MIT Tech Review",
-      "time": "17h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T09:00:00+00:00"
     },
@@ -26,7 +26,7 @@
       "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
       "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance",
       "source": "MIT Tech Review",
-      "time": "17h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T08:57:32+00:00"
     },
@@ -35,7 +35,7 @@
       "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to ",
       "source": "MIT Tech Review",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-16T12:10:00+00:00"
     },
@@ -44,7 +44,7 @@
       "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
       "summary": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. Th",
       "source": "MIT Tech Review",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-16T10:00:00+00:00"
     },
@@ -53,7 +53,7 @@
       "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
       "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest ver",
       "source": "MIT Tech Review",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-15T17:09:37+00:00"
     },
@@ -62,7 +62,7 @@
       "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum co",
       "source": "MIT Tech Review",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-15T12:10:00+00:00"
     },
@@ -71,7 +71,7 @@
       "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and does",
       "source": "MIT Tech Review",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-14T12:10:00+00:00"
     },
@@ -80,7 +80,7 @@
       "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
       "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet ",
       "source": "MIT Tech Review",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-14T08:00:00+00:00"
     },
@@ -89,7 +89,7 @@
       "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with",
       "source": "MIT Tech Review",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-13T18:00:00+00:00"
     }

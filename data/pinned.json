@@ -1,39 +1,6 @@
 {
-  "updated": "2026-07-18T02:01:46.689802+00:00",
+  "updated": "2026-07-19T02:01:34.254836+00:00",
   "items": [
-    {
-      "title": "Leanstral 1.5: Proof Abundance for All",
-      "url": "https://mistral.ai/news/leanstral-1-5/",
-      "summary_cn": "Mistral 发布 Apache-2.0 授权的 Lean 4 定理证明代码智能体 Leanstral 1.5，在 PutnamBench 672 道题中解出 587 道，主打自动化数学证明能力。",
-      "sources": [
-        "Mistral",
-        "HN",
-        "MarkTechPost",
-        "GIGAZINE"
-      ],
-      "relevance_score": 1.0,
-      "category": "模型发布",
-      "pinned_at": "2026-07-04T14:31:18.560482+00:00",
-      "expires_at": "2026-07-18T14:31:18.560482+00:00",
-      "auto": true
-    },
-    {
-      "title": "Sources: Alibaba banned Claude Code internally and asked its employees to remove all Claude models from their work computers due to Anthropic security concerns (The Information)",
-      "url": "https://www.techmeme.com/260703/p4#a260703p4",
-      "summary_cn": "阿里巴巴以安全担忧为由内部全面禁用 Claude Code 并要求员工从工作电脑删除所有 Claude 模型；此前有报道称该 AI 公司代码中暗藏针对中国（时区、中国 AI 实验室等关键词）的疑似监视代码，官方回应将在更新中删除。",
-      "sources": [
-        "Techmeme",
-        "钛媒体",
-        "36氪",
-        "机器之心",
-        "雷峰网"
-      ],
-      "relevance_score": 1.0,
-      "category": "行业动态",
-      "pinned_at": "2026-07-04T14:31:18.560482+00:00",
-      "expires_at": "2026-07-18T14:31:18.560482+00:00",
-      "auto": true
-    },
     {
       "title": "Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems - MarkTechPost",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdnJkSTA0NDFkUnpDaWZTYjdKVmROaEdNNVNON3RrNTctMlBBdmZRanl0VHZmLXpZaXJRYnBFVF9haEI1eVhORFFnLTFBenJZQ3VzWE5BT25FMGtHcWJ5MVNkTnpIUDVUcFBYQk5SdE5oc2haVW1OWVd2aUJvR0taamd4N3Jpd3BXbkN3RHNXQWhrYXg2WXVzM1NvV181RHh4WVFVdl9ibDQ2UnpzTUVhRTBFTTJHY0RlaVVpWkVwczdRZXZHdENSQXo3Y0FnQkU1cFk5YVNZWHVNdFQwN2t5VFh3ZDRTOFU?oc=5",

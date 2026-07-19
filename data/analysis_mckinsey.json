@@ -1,14 +1,14 @@
 {
   "source": "McKinsey",
   "layer": "analysis",
-  "updated": "2026-07-18T10:00:53+08:00",
+  "updated": "2026-07-19T10:00:48+08:00",
   "items": [
     {
       "title": "AI in the Australian for-purpose sector: Laying a strong foundation",
       "url": "https://www.mckinsey.com/au/our-insights/ai-in-the-australian-for-purpose-sector-laying-a-strong-foundation",
       "summary": "AI adoption in Australian for-purpose organisations is growing, but without a considered approach, AI can add pressure and prioritise output over outcomes. How can leaders prepare their teams for more",
       "source": "McKinsey",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-17T00:00:00+00:00"
     },
@@ -17,7 +17,7 @@
       "url": "https://www.mckinsey.com/industries/industrials/our-insights/pricing-in-distribution-a-strategic-growth-engine",
       "summary": "Pricing is a critical value creation lever for distributors to respond to market challenges. Here are four capabilities critical to unlocking pricing’s power.",
       "source": "McKinsey",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-17T00:00:00+00:00"
     },
@@ -26,7 +26,7 @@
       "url": "https://www.mckinsey.com/industries/private-capital/our-insights/will-you-fly-or-freeze-how-founders-can-build-enduring-companies-beyond-10-billion-dollars",
       "summary": "Many founder-led companies freeze at the $1 billion to $10 billion valuation stage. Those that scale reinvent their business, people—and themselves—at five key inflection points.",
       "source": "McKinsey",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-17T00:00:00+00:00"
     },
@@ -35,7 +35,7 @@
       "url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/amid-volatility-oil-and-gas-m-and-a-abounds-heres-how-to-capture-full-value",
       "summary": "Envisioning the deal’s full potential and sequencing integration initiatives makes the most of the current wave of oil and gas mergers and combinations.",
       "source": "McKinsey",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-16T00:00:00+00:00"
     },
@@ -44,7 +44,7 @@
       "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/what-the-2026-world-cup-reveals-about-the-next-generation-of-sports-fans",
       "summary": "This year’s tournament offers a window into consumers’ changing behaviors, desire for community, and focus on identity—especially among Latino fans. Are business leaders paying attention?",
       "source": "McKinsey",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-16T00:00:00+00:00"
     },
@@ -53,7 +53,7 @@
       "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/how-we-help-clients/how-b-tech-transformed-into-a-technology-powered-retailer",
       "summary": "The Egyptian electronics retailer partnered with McKinsey to reinvent customer commerce through AI-powered pricing, fulfillment, and fintech—unlocking rapid growth and new digital revenue streams.",
       "source": "McKinsey",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-16T00:00:00+00:00"
     },
@@ -62,7 +62,7 @@
       "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-future-of-b2b-sales-how-growth-champions-rewire-their-playbooks-with-ai",
       "summary": "AI pilots are everywhere, but value is not. Growth leaders rewire commercial impact journeys with agentic AI, enabling sellers to deepen customer relations and create real change.",
       "source": "McKinsey",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-16T00:00:00+00:00"
     },
@@ -71,7 +71,7 @@
       "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation",
       "summary": "Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are uniquely positioned to address these challen",
       "source": "McKinsey",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-15T00:00:00+00:00"
     },
@@ -80,7 +80,7 @@
       "url": "https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-ai-is-reshaping-the-future-of-the-aec-industry",
       "summary": "AI is poised to rewire the architecture, engineering, and construction sector. Firms that move quickly to reimagine workflows, improve data use, and automate work sites will thrive.",
       "source": "McKinsey",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-15T00:00:00+00:00"
     },
@@ -89,7 +89,7 @@
       "url": "https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector",
       "summary": "AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how servic",
       "source": "McKinsey",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-15T00:00:00+00:00"
     }

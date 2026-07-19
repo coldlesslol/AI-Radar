@@ -1,14 +1,59 @@
 {
   "source": "Reddit ML",
   "layer": "community",
-  "updated": "2026-07-18T10:00:38+08:00",
+  "updated": "2026-07-19T10:00:34+08:00",
   "items": [
+    {
+      "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
+      "summary": "The Google DeepMind-sponsored Kaggle challenge &quot;Measuring Progress Toward AGI - Cognitive Abilities&quot; asked participants to design new cognitive-science-based AI benchmarks and they just anno",
+      "source": "Reddit ML",
+      "time": "10h",
+      "tags": [],
+      "published_at": "2026-07-18T15:10:52+00:00"
+    },
+    {
+      "title": "GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/",
+      "summary": "This visualization looks at the token “Trump” in GPT-2 Small’s static embedding table, before attention or context is applied. The top plot is a t-SNE projection of 32,070 alphabetic tokens with at le",
+      "source": "Reddit ML",
+      "time": "4h",
+      "tags": [],
+      "published_at": "2026-07-18T21:29:05+00:00"
+    },
+    {
+      "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v09muj/interactive_map_of_gpt2s_token_embedding_space/",
+      "summary": "32,070 alphabetic tokens from GPT-2-small's WTE, no forward pass and no context. Works on mobile. Pinch to zoom, tap a token to see its nearest connections, tap a neighbour to walk the graph. Search b",
+      "source": "Reddit ML",
+      "time": "3h",
+      "tags": [],
+      "published_at": "2026-07-18T22:42:20+00:00"
+    },
+    {
+      "title": "Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v06nc1/deep_learning_tackles_singlecell_analysis_a/",
+      "summary": "Hello, I recently finished reading this survey paper: Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis, which comprehensively covers 25 different methods a",
+      "source": "Reddit ML",
+      "time": "5h",
+      "tags": [],
+      "published_at": "2026-07-18T20:35:16+00:00"
+    },
+    {
+      "title": "AAAI 27 AI Alignment track [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/",
+      "summary": "How to submit to AI alignment track? I can only see these at openReview: AAAI 2027 AAAI 2027 Artificial Intelligence for Social Impact Track AAAI 2027 Conference AAAI 2027 Innovative Applications of A",
+      "source": "Reddit ML",
+      "time": "11h",
+      "tags": [],
+      "published_at": "2026-07-18T14:44:38+00:00"
+    },
     {
       "title": "Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/",
       "summary": "I have released a model that I have been working on for ~6 months off and on. I've been enjoying listening to spatial music, but there is a lot of music out there with no real quality spatial mix. So ",
       "source": "Reddit ML",
-      "time": "3h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T22:55:00+00:00"
     },
@@ -17,16 +62,25 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uz75qt/prism_accidentally_leaked_d/",
       "summary": "Just found out from Prism's Discord that compiling is returning someone else's paper. There's a Twitter post too. https://x.com/JustanOthRando/status/2078169169267482778?s=20 I commend their prompt re",
       "source": "Reddit ML",
-      "time": "8h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T17:59:44+00:00"
+    },
+    {
+      "title": "TabFM Studio: point-and-click predictions on spreadsheets with tabular foundation models, fully local [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uzx1el/tabfm_studio_pointandclick_predictions_on/",
+      "summary": "I built a small web app that lets you run tabular foundation models (currently just Google's TabFM) on spreadsheets without writing any code. Just drop in a CSV/Excel file, click a column header to ma",
+      "source": "Reddit ML",
+      "time": "11h",
+      "tags": [],
+      "published_at": "2026-07-18T14:15:03+00:00"
     },
     {
       "title": "Tried testing qwen 35b moe model on s26 ultra , without compromising on precision [R] ,[D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uzik5s/tried_testing_qwen_35b_moe_model_on_s26_ultra/",
       "summary": "Started testing a private qwen 35B moe capacity LLM runtime on s26 ultra, early testing shows that active model footprint can fit within the device’s memory limits.( not sharing the methods or archite",
       "source": "Reddit ML",
-      "time": "19m",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-18T01:40:59+00:00"
     },
@@ -35,7 +89,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uz8w8q/shortpaper_at_aclemnlpeacl_r/",
       "summary": "Does anyone have accepted short-paper at ACL/EMNLP/EACL 2025/26? Could you share your track and overall assessment? I'm just trying to get a sense of things, as it seems short papers have a lower acce",
       "source": "Reddit ML",
-      "time": "6h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T19:02:01+00:00"
     },
@@ -44,25 +98,16 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/",
       "summary": "I have released EU AI Act OpenRAG, a downloadable corpus of Regulation (EU) 2024/1689 designed for RAG and legal-NLP experimentation. Instead of sliding character windows, the corpus chunks on the Reg",
       "source": "Reddit ML",
-      "time": "17h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T08:18:09+00:00"
-    },
-    {
-      "title": "ACL ARR 2026 - can't seem to find the review issue report button anywhere? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uytw5s/acl_arr_2026_cant_seem_to_find_the_review_issue/",
-      "summary": "hey, first time going through this process, the deadline is by today AoE so i'm kinda worried, i just can't seem to find it next to the &quot;official comment&quot; button on my submission, what am i ",
-      "source": "Reddit ML",
-      "time": "17h",
-      "tags": [],
-      "published_at": "2026-07-17T08:36:05+00:00"
     },
     {
       "title": "BMVC rebuttals update [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uz7hbu/bmvc_rebuttals_update_d/",
       "summary": "Rebuttal access opened to reviewers on July 11 (19:05 UTC), so any later modification means final score updated (even if it's hidden from us now). It shows like this over each review: Official Review ",
       "source": "Reddit ML",
-      "time": "7h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T18:11:07+00:00"
     },
@@ -71,7 +116,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uyw0i0/tacl_journal_doubts_d/",
       "summary": "I submitted my TACL paper approx on June 1th and was scheduled for July 1st cycle, when and how do you guys think we'll be getting our reviews given the July cycle for the paper which I've submitted a",
       "source": "Reddit ML",
-      "time": "15h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T10:37:21+00:00"
     },
@@ -80,7 +125,7 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uyecez/whats_the_best_and_complete_way_to_keep_up_with/",
       "summary": "i'm subscribed to a ai/ml newsletter but i feel like its not enough. i need a complete and not too time consuming way to keep up with ai/ml news because i feel like im left behind. thanks in advance &",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-16T20:28:38+00:00"
     },
@@ -89,54 +134,9 @@
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uycffg/seeking_collaborators_for_scaling_and_independent/",
       "summary": "Hi everyone, I've been working independently on a recurrent architecture called **DABSN (Dynamic Adaptive Bias State Network)** for the past several months, and I finally reached the point where I fee",
       "source": "Reddit ML",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-16T19:17:01+00:00"
-    },
-    {
-      "title": "Why is ECCV so insanely expensive for students presenting papers? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uxyd6z/why_is_eccv_so_insanely_expensive_for_students/",
-      "summary": "Just saw the ECCV registration fees and I'm shocked, student registration is 440 USD for early bird, and the worst thing is that you can't even do the student registration if you're presenting a paper",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-16T09:55:40+00:00"
-    },
-    {
-      "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
-      "summary": "While writing an essay about AI memory and persistent context, I started wondering whether current AI memory systems are optimized for the right thing. Current AI systems already maintain forms of per",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-16T16:00:01+00:00"
-    },
-    {
-      "title": "ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uy2zb3/externd_expandedrank_ternary_decomposition/",
-      "summary": "https://arxiv.org/pdf/2607.13511 the core idea is, we cannot have ternary PTQ with fixed matrix size, trying to do that is dead end. so i tried decomposing the matrix to 2 ternary matrices and inner d",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-16T13:31:07+00:00"
-    },
-    {
-      "title": "The qlora 2e-4 default is wrong under 10k samples and nobody talks about it [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uy1z8b/the_qlora_2e4_default_is_wrong_under_10k_samples/",
-      "summary": "Every qlora tutorial on earth says start at 2e-4. Unsloth docs, hf examples, the paper itself. and for small datasets i now think that numbers is a trap. Where does 2e-4 come from? alpaca. 52k samples",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-16T12:50:35+00:00"
-    },
-    {
-      "title": "CfP | RTCA @ NeurIPS 2026 [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uy8e0v/cfp_rtca_neurips_2026_r/",
-      "summary": "Call for Papers and Demos Real-Time Conversational Agents (RTCA): Toward Natural Multimodal Interaction 1st RTCA Workshop [@]() NeurIPS 2026, Sydney, Australia 11 or 12 December 2026 Website: https://",
-      "source": "Reddit ML",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-16T16:51:34+00:00"
     }
   ]
 }

@@ -1,14 +1,131 @@
 {
   "source": "雷峰网",
   "layer": "news",
-  "updated": "2026-07-18T10:00:14+08:00",
+  "updated": "2026-07-19T10:00:28+08:00",
   "items": [
+    {
+      "title": "WAIC 2026 直击：云天励飞发布未来算力蓝图，三款芯片+超节点直指“百亿Token一分钱”",
+      "url": "https://www.leiphone.com/category/chips/kkSTkmFeAdi2fl5B.html",
+      "summary": "7月18日，云天励飞在2026 WAIC公布未来两年多AI推理芯片路线图。公司计划推出DeepVerse100P、DeepVerse100D、DeepVerse100L三款芯片，分别针对AI推理中Prefill、Decode和Decode FFN环节的负载特征进行专用优化。三款芯片将面向万卡异构集群进行协同设计与部署，通过对不同推理阶段进行解耦，为不同负载配置更加适配的芯片和算力资源，进一步提升系",
+      "source": "雷峰网",
+      "time": "11h",
+      "tags": [],
+      "published_at": "2026-07-18T14:07:00+00:00"
+    },
+    {
+      "title": "爱芯元智携完整AI生态亮相WAIC 2026，重磅揭秘“元曦”系列大算力AI推理新品",
+      "url": "https://www.leiphone.com/category/chips/JfJwRDdJFvaNBzO7.html",
+      "summary": "上海，中国&nbsp;——2026&nbsp;世界人工智能大会（WAIC 2026）正式启幕，全球领先的AI推理系统芯片供应商爱芯元智（0600.HK）携完整AI生态重磅亮相。本次参展，爱芯元智以多元应用场景全景呈现AI计算规模化落地成果，集中展出全线AI算力产品矩阵，并首度揭秘爱芯元曦AI推理系列新品。AI算力底座：赋能千行百业智能化升级本次展会，爱芯元智集中展示基于自研边缘AI算力底座的全行业",
+      "source": "雷峰网",
+      "time": "14h",
+      "tags": [],
+      "published_at": "2026-07-18T11:33:00+00:00"
+    },
+    {
+      "title": "百度秒哒发布3.5版本，市场份额位居中国AI原生无代码应用生成平台第一",
+      "url": "https://www.leiphone.com/category/industrynews/aRNiQFaWXJssTnLJ.html",
+      "summary": "7月18日，在2026世界人工智能大会（WAIC）上，百度秒哒正式发布3.5版本，围绕“更简单、更全能”完成六大能力升级，进一步打通AI应用从创意生成到产品交付的全链路。作为国内AI原生无代码应用生成平台的代表产品，秒哒持续保持行业领先。国际咨询机构沙利文（Frost &amp; Sullivan）7月17日发布的《中国AI原生无代码应用生成平台市场研究，2026年H1》显示，2026年上半年，百",
+      "source": "雷峰网",
+      "time": "15h",
+      "tags": [],
+      "published_at": "2026-07-18T10:48:00+00:00"
+    },
+    {
+      "title": "商汤大装置联合五家头部科研机构启动科学发现平台战略合作，探索科学智能新范式",
+      "url": "https://www.leiphone.com/category/ai/STqP2Xt59jKRSEkT.html",
+      "summary": "7月18日，在WAIC 2026商汤科技“基座大模型架构创新与生态合作论坛”上，商汤大装置联合上海人工智能实验室、北京中关村学院、深圳河套学院、上海算法创新研究院、上海交通大学人工智能学院五家国内顶尖科研机构，共同启动科学发现平台战略合作，通过汇聚国家级科研平台、高水平新型研发机构和一流高校科研力量，共同探索人工智能赋能基础研究和前沿科技创新（AI for Science）的新范式。商汤联合创始人",
+      "source": "雷峰网",
+      "time": "17h",
+      "tags": [],
+      "published_at": "2026-07-18T08:59:00+00:00"
+    },
+    {
+      "title": "后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新",
+      "url": "https://www.leiphone.com/category/industrynews/M1iLyizkT9WLF8YH.html",
+      "summary": "仅手掌大小的Agent Computer，能驱动千亿参数大模型，24小时在线的本地“桌面AI助理”，能一句话自动生成PPT；全息交互个人终端，可以实时进行画面渲染，驱动一个可以持续对话的数字人……7月18日，在WAIC 2026张江科学会堂，（记者观察到，）后摩智能携多款M50 Inside创新AI终端集中亮相，让大模型从云端真正走向本地，端侧智能触手可及。&nbsp;大模型推理走向端侧，高算力、",
+      "source": "雷峰网",
+      "time": "18h",
+      "tags": [],
+      "published_at": "2026-07-18T07:02:00+00:00"
+    },
+    {
+      "title": "WAIC | 从能力领先到产业交付，科大讯飞如何让AI成为真实世界生产力？",
+      "url": "https://www.leiphone.com/category/industrynews/Xr6FFEeoQ7jUDXSI.html",
+      "summary": "进入2026年下半年，AI行业正在经历一次重要切换。过去几年，大模型竞争更多围绕参数规模、榜单排名和单点能力展开。模型会不会写作、能不能推理、代码能力强不强，是公众最直观的感受。如今，当AI开始进入课堂、医院、企业、城市、办公桌和智能终端，真正关键的问题变成了：AI能不能稳定完成真实任务，能不能嵌入真实流程，能不能在合规、安全、成本可控的前提下持续运行，能不能把一次次调用转化为组织效率和用户体验？",
+      "source": "雷峰网",
+      "time": "19h",
+      "tags": [],
+      "published_at": "2026-07-18T07:00:00+00:00"
+    },
+    {
+      "title": "从“能回答”到“能执行”，WAIC 2026 网易有道 LobsterAI 重新定义办公助手边界",
+      "url": "https://www.leiphone.com/category/industrynews/59N2nNCnS8JoskbA.html",
+      "summary": "7月17日，2026 世界人工智能大会（WAIC）在上海正式开幕。网易有道展位内人潮涌动，一款名为 LobsterAI 的桌面级办公助手 Agent 产品吸引了不少观众驻足体验，纷纷排队等待亲手“指挥” AI 完成真实任务。一位参展观众在试用后由衷感叹：“不是让 AI 帮我写一段话，而是让它真正进入电脑，一步步把任务完成。”从“对话”到“行动”：一个指令，自动拆解执行网易有道此次 AI Agent",
+      "source": "雷峰网",
+      "time": "19h",
+      "tags": [],
+      "published_at": "2026-07-18T06:43:00+00:00"
+    },
+    {
+      "title": "让智能走进产业现场，鹿明机器人亮相WAIC 2026",
+      "url": "https://www.leiphone.com/category/industrynews/Ch0J0HQjN5HwBc2H.html",
+      "summary": "7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议（WAIC 2026）在上海举办。作为全球人工智能领域的重要盛会，WAIC正成为观察产业发展趋势的重要窗口。今年大会上，越来越多企业不再只是展示技术能力，而是围绕真实应用、产业协同和商业化成果展开交流，具身智能正式迈入价值验证的新阶段。本届WAIC，鹿明机器人围绕”让智能走进现实”的品牌主张，集中展示了产业具身的最新实践。从联",
+      "source": "雷峰网",
+      "time": "19h",
+      "tags": [],
+      "published_at": "2026-07-18T06:02:00+00:00"
+    },
+    {
+      "title": "灵巧智能亮相WAIC，全栈自研驱动具身智能产业化落地",
+      "url": "https://www.leiphone.com/category/industrynews/w5PrxGuvqYtI9U4p.html",
+      "summary": "2026世界人工智能大会（WAIC）启幕，具身智能、物理AI与人形机器人赛道再次成为产业关注焦点。伴随大模型、感知交互和运动控制能力持续进步，行业竞争正从“能展示什么”加速转向“能交付什么”。在此背景下，灵巧智能携全链路技术体系与多场景落地成果亮相WAIC，系统展示其在类人灵巧操作领域的全栈能力与产业化路径。当前，具身智能产业正从技术热潮迈入落地验证阶段。市场上多数产品已具备移动、感知、语音交互等",
+      "source": "雷峰网",
+      "time": "21h",
+      "tags": [],
+      "published_at": "2026-07-18T04:13:00+00:00"
+    },
+    {
+      "title": "WAIC 2026 ｜李未可 发布全球首款X-AI记忆眼镜",
+      "url": "https://www.leiphone.com/category/industrynews/wUFNlyBF4e1FwnS6.html",
+      "summary": "7月17日，2026世界人工智能大会（WAIC）在上海开幕。AI创新品牌李未可携全新品类力作重磅亮相，现场正式发布全球首款AI记忆眼镜——李未可X-AI记忆眼镜，以“长期记忆”为核心突破，将可穿戴硬件从“功能工具”推向“随身智能伙伴”，重新定义下一代随身AI交互形态。&nbsp;真正的AI眼镜，是让AI听见、看见这个世界，再让它拥有记忆区别于传统AI眼镜聚焦单次拍照、翻译、问答的工具化能力，李未可",
+      "source": "雷峰网",
+      "time": "21h",
+      "tags": [],
+      "published_at": "2026-07-18T04:09:00+00:00"
+    },
+    {
+      "title": "迈入「交付时代」，金山办公如何定义AI办公？",
+      "url": "https://www.leiphone.com/category/CorporateServices/zeMjlByofDUygdIH.html",
+      "summary": "当ChatGPT能够写文案、Claude可以生成PPT之后，大模型会不会吞噬软件？AI时代，办公软件又将何去何从？面对大模型快速发展带来的变化，金山办公CEO章庆元一直在思考这两个问题。这不仅是金山办公的疑惑，而是整个办公软件行业需共同面对的新命题。过去两年，大模型快速迭代，写文案、做PPT、生成表格，越来越多过去属于办公软件的能力，正在被一个聊天窗口接管。“Office会不会消失”成为行业里反复",
+      "source": "雷峰网",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-18T03:17:00+00:00"
+    },
+    {
+      "title": "九章云极DataCanvas亮相WAIC 2026，以AI规模化生产体系赋能智能新底座",
+      "url": "https://www.leiphone.com/category/industrynews/BbStMkvJtlltMzBm.html",
+      "summary": "过去两年，大模型竞赛上演了一场空前的“算力淘金热”。行至2026年的产业分水岭，行业的关注焦点已从“谁参数最多”转向为——“谁的智能成本最低？”“谁能让算力随手可得？”7月17日，2026世界人工智能大会在上海开幕。据新华社报道，国家主席习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议并发表主旨讲话，为人工智能创新、产业落地与全球治理指明发展方向。总书记在讲话中指出，要推动人工智能与",
+      "source": "雷峰网",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-18T01:29:00+00:00"
+    },
+    {
+      "title": "WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%",
+      "url": "https://www.leiphone.com/category/ai/XlIcqYndwT6w0wv7.html",
+      "summary": "7月17日，在2026世界人工智能大会（WAIC 2026）期间，在“构筑AI算力与绿色能源融合发展新范式”算电协同专题研讨会上，商汤大装置全新发布“算电协同Agent”，并率先提出从PUE到TPW，重新定义AIDC效能标尺，推动智算中心系统级降本提效。目前该产品已通过中国信通院《算电协同平台能力测试方法》测试，成为业界首个通过该项权威测试的算电协同平台。源于多年智算中心运营实践，商汤大装置算电协",
+      "source": "雷峰网",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-18T01:14:00+00:00"
+    },
     {
       "title": "普渡机器人亮相WAIC 2026，系统阐释“一脑多形”Physical Agent技术理念",
       "url": "https://www.leiphone.com/category/industrynews/GATrOScXh4x6VK7F.html",
       "summary": "7月17日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海开幕。本届大会以“智能伙伴，共创未来”为主题。作为全球商用服务机器人领军企业，普渡机器人于大会首日举办“从服务世界到智造未来——普渡AI技术灯塔沟通会”，系统阐释“一脑多形”Physical Agent技术理念，并首次在线下展示类人形智能作业伙伴PUDU D7。当具身智能从实验室走向产业化深水区，谁能在真实商业场景中率先跑通「技",
       "source": "雷峰网",
-      "time": "9h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T16:30:00+00:00"
     },
@@ -17,7 +134,7 @@
       "url": "https://www.leiphone.com/category/transportation/Zl98jshu5vrisdQt.html",
       "summary": "热闹的“9系”车市再迎一位实力选手。7月16日，上汽旗下智己汽车的旗舰级大型增程式SUV——智己LS9 Hyper正式上市。相较于去年11月中旬上市的普通版，此次推出的智己LS9 Hyper在传统机械架构上进行全面改写，完成了操控、能源、智能三大维度的体验升级，两个版本的车型售价分别定格在31.98万和34.98万。此次新车上市前夕，由于云南、珠海等地的经销商暴雷事件，智己汽车也被推上了舆论的风口",
       "source": "雷峰网",
-      "time": "10h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T16:00:00+00:00"
     },
@@ -26,7 +143,7 @@
       "url": "https://www.leiphone.com/category/ai/6bAs7hkIF5NN2HVv.html",
       "summary": "7月17日，2026世界人工智能大会（WAIC）在上海正式拉开帷幕。开幕首日，全球首个大模型原生AI终端品牌STEPX携自主研发的首款AI终端、大模型原生智能体手机STEPX Neo亮相阶跃展台，现场展示原生AI终端在本地生活服务、移动高效办公、一站式出行等全场景下的智能生态服务能力，勾勒出智能体终端的未来发展图景。雷峰网&nbsp;此前，STEPX Neo通过首批《人工智能终端智能化分级》系列国",
       "source": "雷峰网",
-      "time": "11h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T14:44:00+00:00"
     },
@@ -35,7 +152,7 @@
       "url": "https://www.leiphone.com/category/industrynews/RJfkNUvPTg8PYHl2.html",
       "summary": "人工智能会如何改变未来？是说一句话就能生成一整份带有精致图表的数据报告？还是一键就能把脑海里的想象变成影视级的画面？本届WAIC 2026，商汤科技以“SenseTime——感知未来”为主题，打造了一座可触摸、可体验、可互动的「未来实验室」。从办公创作神器到生活成长搭子，从撑起产业的算力底座到跑通城市的智慧神经，再到能上手干活的具身智能机器人，未来生活、未来智算、未来城市、未来助手四大展区一站集齐",
       "source": "雷峰网",
-      "time": "11h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T14:38:00+00:00"
     },
@@ -44,7 +161,7 @@
       "url": "https://www.leiphone.com/category/industrynews/GXNexNIZrCRnzFxk.html",
       "summary": "7月17日至20日，2026世界人工智能大会（WAIC）将在上海世博中心和世博展览馆举行。本届大会以“智联世界 生成未来”为主题，展览面积超10万平方米，超过1100家企业参展，是今年AI领域规格最高、规模最大的国际盛会。&nbsp;作为通用具身智能领域的创新力量，RoboScience机器科学首次亮相WAIC，现场展示自研通用具身大模型Visics、自研的可微多模态物理仿真引擎RoboMirag",
       "source": "雷峰网",
-      "time": "11h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T14:16:00+00:00"
     },
@@ -53,7 +170,7 @@
       "url": "https://www.leiphone.com/category/transportation/MxkCgtnh6lAbGiKs.html",
       "summary": "WAIC2026，千里科技、阶跃联合展示了在汽车智能体上的合作进展&nbsp; &nbsp; 作者丨倪 &nbsp; 萍&nbsp; &nbsp; 编辑丨王瑞昊&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &",
       "source": "雷峰网",
-      "time": "13h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T12:14:00+00:00"
     },
@@ -62,126 +179,9 @@
       "url": "https://www.leiphone.com/category/industrynews/bnE4dz5C4rdarltB.html",
       "summary": "7月17日，2026世界人工智能大会（WAIC 2026）在上海盛大开幕。作为全球领先的智能机器人明星企业，思灵机器人 Agile Robots携旗下H20轻量级高动态人形机器人、H10-W助理机器人、AI理疗康养机器人及高精度力反馈遥操作数据采集系统等重磅产品矩阵亮相。&nbsp;在“人工智能+制造”日益深入的当下，思灵机器人以“链接人工智能与物理世界”为愿景，向全球展示了具身智能从底层核心技术",
       "source": "雷峰网",
-      "time": "14h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T11:17:00+00:00"
-    },
-    {
-      "title": "AI到底是「想错了」还是「判错了」？OpenDriveLab 陈立的组合式世界模型让策略自我纠偏 | RSS 2026",
-      "url": "https://www.leiphone.com/category/private/GkoVU7vEEW4FAPT2.html",
-      "summary": "在具身智能通往 AGI 的征途中，我们正面临一个幽灵般的威胁：“黑盒幻觉”。当一个机器人或自动驾驶策略出错时，开发者往往很难精准定位原因。因为“预测未来”和“评估好坏”这两个功能在庞大的联合网络中被紧紧绑在一起。一旦出了事故，你根本分不清它到底是“想错了”（对物理世界的预测不对），还是“判错了”（对结果好坏的评估有误）。这种“想”与“判”的缠绕，正成为阻碍具身策略走向更高安全级和可检查性的最大绊脚",
-      "source": "雷峰网",
-      "time": "15h",
-      "tags": [],
-      "published_at": "2026-07-17T10:38:00+00:00"
-    },
-    {
-      "title": "上汽智己，如何成为Momenta第一个抬轿人？",
-      "url": "https://www.leiphone.com/category/transportation/PFGVpvcGiAfY44E6.html",
-      "summary": "2020年，上汽智己选择Momenta，一定程度是因为对方没量产过，但够饿，够锐，愿意把全部身家押上牌桌。商业世界的残酷合作，往往始于这样的计算：不是选最强的，是选最敢赌的。Momenta的0到1，由此开始。上汽智己，这个关键托举者，为Momenta此后铺天盖地的扩张打下了第一块地基。01机遇窗口2020年，是智能驾驶行业的转折点。这一年，特斯拉上海工厂正式交付国产Model 3，叠加全球流动性宽",
-      "source": "雷峰网",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-17T09:52:00+00:00"
-    },
-    {
-      "title": "魔法原子签约阿里速卖通，WAIC 2026开幕首日宣布独家战略合作",
-      "url": "https://www.leiphone.com/category/private/o2MQkAFXiOWmiddl.html",
-      "summary": "2026年7月17日，正值2026世界人工智能大会（WAIC）开幕首日，魔法原子MagicLab与阿里巴巴旗下跨境零售平台速卖通（AliExpress）共同宣布达成独家战略合作。魔法原子正式加入速卖通“Brand+”超级品牌出海计划，速卖通成为其国际化路径上签约的首家跨境电商平台。本届WAIC以“智能伙伴，共创未来”为主题，汇聚全球前沿人工智能成果。魔法原子携三大新品全球首秀，旗舰级全尺寸人形机器",
-      "source": "雷峰网",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-17T09:48:00+00:00"
-    },
-    {
-      "title": "Momenta靠什么站上物理AI的「青藏高原」？",
-      "url": "https://www.leiphone.com/category/transportation/8ThXFb3eG8jEKzmZ.html",
-      "summary": "什么样的公司，能让奔驰、比亚迪这些大车企在同一张基石股权的认购单上签字？2026年7月8日，Momenta将在港交所上市，IPO募资58.9亿港元，新加坡GIC、富达国际、奔驰、比亚迪、贝莱德等14家基石投资者吃掉近一半发售股份。新加坡主权基金和德系豪华车品牌、中国新能源霸主站在同一张认购单上，这种局面在港股科技IPO史上并不多见。更引人注目的是Momenta被贴上的标签：“物理AI第一股”。数字",
-      "source": "雷峰网",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-17T09:43:00+00:00"
-    },
-    {
-      "title": "阶跃与支付宝达成AI Agent系统级合作，跨端协同迈向“能办事”",
-      "url": "https://www.leiphone.com/category/industrynews/owcf1OSxXWdhLsHd.html",
-      "summary": "7月17日，在2026世界人工智能大会（WAIC）现场，支付宝与阶跃达成AI Agent系统级合作。双方围绕阶跃STEP-X原生AI终端展开深度协同，用户通过自然语言即可调用AI版支付宝“阿宝”连接真实服务，实现跨应用、多任务执行，推动智能体迈入“跨端互联办事”新阶段。此次合作中，STEP-X负责理解用户需求和系统调度，阿宝依托支付宝生态网络，连接出行、本地生活、支付等服务技能，双方通过支付宝自研",
-      "source": "雷峰网",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-17T09:32:00+00:00"
-    },
-    {
-      "title": "独家｜姚顺雨前同事田永龙加盟腾讯",
-      "url": "https://www.leiphone.com/category/industrynews/2Ie5YKPJmwe9kz0p.html",
-      "summary": "雷峰网独家获悉， OpenAI 前研究员 Yonglong Tian（田永龙）已于近期加入腾讯，知情人士透露，其后续或将参与参与 VLM（视觉语言模型）相关研发。一位与其相熟的人士向雷峰网表示，田永龙在圈内口碑不错，“人挺好，与姚顺雨关系也不错”。田永龙此前在 OpenAI 担任 Member of Technical Staff，主要研究方向包括计算机视觉、视觉表征学习（Representati",
-      "source": "雷峰网",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-17T09:27:00+00:00"
-    },
-    {
-      "title": "从哈佛辍学的前OpenAI研究员踏足AI制药，拿下20亿美元估值：VC在赌什么？",
-      "url": "https://www.leiphone.com/category/academic/9dEkdfQYiK3wvDKj.html",
-      "summary": "2024年3月，Miles Wang从哈佛计算机科学本科辍学，加入OpenAI的强化学习团队。一年半后，他带着几位OpenAI同事离开，计划创办一家AI药物发现公司。这家公司暂时还没有官网，没有公开管线，这位年轻的创始人也没有生物学学位。然而，就是这样一家一切尚在雏形之中的公司，已经在洽谈一笔2亿美元左右的融资，领投方为Lightspeed，估值达20亿美元。尽管谈判仍在推进，交易尚未最终落定，但",
-      "source": "雷峰网",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-17T09:27:00+00:00"
-    },
-    {
-      "title": "千问AI眼镜将升级为智能体眼镜：能灵活调用Skill和Agent，能全天候感知",
-      "url": "https://www.leiphone.com/category/industrynews/JDlu3Gqj7atcWniy.html",
-      "summary": "7月17日，2026年世界人工智能大会首日，千问宣布将AI眼镜升级为智能体眼镜。升级后，眼镜可通过智能体强化服务与决策能力，并能按需调用第三方Skill和Agent。同时，千问还推出全双工语音、眼动追踪、体征监测等一系列全新硬件技术，以增强智能体眼镜对物理世界的感知与交互能力。&nbsp;&nbsp;在听觉交互上，千问升级全双工语音模型架构，不仅能边听边说，还能实时判断交互意图，准确区分用户指令与",
-      "source": "雷峰网",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-17T09:23:00+00:00"
-    },
-    {
-      "title": "AI Coding 最难的一仗，阿里为什么赢了？",
-      "url": "https://www.leiphone.com/category/industrynews/kMp6GgBN9B7luNaO.html",
-      "summary": "当 Codex 的余温还未散尽，手搓代码正在被 AI Coding 改写。早年间，微软将 GitHub Copilot 推向日常开发流程，让 AI 第一次进入程序员的代码编辑器；随后 OpenAI 等公司进一步探索代码智能体，让模型开始具备理解需求、执行任务的软件工程能力。国内市场的竞争也在加速，阿里 Qoder、智谱 CodeGeeX、商汤 Raccoon、腾讯 CodeBuddy、百度 Com",
-      "source": "雷峰网",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-17T09:20:00+00:00"
-    },
-    {
-      "title": "行业共议公平运行内存机制，安卓生态加速标准共建",
-      "url": "https://www.leiphone.com/category/industrynews/pvxgkXpZQWBf8lEh.html",
-      "summary": "7月16日，2026移动智能终端生态联盟开发者沙龙在北京举办。中国信息通信研究院泰尔终端实验室、北京航空航天大学、金标联盟理事会成员OPPO、vivo、小米、荣耀，以及众多主流应用开发者代表齐聚现场，围绕公平运行内存机制展开交流。会上，各方围绕运行内存治理、系统与应用协同优化、统一适配规则等议题达成广泛共识。业内认为，随着公平运行内存机制持续推进，可以改善安卓生态长期存在的内存策略分散等问题，为用",
-      "source": "雷峰网",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-17T09:19:00+00:00"
-    },
-    {
-      "title": "激光雷达战火为何烧向自研芯片？",
-      "url": "https://www.leiphone.com/category/transportation/OXPpjKcXt0CqU8QL.html",
-      "summary": "激光雷达曾经是自动驾驶行业最具争议的传感器之一。支持者认为，它能够提供摄像头无法获得的三维空间信息，是高阶智能驾驶不可或缺的安全冗余；反对者则以特斯拉为代表，认为激光雷达昂贵、笨重，是自动驾驶发展过程中的过渡产品。但2025年以来，随着高阶智驾快速普及，激光雷达不仅没有退出历史舞台，反而开始大规模量产上车。与此同时，人形机器人、无人配送车、工业自动化设备等新市场也开始成为激光雷达的重要客户。市场变",
-      "source": "雷峰网",
-      "time": "16h",
-      "tags": [],
-      "published_at": "2026-07-17T09:15:00+00:00"
-    },
-    {
-      "title": "高质量发展步履坚实 追觅扫地机欧美市场高速增长",
-      "url": "https://www.leiphone.com/category/weiwu/FYWgD5dSXSc4We36.html",
-      "summary": "近年来，从服装、家具、家电“老三样”闯天下，到新能源汽车、锂电池、光伏产品“新三样”走向全球，再到智能硬件、服务机器人等高附加值产品批量进入欧美高端市场，中国制造出海的每一步跨越，都印刻着产业升级的坚实足迹。2026年上半年，追觅扫地机交出欧美市场全线高增的答卷：东北欧业绩同比增长80%，西南欧同比增长103%，北美市场同比大涨185%。此前，IDC发布的2026年第一季度数据显示，追觅扫地机已拿",
-      "source": "雷峰网",
-      "time": "17h",
-      "tags": [],
-      "published_at": "2026-07-17T08:27:00+00:00"
-    },
-    {
-      "title": "WAIC 2026现场直击：海康观澜大模型体系亮相 加速AI落地物理世界",
-      "url": "https://www.leiphone.com/category/industrynews/WtmRNWucbzNzSfPW.html",
-      "summary": "当AI走出屏幕，走进物理世界，它可以栖身于不同的实体：机器人、摄像机、质检仪……这些承载AI能力的终端，以及各类大模型软件系统，将为人类生活、生产带来前所未有的改变。但当前AI落地仍面临一大关键问题：这些智能载体如何更好地像人类一样拥有理解物理世界的能力？&nbsp;7月17日，2026世界人工智能大会（WAIC 2026）在上海启幕。在海康威视展区，系列大模型软硬件产品、垂类大模型应用，回答了这",
-      "source": "雷峰网",
-      "time": "17h",
-      "tags": [],
-      "published_at": "2026-07-17T08:18:00+00:00"
     }
   ]
 }

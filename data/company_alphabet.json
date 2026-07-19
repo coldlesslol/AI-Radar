@@ -1,61 +1,61 @@
 {
   "source": "Alphabet",
   "layer": "company",
-  "updated": "2026-07-18T10:00:56+08:00",
+  "updated": "2026-07-19T10:00:51+08:00",
   "items": [
+    {
+      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzlfYzR4ZnZEU1p1akF0SWFIV0NZOUp1bWNBOGZNenRjY0lOSnA5Z1I1SWliR1NoNTB0RzNwaEU3NXo3YWhuNTBSc2FRMktjSmhOdXhaT1o3My1XT2dtSFZOUnEyb0xHWHg4VHBTVDdxWmh0MVc5WG1kVFdVS1dEUWljMG5WLU5KNHpYZ3lsX0tRMmpl?oc=5",
+      "summary": "How Google’s New Gemini Rates Work and How to Track Your Usage&nbsp;&nbsp;WIRED",
+      "source": "Alphabet",
+      "time": "16h",
+      "tags": [],
+      "published_at": "2026-07-18T10:00:00+00:00"
+    },
     {
       "title": "NotebookLM is now Gemini Notebook - blog.google",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenFHZ2t3dWNhTXZra1NQdFNEajg2VmtiY1hzdE1HOEFsV24xanBXLTVqU1lhR1JBRFdRNEp5UHd2Z1ZDUXZIRktyUktTam9LYXdoZF9CMFlKOHQxYlI2bDBzMDBLUkJDQWV6SnMzVVdfZGw2ckZWamVCc0RNR2tVcThDR05TSGpUdWdrUlh3TmtJTG44?oc=5",
       "summary": "NotebookLM is now Gemini Notebook&nbsp;&nbsp;blog.google",
       "source": "Alphabet",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-16T16:06:27+00:00"
+    },
+    {
+      "title": "NotebookLM is now Gemini Notebook, with 3.5 + Antigravity upgrade coming to AI Pro - 9to5Google",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4eWFVN2lVdE5sd2ZfV3d3Z0prMTBWczZiV0tKMDJtWXJNVU5qaXI0Q3ViRUxZZGxqdFZmNHpjNkJha2lvcHhnazd6bkJiWlRQWS1yLV8ycTN6dS1scTNldjdTZnlhdG9SSjVEZ0Rn?oc=5",
+      "summary": "NotebookLM is now Gemini Notebook, with 3.5 + Antigravity upgrade coming to AI Pro&nbsp;&nbsp;9to5Google",
+      "source": "Alphabet",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-16T16:00:00+00:00"
     },
     {
       "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbG9OVDRENmV5Z0pUTWZEc2V1Qy12dF9DQ0FDMWtRX08ybVhSVy1TU25DNE9yTlR0Skhvb0IwZXM3VkJoWS1RYzIzTWxLSWJqV2M5SExqeFI1WFFJOWp2Y0hUdHVKSEZHZlpOa2M3Z0plQzA4SGJkM2Zna3N5MDgyTFZZbnNXSUNhVGVtdVJNSG1lX1dRcDgwcnBBZXZ4X2QtRzljRTBQejJCeEIwU0NKcHJR?oc=5",
       "summary": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook&nbsp;&nbsp;TechCrunch",
       "source": "Alphabet",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-16T16:00:00+00:00"
     },
     {
-      "title": "Google Rebrands NotebookLM to Gemini Notebook - Thurrott.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPck1xTjdFdzFaVlhNX09abjF1dkM4bmxnOUV1X09UaEtNT1FhcUdTUVA0dl92UVQ4UzRMeHN0WVd0MUhQNkJaQ01mUUs4Uk9NV254RjY3VC1qOG5QTlpMajBuLUh3djNSSk1uNmZnX3dfc1l2V0tTU3NzS1ppWnFLYmR5Q2ZRUjE1?oc=5",
-      "summary": "Google Rebrands NotebookLM to Gemini Notebook&nbsp;&nbsp;Thurrott.com",
+      "title": "Intel expands Google Cloud partnership to deploy AI tools across workforce - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmVCTS1TMzlTZk1MbnlIVkFQZjZrdFZ6T3VxUEoyV0VGYUsxODZhMWtOR0R5VWhZRW9feXpmNFdlZ3pMUzRPUWpNRFVLWUMxWEtuRnNNUUpEZ0NGVkgyNFVfUVg3OU1XQUNWRFlQcjhQZ3R5Q2o1Q1ZTbGw4Y3FESjZZbGZoejFValk5UTEweV9MZ1VxTU9wVlpR?oc=5",
+      "summary": "Intel expands Google Cloud partnership to deploy AI tools across workforce&nbsp;&nbsp;The Business Journals",
       "source": "Alphabet",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
-      "published_at": "2026-07-16T16:41:04+00:00"
+      "published_at": "2026-07-16T17:59:00+00:00"
     },
     {
-      "title": "'Conversational' AI Software Is Coming to Some Hondas and Acuras - Car and Driver",
+      "title": "Some Hondas and Acuras Will Soon Have a More 'Conversational' AI Assistant from Google - Car and Driver",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3lNQS15azFidTBfTzhMWVgxTk5TOVZqZTV1NnRzc1JCRDBCaFNKTTROMUpUYUJKcmlFV19GQXVGS0RfS0dWcVBZWDFOZUszdGtSQXFuNC0wNzlmLXlVWkk5cVA0ZVRlYVk2N1JoYUY4UWl3Q1hBS19XMTZzVlN0N2dZY3RyT3FzckF2V0VNZlIwaVFQWDRJWk10MGI0Zw?oc=5",
-      "summary": "'Conversational' AI Software Is Coming to Some Hondas and Acuras&nbsp;&nbsp;Car and Driver",
+      "summary": "Some Hondas and Acuras Will Soon Have a More 'Conversational' AI Assistant from Google&nbsp;&nbsp;Car and Driver",
       "source": "Alphabet",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-16T20:58:42+00:00"
-    },
-    {
-      "title": "Intel and Google Cloud Announce Collaboration to Accelerate Intel’s AI-Enabled Enterprise Transformation - Intel Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ3FuX1FkMFlqazduWFAyVmdwTmh2c3RfdzB0QjY0c3dJNks4MnlzOFU0ZnhxbG53bU96cHJHcC1IWDlUTUMtVklGd2lQd3lBWV9DLTZhQUpDZXhvUGlZb0ZXRzgxQVRNeDN5bS1ENTV6ZVZjLWhWTk44eDdWdFNtVDRNLVBmNVJUNVNQdGVYRTI2MFE1Z1EtbUNzUTZJaFgxUUQ5eERfMEpXX1dVT01JSEFVc3hBYTZJOU9OeGlqUGo2NlhpMV8zUzhQYlNQcHZDQk93Z3VhbjZuNVlfeW1FMmc2WQ?oc=5",
-      "summary": "Intel and Google Cloud Announce Collaboration to Accelerate Intel’s AI-Enabled Enterprise Transformation&nbsp;&nbsp;Intel Newsroom",
-      "source": "Alphabet",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-16T16:01:10+00:00"
-    },
-    {
-      "title": "Book publishers sue Google for copyright infringement over Gemini AI training - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdkZyRVZyWFVMaWczcVgyVE5LSmh3R2psVGt2WmN5UXpMaFJTV25xbnFNU3h4S2tKU1I5SDZBbjNmUUFKYnhZeWNGazZtTFRpcW9sNm8zd2s0VmxmdThscW5UdENCd0R1aWxEYXR0WUJQbDVUdklhanMxVDZTWGtNMHZadXMtUVV6NzNGS3V6dw?oc=5",
-      "summary": "Book publishers sue Google for copyright infringement over Gemini AI training&nbsp;&nbsp;The Guardian",
-      "source": "Alphabet",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-14T18:29:00+00:00"
     }
   ]
 }

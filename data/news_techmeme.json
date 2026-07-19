@@ -1,88 +1,106 @@
 {
   "source": "Techmeme",
   "layer": "news",
-  "updated": "2026-07-18T10:00:10+08:00",
+  "updated": "2026-07-19T10:00:02+08:00",
   "items": [
     {
-      "title": "China's BrainCo unveils what it says is the world's first integrated \"brain-to-robot\" platform that lets users control robots using an EEG headset (Minxiao Chang/South China Morning Post)",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3360893/brainco-unveils-brain-controlled-robot-platform-chinas-world-ai-conference",
-      "summary": "Minxiao Chang / South China Morning Post: China's BrainCo unveils what it says is the world's first integrated &ldquo;brain-to-robot&rdquo; platform that lets users control robots using an EEG headset",
+      "title": "A look at AI's potential impact on insurance-coverage decisions like prior authorization as the Trump admin starts to pilot using AI to evaluate Medicare claims (Joshua Cohen/Ars Technica)",
+      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "summary": "Joshua Cohen / Ars Technica: A look at AI's potential impact on insurance-coverage decisions like prior authorization as the Trump admin starts to pilot using AI to evaluate Medicare claims&nbsp; &mda",
       "source": "Techmeme",
-      "time": "59m",
+      "time": "25m",
       "tags": [],
-      "published_at": "2026-07-18T01:00:51+00:00"
+      "published_at": "2026-07-19T01:35:02+00:00"
     },
     {
-      "title": "Memo: the DOJ says federal employees can now download TikTok on government devices, citing ByteDance's transfer of control of US operations to TikTok USDS (David Shepardson/Reuters)",
-      "url": "https://www.reuters.com/world/federal-employees-can-download-tiktok-government-devices-doj-says-2026-07-17/",
-      "summary": "David Shepardson / Reuters: Memo: the DOJ says federal employees can now download TikTok on government devices, citing ByteDance's transfer of control of US operations to TikTok USDS&nbsp; &mdash;&nbs",
-      "source": "Techmeme",
-      "time": "1h",
-      "tags": [],
-      "published_at": "2026-07-18T00:10:02+00:00"
-    },
-    {
-      "title": "Sources: Trump Media pitched a monthly fee of as much as $100K for the Truth API, with fast access to Trump's posts, for banks, algorithmic traders, and others (Reuters)",
-      "url": "https://www.reuters.com/business/media-telecom/trump-media-pitched-100000-monthly-fee-fast-feed-us-presidents-posts-ft-reports-2026-07-17/",
-      "summary": "Reuters: Sources: Trump Media pitched a monthly fee of as much as $100K for the Truth API, with fast access to Trump's posts, for banks, algorithmic traders, and others&nbsp; &mdash;&nbsp; Donald Trum",
-      "source": "Techmeme",
-      "time": "3h",
-      "tags": [],
-      "published_at": "2026-07-17T22:35:01+00:00"
-    },
-    {
-      "title": "Filings: a group of major music publishers has agreed to end a copyright infringement dispute with X over the use of their music on the social media platform (Blake Brittain/Reuters)",
-      "url": "https://www.reuters.com/legal/litigation/musks-x-major-labels-end-dispute-over-music-social-media-platform-2026-07-17/",
-      "summary": "Blake Brittain / Reuters: Filings: a group of major music publishers has agreed to end a copyright infringement dispute with X over the use of their music on the social media platform&nbsp; &mdash;&nb",
-      "source": "Techmeme",
-      "time": "3h",
-      "tags": [],
-      "published_at": "2026-07-17T22:20:01+00:00"
-    },
-    {
-      "title": "The Philadelphia Semiconductor Index sank ~10% for the week, its largest weekly fall in over a year, and is now down ~20% from its late-June all-time high (Reuters)",
-      "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17/",
-      "summary": "Reuters: The Philadelphia Semiconductor Index sank ~10% for the week, its largest weekly fall in over a year, and is now down ~20% from its late-June all-time high&nbsp; &mdash;&nbsp; A brutal week fo",
+      "title": "UK's incoming PM Andy Burnham is expected to scrap Keir Starmer's plans for digital ID cards; last year a petition opposing the cards attracted ~3M signatures (Geraldine McKelvie/The Guardian)",
+      "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-to-scrap-starmers-digital-id-scheme-in-reset-of-priorities",
+      "summary": "Geraldine McKelvie / The Guardian: UK's incoming PM Andy Burnham is expected to scrap Keir Starmer's plans for digital ID cards; last year a petition opposing the cards attracted ~3M signatures&nbsp; ",
       "source": "Techmeme",
       "time": "4h",
       "tags": [],
-      "published_at": "2026-07-17T21:55:01+00:00"
+      "published_at": "2026-07-18T21:35:01+00:00"
     },
     {
-      "title": "Apple raises iPhone prices in Japan by up to 11%, likely due to the Japanese yen's depreciation against the US dollar over the past year (Joe Rossignol/MacRumors)",
-      "url": "https://www.macrumors.com/2026/07/17/apple-raises-iphone-prices-in-japan/",
-      "summary": "Joe Rossignol / MacRumors: Apple raises iPhone prices in Japan by up to 11%, likely due to the Japanese yen's depreciation against the US dollar over the past year&nbsp; &mdash;&nbsp; After raising pr",
+      "title": "The grassroots group HumansFirst is organizing protests against the \"unaccountable\" buildout of data centers across 125 US locations on July 18 (Reuters)",
+      "url": "https://www.reuters.com/business/retail-consumer/us-data-center-protests-go-national-backlash-grows-2026-07-18/",
+      "summary": "Reuters: The grassroots group HumansFirst is organizing protests against the &ldquo;unaccountable&rdquo; buildout of data centers across 125 US locations on July 18&nbsp; &mdash;&nbsp; Opponents of th",
       "source": "Techmeme",
-      "time": "5h",
+      "time": "11h",
       "tags": [],
-      "published_at": "2026-07-17T20:55:01+00:00"
+      "published_at": "2026-07-18T14:40:01+00:00"
     },
     {
-      "title": "Amazon apologizes after some AWS users received bills as high as $1.5T due to \"an issue with unit pricing within the estimated billing computation subsystem\" (Robert Booth/The Guardian)",
-      "url": "https://www.theguardian.com/technology/2026/jul/17/amazon-web-services-customers-trillion-dollar-bills-global-glitch",
-      "summary": "Robert Booth / The Guardian: Amazon apologizes after some AWS users received bills as high as $1.5T due to &ldquo;an issue with unit pricing within the estimated billing computation subsystem&rdquo;&n",
+      "title": "A review of Microsoft's 13-inch Surface Laptop shows 8GB of RAM is not enough for a good Windows 11 experience; PC makers have unveiled upcoming 8GB laptops (Antonio G. Di Benedetto/The Verge)",
+      "url": "https://www.theverge.com/tech/966937/microsoft-surface-laptop-13-inch-8gb-ram-2026-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlkyTktjVHcwZ3MiLCJwIjoiL3RlY2gvOTY2OTM3L21pY3Jvc29mdC1zdXJmYWNlLWxhcHRvcC0xMy1pbmNoLThnYi1yYW0tMjAyNi1yZXZpZXciLCJleHAiOjE3ODQ3MzIwNzUsImlhdCI6MTc4NDMwMDA3Nn0.S4TrpUbDpShs75kJD_BALFFfDRCxeJ-7kjQjDiSnLKI&amp;utm_medium=gift-link",
+      "summary": "Antonio G. Di Benedetto / The Verge: A review of Microsoft's 13-inch Surface Laptop shows 8GB of RAM is not enough for a good Windows 11 experience; PC makers have unveiled upcoming 8GB laptops&nbsp; ",
       "source": "Techmeme",
-      "time": "5h",
+      "time": "15h",
       "tags": [],
-      "published_at": "2026-07-17T20:40:01+00:00"
+      "published_at": "2026-07-18T10:55:02+00:00"
     },
     {
-      "title": "Apple raises the price of Apple Music, with the individual plan up by $1 to $11.99, and some Apple One bundles, citing rising licensing costs (Chance Miller/9to5Mac)",
-      "url": "https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/",
-      "summary": "Chance Miller / 9to5Mac: Apple raises the price of Apple Music, with the individual plan up by $1 to $11.99, and some Apple One bundles, citing rising licensing costs&nbsp; &mdash;&nbsp; Apple has rai",
+      "title": "Analysis: recent open weight models lag frontier closed models' cyber capabilities by 4 to 7 months, a narrower gap than the 6 to 10 months through most of 2025 (AI Security Institute)",
+      "url": "https://www.aisi.gov.uk/blog/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber",
+      "summary": "AI Security Institute: Analysis: recent open weight models lag frontier closed models' cyber capabilities by 4 to 7 months, a narrower gap than the 6 to 10 months through most of 2025&nbsp; &mdash;&nb",
       "source": "Techmeme",
-      "time": "7h",
+      "time": "19h",
       "tags": [],
-      "published_at": "2026-07-17T18:35:23+00:00"
+      "published_at": "2026-07-18T06:55:02+00:00"
     },
     {
-      "title": "Sources: Meta is in talks to rent computing power from its data centers to Anthropic in a deal that could be worth ~$10B over two years (New York Times)",
-      "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?unlocked_article_code=1.yVA.oj_I.ZImD_hW430Uc&amp;smid=nytcore-ios-share&amp;referringSource=articleShare",
-      "summary": "New York Times: Sources: Meta is in talks to rent computing power from its data centers to Anthropic in a deal that could be worth ~$10B over two years&nbsp; &mdash;&nbsp; A deal would underline how s",
+      "title": "SEC filing: GameStop says it owns 9.8% of eBay, signaling its intent to press ahead with a bid for the company after its unsolicited $56B offer was rejected (Reuters)",
+      "url": "https://www.reuters.com/technology/gamestop-owns-nearly-10-ebay-sec-filing-shows-2026-07-17/",
+      "summary": "Reuters: SEC filing: GameStop says it owns 9.8% of eBay, signaling its intent to press ahead with a bid for the company after its unsolicited $56B offer was rejected&nbsp; &mdash;&nbsp; Videogame reta",
       "source": "Techmeme",
-      "time": "9h",
+      "time": "19h",
       "tags": [],
-      "published_at": "2026-07-17T16:25:04+00:00"
+      "published_at": "2026-07-18T06:30:02+00:00"
+    },
+    {
+      "title": "Feathery, which develops an AI operating and decisioning system for financial services, raised $30M in total funding, including a recently completed Series A (FinTech Global)",
+      "url": "https://fintech.global/2026/07/15/feathery-lands-30m-to-rewire-financial-services-workflows/",
+      "summary": "FinTech Global: Feathery, which develops an AI operating and decisioning system for financial services, raised $30M in total funding, including a recently completed Series A&nbsp; &mdash;&nbsp; Feathe",
+      "source": "Techmeme",
+      "time": "19h",
+      "tags": [],
+      "published_at": "2026-07-18T06:10:01+00:00"
+    },
+    {
+      "title": "China's National Data Administration says the country's daily AI token consumption hit 140T in March 2026, up from 100T in December 2025 and 100B in early 2024 (Minxiao Chang/South China Morning Post)",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3360956/chinas-tech-giants-fuel-rise-ai-tokens-new-corporate-currency",
+      "summary": "Minxiao Chang / South China Morning Post: China's National Data Administration says the country's daily AI token consumption hit 140T in March 2026, up from 100T in December 2025 and 100B in early 202",
+      "source": "Techmeme",
+      "time": "19h",
+      "tags": [],
+      "published_at": "2026-07-18T06:00:35+00:00"
+    },
+    {
+      "title": "London-based Risk Ledger, which helps organizations manage supply chain cyber risks, raised a £24M Series B led by Axiom Equity, taking total funding to £33.8M (Ionut Arghire/SecurityWeek)",
+      "url": "https://www.securityweek.com/risk-ledger-raises-32-million-in-series-b-funding/",
+      "summary": "Ionut Arghire / SecurityWeek: London-based Risk Ledger, which helps organizations manage supply chain cyber risks, raised a &pound;24M Series B led by Axiom Equity, taking total funding to &pound;33.8",
+      "source": "Techmeme",
+      "time": "20h",
+      "tags": [],
+      "published_at": "2026-07-18T05:50:01+00:00"
+    },
+    {
+      "title": "Data infrastructure startup Cribl acquires CardinalOps, which offers AI-powered threat detection tools and had raised $40M, sources say for around $100M (Meir Orbach/CTech)",
+      "url": "https://www.calcalistech.com/ctechnews/article/rk71zhxeml",
+      "summary": "Meir Orbach / CTech: Data infrastructure startup Cribl acquires CardinalOps, which offers AI-powered threat detection tools and had raised $40M, sources say for around $100M&nbsp; &mdash;&nbsp; The U.",
+      "source": "Techmeme",
+      "time": "20h",
+      "tags": [],
+      "published_at": "2026-07-18T05:45:02+00:00"
+    },
+    {
+      "title": "Thira, an AI startup founded by Apptio co-founders to develop AI agents that handle back-office tasks such as IT support, raised a $21M seed led by Madrona (Todd Bishop/GeekWire)",
+      "url": "https://www.geekwire.com/2026/apptio-co-founders-reunite-to-launch-enterprise-ai-startup-thira-with-21m-in-funding-led-by-madrona/",
+      "summary": "Todd Bishop / GeekWire: Thira, an AI startup founded by Apptio co-founders to develop AI agents that handle back-office tasks such as IT support, raised a $21M seed led by Madrona&nbsp; &mdash;&nbsp; ",
+      "source": "Techmeme",
+      "time": "20h",
+      "tags": [],
+      "published_at": "2026-07-18T05:00:48+00:00"
     }
   ]
 }

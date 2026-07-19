@@ -1,61 +1,61 @@
 {
   "source": "NVIDIA",
   "layer": "company",
-  "updated": "2026-07-18T10:00:54+08:00",
+  "updated": "2026-07-19T10:00:49+08:00",
   "items": [
-    {
-      "title": "Compute Exchange opens secondary market for used Nvidia H100 and A100 GPUs - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEtack1VLWV5X2tVWlFEVS1IYVhkbTdHeU9SQ0tPMUdWbFVmRHhwaW41emhiSVRKSmM4WFNaYVhoOGQ2T1dKYWNNLVBvek85dndPYnJLeE5jUHJqMUhLU0VoZmo0SkNmZDBGcUJHWnpwZ3M2dUhIRE9kT3V1T0ZxWDVvWE1nbW9jXzBweEc5ZE1ieUhuMEdLZjMyaTdfR3diMUZRRVpB?oc=5",
-      "summary": "Compute Exchange opens secondary market for used Nvidia H100 and A100 GPUs&nbsp;&nbsp;SiliconANGLE",
-      "source": "NVIDIA",
-      "time": "8h",
-      "tags": [],
-      "published_at": "2026-07-17T18:00:08+00:00"
-    },
     {
       "title": "Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure - NVIDIA Newsroom",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMFU0SjdIMHdIZGRlQU8xMnIzdHFYUlhYbk5vRm96NFFTQnMwYzJ4MVZueTZ0b1NSQWJ3ak1YQUVEamFQRGY0UWt5SVhrakU3N1pqOURtbWNOc0hfdDF4ZjdEZWZrb1lZS3ZTWU45Q3VIaUJDQW5TeU16RWpYbWdwaVBUanBOT1RwZ0ZBYktjaUdnSmxiWU52RnVoeHJ1WE80N2VKVVlHcUs5UU00aEhtMXN4RWRtRXptSVZ3cUF6YVFJVzZxcVMtTGhoZFo?oc=5",
       "summary": "Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure&nbsp;&nbsp;NVIDIA Newsroom",
       "source": "NVIDIA",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-16T08:06:25+00:00"
     },
     {
-      "title": "NVIDIA GeForce RTX 50 SUPER GPUs Have Reportedly Arrived At AIBs, But Are On Hold Due To Undecided Memory Prices - Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbDJvTUVkUUN5dW5MNGR2SE5JNjJoUFNuQVZHZ1Y2dUtUM2dfWXZIZ0hvRjdrY2FZd2VyVEdJTGh6UG0zSzQ4WmpMb0Z0R3RTQkFTSU9SVG5VdHFEeUZFcFcwN2pTQjNuT1h6RUdqQXEyNmFSVFJWUDNHWHEwS25lYlM0ZGhDMWgyNjQ2c2N1Z2dBV1BGTDY3aHBCaU15ZHFITUJ0em1B0gGrAUFVX3lxTFAtTFl2bUdHdmFKSE4zdzZGMW9Udmh3Ukg2bjNsUnVZSWRkVWxYdENxVGFlbm14ZGZuc0tBaVNoQkZCZHE0b0RGYmNXa2R6WXJLOUpKbUxNNlFTWmM0Wjk2Z2s4S2V4T29uYnZhNE55WEdDeXozMjRBVmtGQ0lQSEs2elptVjJOajQwSGVWcjFlR21adVZCM2RHQ3dFQ1JrUExIdnZ3RXQ3aVVuaw?oc=5",
-      "summary": "NVIDIA GeForce RTX 50 SUPER GPUs Have Reportedly Arrived At AIBs, But Are On Hold Due To Undecided Memory Prices&nbsp;&nbsp;Wccftech",
+      "title": "General Compute: Inference Chips Replace Nvidia GPUs as Loan Collateral in Landmark $400M Deal - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS1Q5Qk01SXdMNHp3NndCaE11bWYyY3RwQVZtLWt4YWlvZXFKb0Qza252ODdlTUsxNVF0aDFCczd1MDVIYm1WTUxLOVMyaXgyZ2VRWDRuYm9udFdiUG9mYTZnZUxWVkZycUxBR09XdUNIV1ZLbHh6c0xfVGc2aDNIcUxuUXQ0aTJiN09JaVphaURXUHVydnZjOVZwZmhqQUszUzBGSWs2Y3c0WHFENGR4Ylcyd3lZb1JPZTdSNnYydlFQQU5XczhrUTVlNnFORzY2dTJPeVJ5TUI?oc=5",
+      "summary": "General Compute: Inference Chips Replace Nvidia GPUs as Loan Collateral in Landmark $400M Deal&nbsp;&nbsp;Tech Times",
       "source": "NVIDIA",
-      "time": "13h",
+      "time": "2h",
       "tags": [],
-      "published_at": "2026-07-17T12:55:18+00:00"
+      "published_at": "2026-07-18T23:21:45+00:00"
     },
     {
-      "title": "Utho to acquire 10000 nvidia gpus to boost ai capabilities in india - Indiatimes",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVjBmOURVOU8zc0JseDlkWjRWbDhSRFdrNzVrQ0UtcFh2bmpSZ2xJZkQ1NEFyRjJYZGs1NXlFY0xoS01LX1N1TjdaRV9VekdERW9yZ3ZUSGJEZU83U1A5Ty1ZMU1IcHE1bzhfNjBra1NZc2dCdWQ5R3FlWHhNRV9iLVBnLWFJcHRUb3R4YW1BeTctZ1c5Y2lUd0h6N3BOT19PclVxcmdoak9jeVlvVG1NbVpqbVp4aE9Ebmx4ajRHZERVSTRFY1RBNjViYWY2NURHaHZpVmxqT1VEVDdDY0k0ZGV1Z2F2cXVaRzlyMEhR?oc=5",
-      "summary": "Utho to acquire 10000 nvidia gpus to boost ai capabilities in india&nbsp;&nbsp;Indiatimes",
+      "title": "Nvidia: Jensen Huang's Company Is Still the King of AI, and the Stock Is a Buy - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUVRzS3N2RE1HSHZQOENsVm9yQXcxd1IyemIzaDlMTGpOeE9UZms3ZVg0bnJJbDZkWC1GVHpzZFBoNUhUOFBTTHZqSE9CMGJXeU9WOHlQRzJQLUpoeUx0emZLTXpjRkVEbk8xVDJsUWtJSFZmTDlqLVJXTWpqdmNfbDNPNlUweWZOb0tDaG5oREhQa09KR0hv?oc=5",
+      "summary": "Nvidia: Jensen Huang's Company Is Still the King of AI, and the Stock Is a Buy&nbsp;&nbsp;The Motley Fool",
       "source": "NVIDIA",
-      "time": "4h",
+      "time": "7h",
       "tags": [],
-      "published_at": "2026-07-17T21:14:33+00:00"
+      "published_at": "2026-07-18T18:33:00+00:00"
     },
     {
-      "title": "Why NVIDIA (NVDA) Is Expanding Its AI Leadership Beyond GPUs With Networking, CPUs, and Full-Stack Infrastructure - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUi10M1dwWHViZzRwdXJuNng0M0trYm9EZ1dQVWJMWGw4bmtvMThPdGUxcllNbWxPS3BMTjNaaWxTYUlJNUlRTDhYWDVTUk8tNEdidHdFZlgxRlpSVEs3YXRmM05UVGdSRkczaDV3R0ZLOE1aekhNRTQ1LU93WUtEUUxFdzROWnBxUGpmT1djWUFBMTBpOS0w?oc=5",
-      "summary": "Why NVIDIA (NVDA) Is Expanding Its AI Leadership Beyond GPUs With Networking, CPUs, and Full-Stack Infrastructure&nbsp;&nbsp;Yahoo Finance",
+      "title": "Compute Exchange opens secondary market for used Nvidia H100 and A100 GPUs - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEtack1VLWV5X2tVWlFEVS1IYVhkbTdHeU9SQ0tPMUdWbFVmRHhwaW41emhiSVRKSmM4WFNaYVhoOGQ2T1dKYWNNLVBvek85dndPYnJLeE5jUHJqMUhLU0VoZmo0SkNmZDBGcUJHWnpwZ3M2dUhIRE9kT3V1T0ZxWDVvWE1nbW9jXzBweEc5ZE1ieUhuMEdLZjMyaTdfR3diMUZRRVpB?oc=5",
+      "summary": "Compute Exchange opens secondary market for used Nvidia H100 and A100 GPUs&nbsp;&nbsp;SiliconANGLE",
       "source": "NVIDIA",
-      "time": "2d",
+      "time": "1d",
       "tags": [],
-      "published_at": "2026-07-15T11:48:20+00:00"
+      "published_at": "2026-07-17T18:00:08+00:00"
     },
     {
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFRXMS1uVHppeGtWV1ljeWNkTm0ycVdHT3hvQ25mVjczRjRmc3gyeEFuTy1QaTlBM2U4d2ZCemYzMGZTMi1XWUFhRnJPbDdFSnI3Q2EzSnZQQUpLWmotd1BIUGpNWW1ublZlY0tFTk5XYUFDTXVHdExXZmlkM0c2aDNxaU5fb05fejlvdi1UMEFNRjllOXJQbXdCRzBPZ3hrYzVkVE9qb1BET1VlaDh2UmNBYXd3Uzg?oc=5",
-      "summary": "Why the first GPU financiers are turning to inference chips in a $400 million deal&nbsp;&nbsp;TechCrunch",
+      "title": "Nvidia: Jensen Huang's Company Is Still the King of AI, and the Stock Is a Buy - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYV9MOVhISmswc2ZEZUpaTGxTaHphRlJNUXp0UEZHQkM2TmQ0WDJKLUFOZE5NM2RwR2RYcjJuNWlOX0c2UDRqU0NrWTlDN3Q4WVlLdlllOVZaLWxVQVJCR2JjdHhfZVVQYXMxWEtxQ0Y3Unlqenlpb01VWml2TDBETGVIX3htUnlmbUtYNkI3ZnJZbnh4WWhkZWdYRzJ4NnlROHlXeGdaQ0YtVUJkVG45OV9nNHhEQWlMYXRaQ3FkNHdmbjRYeS1Ga0YtOUlvNWw2ZWZDZlE3ZFFGVlZUZzFpa3VmVDlYWmV2Q216MHl4V0k?oc=5",
+      "summary": "Nvidia: Jensen Huang's Company Is Still the King of AI, and the Stock Is a Buy&nbsp;&nbsp;The Globe and Mail",
       "source": "NVIDIA",
-      "time": "14h",
+      "time": "7h",
       "tags": [],
-      "published_at": "2026-07-17T12:00:00+00:00"
+      "published_at": "2026-07-18T18:14:37+00:00"
+    },
+    {
+      "title": "Nvidia RTX 50 Super GPUs are reportedly ready, but stuck in limbo due to excessive GDDR7 pricing — 3GB GDDR7 module costs triple the price of 2GB - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdVhjZDR1a09pdkV4SGxhdVdiYkFHWm9ta3pkZWtxTlRUVmxkWmhoTFBLNld5d2RvalFqeS1YcjRBV1RLUzlXVFU1Vll5cHlCR3IxbkJON1hlRGZ4MWp3UnJJT2QtWU45bWdxWHVKZWJGUE4tSmxRZmlnelZEamFpUDloT01kM19ENmpPdVQ1WG4zYUtncThwWEhZLXJHV1FaMUprVnIyTXlrVGFGWlhnUXUybFc0NUgwRUgzNG1vY29ZYm5ocVBiWFktdzA4bDJHQXpSWTNTSGZWdzItVDlvaWtKeTk5cGZYZlpibTNJd1B5U2JCSDZLdHZueTBIekk2a0RORHc1OUxZZUVMTmlJMDNZNVZsWkdsUmc?oc=5",
+      "summary": "Nvidia RTX 50 Super GPUs are reportedly ready, but stuck in limbo due to excessive GDDR7 pricing — 3GB GDDR7 module costs triple the price of 2GB&nbsp;&nbsp;Tom's Hardware",
+      "source": "NVIDIA",
+      "time": "12h",
+      "tags": [],
+      "published_at": "2026-07-18T13:45:42+00:00"
     }
   ]
 }

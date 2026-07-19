@@ -2,83 +2,83 @@
   "key": "openrouter",
   "title": "OpenRouter 模型使用榜（按 token 用量）",
   "freq": "daily",
-  "updated": "2026-07-17",
+  "updated": "2026-07-18",
   "url": "https://openrouter.ai/rankings",
   "items": [
     {
       "rank": 1,
       "name": "Tencent: Hy3",
-      "value": "10579.7B"
+      "value": "11125.8B"
     },
     {
       "rank": 2,
       "name": "Xiaomi: Mimo V2.5",
-      "value": "9157.4B"
+      "value": "9267.2B"
     },
     {
       "rank": 3,
       "name": "Deepseek: Deepseek V4 Flash",
-      "value": "5310.0B"
+      "value": "5327.8B"
     },
     {
       "rank": 4,
       "name": "Minimax: Minimax M3",
-      "value": "3925.3B"
+      "value": "3885.4B"
     },
     {
       "rank": 5,
       "name": "Z-ai: Glm 5.2",
-      "value": "3542.1B"
+      "value": "3497.3B"
     },
     {
       "rank": 6,
       "name": "Nvidia: Nemotron 3 Ultra 550b A55b",
-      "value": "3300.1B"
+      "value": "3219.3B"
     },
     {
       "rank": 7,
       "name": "Deepseek: Deepseek V4 Pro",
-      "value": "2594.3B"
+      "value": "2578.2B"
     },
     {
       "rank": 8,
-      "name": "Anthropic: Claude 4.8 Opus",
-      "value": "2211.6B"
+      "name": "Anthropic: Claude 4.7 Opus",
+      "value": "2220.0B"
     },
     {
       "rank": 9,
-      "name": "Anthropic: Claude 4.7 Opus",
-      "value": "2176.6B"
+      "name": "Anthropic: Claude 4.8 Opus",
+      "value": "2189.9B"
     },
     {
       "rank": 10,
       "name": "Anthropic: Claude Sonnet 5",
-      "value": "1026.5B"
+      "value": "1053.1B"
     },
     {
       "rank": 11,
       "name": "Google: Gemini 3 Flash Preview",
-      "value": "946.4B"
+      "value": "945.2B"
     },
     {
       "rank": 12,
       "name": "Anthropic: Claude 4.6 Sonnet",
-      "value": "937.3B"
+      "value": "926.6B"
     },
     {
       "rank": 13,
       "name": "Stepfun: Step 3.7 Flash",
-      "value": "833.8B"
+      "value": "778.2B"
     },
     {
       "rank": 14,
       "name": "Openai: Gpt 5.5",
-      "value": "668.1B"
+      "value": "653.7B"
     },
     {
       "rank": 15,
       "name": "Xiaomi: Mimo V2.5 Pro",
-      "value": "631.0B"
+      "value": "626.6B"
     }
   ]
 }

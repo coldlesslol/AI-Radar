@@ -1,32 +1,23 @@
 {
   "source": "Product Hunt",
   "layer": "news",
-  "updated": "2026-07-18T10:00:44+08:00",
+  "updated": "2026-07-19T10:00:39+08:00",
   "items": [
     {
       "title": "Pebbles Ai",
       "url": "https://www.producthunt.com/products/pebbles-ai",
       "summary": "AI sales platform for modern B2B teams Discussion | Link",
       "source": "Product Hunt",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-14T04:03:42+00:00"
-    },
-    {
-      "title": "Aye",
-      "url": "https://www.producthunt.com/products/aye-browser",
-      "summary": "Your teachable AI intern for everyday browser work Discussion | Link",
-      "source": "Product Hunt",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-16T05:07:19+00:00"
     },
     {
       "title": "Basedash Suggestions",
       "url": "https://www.producthunt.com/products/basedash",
       "summary": "Your AI data analyst, now with ideas of its own. Discussion | Link",
       "source": "Product Hunt",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-16T14:57:03+00:00"
     },
@@ -35,97 +26,79 @@
       "url": "https://www.producthunt.com/products/kimi-ai-assistant",
       "summary": "The world's first open 3T-class model Discussion | Link",
       "source": "Product Hunt",
-      "time": "23h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-17T02:39:47+00:00"
     },
     {
-      "title": "In Parallel MCP",
-      "url": "https://www.producthunt.com/products/in-parallel",
-      "summary": "Your context, available to every agent. Discussion | Link",
-      "source": "Product Hunt",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-14T12:55:10+00:00"
-    },
-    {
-      "title": "Nitrosend",
-      "url": "https://www.producthunt.com/products/nitrosend",
-      "summary": "Email for AI agents. They sign up, send and reply. Discussion | Link",
-      "source": "Product Hunt",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-15T01:41:49+00:00"
-    },
-    {
-      "title": "Codex Micro",
-      "url": "https://www.producthunt.com/products/openai",
-      "summary": "Tactile controls for your Codex agents Discussion | Link",
-      "source": "Product Hunt",
-      "time": "1d",
-      "tags": [],
-      "published_at": "2026-07-16T03:23:59+00:00"
-    },
-    {
-      "title": "ChikitAI",
-      "url": "https://www.producthunt.com/products/chikitai",
-      "summary": "Agentic AI for Healthcare Triage and Care Automation Discussion | Link",
-      "source": "Product Hunt",
-      "time": "3d",
-      "tags": [],
-      "published_at": "2026-07-14T20:54:35+00:00"
-    },
-    {
-      "title": "Cito",
-      "url": "https://www.producthunt.com/products/cito",
-      "summary": "Hybrid academic search over 236M papers, built for agents Discussion | Link",
-      "source": "Product Hunt",
-      "time": "4d",
-      "tags": [],
-      "published_at": "2026-07-13T20:26:53+00:00"
-    },
-    {
-      "title": "Inbix",
-      "url": "https://www.producthunt.com/products/inbix",
-      "summary": "Cloudflare-native Email Infrastructure for Developers Discussion | Link",
+      "title": "Aye",
+      "url": "https://www.producthunt.com/products/aye-browser",
+      "summary": "Your teachable AI intern for everyday browser work Discussion | Link",
       "source": "Product Hunt",
       "time": "2d",
       "tags": [],
-      "published_at": "2026-07-15T15:17:54+00:00"
+      "published_at": "2026-07-16T05:07:19+00:00"
     },
     {
       "title": "Verse",
       "url": "https://www.producthunt.com/products/verse-6",
       "summary": "Build and hire autonomous AI employees from a single prompt Discussion | Link",
       "source": "Product Hunt",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-15T13:30:43+00:00"
+    },
+    {
+      "title": "Nitrosend",
+      "url": "https://www.producthunt.com/products/nitrosend",
+      "summary": "Email for AI agents. They sign up, send and reply. Discussion | Link",
+      "source": "Product Hunt",
+      "time": "4d",
+      "tags": [],
+      "published_at": "2026-07-15T01:41:49+00:00"
+    },
+    {
+      "title": "Alert Grouping by DrDroid",
+      "url": "https://www.producthunt.com/products/alert-audit-by-doctor-droid",
+      "summary": "Reduce Your Alerts Noise Completely Discussion | Link",
+      "source": "Product Hunt",
+      "time": "3d",
+      "tags": [],
+      "published_at": "2026-07-15T06:55:52+00:00"
     },
     {
       "title": "Graft AI",
       "url": "https://www.producthunt.com/products/graft-ai",
       "summary": "Turn company operations into a living map for agents Discussion | Link",
       "source": "Product Hunt",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-15T17:24:23+00:00"
     },
     {
-      "title": "River",
-      "url": "https://www.producthunt.com/products/river-9",
-      "summary": "AI account executives that demo and close B2B deals Discussion | Link",
+      "title": "ChikitAI",
+      "url": "https://www.producthunt.com/products/chikitai",
+      "summary": "Agentic AI for Healthcare Triage and Care Automation Discussion | Link",
       "source": "Product Hunt",
-      "time": "2d",
+      "time": "4d",
       "tags": [],
-      "published_at": "2026-07-16T00:40:17+00:00"
+      "published_at": "2026-07-14T20:54:35+00:00"
+    },
+    {
+      "title": "Inbix",
+      "url": "https://www.producthunt.com/products/inbix",
+      "summary": "Cloudflare-native Email Infrastructure for Developers Discussion | Link",
+      "source": "Product Hunt",
+      "time": "3d",
+      "tags": [],
+      "published_at": "2026-07-15T15:17:54+00:00"
     },
     {
       "title": "Weave",
       "url": "https://www.producthunt.com/products/weave-9",
       "summary": "Think out loud and watch it become a living map. Discussion | Link",
       "source": "Product Hunt",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-15T23:37:50+00:00"
     },
@@ -134,9 +107,36 @@
       "url": "https://www.producthunt.com/products/kit-for-ai",
       "summary": "The memory layer for AI agents Discussion | Link",
       "source": "Product Hunt",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-15T10:39:04+00:00"
+    },
+    {
+      "title": "Ventorah",
+      "url": "https://www.producthunt.com/products/ventorah-browser-cfd",
+      "summary": "run virtual wind tunnel aerodynamic analysis in your browser Discussion | Link",
+      "source": "Product Hunt",
+      "time": "2d",
+      "tags": [],
+      "published_at": "2026-07-16T06:37:09+00:00"
+    },
+    {
+      "title": "In Parallel MCP",
+      "url": "https://www.producthunt.com/products/in-parallel",
+      "summary": "Your context, available to every agent. Discussion | Link",
+      "source": "Product Hunt",
+      "time": "4d",
+      "tags": [],
+      "published_at": "2026-07-14T12:55:10+00:00"
+    },
+    {
+      "title": "River",
+      "url": "https://www.producthunt.com/products/river-9",
+      "summary": "AI account executives that demo and close B2B deals Discussion | Link",
+      "source": "Product Hunt",
+      "time": "3d",
+      "tags": [],
+      "published_at": "2026-07-16T00:40:17+00:00"
     }
   ]
 }
