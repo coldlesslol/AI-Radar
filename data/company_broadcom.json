@@ -1,14 +1,14 @@
 {
   "source": "Broadcom",
   "layer": "company",
-  "updated": "2026-07-19T10:00:55+08:00",
+  "updated": "2026-07-20T10:02:27+08:00",
   "items": [
     {
       "title": "Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWXQ1azRhRXU2WGEtTjBNbG5ZMDIyN1JkdWhTdmhfWTJ4aENuUkpWREdOelZCTllxdUxNS2V1MzlaSUVwTmJRSy1VTWxyWF9kOWQyTXFzZ0tmSWgxTkZqTFdQXzI1cEJuelJzNl9xTzVIM05odjdmUmpDSGZrMlBLWHBGcFdLZ2ZPQ3RpOGczZVlRRHVyZlljRnJ5ZlhKc0ZqTjFSeTRzbVlVYTFpenlxc0VhQW1EUExyMnlqd2pMR3pLazc2MnRnN1RB?oc=5",
       "summary": "Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide&nbsp;&nbsp;24/7 Wall St.",
       "source": "Broadcom",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-16T16:12:07+00:00"
     },
@@ -17,34 +17,16 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUGVPVDV2VHJIQnRJSGhYYjNVZUN0YjJRY01YTm96ZEh2U0hib3BSbTM4QVhjZ3ZROURhX3QwcVVfek1Ec1lfejM1RXVHaUdtZ0FvLWs0bG5FNDhvUWh0VEtVVFJtOUE1QW9XUEFfQVg5VVB1QjlJQlk0NHVPRTJ0elpyZzdwdHhPdE9qQk1pUUtXVWc0Ym9sQnFzWkwzdkUyYlJGczFHRW5paWRMTFl1RlpNYkNOSDloWndJNm1Sd3hZbFJYQXQw?oc=5",
       "summary": "Meta’s Iris AI Chip Passes Testing: Broadcom Now Designs Chips for Three Rivals&nbsp;&nbsp;Tech Times",
       "source": "Broadcom",
-      "time": "1d",
+      "time": "2d",
       "tags": [],
       "published_at": "2026-07-17T15:51:10+00:00"
-    },
-    {
-      "title": "Broadcom vs. Marvell: A Valuation Showdown for the Custom AI Chip Trade - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNejFyTFdQeS02dklUNUotMGExU2x4TUI0SlE3TXBaTkgyTnRSNFhwRFNHR204bkdGMEtXbUdyTFNyRzFzMDF3SEYycTJoajc1VllGMWRNQWZZZ09HcEk0eUxHb29QeHhWY3ZBT3pTQkVkT0RwT2h4NjFOelJST1BvTWJoMWZfTWFLSnM2Y2lqVzY5c2RGMUxvWA?oc=5",
-      "summary": "Broadcom vs. Marvell: A Valuation Showdown for the Custom AI Chip Trade&nbsp;&nbsp;The Motley Fool",
-      "source": "Broadcom",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-12T14:18:00+00:00"
-    },
-    {
-      "title": "Broadcom vs. Marvell: A Valuation Showdown for the Custom AI Chip Trade - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzl5NG9IQ1NWY0pLZFhLWjVJYXliX0VQOFNfUWQ3bnVSOGpOT3pXeTdlMGpkVXRHR3FEX2ZKdTZHTDBOSFJZeXY2RU1FR1A2R1piOVRqbGswY2lRbDFhcE1UWENzOXdmcGh0VXdHRjlyMS1kcTREWC0yRGhBaW1PS2t3MWhwWXBVazFpT0h1SkJnS3JWY1g0Mk9HOFlBWkthYW16ZVpn?oc=5",
-      "summary": "Broadcom vs. Marvell: A Valuation Showdown for the Custom AI Chip Trade&nbsp;&nbsp;Yahoo Finance",
-      "source": "Broadcom",
-      "time": "6d",
-      "tags": [],
-      "published_at": "2026-07-12T13:38:00+00:00"
     },
     {
       "title": "Broadcom's AI Moat Keeps Expanding (NASDAQ:AVGO) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd2pLU05naHN4WlJjZ053T0l4clZ1NmtBNy03QkNSV2Y4bGlsVERwSWhiN3VYYlQxV0FpaXcwV1JyWnNRS1N1d3NIWWluSElBUmpSVDFPaGxQX0U4NVoyeFR0WWdZSWpqUWl4bmt0UU4wUTV5Z0EyZ1I3Ykd5a1Fad1hQSmRWUQ?oc=5",
       "summary": "Broadcom's AI Moat Keeps Expanding (NASDAQ:AVGO)&nbsp;&nbsp;Seeking Alpha",
       "source": "Broadcom",
-      "time": "2d",
+      "time": "3d",
       "tags": [],
       "published_at": "2026-07-16T14:30:27+00:00"
     },
@@ -55,7 +37,16 @@
       "source": "Broadcom",
       "time": "2d",
       "tags": [],
-      "published_at": "2026-07-16T21:51:22+00:00"
+      "published_at": "2026-07-17T15:48:33+00:00"
+    },
+    {
+      "title": "The 1 AI Chip Stock I'd Buy Hand Over Fist in This Sell-Off -- and It Isn't Nvidia. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNjE2dXpFLThFYzRtM2FRM1B5MjBBeG5YTmlMNzZDWUxIME5nMHlFZ0MtTHNnN3NpSHg5U3JrcnBhbGV3TThtb0NCTllHZFZzSFg1RFUzRGtRZmxOaDQtcW0zTVZlMlFrdzVEaVNzYWpsWTA5NkZBekd0ZW91RE5FVGtEbVpiR2VONGpwV2dxeVM5ZXdXdXhVUUh6TmNaUmNiMnFWQVMzVUVaTXdsSFV3VEJ3SE9qTXI3b3RSWkxVSktGeks3QlFjT3FPWE5CRUh0U09xbE5HY1NTWTJ1NUlCYklLVHRzQlc4T3pCUkxhZlhJSjZt?oc=5",
+      "summary": "The 1 AI Chip Stock I'd Buy Hand Over Fist in This Sell-Off -- and It Isn't Nvidia.&nbsp;&nbsp;The Globe and Mail",
+      "source": "Broadcom",
+      "time": "22h",
+      "tags": [],
+      "published_at": "2026-07-19T03:16:52+00:00"
     }
   ]
 }

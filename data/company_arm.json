@@ -1,32 +1,41 @@
 {
   "source": "ARM",
   "layer": "company",
-  "updated": "2026-07-19T10:00:56+08:00",
+  "updated": "2026-07-20T10:02:29+08:00",
   "items": [
-    {
-      "title": "Arm Holdings (ARM) Is Down 17.4% After Global AI Chip Pullback and China Export Concerns – Has The Bull Case Changed? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMzlYaG1IbmtFbjFVQlhlNDdlVzdLTG9NLUpVZXhNOWg1d1RmZjdYVUJmX2VyOHRGbThBUThRX3UxYl9zclJ0MDhaVVNhRGQ1LVR6ZmpSSFJLbjJxdVhjVFNDd3ItTFZnMUR6QTlPeHRsaU5uQ195V3UxdHhLejNaTXhMdEltNzdPaWV1OU42SWNfaFNRMWYwaWlCbEp6MmFzTXRxRnZ1SlFsM195RUVqNGRSUVNsbkdzMVpZY2RMdW05SEEybWtOd3UxYWllMkVLelHSAdcBQVVfeXFMT0VnaUV1ZFZMUkpCUW1ETkJMZzNlWGQtT1lkQjNSNWFFLWRZZ1RpOHVDMV80dDAtNlZVdEhfbkVwcWRfRlBja0JrYjcxOG1NMmIwcHNOZGU1aEtrdWNwS3o0dGJzS3RZQUhtSnBwdFp0cEFwZHRjS3cyTE95aEdjeHEzVGtMTG9ZUjFMR1ZuLUwxbllBZC1zaVpTeWxacnN5ZmNiNnhOUC15Q293QVFBZkxPc0Nxb2RnWW4yMG1QNkt1UUV2Sy1XYzM4QnZmYmVaYVN4V2x6RE0?oc=5",
-      "summary": "Arm Holdings (ARM) Is Down 17.4% After Global AI Chip Pullback and China Export Concerns – Has The Bull Case Changed?&nbsp;&nbsp;simplywall.st",
-      "source": "ARM",
-      "time": "14h",
-      "tags": [],
-      "published_at": "2026-07-18T11:38:02+00:00"
-    },
     {
       "title": "AI Chips Update - Arteris Arm Partnership Strengthens AI Chip Security - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTnpsQUtsMmx2MnFQNWtiZEpCXzJuSTR1SE9RLTEySVNueDJiRUJiYlZ0MHdZS0xBX0xQaXpZRDdhbFJ2VHBhcURrb3ZzejhQbkVCeHJCM0JEcmhDUEhjQ1BuSlpNZlBqSkRJLXNzOUV2YjlqYjFGaFhIUXhpT1pyU0htZGRSWUFoMEpTNXdqTUdudnVaVEY3WXNWRnE?oc=5",
       "summary": "AI Chips Update - Arteris Arm Partnership Strengthens AI Chip Security&nbsp;&nbsp;Yahoo Finance",
       "source": "ARM",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-15T11:38:01+00:00"
+    },
+    {
+      "title": "Arm Holdings (ARM) Is Down 17.4% After Global AI Chip Pullback and China Export Concerns – Has The Bull Case Changed? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMzlYaG1IbmtFbjFVQlhlNDdlVzdLTG9NLUpVZXhNOWg1d1RmZjdYVUJmX2VyOHRGbThBUThRX3UxYl9zclJ0MDhaVVNhRGQ1LVR6ZmpSSFJLbjJxdVhjVFNDd3ItTFZnMUR6QTlPeHRsaU5uQ195V3UxdHhLejNaTXhMdEltNzdPaWV1OU42SWNfaFNRMWYwaWlCbEp6MmFzTXRxRnZ1SlFsM195RUVqNGRSUVNsbkdzMVpZY2RMdW05SEEybWtOd3UxYWllMkVLelHSAdcBQVVfeXFMT0VnaUV1ZFZMUkpCUW1ETkJMZzNlWGQtT1lkQjNSNWFFLWRZZ1RpOHVDMV80dDAtNlZVdEhfbkVwcWRfRlBja0JrYjcxOG1NMmIwcHNOZGU1aEtrdWNwS3o0dGJzS3RZQUhtSnBwdFp0cEFwZHRjS3cyTE95aEdjeHEzVGtMTG9ZUjFMR1ZuLUwxbllBZC1zaVpTeWxacnN5ZmNiNnhOUC15Q293QVFBZkxPc0Nxb2RnWW4yMG1QNkt1UUV2Sy1XYzM4QnZmYmVaYVN4V2x6RE0?oc=5",
+      "summary": "Arm Holdings (ARM) Is Down 17.4% After Global AI Chip Pullback and China Export Concerns – Has The Bull Case Changed?&nbsp;&nbsp;simplywall.st",
+      "source": "ARM",
+      "time": "1d",
+      "tags": [],
+      "published_at": "2026-07-18T11:38:02+00:00"
+    },
+    {
+      "title": "ARM's Expanding Royalty Opportunity Is Powering Its AI Growth Story - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWd1SHVJVzFSQzRac09WMDA2amVheVBUV1N4MzdOMElJNkpzQ3JpS0xGbW4xSVREV3VERmFsUTBOSVBaMGJaSWM1YkJHSTV6cmtTOWFYZmlCNlhsRHZBTWg5Q2h5a2ZhOUUyWkNJek1iN3RaalpOelhCZUt2STlTU0xpV2o2NWhHWkFMME1iMW83bEpuUzV3dkVpNURIaUZSdWVNTTgxVzNaak0?oc=5",
+      "summary": "ARM's Expanding Royalty Opportunity Is Powering Its AI Growth Story&nbsp;&nbsp;Yahoo Finance",
+      "source": "ARM",
+      "time": "3d",
+      "tags": [],
+      "published_at": "2026-07-16T17:10:00+00:00"
     },
     {
       "title": "AMD, Arm, and Intel are battling for the agentic AI crown, and the winner reshapes more than just chips - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41S0FlQnFkZ1A4S2prRzM3MW03cnNkSmVYWjEtYVZvZ0l4NTc4TnRlekVGeXVVTkxyeWk2VlQzQUJfWVY3QVl4Zk1ubFVZNF9IS1U4b0hvYnhScXBEazFXRVc0aWI2YUhrcnFGZV9VcTNwZw?oc=5",
       "summary": "AMD, Arm, and Intel are battling for the agentic AI crown, and the winner reshapes more than just chips&nbsp;&nbsp;Crypto Briefing",
       "source": "ARM",
-      "time": "9h",
+      "time": "1d",
       "tags": [],
       "published_at": "2026-07-18T16:10:36+00:00"
     },
@@ -35,25 +44,16 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVdvTzI4aXR6bkN1WTlseTZadVlINHR5S2dZRjJPVkprV01jejd1SDR6dmtIUmkwMmUwbWFLMDBrczV2bUZic096YXlzRUlHVmt1b2F3elZRM0tsR2MtOUpMcjByZlBwY2pXQmF1aVhBQXNyazNQQXl4cTM5QjZpaG1fMU9LeHF3MXMwcmhiQll3Zw?oc=5",
       "summary": "Arm Holdings plc (ARM) CEO says US would have Difficulty Banning AI CPU chip Exports to China&nbsp;&nbsp;Yahoo Finance",
       "source": "ARM",
-      "time": "4d",
+      "time": "5d",
       "tags": [],
       "published_at": "2026-07-14T18:55:57+00:00"
-    },
-    {
-      "title": "ARM's Expanding Royalty Opportunity Is Powering Its AI Growth Story - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWd1SHVJVzFSQzRac09WMDA2amVheVBUV1N4MzdOMElJNkpzQ3JpS0xGbW4xSVREV3VERmFsUTBOSVBaMGJaSWM1YkJHSTV6cmtTOWFYZmlCNlhsRHZBTWg5Q2h5a2ZhOUUyWkNJek1iN3RaalpOelhCZUt2STlTU0xpV2o2NWhHWkFMME1iMW83bEpuUzV3dkVpNURIaUZSdWVNTTgxVzNaak0?oc=5",
-      "summary": "ARM's Expanding Royalty Opportunity Is Powering Its AI Growth Story&nbsp;&nbsp;Yahoo Finance",
-      "source": "ARM",
-      "time": "2d",
-      "tags": [],
-      "published_at": "2026-07-16T17:10:00+00:00"
     },
     {
       "title": "AI Chips Update - Arteris Arm Partnership Strengthens AI Chip Security - simplywall.st",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRVVGLWZBQkxGVlVlQVEzSzE5MnJmMWV4a2dnZGs5YW1aSkhhQjdqNVJGM0JKbnZMZzJXTUdUaDhseHptQlpWRThYWlVSdFdyMlRKdFpkRkRDQk9veVdIZGxhaGtZQW1RbFRsX0JPWWk4VHZNYWhGMnJkV3NMQndWcGRjVTRTT3l5ZmVpaTc5R0REcnR1M2lsRlJYTFZHa2hrYWlGSmF5QUFObnNWem1vOTZsUjN5eEV3Y3ZqaWhhTG9rUmVDRm90ZUxR0gHPAUFVX3lxTE44bGNWWDFpTnpUUVdEa2N4RVJfQzlvWVVUeFA1aThTeVBWN1NXamhJYkotMEw0UUUyVlRyT3BSY1ZsXzltSjc4LVgtOUhpMWhWZXFxLWpWN3ZXMEViR2h5c281X283MjBCdU5HTk9wUXZJMlJHZWxDWkZveFpZV0kzNUI4endhTUdvSEI0LVU4WFJrcHluNGo4RG5GTk1xMFpBUUtySVZTMndiUUt0Mld5dUpvREVqN2g3QWljZkFYbkQ0RWNJTUtUbWlJYTN4WQ?oc=5",
       "summary": "AI Chips Update - Arteris Arm Partnership Strengthens AI Chip Security&nbsp;&nbsp;simplywall.st",
       "source": "ARM",
-      "time": "3d",
+      "time": "4d",
       "tags": [],
       "published_at": "2026-07-15T11:15:17+00:00"
     }

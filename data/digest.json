@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-19T10:01:34+08:00",
-  "total": 117,
-  "deduped_from": 293,
+  "updated": "2026-07-20T10:03:23+08:00",
+  "total": 116,
+  "deduped_from": 289,
   "stats": {
     "high_relevance": 0,
-    "mid_relevance": 117,
+    "mid_relevance": 116,
     "low_relevance": 0,
     "multi_source": 0,
     "fallback": true
@@ -271,7 +271,7 @@
       "_source": "McKinsey",
       "title": "The future of B2B sales: How growth champions rewire their playbooks with AI",
       "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-future-of-b2b-sales-how-growth-champions-rewire-their-playbooks-with-ai",
-      "time": "3d",
+      "time": "4d",
       "published_at": "2026-07-16T00:00:00+00:00",
       "sources": [
         "McKinsey"
@@ -315,19 +315,35 @@
       "fallback": true
     },
     {
-      "_id": "DeepSeek_3",
+      "_id": "DeepSeek_4",
       "_source": "DeepSeek",
-      "title": "DeepSeek最新市场估值超3500亿元，目前已经开始启动第二轮融资 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zV3ZTVDU0aTVfc3JmZ3pFZVJDdnJGLUFnV1g0TUFHV3AtTjdzeUhWV3ZHT0xRZllEOWVGM2ZwZTRfbWRNM1hFM1I2dHZjS3pZSWJja1pyS09vNndidkxZWDdB?oc=5",
-      "time": "2d",
-      "published_at": "2026-07-16T21:04:38+00:00",
+      "title": "Deepseek完成首轮融资：估值3500亿 梁文锋个人持股31% - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdnh3OW92Y2VLQllMbU91VFJaRDRJeUZXeWwtbnQyS0pMVXFpSjRwWHhGNVFNRHRFZmQ1RkhnY0VxVERPY1NvNXVLanZDeU1iVzJQNURkRmdRWVRyMGJpdUdlWjJVRHBYN1gyNXhGQ2dJWDZTY244a0pDa1VFeEFhZFBidmh3RTczb3dOOW04TFN2bUtF?oc=5",
+      "time": "11h",
+      "published_at": "2026-07-19T14:32:45+00:00",
       "sources": [
         "DeepSeek"
       ],
       "source_count": 1,
       "relevance_score": 0.63,
       "category": "融资并购",
-      "summary_cn": "DeepSeek最新市场估值超3500亿元，目前已经开始启动第二轮融资 手机网易网",
+      "summary_cn": "Deepseek完成首轮融资：估值3500亿 梁文锋个人持股31% 新浪财经",
+      "fallback": true
+    },
+    {
+      "_id": "DeepSeek_5",
+      "_source": "DeepSeek",
+      "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tQWRRWXVwZHUxNmJIZUhlc19XWXpVcVdYVlU1V05MYzNmT1lFSHp2b2gtVlRNUkZEWTRSbWpCbUhkNmFxWnk3Yw?oc=5",
+      "time": "4d",
+      "published_at": "2026-07-15T08:21:00+00:00",
+      "sources": [
+        "DeepSeek"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.63,
+      "category": "融资并购",
+      "summary_cn": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股 财联社",
       "fallback": true
     },
     {
@@ -335,7 +351,7 @@
       "_source": "Microsoft",
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjdzTC1XUGdXQkxVckRTM2JKX1RoaFI3ekgwWmYzQllnQl8wTEtBX3BISU9yWTRIMGk5bWNOMm9KRGpDU0NxS3E1bjR4bkczcXFweHhRZlJpandqbEVBa3I3VFFZdVNINUVVUXZTMExUZm5XeXhsYW1ld3JtRFM2QUtTSHBZcnJZTnE5Q1NLXzAyZmpPNjJrT1NMSnhtOGgzLVEzQURqV1dvbzUybWowLURacw?oc=5",
-      "time": "3d",
+      "time": "4d",
       "published_at": "2026-07-15T23:59:44+00:00",
       "sources": [
         "Microsoft"
@@ -347,27 +363,11 @@
       "fallback": true
     },
     {
-      "_id": "NVIDIA_1",
-      "_source": "NVIDIA",
-      "title": "General Compute: Inference Chips Replace Nvidia GPUs as Loan Collateral in Landmark $400M Deal - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS1Q5Qk01SXdMNHp3NndCaE11bWYyY3RwQVZtLWt4YWlvZXFKb0Qza252ODdlTUsxNVF0aDFCczd1MDVIYm1WTUxLOVMyaXgyZ2VRWDRuYm9udFdiUG9mYTZnZUxWVkZycUxBR09XdUNIV1ZLbHh6c0xfVGc2aDNIcUxuUXQ0aTJiN09JaVphaURXUHVydnZjOVZwZmhqQUszUzBGSWs2Y3c0WHFENGR4Ylcyd3lZb1JPZTdSNnYydlFQQU5XczhrUTVlNnFORzY2dTJPeVJ5TUI?oc=5",
-      "time": "2h",
-      "published_at": "2026-07-18T23:21:45+00:00",
-      "sources": [
-        "NVIDIA"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "算力供应链",
-      "summary_cn": "General Compute: Inference Chips Replace Nvidia GPUs as Loan Collateral in Landmark $400M Deal Tech Times",
-      "fallback": true
-    },
-    {
-      "_id": "NVIDIA_3",
+      "_id": "NVIDIA_2",
       "_source": "NVIDIA",
       "title": "Compute Exchange opens secondary market for used Nvidia H100 and A100 GPUs - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEtack1VLWV5X2tVWlFEVS1IYVhkbTdHeU9SQ0tPMUdWbFVmRHhwaW41emhiSVRKSmM4WFNaYVhoOGQ2T1dKYWNNLVBvek85dndPYnJLeE5jUHJqMUhLU0VoZmo0SkNmZDBGcUJHWnpwZ3M2dUhIRE9kT3V1T0ZxWDVvWE1nbW9jXzBweEc5ZE1ieUhuMEdLZjMyaTdfR3diMUZRRVpB?oc=5",
-      "time": "1d",
+      "time": "2d",
       "published_at": "2026-07-17T18:00:08+00:00",
       "sources": [
         "NVIDIA"
@@ -379,35 +379,35 @@
       "fallback": true
     },
     {
-      "_id": "NVIDIA_5",
+      "_id": "NVIDIA_3",
       "_source": "NVIDIA",
-      "title": "Nvidia RTX 50 Super GPUs are reportedly ready, but stuck in limbo due to excessive GDDR7 pricing — 3GB GDDR7 module costs triple the price of 2GB - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdVhjZDR1a09pdkV4SGxhdVdiYkFHWm9ta3pkZWtxTlRUVmxkWmhoTFBLNld5d2RvalFqeS1YcjRBV1RLUzlXVFU1Vll5cHlCR3IxbkJON1hlRGZ4MWp3UnJJT2QtWU45bWdxWHVKZWJGUE4tSmxRZmlnelZEamFpUDloT01kM19ENmpPdVQ1WG4zYUtncThwWEhZLXJHV1FaMUprVnIyTXlrVGFGWlhnUXUybFc0NUgwRUgzNG1vY29ZYm5ocVBiWFktdzA4bDJHQXpSWTNTSGZWdzItVDlvaWtKeTk5cGZYZlpibTNJd1B5U2JCSDZLdHZueTBIekk2a0RORHc1OUxZZUVMTmlJMDNZNVZsWkdsUmc?oc=5",
-      "time": "12h",
-      "published_at": "2026-07-18T13:45:42+00:00",
+      "title": "Why NVIDIA (NVDA) Is Expanding Its AI Leadership Beyond GPUs With Networking, CPUs, and Full-Stack Infrastructure - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUi10M1dwWHViZzRwdXJuNng0M0trYm9EZ1dQVWJMWGw4bmtvMThPdGUxcllNbWxPS3BMTjNaaWxTYUlJNUlRTDhYWDVTUk8tNEdidHdFZlgxRlpSVEs3YXRmM05UVGdSRkczaDV3R0ZLOE1aekhNRTQ1LU93WUtEUUxFdzROWnBxUGpmT1djWUFBMTBpOS0w?oc=5",
+      "time": "4d",
+      "published_at": "2026-07-15T11:48:20+00:00",
       "sources": [
         "NVIDIA"
       ],
       "source_count": 1,
       "relevance_score": 0.63,
       "category": "算力供应链",
-      "summary_cn": "Nvidia RTX 50 Super GPUs are reportedly ready, but stuck in limbo due to excessive GDDR7 pricing — 3GB GDDR7 module costs triple the price of 2GB Tom's Hardware",
+      "summary_cn": "Why NVIDIA (NVDA) Is Expanding Its AI Leadership Beyond GPUs With Networking, CPUs, and Full-Stack Infrastructure Yahoo Finance",
       "fallback": true
     },
     {
-      "_id": "商汤_4",
-      "_source": "商汤",
-      "title": "商汤发布日日新SenseNova U1 Pro，面向长程任务的交付级原生多模态智能体基座-AI云资讯 - icloudnews.net",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDa3BxalJPdkNzXzhJT1RrMDJQVHVOSU1rVkFra1pPUU9IRS1HVThrRFdYNFJhZjlvVklJWlc0MWdzYjUzMVZvVF96QlRpY1NCU0E?oc=5",
-      "time": "15h",
-      "published_at": "2026-07-18T10:22:46+00:00",
+      "_id": "NVIDIA_4",
+      "_source": "NVIDIA",
+      "title": "Nvidia and Japan unveil world's first national AI infrastructure — Noetra consortium to build a 140MW Rubin AI factory with 27,500 GPUs - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSk1Ld3Q1WUxiaWJESklyd0FyTDkzWVdYQTBCQThDZzVNRlA0ZXYyeE9ualQyX1dSMWp3aVRwOHhiSEdvZkp6SFNGb2lRY1MzQU1hT0VHOGMwZENGU3BNRzFnZG5KMTVJdGc4LTQtWWVLTzJNUHlHVHVMQW9jcXBxdzVteXJrbUFrdmkxSU5uRFUycUpkS29ZQXZUNEhQZTJ3NDh4SlR3RjE1UDIwQS14dWtFVExLb0xEeEVacWlHSzlZXzZEa2pIQzRwQQ?oc=5",
+      "time": "3d",
+      "published_at": "2026-07-16T13:43:58+00:00",
       "sources": [
-        "商汤"
+        "NVIDIA"
       ],
       "source_count": 1,
       "relevance_score": 0.63,
-      "category": "AI Agent",
-      "summary_cn": "商汤发布日日新SenseNova U1 Pro，面向长程任务的交付级原生多模态智能体基座-AI云资讯 icloudnews.net",
+      "category": "算力供应链",
+      "summary_cn": "Nvidia and Japan unveil world's first national AI infrastructure — Noetra consortium to build a 140MW Rubin AI factory with 27,500 GPUs Tom's Hardware",
       "fallback": true
     },
     {
@@ -415,7 +415,7 @@
       "_source": "拓维信息",
       "title": "AI智能体迎政策+技术+需求三重共振，算力/终端/应用全产业链受益 - 金股讯",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83ZXlHbHRHcEdOTW1YaUZ4c1lQYmR5NHdRLTdoZ25ZNlJfUXYxNTl5Zk8xMmloRUZRYnEyM1pncTRodGFZTGw0czAwb1VRcFlLVkE?oc=5",
-      "time": "4d",
+      "time": "5d",
       "published_at": "2026-07-14T04:41:04+00:00",
       "sources": [
         "拓维信息"
@@ -424,6 +424,38 @@
       "relevance_score": 0.63,
       "category": "算力供应链",
       "summary_cn": "AI智能体迎政策+技术+需求三重共振，算力/终端/应用全产业链受益 金股讯",
+      "fallback": true
+    },
+    {
+      "_id": "新智元_0",
+      "_source": "新智元",
+      "title": "中国队交卷，盲测打爆Claude！科学多模态统一AI来了 - 智源社区",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15cElFMlptQTZkWWJyeWtvLUFxclJaTm5VbmV4dmlPeGtfN0VNY0Z0R2lGTWozOVk1NS1KR0N1MDZ4TGlUN3NSRg?oc=5",
+      "time": "10h",
+      "published_at": "2026-07-19T15:30:00+00:00",
+      "sources": [
+        "新智元"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.63,
+      "category": "模型发布",
+      "summary_cn": "中国队交卷，盲测打爆Claude！科学多模态统一AI来了 智源社区",
+      "fallback": true
+    },
+    {
+      "_id": "新智元_5",
+      "_source": "新智元",
+      "title": "倒反天罡，AI开始给人类打分！Claude评分标准曝光: 优秀人类得7.5分|Anthropic|迭代|指标|玩家|概率_手机新浪网 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxNbHhxWGRCTFd4N2JxaDE1R3RFcC1iVzFvbjdVdm1STkk3WXdzQm41Vy1tcjltSGxqaTZQekFlU3pIVDd5X01KMzJ4cnhfeWNPSnEzOU9rMW9raE1nQkJYRHhUZUJRVkFXMW1OR2xVc1dRVEhzX0lvTFktd1ZiaG1Zc2Z5U3R6dkdUTnhBcU9TRjhITVVFaFJhcDZfYmNUT3hzdnhaRDBMOGR4RkhhTEFxV0M5VVRuWjlRV25sUm8wSEFkcjZuRmdLQXR5YUJ5cUgtMEU3aHhHank2cE1hc2I0dndEbW9pcVpyNmxRcUNiSWxNaENXbnkxcVJmS25YMWotdER0RGM3SldjY1N2bmpKS0JRVGxBNFJPcTBVQ2g1c3JwMzEwSExmSl9EaGRoelJUaW1PQ192UXpxUHhteTFuTzE3RGxXdEhzZW4zVDZHMVMydUVmZDB2SGFFT2xMSHRYNXNkNWJsYlZ2OWpyLWJ6bFVMYUhxSVhTT2N6YWJlZ2xHNGI1dmNzTngzODdHTTE2cG5KV3E0anZqb3FOaWFvaURJaEpKUzVacjk2NEJUZUZ4YmxrX3VtdXpFQ3BRcUxSMmhnc21rbDJ5V0ZsTWhzSHN3VnJub2FaYVFRQWVnbjA3aDlySTlMQU96c1FPUERwQnhxX1RKU1ktYmVGVVRoS0F3bVliUTRacjl0NmZ6UjBtV3pZdmxwcmNBSG9mY0k0Ri0wNS1WOGZxRkhCS2RVTHpvTVE5QnNfYzAxb1FvVXpKdVJrTTB0WjlFdWJtd1BjdTBxVndCNDhfZXhTVXlsc0ZZSEt5elNqVVotNTFHdVZsR2NhbWY5T1J5TGlWN1drUnpxT1hHMFFiOE5FdThzVUNneVozWDVLLXl3Ng?oc=5",
+      "time": "2d",
+      "published_at": "2026-07-17T07:16:18+00:00",
+      "sources": [
+        "新智元"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.63,
+      "category": "模型发布",
+      "summary_cn": "倒反天罡，AI开始给人类打分！Claude评分标准曝光: 优秀人类得7.5分|Anthropic|迭代|指标|玩家|概率_手机新浪网 新浪财经",
       "fallback": true
     },
     {
@@ -507,22 +539,6 @@
       "fallback": true
     },
     {
-      "_id": "TLDR AI_4",
-      "_source": "TLDR AI",
-      "title": "Claude Code browser 🌍, Cursor general agent 🤖, Claude Fable extension ⏳",
-      "url": "https://tldr.tech/ai/2026-07-13",
-      "time": "6d",
-      "published_at": "2026-07-13T00:00:00+00:00",
-      "sources": [
-        "TLDR AI"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.63,
-      "category": "模型发布",
-      "summary_cn": "Claude Code browser 🌍, Cursor general agent 🤖, Claude Fable extension ⏳",
-      "fallback": true
-    },
-    {
       "_id": "钛媒体_8",
       "_source": "钛媒体",
       "title": "商汤发布旗舰级SenseNova U1 Pro，多模态智能体实现长程任务闭环",
@@ -587,22 +603,6 @@
       "fallback": true
     },
     {
-      "_id": "Interconnects_0",
-      "_source": "Interconnects",
-      "title": "6 months to live for open models",
-      "url": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
-      "time": "6d",
-      "published_at": "2026-07-12T16:47:42+00:00",
-      "sources": [
-        "Interconnects"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.61,
-      "category": "模型发布",
-      "summary_cn": "The most serious test to date of open source AI’s viability is happening right now.",
-      "fallback": true
-    },
-    {
       "_id": "Latent Space_0",
       "_source": "Latent Space",
       "title": "[AINews] not much happened today",
@@ -623,7 +623,7 @@
       "_source": "McKinsey",
       "title": "AI in the Australian for-purpose sector: Laying a strong foundation",
       "url": "https://www.mckinsey.com/au/our-insights/ai-in-the-australian-for-purpose-sector-laying-a-strong-foundation",
-      "time": "2d",
+      "time": "3d",
       "published_at": "2026-07-17T00:00:00+00:00",
       "sources": [
         "McKinsey"
@@ -639,7 +639,7 @@
       "_source": "McKinsey",
       "title": "Pricing in distribution: A strategic growth engine",
       "url": "https://www.mckinsey.com/industries/industrials/our-insights/pricing-in-distribution-a-strategic-growth-engine",
-      "time": "2d",
+      "time": "3d",
       "published_at": "2026-07-17T00:00:00+00:00",
       "sources": [
         "McKinsey"
@@ -751,7 +751,7 @@
       "_source": "Alphabet",
       "title": "How Google’s New Gemini Rates Work and How to Track Your Usage - WIRED",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzlfYzR4ZnZEU1p1akF0SWFIV0NZOUp1bWNBOGZNenRjY0lOSnA5Z1I1SWliR1NoNTB0RzNwaEU3NXo3YWhuNTBSc2FRMktjSmhOdXhaT1o3My1XT2dtSFZOUnEyb0xHWHg4VHBTVDdxWmh0MVc5WG1kVFdVS1dEUWljMG5WLU5KNHpYZ3lsX0tRMmpl?oc=5",
-      "time": "16h",
+      "time": "1d",
       "published_at": "2026-07-18T10:00:00+00:00",
       "sources": [
         "Alphabet"
@@ -767,7 +767,7 @@
       "_source": "Alphabet",
       "title": "NotebookLM is now Gemini Notebook - blog.google",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenFHZ2t3dWNhTXZra1NQdFNEajg2VmtiY1hzdE1HOEFsV24xanBXLTVqU1lhR1JBRFdRNEp5UHd2Z1ZDUXZIRktyUktTam9LYXdoZF9CMFlKOHQxYlI2bDBzMDBLUkJDQWV6SnMzVVdfZGw2ckZWamVCc0RNR2tVcThDR05TSGpUdWdrUlh3TmtJTG44?oc=5",
-      "time": "2d",
+      "time": "3d",
       "published_at": "2026-07-16T16:06:27+00:00",
       "sources": [
         "Alphabet"
@@ -781,41 +781,41 @@
     {
       "_id": "Alphabet_2",
       "_source": "Alphabet",
-      "title": "NotebookLM is now Gemini Notebook, with 3.5 + Antigravity upgrade coming to AI Pro - 9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4eWFVN2lVdE5sd2ZfV3d3Z0prMTBWczZiV0tKMDJtWXJNVU5qaXI0Q3ViRUxZZGxqdFZmNHpjNkJha2lvcHhnazd6bkJiWlRQWS1yLV8ycTN6dS1scTNldjdTZnlhdG9SSjVEZ0Rn?oc=5",
+      "title": "Where is Gemini 3.5 Pro? The AI model announced at Google I/O is still MIA. - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45S215YXpCY2JjNi1SSC1qaXNFT0k0WjdnZ0FRcEp1anYzcjJaaEtwSkN0VTdvdWVST2VfN0M0WWtTVWpCVEs5TlBpMnliRENjUG5vYWJCLTY0anRZb2g0Y2UwYw?oc=5",
       "time": "2d",
-      "published_at": "2026-07-16T16:00:00+00:00",
+      "published_at": "2026-07-17T20:08:53+00:00",
       "sources": [
         "Alphabet"
       ],
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "模型发布",
-      "summary_cn": "NotebookLM is now Gemini Notebook, with 3.5 + Antigravity upgrade coming to AI Pro 9to5Google",
+      "summary_cn": "Where is Gemini 3.5 Pro? The AI model announced at Google I/O is still MIA. Mashable",
       "fallback": true
     },
     {
-      "_id": "Amazon_2",
+      "_id": "Amazon_1",
       "_source": "Amazon",
-      "title": "Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSTVGUFc3bk1YeUR3WVd2VzBtWmdCOElNbGx3NFhkQjA3cjBvSXZkcm43M080QTd5NjZEajFCMlJOblRYeHdEdTVQSi03V1NBekRLUzV6eUQzT1AxWHczdGVNYVlNYWUxb0JCMVNLWVU3cGNjSktwbzhPN2FMOGdzdEtMaUhKbHp0MEpHcV9oMDUxakM4cEwzWV9SWnVKSU1MMHFsdEs0MEUzUE5mbjFMXzJNYUh2WW1yM3o2WDZ2a25XWFRNRVNUTEFSVHI0SDdZYk1HdGphcw?oc=5",
-      "time": "2d",
-      "published_at": "2026-07-16T15:50:52+00:00",
+      "title": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base | Artificial Intelligence - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORktCSWpQYXlBU2Z6N0lQLXlKNnZCTi14LWVpN28wYlE1TnpHeXRYeDF6elJELWhvYnZ6M2ZQb01CbVRFUUNzZGFZS2l0eDctNktZVDJyV0QxRXlaRnJJSHdEVE1FQnd1VVJ3UUNncXlybVYyOUtTQUNJNzVuMjlteXFUX2pqQnBLV0MyWWFldXc2WG5qZG1RVGZpZFFWcUFXQ2IzelBzQlhNZlNUQ3NnM1BzM25pNnhUZnBGUzM3cThWdw?oc=5",
+      "time": "3d",
+      "published_at": "2026-07-16T21:29:14+00:00",
       "sources": [
         "Amazon"
       ],
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "AI Agent",
-      "summary_cn": "Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic Amazon Web Services (AWS)",
+      "summary_cn": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base | Artificial Intelligence Amazon Web Services (AWS)",
       "fallback": true
     },
     {
-      "_id": "ARM_2",
+      "_id": "ARM_3",
       "_source": "ARM",
       "title": "AMD, Arm, and Intel are battling for the agentic AI crown, and the winner reshapes more than just chips - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41S0FlQnFkZ1A4S2prRzM3MW03cnNkSmVYWjEtYVZvZ0l4NTc4TnRlekVGeXVVTkxyeWk2VlQzQUJfWVY3QVl4Zk1ubFVZNF9IS1U4b0hvYnhScXBEazFXRVc0aWI2YUhrcnFGZV9VcTNwZw?oc=5",
-      "time": "9h",
+      "time": "1d",
       "published_at": "2026-07-18T16:10:36+00:00",
       "sources": [
         "ARM"
@@ -827,12 +827,12 @@
       "fallback": true
     },
     {
-      "_id": "Broadcom_5",
+      "_id": "Broadcom_3",
       "_source": "Broadcom",
       "title": "Analysts spotlight Nvidia, AMD, Broadcom as chip sell-off opens AI stock opportunities - MSN",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRUdZbDRKMG1xdmhHdWU1RmNiRFpNczN1NU9fdjZYRTRjSnVISFJLd1ZGbjdGbTVLY0ZMQTd5NXdGSFBBMXRxMmh3S3c4TDZVY1M1X19sZnFkQkRfb0VLTndzMkd6T1ZiaHViRGhkdHdYZ3k5ZmViQ3hQSDEycTdkRnoxU1Z0WXU0LWFDTmd3eURZdTJmQmJ5VEE5VzlYd3JBY1JoVGdnNU5KNkhVdV8wa1cydlRvQ3YwdmxERGxrSGpkSDkxSG1WQzZzQmotSm93RENDc2luSHdHTmlwbkZXTHF2U1ZMRjByUXJyd2lvR0tCbFhEUGdVYjVMdHZNdDFSeVZBNg?oc=5",
       "time": "2d",
-      "published_at": "2026-07-16T21:51:22+00:00",
+      "published_at": "2026-07-17T15:48:33+00:00",
       "sources": [
         "Broadcom"
       ],
@@ -843,11 +843,27 @@
       "fallback": true
     },
     {
-      "_id": "Cohere_0",
+      "_id": "Broadcom_4",
+      "_source": "Broadcom",
+      "title": "The 1 AI Chip Stock I'd Buy Hand Over Fist in This Sell-Off -- and It Isn't Nvidia. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNjE2dXpFLThFYzRtM2FRM1B5MjBBeG5YTmlMNzZDWUxIME5nMHlFZ0MtTHNnN3NpSHg5U3JrcnBhbGV3TThtb0NCTllHZFZzSFg1RFUzRGtRZmxOaDQtcW0zTVZlMlFrdzVEaVNzYWpsWTA5NkZBekd0ZW91RE5FVGtEbVpiR2VONGpwV2dxeVM5ZXdXdXhVUUh6TmNaUmNiMnFWQVMzVUVaTXdsSFV3VEJ3SE9qTXI3b3RSWkxVSktGeks3QlFjT3FPWE5CRUh0U09xbE5HY1NTWTJ1NUlCYklLVHRzQlc4T3pCUkxhZlhJSjZt?oc=5",
+      "time": "22h",
+      "published_at": "2026-07-19T03:16:52+00:00",
+      "sources": [
+        "Broadcom"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "算力供应链",
+      "summary_cn": "The 1 AI Chip Stock I'd Buy Hand Over Fist in This Sell-Off -- and It Isn't Nvidia. The Globe and Mail",
+      "fallback": true
+    },
+    {
+      "_id": "Cohere_1",
       "_source": "Cohere",
-      "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026 - VentureBeat",
+      "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026 - Venturebeat",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY3NiZ2N1Sno3eC1sSWs4WEQ1VXg0NS00ZmlPazFiRUpZYl9QNmlEMGJDV2t1U2JPaWVPQ1JnaE9RS0NsYTAtRFU0MWdYM3hEUUNpUG9NRVl6eXlPclphYk5WWGJUcjhJWkppc1VaY09yQ2VXMTUyVVkwR2lBd1g4SXhrVGdqaUh2QXNrWndrSDk0ZDlRQWpDejZSQ2FhTHBzdkxEMlhDaDBzNjJvb1Ixd3Z0cjZEWTA?oc=5",
-      "time": "3d",
+      "time": "4d",
       "published_at": "2026-07-15T18:21:02+00:00",
       "sources": [
         "Cohere"
@@ -855,7 +871,7 @@
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "AI Agent",
-      "summary_cn": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026 VentureBeat",
+      "summary_cn": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026 Venturebeat",
       "fallback": true
     },
     {
@@ -863,7 +879,7 @@
       "_source": "DeepSeek",
       "title": "DeepSeek估值已“揭秘”：超3200亿元！至少两家A股公司已间接持股 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOeUdNS0pWTUFYdGoxZ1h2MjRNZWtKN2ZfRzJQZVU0X3B6UVo4OHFqRnlQZzN1eTEweHljemI5Y2doV0NuOFZQOHpWaWVPbzd5eFFqeXRNN2R6WnNFOGxTdU13R0V3YWFuTEFlUkxpaWs3bEdXOFpLSEY4QWVFenJ5alRjTGtnVGNlUnVJNHprXzlLTENlQ3BacEhxQlhaa25qQUxEbFpxalNkS3lVakxZbVZTbS1Ua2xxNjBjQ0F3akx6UlBPRDFIWEl0TU0yZTBFZm5WenVFWnNRQzBJeEFrRnViUmhzMG82elhJNHRsM3E3Mk42c293V2cxMkl5UENhOEpGVkV3WWVDbC1T?oc=5",
-      "time": "2d",
+      "time": "3d",
       "published_at": "2026-07-16T23:50:00+00:00",
       "sources": [
         "DeepSeek"
@@ -875,27 +891,11 @@
       "fallback": true
     },
     {
-      "_id": "DeepSeek_1",
-      "_source": "DeepSeek",
-      "title": "知网下架将DeepSeek等AI列为作者论文 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hWWVxSHBobzZVMmQtN1VaYmlleVlUdE4ycHpzWlJjVXZPQ2p4cnYyYWdSejM0Zm1pX3hhWDhDV0FranZ1WXlhajlzS282UXg4MndLMDNpSmNnMmZZOGgxMUpOSFhJUQ?oc=5",
-      "time": "2d",
-      "published_at": "2026-07-16T02:05:00+00:00",
-      "sources": [
-        "DeepSeek"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "研究技术",
-      "summary_cn": "知网下架将DeepSeek等AI列为作者论文 联合早报",
-      "fallback": true
-    },
-    {
       "_id": "Microsoft_0",
       "_source": "Microsoft",
       "title": "Microsoft CEO Nadella criticizes Anthropic's Fable AI over refusals in internal Copilot meeting - Yahoo! Finance Canada",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXRYWWJORmxiVy1WdWhuUG5JREgtX0VQOG4tUVRKOEtpSjhzamxPZWNYSUJFQm1VaHhZY0UzdUtEd3pBdGZhc2dLc2lpdXhzbmVnekU4SzB1MlQyT3RwbUhkUU1HOHBDbm5RN3lTVUJGS093X2ZVX2NMZWpBZC11eTZJdnlOaEUxTUxZbjkzS2FaVTgwLXRj?oc=5",
-      "time": "1d",
+      "time": "2d",
       "published_at": "2026-07-17T14:38:00+00:00",
       "sources": [
         "Microsoft"
@@ -911,7 +911,7 @@
       "_source": "Microsoft",
       "title": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled' - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMnpCZzd1bS1nd25TUC1xa2lISUM3LXdYbWFFZFBJd2xFUTFnR3l1b05DbUhYS1V1UjBDLVJmYTZmZ1RJNXJmMXNFWTM4eFBTREpKbE1xQU85WjhNX3BJcFRmSWdlQnFvajRxZFVZSzFzOXlnTEVkOEJkSzhkc0phNXJDdkVSMW5GbUFPb1JtYjRzOHctY2J1VjA2MnN4ODdLcFl4R1o4Y9IBrAFBVV95cUxNYlY4MnVoT19SZEltcVNPVk1adi15T0N0VExyYXpjMmozMmgtVnFaX0QyLVhlQlpNZkJtV1RBeS12WGVWRkV2OEZhNlVVV056bE90T0RLN3I5U3NEMHJFMW5pQmJubWN4SlZ4WkZoVUxrX0VIbjlNLXZROGVwc3o4ZjJqUXBzaUhOY3RtVENPZ3gzSXFNeXhpR2R3aTF1YklpYVFSdzJLalA3aXM5?oc=5",
-      "time": "2d",
+      "time": "3d",
       "published_at": "2026-07-16T22:51:12+00:00",
       "sources": [
         "Microsoft"
@@ -923,11 +923,27 @@
       "fallback": true
     },
     {
-      "_id": "Oracle_2",
+      "_id": "Oracle_3",
+      "_source": "Oracle",
+      "title": "Oracle Goes All-In on AI Agents for ERP, Leveraging Codex-Powered Development Platform to Accelerate \"Platformization\" of Enterprise Apps - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vN1F4TFBWTWxyQWlVS2Ryd3BEM2RWSFJablhuYVJ2a254X3BialN4WFZkYUowVjRMajJMSmo0dDVIM2RIaHFTeDJIcU52RWstbHBNUHBVN0JydDdwNm04Y0FZQ2pxR2lQa3JoOW9nZlZmdDl5dkE?oc=5",
+      "time": "1h",
+      "published_at": "2026-07-20T00:05:00+00:00",
+      "sources": [
+        "Oracle"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "AI Agent",
+      "summary_cn": "Oracle Goes All-In on AI Agents for ERP, Leveraging Codex-Powered Development Platform to Accelerate \"Platformization\" of Enterprise Apps finance.biggo.com",
+      "fallback": true
+    },
+    {
+      "_id": "Oracle_4",
       "_source": "Oracle",
       "title": "Chris Leone on Oracle's Fusion Agentic Applications and the Future of Enterprise AI | Cloud Wars Live - Cloud Wars",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGRMUUVPUTJ0S213ei05SGp2YTBnMExYbjhNZElqY2Y2QXVaNlNNR21VNlZJaG9EZkFBOTlWeVNldXR0MTBGQzFSSEIxSzJ0NE5vczJweWQ3X1JaWllzVHVpRmtJNENBTkxyNHI3S2JyUWNxMHNrVmdlbkVqNUdLLS00QmphM0x6eXJraWFqQ3hXU29SWERCbkVHUThYSFQ3WjFuWnNQZ1N1QThkTHpRNlZwQWduTnRyblRCaFpvVUNVeFdyX3c?oc=5",
-      "time": "4d",
+      "time": "5d",
       "published_at": "2026-07-14T14:00:00+00:00",
       "sources": [
         "Oracle"
@@ -939,27 +955,11 @@
       "fallback": true
     },
     {
-      "_id": "Oracle_3",
-      "_source": "Oracle",
-      "title": "Oracle Introduces AI-Native Builder Experience to Create and Run Agentic Applications in Oracle Fusion Applications - Oracle",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORnc4QUJaUERaQ2h4NThQcXFZcnNJSTFGWlZIQXlEdi11VVd2RWl4OG1FekdFY0tNS0tiNU1rN3liMmZwRnIyUUZLOS1FTkNPZUE5LTE1Y0h3dFpkOWRNa2dOcWswOTF5ajk4czl3TXZ6TVBwaEVCWWE0TEdLMEIzY0R6d1VhNDRmdm1zaUQzMVlXeUVVeC1YaWFERHZyWlA1?oc=5",
-      "time": "4d",
-      "published_at": "2026-07-14T12:44:15+00:00",
-      "sources": [
-        "Oracle"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "AI Agent",
-      "summary_cn": "Oracle Introduces AI-Native Builder Experience to Create and Run Agentic Applications in Oracle Fusion Applications Oracle",
-      "fallback": true
-    },
-    {
       "_id": "Runway_0",
       "_source": "Runway",
       "title": "Inside Our Approach to Building Runway Agent - Runway",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBVGlVRE56eWNhVjhmSkNKMmJhSm04ejZqdDI0aEUyeEdjSXhtY1RCQUl2azg2WXg1VDFMRVZrM3I4YTh5ZHMyNEdhOEhQbDI1NFdEaVF5NjVTUHltZ3VCRWdGQm0zb3d2SWhhcE52SEZ6N0wx?oc=5",
-      "time": "1d",
+      "time": "2d",
       "published_at": "2026-07-18T02:00:36+00:00",
       "sources": [
         "Runway"
@@ -971,99 +971,51 @@
       "fallback": true
     },
     {
-      "_id": "中际旭创_4",
-      "_source": "中际旭创",
-      "title": "中际旭创通过港交所上市聆讯，拟募资约70亿美元或成年内港股最大IPO - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxQSU1wdnhqSkM5ZUVxSzJtMXBwNHZRdnVMT1RYVHpGN2tBX3hMbWZ4SXAxMUo1U2NZZU1MLVd1djZ1dVMwcGlxVzdQNGYtaUdkZi0tSFZYYlFacUpETVpIU2ZtYXZSUklRNnk4clhNVzVTSEwyVEllZEdGVUY5YjFqbHo5NVdvRUUtakd4dGdFRlVUaWNnS1VuNTdObEtJUEJCTFBtZHZLRkFhOGVKMnk0ZE14a0tCblNHLXRnaDY4eF9NYTh1b1ZZYWt3UTVCbUREUkZsSFVBZVliZEhDeC1vOXk3VzdfbXNYVC05Tm1ndDBVMm9JdWpuUTdyUTY5ZWVMZGhOVzhrdDFMQjZiU2JfSTdOV3RVd2N6dW5OTV8xalY0Y283UWdnNUl5R3JLcVA4b3owQXBFSV9IeHpmS1BBS194SHVrLVhPWmtILU9NWERpZm40eUhXclZFMGxfTExjSGt5dTJEb3pnSzQxMlo0ZHM2V0dfdEZDazd6M2FrU0RJVy00S2tseVhBb2liX0JNa0ktOEF4Wi0wTzNyT1gwc0lFTm5NQV9aanM3WVBFMGF5bl9RbHp6dnZfZy1GU0pwVFFtVGFZb0NkVnVscHNzb0gtMktlUk1xaXJ1UUlpaC1fTXhBRmxyOS1zQXl0VW1EMk9KMS03a2hGWml3Uks4MlBhcE9xbUp5OXgtaFA0Y3lITy1ma09hX3FBbkotbUlMN1dB?oc=5",
-      "time": "15h",
-      "published_at": "2026-07-18T10:08:56+00:00",
-      "sources": [
-        "中际旭创"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "融资并购",
-      "summary_cn": "中际旭创通过港交所上市聆讯，拟募资约70亿美元或成年内港股最大IPO 新浪财经",
-      "fallback": true
-    },
-    {
-      "_id": "中际旭创_5",
-      "_source": "中际旭创",
-      "title": "中际旭创冲击年内大型IPO，光模块行业成长空间持续打开 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUkNNeE05N2t6em4za1lsSHRWYXM2aEpCM0lvQnJkNG9VTm5yRzN1Nmw1NW55QXNieHhwZHhaOC1xMjNhVmlmNjNkZWZEX1BKYl81WENIejdBWWxlTnpKMnA3dEl0elJ0MFQ1eE50X0ptVXNKV0VWR1ZWcDFwVC1CMUZmWWJhLUFPZlE?oc=5",
-      "time": "13h",
-      "published_at": "2026-07-18T12:28:18+00:00",
-      "sources": [
-        "中际旭创"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "融资并购",
-      "summary_cn": "中际旭创冲击年内大型IPO，光模块行业成长空间持续打开 新浪财经",
-      "fallback": true
-    },
-    {
       "_id": "商汤_1",
       "_source": "商汤",
-      "title": "商汤大装置杨帆：今年，“商汤号”系列算力卫星将完成首发并组网 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXFUV0JTUDFzOTQ1bTdlVDVRU25jcm9DZGMwX3Y5WDdHbklFMFdvazlfRjlBengtT2M1WmdoaWxzSGtsemxQSkpFb0hJSU83djk2YW9JM0NOb3B5elFteVFlbl9ja1lZU01zajR6NU9nZnRvOXVPa1haekFIR3lMdEZGOXZqdGNpTU1jQThlQlA0MWNYUXV5ZHk5d3dHNVhGbmEtMEJPMGZaNFVFcXRnZEJ3?oc=5",
-      "time": "5h",
-      "published_at": "2026-07-18T20:37:30+00:00",
+      "title": "对话商汤林达华：多模态是 Coding 之后的下一个战场 - 雷峰网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fTkc1VFozOUVMdUZFdC1GNkk3M0pyVG44aVQtSENqUUNoSENtOUV6Q1dpLWtCaFlYamIzUWV0dWJmeDBtREVBc05SUW9jS0ZvaWpJVmduLUkwLVB3UGpFVE1qYU1MWmQtakZ4MEQ1VHNLdw?oc=5",
+      "time": "12h",
+      "published_at": "2026-07-19T13:19:00+00:00",
       "sources": [
         "商汤"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "算力供应链",
-      "summary_cn": "商汤大装置杨帆：今年，“商汤号”系列算力卫星将完成首发并组网 新浪财经",
-      "fallback": true
-    },
-    {
-      "_id": "商汤_5",
-      "_source": "商汤",
-      "title": "国星宇航与商汤共建太空算力星座：规模将达千星万P 首批算力卫星即将开启组网验证 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fU1JWSHZOZ2hwbEgyZFlSdXB3MFZMMTRBbVI5d29xX0N4YVZGUmpkQXJkNldMeHpyUFp2cFJMTUZBT212M2VtUm5fYllnUlFVa0lyWGRxeUtNS0hlRDM5VDVneGdmZw?oc=5",
-      "time": "1d",
-      "published_at": "2026-07-17T04:03:12+00:00",
-      "sources": [
-        "商汤"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "算力供应链",
-      "summary_cn": "国星宇航与商汤共建太空算力星座：规模将达千星万P 首批算力卫星即将开启组网验证 东方财富",
-      "fallback": true
-    },
-    {
-      "_id": "字节豆包_0",
-      "_source": "字节豆包",
-      "title": "继豆包后，OpenAI也盯上AI手机，这是一场豪赌 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tNTlWVVhzSHZ2d3MtdWhjUENVR0dHU0xURk5xQ0kydHFZd29LaGpKaGpNcDMtZ3d0dkJtSjgwSW55X1N4SVNhd2FHbU9XdWJZOElZblZIdkIyU0FEZ1RvYnBQYU9fS1dMZXFiaktvLTNfdTdPR1B3SndjTkxVWGs?oc=5",
-      "time": "17h",
-      "published_at": "2026-07-18T08:48:00+00:00",
-      "sources": [
-        "字节豆包"
       ],
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "行业动态",
-      "summary_cn": "继豆包后，OpenAI也盯上AI手机，这是一场豪赌 手机新浪网",
+      "summary_cn": "对话商汤林达华：多模态是 Coding 之后的下一个战场 雷峰网",
       "fallback": true
     },
     {
-      "_id": "寒武纪_3",
-      "_source": "寒武纪",
-      "title": "寒武纪、海光、兆易同步披露消息， AI 芯片产业链现状一目了然 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfd3VaS3NsZGQtMGpuZW5tSll3cUpENk1DTDFGWE1JdWU2b0Z4YS13R2lDVlhybXVad1dVaVMwcWVweHBQanBlbjVsbFR1dTV1Rl80OVEtclo1eWlhTlBhNDR3?oc=5",
-      "time": "4d",
-      "published_at": "2026-07-14T17:34:44+00:00",
+      "_id": "商汤_2",
+      "_source": "商汤",
+      "title": "日产Token10万亿后、商汤算力要“上天”，目标建覆盖全球的空间智算网 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ReU8yMWJUVHBydXFxV1B3STNieUtJTEZTb1NRbTEtQTcyU3hYSHF2STBYVnBXU1NHbGdxQUk2dVluU1ZDOGtTd0hiOXpIUm80cFJGZjR1WjJvdVVXcy1DSA?oc=5",
+      "time": "13h",
+      "published_at": "2026-07-19T12:57:51+00:00",
       "sources": [
-        "寒武纪"
+        "商汤"
       ],
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "算力供应链",
-      "summary_cn": "寒武纪、海光、兆易同步披露消息， AI 芯片产业链现状一目了然 手机网易网",
+      "summary_cn": "日产Token10万亿后、商汤算力要“上天”，目标建覆盖全球的空间智算网 东方财富",
+      "fallback": true
+    },
+    {
+      "_id": "商汤_3",
+      "_source": "商汤",
+      "title": "太空算力，开始进入AI产业链 - 麻省理工科技评论",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLYWpLSGwyRGNQdnVJTFktSFVPSHhJbEh0a0k0T2ZUYVl6SXplS1NiS0hGdC0wQ1lLbGdFUWJIN2FXa0UyTThtYlFfcU5vU3FKdGZMeTFSZw?oc=5",
+      "time": "14h",
+      "published_at": "2026-07-19T11:50:30+00:00",
+      "sources": [
+        "商汤"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "算力供应链",
+      "summary_cn": "太空算力，开始进入AI产业链 麻省理工科技评论",
       "fallback": true
     },
     {
@@ -1071,7 +1023,7 @@
       "_source": "拓维信息",
       "title": "周五早评：天娱数科、拓维信息、浪潮信息，AI算力还能不能拿？ - 财富号",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52VjFXMEN1TmtJRUZJY0lLNndGdThoMTc5aDBjMTN1Nlo4X3JoNVJNWDZsbWNBTUF3Ym1scFp3UEVKSVBLZTR4VUtleEc2UFpBMXY2LUkxRGhfOElSVTBZcDBjMndIX0l3UGpn?oc=5",
-      "time": "2d",
+      "time": "3d",
       "published_at": "2026-07-16T22:10:00+00:00",
       "sources": [
         "拓维信息"
@@ -1087,7 +1039,7 @@
       "_source": "拓维信息",
       "title": "AI算力利好不断落地，拓维信息反复冲高回落的真实原因 - 手机网易网",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50RWttRkN6dlFjcGhxZXJvbW41b2NhZTkxcS1fMnFRbjlHUVNUR2lvWnR5RzF1RDJ3a1N2OVB2MDJUQk1aeUdjcGk5Yk8yblU5cGZ0aU9IVTlEaTliWkV4T3pB?oc=5",
-      "time": "1d",
+      "time": "2d",
       "published_at": "2026-07-17T17:59:08+00:00",
       "sources": [
         "拓维信息"
@@ -1099,27 +1051,27 @@
       "fallback": true
     },
     {
-      "_id": "月之暗面_0",
+      "_id": "月之暗面_2",
       "_source": "月之暗面",
-      "title": "中国AI公司月之暗面发布全球最大规模开源模型 - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPd1JYUmFMRTc0V1RFZ2JYWE0yZkVQS1VtV1pabnZOXzE2VmVhSUFEb3hWUWczaUxfamVkU0JwcE1BY29HLW14dm4zR05MWTQ3SzVOSkVLUkhSWmRSRy1NWXF1LXl2dFVLRjJua3Fpcm5sZFpyUnprN0hNNDdsRXY5dy1LSDRzZi1sMGFKNm96aXVPQ3B6VVQ4UEtaVzNsTEljZ1lydExlMnp4bFQ0aFBsWnRGWFB4MjF5dWhEY2szcEFGNG1WVnFHNy16T0laQ0FjUUNnYmx4M1pod0dob2NHdnZGRERFV0E0emRZU3Azd05OMXh2bmV3cE9sVC1kNEpQN1VWX2w3M2YycHdSRk5fLUxURjVWVU9uTWFEZTN0R1JzMFFmdkt5aE81R3I2eDRMUExhZndpSkF3U0HSAbsCQVVfeXFMUHQ0dk15M192ZDczNTdBcVJLMFp5WkFSZ3hZLTJTZmx6SkZ5Q2kweWs2WnVoWE02eDRSVG16SGMxd2lVRWhuQWluaGhoRW5TVS1CcUctQ1VxQ0JLWUstd0l1SkJiSUM4YzBJcndXYTFXZG5CS1BpbmhWQ0dPZTlUYWtWWmdpZDFYTVBSaFBKczh5dTY3bmg0N1Y5Q0Y1QnAxZlFnLUNrUmF6Nzl0QlM0MHgyMlBoc05sN0tvMEhieHRNb2dmUUFodVZ3RGZHMDJOUlhreFk4YVNzaExFY2lEVk5WQ0k2ODZ1UEZoX3BPT0RqOGt4UG5aUk1rbW5PMVJ0T25EcWYwN0dqNVlHaVFudTBmVGZCVVU5LW02dEZKcG1hR1lmdVdsSGNJRXc4NXdJcl9rc1ZBRDlHRHZr?oc=5",
-      "time": "1d",
-      "published_at": "2026-07-17T14:15:59+00:00",
+      "title": "算力紧缺，kimi暂停C端新用户订阅 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNRVI4Ylo4Zkd6WUxWcUxQeGxMeHQ2VXRwRVpRRklMZkczZDF3aXUwUUxfeUtpUi1iZlREVk9ibUN0UlN3ZU95bHZWQWY4MkYySVVDNUFMS3pWLWNjNVVWSHZkNUg5VGtXRmpEYTlUU2F1MDcwRWJtZA?oc=5",
+      "time": "2h",
+      "published_at": "2026-07-19T23:41:07+00:00",
       "sources": [
         "月之暗面"
       ],
       "source_count": 1,
       "relevance_score": 0.59,
       "category": "算力供应链",
-      "summary_cn": "中国AI公司月之暗面发布全球最大规模开源模型 DW.com新突破 中国企业发布全球最大规模的开源模型Kimi K3 新华网惊了！Kimi K3引爆“Kimi时刻”，吓崩全球AI与芯片股！ 新浪财经实测Kimi K3：强得意外，慢得着急 thepaper.cn消息称月之暗面Kimi已通知投资者调整公司架构，有望最",
+      "summary_cn": "算力紧缺，kimi暂停C端新用户订阅 新浪财经",
       "fallback": true
     },
     {
-      "_id": "腾讯_0",
+      "_id": "腾讯_1",
       "_source": "腾讯",
       "title": "复旦与腾讯混元联手，让AI\"学徒\"训练效率提升2.29倍的秘密武器|复旦大学|语言模型|Qwen|徒弟|控制器_手机新浪网 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPMDBuaklRdzJIaGZpY24zSnBJcXpIb2lZbDdXUVFsVkl3cDBYWW1aVHQ4UjZzWGRJOHk4UmtpZVliX0FBbWZxdXJYWmZTNVdub1lYb2M4QmJHM3RhVDFoNjVhWXZoZFlaQnVnWVZCTlFLNWUzUFdtbU1Sa1NjNGNKY0RzazRGbnZUUWJ2ekt3YmpHc2hCVHdRbm9uWmNLai1zOVpGblM5dWNWSzZlc1RDRjBQMG80RGc1TlpnWnNuYWV3MUJpd09mRElNME96UklBYndIdjVGNF9KanZIOHZjMGZuSlFxclAySHAzSFkyOUdjM1ZleUVzcmtKOGdTYlh0TWZWQU1JZjBGcGw3dHctZjBQSHZ4WExGNlhBYWEtZkh0VzAw?oc=5",
-      "time": "1d",
+      "time": "2d",
       "published_at": "2026-07-17T23:57:04+00:00",
       "sources": [
         "腾讯"
@@ -1131,11 +1083,27 @@
       "fallback": true
     },
     {
+      "_id": "腾讯_5",
+      "_source": "腾讯",
+      "title": "腾讯盘中涨超4% 腾讯本月初正式发布混元Hy3大模型 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxQZ0dqWXdsbTVHQjUzNU1YMGJGbEl4LUMtT0xrQ1RWSGM0d1J4YXpyVVJXOEFQUDYyX0lWdWdESTlhczhoeUJWeThMTmtTRmlPMjdnV21qX2VUbWZYVEhCQlF6OEhJZEprZkVIQ2UwWFFObmNxQWZvcXJ0ZmJnY205dS1lNFNxUzFsbDhfS2FMRExRV1NRZHRRMDhMcEllTlBScWJFR3RTYnN5Y21LVk94OTNVR0VWdW41UHZ0bDFQTUNZMDJkTklma1RIODdfNG5qS09OLXlVY0R5a0JpOVFMZklJdk1nNXpEQVdieVJEaFBGdFhIc0pUWVcwUlRpT1RoTUZJcm5lRlh1M3BMcDZwVGJudkV0YVhQY2lQcDBfMWNvdDc5eXgwX3lORXZsTzNITElPbjNHRTM4dHBxOWp4N2g4OTlqN0lsYmpXOFpHSU5YT3d0Z3ZtWlBmcEk4R2JoeGNxd2pIa3R2X3dZYnNkdXNXOUpYR2xtQkgxNXlCc1daWmVJWmswM2dvdG5HVzVyWndKcXphMm9lOFhJYkFvZEpjMTlPVDN2X2IzS1pxR1IyLWhLaUdqc0lwcVBGdjV3Z3AwTmtoa0FiWC05VlIwcjNUeG9jTldTYnZWRm5HdnVITVVpRmhqV1VxenBXWEV0NmtyMkNmZHJ5WkF0ZVBwZGVLMVNMZjBELWlnSmdsVUZwMnRLeEZkRHdOMEtoUEdQUlp3?oc=5",
+      "time": "4d",
+      "published_at": "2026-07-15T07:00:00+00:00",
+      "sources": [
+        "腾讯"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.59,
+      "category": "模型发布",
+      "summary_cn": "腾讯盘中涨超4% 腾讯本月初正式发布混元Hy3大模型 新浪财经",
+      "fallback": true
+    },
+    {
       "_id": "阿里巴巴_5",
       "_source": "阿里巴巴",
       "title": "阿里巴巴盘前涨超4%，千问大模型将集成至苹果智能 - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXQtN004dmJmRnBXVlZyaTVET1lHRHFGalNlN0tBam5kWG8xendvSDltbHBSQ05SSHBsTGhOQjNKUnh5a29pck1WOEhQdkpFYmFLLUdXWHJNYVF1Z0FVQXlXaDR0LVlHMjFKMkJETkk1NFhpVml2LVEtRHkwSWREcDU1SUd5dmktdHNDTl9ncFdvd09YUnNIQ0RyZXhTYjRWZkdwTVFmY19WN2M?oc=5",
-      "time": "4d",
+      "time": "5d",
       "published_at": "2026-07-14T20:19:00+00:00",
       "sources": [
         "阿里巴巴"
@@ -1147,27 +1115,11 @@
       "fallback": true
     },
     {
-      "_id": "新智元_0",
-      "_source": "新智元",
-      "title": "从Token Capital到企业认知主权：别把大脑交给大模型公司！ - 智源社区",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14UldJN0ZrMlRySDdKZzYzendDSktQbHF3YzhKX2RkZTRVNU1jR21VWjVsZlRhb2xCTDFBMDlTd2wwNnJsOE90Uw?oc=5",
-      "time": "11h",
-      "published_at": "2026-07-18T14:30:00+00:00",
-      "sources": [
-        "新智元"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "模型发布",
-      "summary_cn": "从Token Capital到企业认知主权：别把大脑交给大模型公司！ 智源社区",
-      "fallback": true
-    },
-    {
       "_id": "新智元_1",
       "_source": "新智元",
       "title": "AI打工大排行：Claude Fable 5自动赚钱的能力，是GPT-5.5的2.5倍|Manus|ChatGPT|模型|人类|客户_手机新浪网 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPUmtKdGFEakJTMFFvYV9MUU9OTU9SMHNtQWIwUFBrWmJ2a3lmUDBEay1Na0lOR1lMaWFPdmczQWhYTk5NdUVXVkJPUjJvSl9TRzN1bEZoeWFxTl9CbzFxTmozcEhrZ0ZjMnZYLW1zYkNSUDNoNXlmYjQ0RzM4S0RISmV6QnVQWV90d0RlNW52WkgtTWFvV2JCZXB0bXhqX2RpX3RzMDJzWllLN016bjI2OGxGZlpfWVU1dVl5clZFeDNFbVVKVWljSWt4cGhXY0RRc2s2V1daTDVjUi1ERk5GaFVTSHJMcnotQ1c1UjdFbnRfS3Y0V01hN1NnRWt1VGo4WUtrd0xRcUo5WHplWGljRXpKRHJUVnVtWHo2SnZiWDFuRVFqQ1ViOXBaTlZubXdQdzc4VW96VGd3X1BGVkRvdHQ4WHR6anNTbVkwXzdWM2tDS1N3M2JCOV9NeHpqM19ZcDRvUkRyang2bEYtN1V6Q1ZmMU1qQmVheV9wT1N2QmRvTWZmcWxGLWNVMUp2dS1TT0dQSW1FSUEzWEV2Z1BwdkdZd3o?oc=5",
-      "time": "15h",
+      "time": "1d",
       "published_at": "2026-07-18T10:29:11+00:00",
       "sources": [
         "新智元"
@@ -1176,54 +1128,6 @@
       "relevance_score": 0.59,
       "category": "模型发布",
       "summary_cn": "AI打工大排行：Claude Fable 5自动赚钱的能力，是GPT-5.5的2.5倍|Manus|ChatGPT|模型|人类|客户_手机新浪网 新浪财经",
-      "fallback": true
-    },
-    {
-      "_id": "新智元_2",
-      "_source": "新智元",
-      "title": "Claude Code之父的夜班AI军团，Fable 5两个命令搭好 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZDNQZEJKR2lQS3JyWHRVbmU3eGYyRjFIYk1selVwZHh2SkFVX2NuaGlOV1hKVjJuZmk0S29sdmtWdE9aUlRBLVVoRHJuVWt3WWJpLUxoV3FNZFlaUmVnei13Ml9ad0xKZ0NwbjhXdEFCVDA0a29qSTVYOUtqQi12cHJPRHNkcUph?oc=5",
-      "time": "13h",
-      "published_at": "2026-07-18T12:05:00+00:00",
-      "sources": [
-        "新智元"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "模型发布",
-      "summary_cn": "Claude Code之父的夜班AI军团，Fable 5两个命令搭好 搜狐网",
-      "fallback": true
-    },
-    {
-      "_id": "机器之心_4",
-      "_source": "机器之心",
-      "title": "为什么前沿AI公司都想自己造芯片？ - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JYlU4QkZRNWFud25GdHZ6TExObWRwY2l4QUl4Y0pnMmlnVFVkTW9NZXduX2k5T183eGxEUWJyZlRNM2paZk1WOXpDVHVYOU01OGdLdFdsRElDdHhaNHhJSE1R?oc=5",
-      "time": "5d",
-      "published_at": "2026-07-13T02:34:28+00:00",
-      "sources": [
-        "机器之心"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "算力供应链",
-      "summary_cn": "为什么前沿AI公司都想自己造芯片？ 手机网易网",
-      "fallback": true
-    },
-    {
-      "_id": "机器之心_5",
-      "_source": "机器之心",
-      "title": "仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxUUNwbzdZS1p0bHRGRkpMX0M5N2RpMUZ6UG4yM1FEd0E3Ui1rVFBOOW5sTTVlTThsQ1V5RlE3MElGUXpXSDNvaXZjRTg5ckZUNTNHakRnVnY4dkJBS05IX1pR?oc=5",
-      "time": "6d",
-      "published_at": "2026-07-12T09:18:28+00:00",
-      "sources": [
-        "机器之心"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.59,
-      "category": "模型发布",
-      "summary_cn": "仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒 手机网易网",
       "fallback": true
     },
     {
@@ -1407,7 +1311,7 @@
       "_source": "Amazon",
       "title": "Introducing Grok on Amazon Bedrock | Artificial Intelligence - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanEzdlpLRFpidXcwVi16QkhRQTJNSXVWTWZlWUJTSlFYSVYxZ2Q0Z2JhWHFrX1ljcXFhRm1kazJ6VkdGa3cyb3dZeF9BaW1ORjNsc0pUcnlLcmhkV2YxcVVVWTJrbXhXSmpDREhkZ3R3TWMwSU03dnZNVG9oSE5hR1ZkVUpBM01G?oc=5",
-      "time": "2d",
+      "time": "3d",
       "published_at": "2026-07-16T19:29:26+00:00",
       "sources": [
         "Amazon"
@@ -1419,43 +1323,27 @@
       "fallback": true
     },
     {
-      "_id": "Amazon_1",
+      "_id": "Amazon_2",
       "_source": "Amazon",
-      "title": "The 5 AWS Services Every Developer Must Know to Build AI Products in 2026 (With Real Projects) - HackerNoon",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVS1Tc0dubklwOVlGV1FTX3ZCZ21WV3UyOHgxWEFpaFRLMEh2YTZ2SWZ3MTJXY3ByXzRFUGlGV2xKMVlCX1RiekNZMlg4SkFfNW5NLUFhLWw3TmRHZzN6TzVVazdqeXB2WUtqeUx6Nk9UN1hIYm9QMmJ1WEVmc1FsRmFvUHZMdE9SOXlQTDNTUEEtRTE0SFNyYWdQTW91cFIwUm10WGlEN0ZFcmRwdEVmV1lNRURvQQ?oc=5",
-      "time": "15h",
-      "published_at": "2026-07-18T10:29:02+00:00",
+      "title": "AWS EC2 and AI leader Dave Brown to exit, replaced by Amazon exec and Microsoft vet Dave Treadwell - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGtPdTVpbEt4Y2gwdlpMOVd6ejBLRkVaUjluRDZyMUhnWjAzYjY3Tms1a2RDbnVUM25UMm9QR3Rlamg4SlEyM1ptTmM0bjFuU0JkTlp0Q1hDTW4yUE9MckZfZmZRdjNKLWhJMzRpajZ2SDBDV242U0lEYkJVZXpFMENPMEVDMUtobllxeEdhVnVyZFFvUmpRVGhSZDRHbDV3MlhpNGs2UmtKdzBxQW8xU3RNemdRQzJ0ajliZVZ3SkM2TlJxODhn?oc=5",
+      "time": "4d",
+      "published_at": "2026-07-15T19:40:56+00:00",
       "sources": [
         "Amazon"
       ],
       "source_count": 1,
       "relevance_score": 0.55,
-      "category": "产品动态",
-      "summary_cn": "The 5 AWS Services Every Developer Must Know to Build AI Products in 2026 (With Real Projects) HackerNoon",
+      "category": "行业动态",
+      "summary_cn": "AWS EC2 and AI leader Dave Brown to exit, replaced by Amazon exec and Microsoft vet Dave Treadwell GeekWire",
       "fallback": true
     },
     {
       "_id": "ARM_0",
       "_source": "ARM",
-      "title": "Arm Holdings (ARM) Is Down 17.4% After Global AI Chip Pullback and China Export Concerns – Has The Bull Case Changed? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMzlYaG1IbmtFbjFVQlhlNDdlVzdLTG9NLUpVZXhNOWg1d1RmZjdYVUJmX2VyOHRGbThBUThRX3UxYl9zclJ0MDhaVVNhRGQ1LVR6ZmpSSFJLbjJxdVhjVFNDd3ItTFZnMUR6QTlPeHRsaU5uQ195V3UxdHhLejNaTXhMdEltNzdPaWV1OU42SWNfaFNRMWYwaWlCbEp6MmFzTXRxRnZ1SlFsM195RUVqNGRSUVNsbkdzMVpZY2RMdW05SEEybWtOd3UxYWllMkVLelHSAdcBQVVfeXFMT0VnaUV1ZFZMUkpCUW1ETkJMZzNlWGQtT1lkQjNSNWFFLWRZZ1RpOHVDMV80dDAtNlZVdEhfbkVwcWRfRlBja0JrYjcxOG1NMmIwcHNOZGU1aEtrdWNwS3o0dGJzS3RZQUhtSnBwdFp0cEFwZHRjS3cyTE95aEdjeHEzVGtMTG9ZUjFMR1ZuLUwxbllBZC1zaVpTeWxacnN5ZmNiNnhOUC15Q293QVFBZkxPc0Nxb2RnWW4yMG1QNkt1UUV2Sy1XYzM4QnZmYmVaYVN4V2x6RE0?oc=5",
-      "time": "14h",
-      "published_at": "2026-07-18T11:38:02+00:00",
-      "sources": [
-        "ARM"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "算力供应链",
-      "summary_cn": "Arm Holdings (ARM) Is Down 17.4% After Global AI Chip Pullback and China Export Concerns – Has The Bull Case Changed? simplywall.st",
-      "fallback": true
-    },
-    {
-      "_id": "ARM_1",
-      "_source": "ARM",
       "title": "AI Chips Update - Arteris Arm Partnership Strengthens AI Chip Security - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTnpsQUtsMmx2MnFQNWtiZEpCXzJuSTR1SE9RLTEySVNueDJiRUJiYlZ0MHdZS0xBX0xQaXpZRDdhbFJ2VHBhcURrb3ZzejhQbkVCeHJCM0JEcmhDUEhjQ1BuSlpNZlBqSkRJLXNzOUV2YjlqYjFGaFhIUXhpT1pyU0htZGRSWUFoMEpTNXdqTUdudnVaVEY3WXNWRnE?oc=5",
-      "time": "3d",
+      "time": "4d",
       "published_at": "2026-07-15T11:38:01+00:00",
       "sources": [
         "ARM"
@@ -1467,11 +1355,27 @@
       "fallback": true
     },
     {
+      "_id": "ARM_1",
+      "_source": "ARM",
+      "title": "Arm Holdings (ARM) Is Down 17.4% After Global AI Chip Pullback and China Export Concerns – Has The Bull Case Changed? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMzlYaG1IbmtFbjFVQlhlNDdlVzdLTG9NLUpVZXhNOWg1d1RmZjdYVUJmX2VyOHRGbThBUThRX3UxYl9zclJ0MDhaVVNhRGQ1LVR6ZmpSSFJLbjJxdVhjVFNDd3ItTFZnMUR6QTlPeHRsaU5uQ195V3UxdHhLejNaTXhMdEltNzdPaWV1OU42SWNfaFNRMWYwaWlCbEp6MmFzTXRxRnZ1SlFsM195RUVqNGRSUVNsbkdzMVpZY2RMdW05SEEybWtOd3UxYWllMkVLelHSAdcBQVVfeXFMT0VnaUV1ZFZMUkpCUW1ETkJMZzNlWGQtT1lkQjNSNWFFLWRZZ1RpOHVDMV80dDAtNlZVdEhfbkVwcWRfRlBja0JrYjcxOG1NMmIwcHNOZGU1aEtrdWNwS3o0dGJzS3RZQUhtSnBwdFp0cEFwZHRjS3cyTE95aEdjeHEzVGtMTG9ZUjFMR1ZuLUwxbllBZC1zaVpTeWxacnN5ZmNiNnhOUC15Q293QVFBZkxPc0Nxb2RnWW4yMG1QNkt1UUV2Sy1XYzM4QnZmYmVaYVN4V2x6RE0?oc=5",
+      "time": "1d",
+      "published_at": "2026-07-18T11:38:02+00:00",
+      "sources": [
+        "ARM"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "算力供应链",
+      "summary_cn": "Arm Holdings (ARM) Is Down 17.4% After Global AI Chip Pullback and China Export Concerns – Has The Bull Case Changed? simplywall.st",
+      "fallback": true
+    },
+    {
       "_id": "Broadcom_0",
       "_source": "Broadcom",
       "title": "Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWXQ1azRhRXU2WGEtTjBNbG5ZMDIyN1JkdWhTdmhfWTJ4aENuUkpWREdOelZCTllxdUxNS2V1MzlaSUVwTmJRSy1VTWxyWF9kOWQyTXFzZ0tmSWgxTkZqTFdQXzI1cEJuelJzNl9xTzVIM05odjdmUmpDSGZrMlBLWHBGcFdLZ2ZPQ3RpOGczZVlRRHVyZlljRnJ5ZlhKc0ZqTjFSeTRzbVlVYTFpenlxc0VhQW1EUExyMnlqd2pMR3pLazc2MnRnN1RB?oc=5",
-      "time": "2d",
+      "time": "3d",
       "published_at": "2026-07-16T16:12:07+00:00",
       "sources": [
         "Broadcom"
@@ -1483,27 +1387,27 @@
       "fallback": true
     },
     {
-      "_id": "Broadcom_1",
-      "_source": "Broadcom",
-      "title": "Meta’s Iris AI Chip Passes Testing: Broadcom Now Designs Chips for Three Rivals - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUGVPVDV2VHJIQnRJSGhYYjNVZUN0YjJRY01YTm96ZEh2U0hib3BSbTM4QVhjZ3ZROURhX3QwcVVfek1Ec1lfejM1RXVHaUdtZ0FvLWs0bG5FNDhvUWh0VEtVVFJtOUE1QW9XUEFfQVg5VVB1QjlJQlk0NHVPRTJ0elpyZzdwdHhPdE9qQk1pUUtXVWc0Ym9sQnFzWkwzdkUyYlJGczFHRW5paWRMTFl1RlpNYkNOSDloWndJNm1Sd3hZbFJYQXQw?oc=5",
-      "time": "1d",
-      "published_at": "2026-07-17T15:51:10+00:00",
+      "_id": "Cohere_0",
+      "_source": "Cohere",
+      "title": "University of Toronto partners with Cohere on AI platform | ETIH EdTech News - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNalBNR2J3ZFVMT1pQeENSaVczaDJzSktrSVpEMUN2cmE2dmUxanpmcjhlZkQ2MngzNUdzSFpmNEVlY3RXQ2g1ZlJZc1FDWmUxWXU2R0xNZlZBWUFKUkpldHhlaWQ1Z1JBQ2xhdGthVV93RHpVN0NwSlpLejhKRmN0cGtNZUw0R2owUEMxTVhYdHdoYmstUUgxamJqX2xISy1qUFNkRzV2eUswSXFVRDBfanFjUXU?oc=5",
+      "time": "2h",
+      "published_at": "2026-07-19T23:33:24+00:00",
       "sources": [
-        "Broadcom"
+        "Cohere"
       ],
       "source_count": 1,
       "relevance_score": 0.55,
-      "category": "算力供应链",
-      "summary_cn": "Meta’s Iris AI Chip Passes Testing: Broadcom Now Designs Chips for Three Rivals Tech Times",
+      "category": "行业动态",
+      "summary_cn": "University of Toronto partners with Cohere on AI platform | ETIH EdTech News EdTech Innovation Hub",
       "fallback": true
     },
     {
-      "_id": "Cohere_1",
+      "_id": "Cohere_2",
       "_source": "Cohere",
       "title": "U of T partnership with Cohere sets the stage for responsible AI adoption at scale - University of Toronto",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzctNVpmREhtNUI3RUhUQ09Ncm1xZ3M4YlE1ZUR3WVFZT0UyZFdCZV9WZTg0RnZHXzYteFoycl9QMHlBbHJhY0cwck5sRGVxNGpUWWpxSFRkV2FPdDhYWjd5dlNMS1ZDYzBmNmkyYjNrdFBHX1oydG55TG4xdkhCT21BWld2Wlo5VXN4OWZFVTNRdUdSQ0VZ?oc=5",
-      "time": "2d",
+      "time": "3d",
       "published_at": "2026-07-16T14:01:27+00:00",
       "sources": [
         "Cohere"
@@ -1515,27 +1419,11 @@
       "fallback": true
     },
     {
-      "_id": "Cohere_2",
-      "_source": "Cohere",
-      "title": "Saudi Arabia’s Humain, Canada’s Cohere join forces on AI infrastructure - arabnews.jp",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VTlBqSUVjZ09rX3pORjl4dHd1Z2cyVVBnVDVNcDVMNHI3Q2NzZzBvYUZQemtRTXlTRzNHdTI5QndRekxObmxRZVVNcHdZWTJHaUVJenhKMVpWVVVDV0lObA?oc=5",
-      "time": "6d",
-      "published_at": "2026-07-12T05:07:31+00:00",
-      "sources": [
-        "Cohere"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "summary_cn": "Saudi Arabia’s Humain, Canada’s Cohere join forces on AI infrastructure arabnews.jp",
-      "fallback": true
-    },
-    {
       "_id": "Meta_0",
       "_source": "Meta",
       "title": "Meta's Louisiana Data Center Is Making Rural America Part of the AI Race - Memeburn",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVNPZmNxY1NqcFlBbG5nS2MwYktENE5LalpPa3BsRUJKYXZQenFTSVZNdnU2LWxXQzl2d2ZxWUtTLXUtS1k0YVBVRzZuNUdwcHJ4eHVWRkdIYlQxbVNzMlFqUFdxekxJMHNXcTRKaGtCQm4yazg2ZkJoVUZ4UktPcEQ1S3RFT0RlT2xmU3ZEVU9JZEVRazZlaw?oc=5",
-      "time": "2d",
+      "time": "3d",
       "published_at": "2026-07-16T15:41:12+00:00",
       "sources": [
         "Meta"
@@ -1547,11 +1435,27 @@
       "fallback": true
     },
     {
+      "_id": "MiniMax_0",
+      "_source": "MiniMax",
+      "title": "MiniMax联合易中天打造百万播AI精品电影，庄子迎来“国潮时刻” - 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xU25UaFRKX212YUdIRGN6SHd2SmV2S0JuTDdOU1JJVDVqVDEtbjlVOFZwMlB6Yl9ZeXduYlVCc2tZbi1vZ1FKVDRyMllIcGh6V2hFTDRhcS1jeURNNjZKd2ZzbHg?oc=5",
+      "time": "3d",
+      "published_at": "2026-07-16T05:37:05+00:00",
+      "sources": [
+        "MiniMax"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "summary_cn": "MiniMax联合易中天打造百万播AI精品电影，庄子迎来“国潮时刻” 手机网易网",
+      "fallback": true
+    },
+    {
       "_id": "Mistral_0",
       "_source": "Mistral",
       "title": "Mistral AI Unveils Vision Model for Robot Navigation - AI Business",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjZGTFFCcE1QZUdNWEFadmJ2OWRicF8tOVRyc1hTV3FiQy1oX2xGR0FiRVhfcHNSZXQ4cXJZVlNOdHJ1MUhMd01KbWlvZVZTb1duS0hpTEpyQlhDbG1SQkZjbGZ4SU9MVUViNFF0Z0UwdDhvYm85UTVHWF9xOEJVaFBaTGFXamtIcTNEem13?oc=5",
-      "time": "4d",
+      "time": "5d",
       "published_at": "2026-07-14T11:11:48+00:00",
       "sources": [
         "Mistral"
@@ -1567,7 +1471,7 @@
       "_source": "Mistral",
       "title": "Mistral AI Releases Robostral Navigate: An 8B Model Enabling Robots to Navigate Complex Environments Using a Single RGB Camera - MarkTechPost",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNzF3LXFzajh4UGJfeDJhcUFKb1BoWE5zMHh2LUZhZ3Z6eENCcDFQU2FGVUl5Mi1ZQ3JrLTFuVzJVWlU1R3VMR3BJcVg1ODVONTVjZXBNVkJ1elhlSUZ5Z2haSXA4S2k0aXhIYkctT2NYNWM1dHd4TVc5T3pFbzJYREI5MWNCRFpTRFY5WnN3QVFQM19GZTBDbUZqcExOMVpYampCLWFQbzhTRkxybDA5UmVlY0owOUFaRkU2TzZwNk9PbGJGVlU4R0ZUTERKMndPYjZnbkRsMzdMeERZcXlPUDBhY2lTMi1mLUV3bnAxeFFkQWJmQVBKZjdn?oc=5",
-      "time": "4d",
+      "time": "5d",
       "published_at": "2026-07-14T07:20:38+00:00",
       "sources": [
         "Mistral"
@@ -1583,7 +1487,7 @@
       "_source": "Mistral",
       "title": "Mistral AI Wins French Military Deal - TechRepublic",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUhVTE9waUNGZFZLQ0hCcjVVdlRrcWVOcU9IenAyTFduY1VubnotOHRpNnFZaEdDak1ONk0taGU0MkZVYlpiVlFoenF0MjhMem5zaXJjYmNLekpmM0VOTkMtT0VRUExsempaNjl4NEJacThNQUdQZ1Z6bFlZTURhVWpkcw?oc=5",
-      "time": "3d",
+      "time": "4d",
       "published_at": "2026-07-15T19:24:38+00:00",
       "sources": [
         "Mistral"
@@ -1599,7 +1503,7 @@
       "_source": "Oracle",
       "title": "Announcing Enterprise AI for OCI Dedicated Cloud: Run AI where your data resides - Oracle Blogs",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdzV1WkNWa2dYVWtncG9Bbmo5QUhsV3dVZ2ZBZkJfTVU2MXZqWnJTaHNSSVhORjNuWktTMjlTM0VxS0ZsWTgzVEJURXhZbU81c2hNc0l6RnhmRk1wSEt0UFo0Q28tN3psWGY1MW9lbGpKSzh3Qk44aHJEM0w4aGlsVUZnMHNMQQ?oc=5",
-      "time": "1d",
+      "time": "2d",
       "published_at": "2026-07-17T22:18:56+00:00",
       "sources": [
         "Oracle"
@@ -1615,7 +1519,7 @@
       "_source": "Runway",
       "title": "Best AI Video Generator for Marketing: A Founder's Hands-On Ranking - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZlJweTRhOHJkVVhMNlVmNzliXzZwOFhxT1lmancyV2NCRkpCMGU0VHNHNnl1V1BIcENXeno1ZmQtdmlpY2xZSkVONERkamQ5TEtCamhoUk1Wa2FWZzUyOTVsQ0pIRXd1bkhHeG95UV91T05BSGtYR3kwVXZWR0NHR3dkUk05aFdXQmxlY2FmM25SQ2JkSzFMMg?oc=5",
-      "time": "3d",
+      "time": "4d",
       "published_at": "2026-07-15T13:00:45+00:00",
       "sources": [
         "Runway"
@@ -1631,7 +1535,7 @@
       "_source": "Runway",
       "title": "GoEnhance AI Releases New Analysis of Grok Imagine, Veo, Runway, and Kling Video Workflows - EIN Presswire",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMUZUMVVjU1dyY3RBZV9ORHZKdmQzdjBURmVKVFg1ejhDTFlYeUticHpKVjBwQ2VVUktUXzJNVHRldWNvYlpURXRFeThYMThFMGxucnJ5dlRmNFVLYlBGdFRTcXRaMUVndmpRdkxucnlUX21YbUdWdGdydWhOX0RvTjBQdjJnTXVOeGF2N21XZDd5UWdYSmlsV3o4ZUxvQktONUpFb3dGemZQY1hTaDJra3BGZGxmand3SXNjREdEYlpTWm85Mk9tSHpRR3Vfd2s?oc=5",
-      "time": "5d",
+      "time": "6d",
       "published_at": "2026-07-13T13:36:00+00:00",
       "sources": [
         "Runway"
@@ -1647,7 +1551,7 @@
       "_source": "SpaceX",
       "title": "NASA Taps SpaceX’s Starlink to Deliver Artemis III Imagery from Orion - NASA (.gov)",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZDhEcmRqR19WVExkajRQdEp0V0RtMkpMNFJZNHNtS3VWQkFFY24xdWYzVU5vcWVtalFicHRNX1hSaGNWVjNXbkZTVVRBUEJJdFRpZkQ5c3JBaVdQNHAxQkhHWlloTU5yOFFiRjZuNDlzV0tYUzNsSm1GYzlPSjRNaWNvTEZHN1QzMkw0eXhlalVtWnMwczRzNTRKMEQxY2lZei1jZFNjS1Zxby1RVlhFRXRzTm4zYlU?oc=5",
-      "time": "2d",
+      "time": "3d",
       "published_at": "2026-07-16T21:27:25+00:00",
       "sources": [
         "SpaceX"
@@ -1661,41 +1565,57 @@
     {
       "_id": "SpaceX_1",
       "_source": "SpaceX",
-      "title": "Iraq signs agreement with SpaceX to introduce Starlink internet services - Iraqi News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWRLU0hVSVl4Qk1JR3dfb2hWckw4Zk1kZm9QMnVkaXJzN1RUTjl3UElxOU83Mmh5a1ZMbHJyT1lWTHM5NDJYQXBwdXd1cVZJZ053ZWYtTUpVRGdSU3VNdWw0cm1XaU80ODdmaktSR01fRzNmcExxWlZkX2lpcVJIcmp2M2RFbmh3SmczOEtyMFp3TGd3WGFjVjkxR21zSVVrYUVOOWtkbw?oc=5",
-      "time": "1d",
-      "published_at": "2026-07-17T19:46:55+00:00",
+      "title": "How Starlink is SpaceX's key to making big 'star bucks' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2FUSUZ2dGR5dWdhRmFNM2J6NE12S1BMNmVrTDdtV1RjT19vVml6Y3ZYR2dHSTNEV2lJQk9GSWNrTnZJanVkN3ZkSXE5eUNJRldsT1VtNENzU2kzNXBnRkkyaEpUU1R2SUpWTnEyeFd1bGo5NWt0Wl9fZFN4WGRQT0dnYkE?oc=5",
+      "time": "2d",
+      "published_at": "2026-07-17T20:25:00+00:00",
       "sources": [
         "SpaceX"
       ],
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "Iraq signs agreement with SpaceX to introduce Starlink internet services Iraqi News",
+      "summary_cn": "How Starlink is SpaceX's key to making big 'star bucks' Yahoo Finance",
       "fallback": true
     },
     {
       "_id": "SpaceX_2",
       "_source": "SpaceX",
-      "title": "Post-ignition anomaly causes abort of SpaceX’s Starship Flight 13 - Spaceflight Now",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ3NyVDNUWmhGZHgyeFJkczBZbWx2Y2R0M1pWVjdQSVlhRHBnVC1VYTVGZ250R0lzT1NFVmt6eDRTUlBFN25JalItZkVxZjFXWnpJZWxVSWtTT0ozMDh6b0dQZUo0V0FrcXQyc2hVay16Q0N5LUh1MUxJaXVtVjQ0cFdzNHV6LVlxZmlqSnVCWkRyOTU1YlMtdmpmY1BuMG1wcmpwNlhWSzRfYW5JeWpoTE9Da2hsVnBJZ2JwTlpVYV9PYW5RMmlEclpheDNubGcxQjNEVjZKUQ?oc=5",
-      "time": "2d",
-      "published_at": "2026-07-17T00:16:53+00:00",
+      "title": "I replaced my rural 4G internet with Starlink, but speed tests missed the biggest difference - MakeUseOf",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX2lwQ2R4VnlPTVRscG14WHpVcnNnUDFXWHVkMDF1WXA5WThXdnFuRzNWUjM4aTlkbXVLSXRMejc2UEQ1NEdQYzYzTnZOVFFGYmRndUtXZlU0dVFmYkFnMGdIaV90cmRVVjRBV0JTcDBCQzBVQWJYMTBTVzVpWUNTTjd6VWNFZ0cyWHM5eExVME9tbWRzVzVkcjNOM3lzZw?oc=5",
+      "time": "7h",
+      "published_at": "2026-07-19T18:30:12+00:00",
       "sources": [
         "SpaceX"
       ],
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "Post-ignition anomaly causes abort of SpaceX’s Starship Flight 13 Spaceflight Now",
+      "summary_cn": "I replaced my rural 4G internet with Starlink, but speed tests missed the biggest difference MakeUseOf",
       "fallback": true
     },
     {
       "_id": "中际旭创_0",
       "_source": "中际旭创",
+      "title": "中际旭创跻身新晋千元股，光模块还面临这些挑战 - 第一财经",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LS3FuODJlV2dUZ0tGOGdTYkpmWlkxUDJyRHUtcGs5WWp3MWlxaV9OOVhRVVFVU3lEZTBldnNvZkkzVzhVOVRQbVRrVzhuVkFyeFB3?oc=5",
+      "time": "13h",
+      "published_at": "2026-07-19T12:44:59+00:00",
+      "sources": [
+        "中际旭创"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "算力供应链",
+      "summary_cn": "中际旭创跻身新晋千元股，光模块还面临这些挑战 第一财经",
+      "fallback": true
+    },
+    {
+      "_id": "中际旭创_1",
+      "_source": "中际旭创",
       "title": "目标价翻倍至2581元！高盛：英伟达推动3.2T光模块需求加速，中际旭创迎来估值重塑 - 华尔街见闻",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oSnI0Q1VYeHpfazRwVEQ5RmhZR2RoNndiQnYxNzNSRnRtMEtLZnVmVHNLYThVdnBlb2hlWmVELU5oeTFCRkw4Mi1uS0lsbHVZanQw?oc=5",
-      "time": "1d",
+      "time": "2d",
       "published_at": "2026-07-17T10:55:17+00:00",
       "sources": [
         "中际旭创"
@@ -1707,11 +1627,43 @@
       "fallback": true
     },
     {
+      "_id": "中际旭创_2",
+      "_source": "中际旭创",
+      "title": "中际旭创通过香港联交所聆讯 拟募资加码光互连研发 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sUjY0YkxUYTlsa21LTWpyUHQwNGpnZ0NEYTJ0OWNUYmlWS09hdUM3ZDJxY2M4ODFQRTlCb0VxRVFtWWY0RWtNLW1tcVJXSUNIdmp2aW05V3ppUjdBOTNtbg?oc=5",
+      "time": "18h",
+      "published_at": "2026-07-19T07:32:00+00:00",
+      "sources": [
+        "中际旭创"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "summary_cn": "中际旭创通过香港联交所聆讯 拟募资加码光互连研发 东方财富",
+      "fallback": true
+    },
+    {
+      "_id": "字节豆包_0",
+      "_source": "字节豆包",
+      "title": "努比亚All in AI豪赌：豆包不香是误读，二代手机颠覆来袭 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaUgxeUtnX1hjNC1rRDlSSzlReDFIVDlHZ0pEUWh5dUhhY09DeENEanhEM2I5cVZScmhFVGFtVTl3aHUwVDFKQlhKdUR1eW8yY25MUkhEV2xjWXNBV0h5NzFURFgxRGh1Q0ZpdWFJQVJBVlZRUjhTSXplX3N6bzl0Uw?oc=5",
+      "time": "2h",
+      "published_at": "2026-07-19T23:18:39+00:00",
+      "sources": [
+        "字节豆包"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "summary_cn": "努比亚All in AI豪赌：豆包不香是误读，二代手机颠覆来袭 新浪网",
+      "fallback": true
+    },
+    {
       "_id": "字节豆包_1",
       "_source": "字节豆包",
       "title": "豆包AI手机今年将发布多款机型 AI手机有望打开全产业链增长空间 - 财联社",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yU0FqQUtRQnYyZ3QxUE0xc2tHc0NNZE45djlVamtld1BNYTVSUmNXUDlLRHQzdzRVZ2U5N1FMQllJZXZuVW1hdQ?oc=5",
-      "time": "3d",
+      "time": "4d",
       "published_at": "2026-07-15T23:55:00+00:00",
       "sources": [
         "字节豆包"
@@ -1725,9 +1677,9 @@
     {
       "_id": "字节豆包_2",
       "_source": "字节豆包",
-      "title": "豆包AI新机NaviX Ultra面世 万咖壹联AI战略布局获产业验证 - 东方财富网",
+      "title": "豆包AI新机NaviX Ultra面世 万咖壹联AI战略布局获产业验证 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vb1pkMDNfcFEzVGRxNmJzYVpyczJQVjBBdl8zSTdhS3JUMFgtV2NjTlREX256emxkY0ZMN0dSaGV3OUdZOGVLdlowdV9KTUN4aUd0RWFRdkc1ME1leUNzRg?oc=5",
-      "time": "2d",
+      "time": "3d",
       "published_at": "2026-07-17T00:43:22+00:00",
       "sources": [
         "字节豆包"
@@ -1735,7 +1687,7 @@
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "豆包AI新机NaviX Ultra面世 万咖壹联AI战略布局获产业验证 东方财富网",
+      "summary_cn": "豆包AI新机NaviX Ultra面世 万咖壹联AI战略布局获产业验证 东方财富",
       "fallback": true
     },
     {
@@ -1743,8 +1695,8 @@
       "_source": "寒武纪",
       "title": "寒武纪Q1业绩再创新高 单季度利润超10亿 牛散章建平退出前十大股东 - 财联社",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZWnloNl9DclJqeDdPOHo2ZjN6Wl95VlB1YlZIQmRwSnkzLWNBcEREdUtGRUpYc3p1RDJDT1JEc1Q0bnNTV0RWUQ?oc=5",
-      "time": "4h",
-      "published_at": "2026-07-18T21:15:32+00:00",
+      "time": "12h",
+      "published_at": "2026-07-19T14:00:41+00:00",
       "sources": [
         "寒武纪"
       ],
@@ -1759,7 +1711,7 @@
       "_source": "寒武纪",
       "title": "寒武纪，年内涨超77% - 证券时报",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUTAzOHZsOGZhZ0NzaDdqZm5Ec0JObHFiNkl2NERnai0xaXk3RXhkREZ1eWlFcHEzU1FNVjRRV1QyUXJpTXZuUjJCbFk0a0NtR1llb2kwcw?oc=5",
-      "time": "2d",
+      "time": "3d",
       "published_at": "2026-07-16T15:22:14+00:00",
       "sources": [
         "寒武纪"
@@ -1771,67 +1723,51 @@
       "fallback": true
     },
     {
+      "_id": "月之暗面_0",
+      "_source": "月之暗面",
+      "title": "中国AI公司月之暗面发布全球最大规模开源模型 - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPd1JYUmFMRTc0V1RFZ2JYWE0yZkVQS1VtV1pabnZOXzE2VmVhSUFEb3hWUWczaUxfamVkU0JwcE1BY29HLW14dm4zR05MWTQ3SzVOSkVLUkhSWmRSRy1NWXF1LXl2dFVLRjJua3Fpcm5sZFpyUnprN0hNNDdsRXY5dy1LSDRzZi1sMGFKNm96aXVPQ3B6VVQ4UEtaVzNsTEljZ1lydExlMnp4bFQ0aFBsWnRGWFB4MjF5dWhEY2szcEFGNG1WVnFHNy16T0laQ0FjUUNnYmx4M1pod0dob2NHdnZGRERFV0E0emRZU3Azd05OMXh2bmV3cE9sVC1kNEpQN1VWX2w3M2YycHdSRk5fLUxURjVWVU9uTWFEZTN0R1JzMFFmdkt5aE81R3I2eDRMUExhZndpSkF3U0HSAbsCQVVfeXFMUHQ0dk15M192ZDczNTdBcVJLMFp5WkFSZ3hZLTJTZmx6SkZ5Q2kweWs2WnVoWE02eDRSVG16SGMxd2lVRWhuQWluaGhoRW5TVS1CcUctQ1VxQ0JLWUstd0l1SkJiSUM4YzBJcndXYTFXZG5CS1BpbmhWQ0dPZTlUYWtWWmdpZDFYTVBSaFBKczh5dTY3bmg0N1Y5Q0Y1QnAxZlFnLUNrUmF6Nzl0QlM0MHgyMlBoc05sN0tvMEhieHRNb2dmUUFodVZ3RGZHMDJOUlhreFk4YVNzaExFY2lEVk5WQ0k2ODZ1UEZoX3BPT0RqOGt4UG5aUk1rbW5PMVJ0T25EcWYwN0dqNVlHaVFudTBmVGZCVVU5LW02dEZKcG1hR1lmdVdsSGNJRXc4NXdJcl9rc1ZBRDlHRHZr?oc=5",
+      "time": "2d",
+      "published_at": "2026-07-17T14:15:59+00:00",
+      "sources": [
+        "月之暗面"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "模型发布",
+      "summary_cn": "中国AI公司月之暗面发布全球最大规模开源模型 DW.com",
+      "fallback": true
+    },
+    {
       "_id": "月之暗面_1",
       "_source": "月之暗面",
-      "title": "中国企业发布全球最大规模的开源模型Kimi K3! - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rUnNUT0RuZzBNRUZQaDdrMGtDejk4cEpOTGhVOHVUTGFLRWpfd3p5LUdSSURScnRTSHhwUkxad2hwYUVhRXZXLW83OGtfX20xYTRVMDlPTVowc0NDRkJwdzFLVEtuRHdHVndjOHZQbU0?oc=5",
-      "time": "21h",
-      "published_at": "2026-07-18T04:11:21+00:00",
+      "title": "月之暗面发布全球最大规模开源模型Kimi K3 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEbHpUQjBmd1FNRjB4elVQS01Ga281cC13cGVLS1hhZnU0VmRLcDVZQ3VvdnM1dGhoV2xpZVhNemdtbm1FZVdBYVZNZkJDRFYxVHhtcWJPaGdQSFpacmhyMHJkV0R5UQ?oc=5",
+      "time": "2d",
+      "published_at": "2026-07-17T06:38:00+00:00",
       "sources": [
         "月之暗面"
       ],
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "模型发布",
-      "summary_cn": "中国企业发布全球最大规模的开源模型Kimi K3! 手机新浪网",
+      "summary_cn": "月之暗面发布全球最大规模开源模型Kimi K3 联合早报",
       "fallback": true
     },
     {
-      "_id": "月之暗面_2",
-      "_source": "月之暗面",
-      "title": "全球最大规模开源模型为什么诞生在北京 - ncsti.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OQ3NJdnhLYW9UUzBtbjhyMjNHMzR6ZEhsRmhkSEJlbDR0M0tFYVRmeWhJQmtxMmpsR3JkWm00S1RKN09GODhpQTNpc3lJUFpKek5HamYtVTBKbC00RldGMENtLXlzZ0xnRTRQWVhmN3o?oc=5",
-      "time": "2h",
-      "published_at": "2026-07-18T23:16:11+00:00",
-      "sources": [
-        "月之暗面"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "模型发布",
-      "summary_cn": "全球最大规模开源模型为什么诞生在北京 ncsti.gov.cn",
-      "fallback": true
-    },
-    {
-      "_id": "腾讯_1",
+      "_id": "腾讯_0",
       "_source": "腾讯",
-      "title": "腾讯AI 翻身了吗？ - 亿邦动力网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnSVVmbEJ5eEVXSER4TVk2eFNPdElqcUxsQXFKUTY2ZHE3ZGdMSjJfSFo3Rk5JdnNmNHZ1Q1hCSEJOcVk5VXJRX25kcmhOZ0EtZjB3elZn?oc=5",
-      "time": "3d",
-      "published_at": "2026-07-15T06:30:00+00:00",
+      "title": "AI，终于不再“慢半拍”_影子聊科技 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUeC1IQWhFT0MxbEdMMlU5UDFSSE1HOEk0eUttMXhieXpJN21FV2tfbWNpbTAySWFrTkRaYm1YVFBPcHBGUHR1eEV3SEEwUkRVRzN1Z2VzaE9jcUZWUUxOTTNkaDd3NG9GSHNzbXQyMUgzamtKZmtySUxzQTU0RXM?oc=5",
+      "time": "5h",
+      "published_at": "2026-07-19T20:18:00+00:00",
       "sources": [
         "腾讯"
       ],
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "腾讯AI 翻身了吗？ 亿邦动力网",
-      "fallback": true
-    },
-    {
-      "_id": "腾讯_2",
-      "_source": "腾讯",
-      "title": "深度｜腾讯AI的双线战争：混元之外，微信WeLM用四年证明了另一种可能 - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BMVZ2MWNOZFY0MDZNdGhSRlNsaE9mWlJVdkxsY1c3Um5nNnVXWDJ0aDZEWHpvSFY0VnpRY3ZMbUVlSHpqajNyYWN5c193VXlxSXRqSk5R?oc=5",
-      "time": "4d",
-      "published_at": "2026-07-14T03:03:00+00:00",
-      "sources": [
-        "腾讯"
-      ],
-      "source_count": 1,
-      "relevance_score": 0.55,
-      "category": "行业动态",
-      "summary_cn": "深度｜腾讯AI的双线战争：混元之外，微信WeLM用四年证明了另一种可能 QQ News",
+      "summary_cn": "AI，终于不再“慢半拍”_影子聊科技 新浪网",
       "fallback": true
     },
     {
@@ -1839,7 +1775,7 @@
       "_source": "阿里巴巴",
       "title": "阿里巴巴全面整合AI品牌，统一启用“千问”名称 - 品玩",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45Zk1jdkxQWkRubGduTU54djNTTU5lbE5SVnRLeDBwVzZjOFhIV3BUMjRhVTBmRXd6djNaTzk5VEtIODJiS21Xcg?oc=5",
-      "time": "1d",
+      "time": "2d",
       "published_at": "2026-07-17T21:58:50+00:00",
       "sources": [
         "阿里巴巴"
@@ -1855,7 +1791,7 @@
       "_source": "阿里巴巴",
       "title": "阿里ATH调整：张迪接管通义万相团队 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQRy1kaC15dW1kNUdvdEpJWVBST0V3U3VzM21qMVBJMFJnSmRmTTY5bkNpZzdUeldjcl8xd2RYbFBrZmNOQ2EyZE1GNG9GX0xNWG5CR0JGZEY3bGswd1ZPRjhCSFg4cFluODZ1dzV1d2xNa0ZKNGRldE1MVmMwYTIyT0hWaEdwelpLc3BmRFBlVUFKclVMck9pZmd5Zk1WYjBuMWdZVUZGa3BtdUh1ZHpZR3FQV2xrQWxYb0p3UTNUQlY1cXBvNnZnd2JuelNWSXk1U2VOZThCRnhMWVZDRjdVeUliM2RJS0oxaElzNl84b0tfaURwNVlTZS1DdG9RSEtqVzFKQXkxaXdJc1VTTnItajRkbmxhTEQ3WFVyeUtJU0xBaEJqMEhwTEwwN1BXMnhxeFNUWlNPMWNLZFhoTUcydFNvVQ?oc=5",
-      "time": "2d",
+      "time": "3d",
       "published_at": "2026-07-16T19:03:50+00:00",
       "sources": [
         "阿里巴巴"
@@ -1869,17 +1805,65 @@
     {
       "_id": "机器之心_0",
       "_source": "机器之心",
-      "title": "7月18日，150位全球AI顶流青年齐聚张江AI小镇，这场派对只发「船票」不发「门票」 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd0x1TmtNeXFGNGxSOGJCVkJHZTlSc255N3dhWC1WNnJHTS12YmFtZ3N1US04THRsbUxRTEFXY0EzZ3BiRHppbzBxbHBBM0oyaVV6V1B2QXJVdmd2a1BqUmdaZ3ZhNEwxSG5UeXpXSC1sQTJleTBXa29IU3Q1WTZqdFpIbWY3dWtucFNXUXlVVDNmV2tTLTg2Vg?oc=5",
-      "time": "2d",
-      "published_at": "2026-07-16T08:33:14+00:00",
+      "title": "世界模型元年：这一次，昆仑万维又踩准了AI的产业节奏 - 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGcmhYTUJfZTJGaU9LbW5oalhTR3QzYmZfbEVTb1NMMWFfQWE4UzMyY3c0THZQUFNUT1BaUEZHWGdVT2RxWDB1MHRhb0xvYnFUblp5aW82by02d1gyVEdsblRR?oc=5",
+      "time": "13h",
+      "published_at": "2026-07-19T13:02:32+00:00",
+      "sources": [
+        "机器之心"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "模型发布",
+      "summary_cn": "世界模型元年：这一次，昆仑万维又踩准了AI的产业节奏 手机网易网",
+      "fallback": true
+    },
+    {
+      "_id": "机器之心_1",
+      "_source": "机器之心",
+      "title": "ARC-AGI-3近被完美攻破，这个Harness能让AI掌握物理学家思维 - 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YbnpGSW9xQ21CVXJhc2JWUXdDelhCS19JM2I0T0lRZk5FaGVnQnQ1SDlwbXFWdTY0UFAtdXZta1RVelVFU3VQbjZQRm1Ha3Y5TFo3eG1yYmNwTVNiYm92ZHF3?oc=5",
+      "time": "14h",
+      "published_at": "2026-07-19T11:45:04+00:00",
       "sources": [
         "机器之心"
       ],
       "source_count": 1,
       "relevance_score": 0.55,
       "category": "行业动态",
-      "summary_cn": "7月18日，150位全球AI顶流青年齐聚张江AI小镇，这场派对只发「船票」不发「门票」 新浪财经",
+      "summary_cn": "ARC-AGI-3近被完美攻破，这个Harness能让AI掌握物理学家思维 手机网易网",
+      "fallback": true
+    },
+    {
+      "_id": "机器之心_2",
+      "_source": "机器之心",
+      "title": "宇树科技牵手湖南钢铁，一家物理AI公司浮出水面 - qq.co",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2cUVkUkJWYjBjaHM4aVJTNWUzS2tnVzZScUVaTHJTZDhFSWJtbzBkQTdqUEJsVWVhbmZvN2VaTU51S18tVUlNaDhWTjFGN2trdU1peGln?oc=5",
+      "time": "6d",
+      "published_at": "2026-07-13T04:02:00+00:00",
+      "sources": [
+        "机器之心"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "行业动态",
+      "summary_cn": "宇树科技牵手湖南钢铁，一家物理AI公司浮出水面 qq.co",
+      "fallback": true
+    },
+    {
+      "_id": "TLDR AI_1",
+      "_source": "TLDR AI",
+      "title": "Thinking Machines Inkling 🧠, GPT-Red 🔒, Perplexity sandboxes 🛡️",
+      "url": "https://tldr.tech/ai/2026-07-16",
+      "time": "3d",
+      "published_at": "2026-07-16T00:00:00+00:00",
+      "sources": [
+        "TLDR AI"
+      ],
+      "source_count": 1,
+      "relevance_score": 0.55,
+      "category": "模型发布",
+      "summary_cn": "Thinking Machines Inkling 🧠, GPT-Red 🔒, Perplexity sandboxes 🛡️",
       "fallback": true
     }
   ]
